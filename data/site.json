@@ -227,5 +227,9 @@
     { "source": "FIFA", "tag": "Official", "title": "Host cities prepare fan zones for the 2026 FIFA World Cup", "time": "2026-06-14" },
     { "source": "BBC Sport", "tag": "Analysis", "title": "How the 48-team format changes the group-stage math", "time": "2026-06-13" },
     { "source": "ESPN", "tag": "Preview", "title": "Contenders, dark horses, and the squads to watch this summer", "time": "2026-06-12" }
-  ]
+  ],
+  "monetization": {
+    "googleAnalyticsId": "G-H9JLLHT5KN",
+    "adsenseClient": "ca-pub-8695398658548679"
+  }
 }
