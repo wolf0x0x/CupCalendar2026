@@ -1,0 +1,52 @@
+{
+  "fetchedAt": "2026-06-14T14:49:58.949Z",
+  "errors": [
+    {
+      "source": "FIFA",
+      "url": "https://inside.fifa.com/rss-feeds/news",
+      "error": "fetch failed"
+    },
+    {
+      "source": "ESPN",
+      "url": "https://www.espn.com/espn/rss/soccer/news",
+      "error": "fetch failed"
+    },
+    {
+      "source": "BBC",
+      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+      "error": "fetch failed"
+    },
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/rss",
+      "error": "fetch failed"
+    },
+    {
+      "source": "FOX",
+      "url": "https://api.foxsports.com/v1/rss?tag=soccer",
+      "error": "fetch failed"
+    }
+  ],
+  "items": [
+    {
+      "source": "FIFA",
+      "tag": "Official",
+      "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+      "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "time": "2026-06-14",
+      "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
+      "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "source": "CupCalendar",
+      "tag": "Data",
+      "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+      "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
+      "url": "https://cupcalendar.xyz/2026/",
+      "time": "2026-06-14",
+      "id": "9a9f4950ae830ad0bbeb98f15335dcb7",
+      "titleHash": "8a093e4c6ed0bac9e6680982c3ef877f"
+    }
+  ]
+}

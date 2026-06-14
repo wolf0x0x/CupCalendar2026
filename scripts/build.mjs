@@ -144,6 +144,14 @@ function newsImage(item) {
   return asset(`news/${slug(item.source)}-${slug(item.tag)}.svg`);
 }
 
+function newsTitle(item, lang) {
+  return item.translations?.[lang]?.title || item.title;
+}
+
+function newsSummary(item, lang) {
+  return item.translations?.[lang]?.summary || item.summary || "";
+}
+
 function pageUrl(route) {
   return `${data.domain}${route}`;
 }
@@ -448,7 +456,7 @@ function homePage(lang) {
         ${standingsTable(data.standings[0], lang)}
         <section class="panel">
           <h2>Latest 2026 World Cup News</h2>
-          <div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="${esc(item.source)} ${esc(item.tag)} image" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h3>${esc(item.title)}</h3><p class="muted">${esc(item.time)}</p></div></article>`).join("")}</div>
+          <div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="${esc(item.source)} ${esc(item.tag)} image" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h3>${esc(newsTitle(item, lang))}</h3>${newsSummary(item, lang) ? `<p>${esc(newsSummary(item, lang))}</p>` : ""}<p class="muted">${esc(item.time)}</p></div></article>`).join("")}</div>
         </section>
       </div>
       <aside class="side-stack">
@@ -649,7 +657,7 @@ function historyPage(lang) {
 }
 
 function newsPage(lang) {
-  return `<section class="container section"><div class="layout"><div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="news" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h2>${esc(item.title)}</h2><p class="muted">${esc(item.time)}</p></div></article>`).join("")}</div><aside class="side-stack">${renderAdSlot("square")}</aside></div></section>`;
+  return `<section class="container section"><div class="layout"><div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="news" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h2>${esc(newsTitle(item, lang))}</h2>${newsSummary(item, lang) ? `<p>${esc(newsSummary(item, lang))}</p>` : ""}<p class="muted">${esc(item.time)}</p>${item.url ? `<a class="btn secondary" href="${esc(item.url)}" rel="nofollow noopener">Source</a>` : ""}</div></article>`).join("")}</div><aside class="side-stack">${renderAdSlot("square")}</aside></div></section>`;
 }
 
 function matchDetailPage(match, lang) {
@@ -680,9 +688,15 @@ function simplePolicy(route, lang, title, h1) {
 function sitemap() {
   const urls = pageList
     .filter((page) => page.route.includes("/2026/") && !page.route.endsWith("sitemap.xml"))
-    .map((page) => `  <url><loc>${pageUrl(page.route)}</loc><changefreq>daily</changefreq><priority>${page.priority}</priority></url>`)
+    .map((page) => {
+      const langMatch = page.route.match(/^\/2026\/([a-z]{2})\//);
+      const hreflang = langMatch ? data.languages
+        .map((lang) => `    <xhtml:link rel="alternate" hreflang="${lang.code}" href="${pageUrl(page.route.replace(/^\/2026\/[a-z]{2}\//, `/2026/${lang.code}/`))}"/>`)
+        .join("\n") : "";
+      return `  <url><loc>${pageUrl(page.route)}</loc>${hreflang ? `\n${hreflang}` : ""}<changefreq>daily</changefreq><priority>${page.priority}</priority></url>`;
+    })
     .join("\n");
-  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`;
+  return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n${urls}\n</urlset>\n`;
 }
 
 async function build() {
@@ -736,7 +750,9 @@ async function build() {
     await writeRoute(`/2026/${lang}/terms/`, simplePolicy(`/2026/${lang}/terms/`, lang, "Terms of Service", "Terms of Service"), "0.2");
   }
 
-  await writeFile(path.join(dist, "2026/sitemap.xml"), sitemap());
+  const sitemapXml = sitemap();
+  await writeFile(path.join(dist, "2026/sitemap.xml"), sitemapXml);
+  await writeFile(path.join(dist, "sitemap.xml"), sitemapXml);
   await writeFile(path.join(dist, "robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${data.domain}/2026/sitemap.xml\n`);
 
   console.log(`Successfully compiled multi-language localized portal with Google Analytics & AdSense integrated! Total routes: ${pageList.length}`);

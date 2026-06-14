@@ -5908,62 +5908,70 @@
     {
       "source": "FIFA",
       "tag": "Official",
-      "title": "2026 World Cup opens with the expanded 48-team group stage",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "SB Nation",
-      "tag": "Schedule",
-      "title": "Full group-stage schedule lists matches from June 11 through June 27",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "The Guardian",
-      "tag": "Live",
-      "title": "Scotland edge Haiti in Group C opener",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "The Guardian",
-      "tag": "Report",
-      "title": "Brazil and Morocco share points in Group C",
-      "time": "2026-06-13"
-    },
-    {
-      "source": "FOX",
-      "tag": "Broadcast",
-      "title": "Group-stage broadcast windows span FOX and FS1",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "FIFA",
-      "tag": "Venues",
-      "title": "Host cities across Canada, Mexico, and the United States stage the tournament",
-      "time": "2026-06-12"
-    },
-    {
-      "source": "CupCalendar",
-      "tag": "Tools",
-      "title": "Calendar downloads and timezone conversion are available for fixture planning",
-      "time": "2026-06-14"
+      "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+      "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        },
+        "pt": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        },
+        "fr": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        },
+        "de": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        },
+        "ja": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        },
+        "zh": {
+          "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+          "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
     },
     {
       "source": "CupCalendar",
-      "tag": "Standings",
-      "title": "Group tables update from completed match results",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "CupCalendar",
-      "tag": "Teams",
-      "title": "All 48 team pages now connect squads, fixtures, form, and history",
-      "time": "2026-06-14"
-    },
-    {
-      "source": "CupCalendar",
-      "tag": "SEO",
-      "title": "The 2026 sitemap now exposes every match, team, venue, and language route",
-      "time": "2026-06-14"
+      "tag": "Data",
+      "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+      "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
+      "url": "https://cupcalendar.xyz/2026/",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        },
+        "pt": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        },
+        "fr": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        },
+        "de": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        },
+        "ja": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        },
+        "zh": {
+          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        }
+      }
     }
   ],
   "monetization": {
@@ -5976,5 +5984,38 @@
     "fetchedAt": "2026-06-14T13:14:05.756Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
+  },
+  "contentSync": {
+    "provider": "rss+translation-cache",
+    "fetchedAt": "2026-06-14T14:49:58.954Z",
+    "newsItems": 2,
+    "translationQueue": 24,
+    "errors": [
+      {
+        "source": "FIFA",
+        "url": "https://inside.fifa.com/rss-feeds/news",
+        "error": "fetch failed"
+      },
+      {
+        "source": "ESPN",
+        "url": "https://www.espn.com/espn/rss/soccer/news",
+        "error": "fetch failed"
+      },
+      {
+        "source": "BBC",
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "error": "fetch failed"
+      },
+      {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/rss",
+        "error": "fetch failed"
+      },
+      {
+        "source": "FOX",
+        "url": "https://api.foxsports.com/v1/rss?tag=soccer",
+        "error": "fetch failed"
+      }
+    ]
   }
 }

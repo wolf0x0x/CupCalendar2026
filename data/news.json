@@ -1,0 +1,74 @@
+[
+  {
+    "source": "FIFA",
+    "tag": "Official",
+    "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+    "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
+    "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "time": "2026-06-14",
+    "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
+    "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
+    "translations": {
+      "es": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      },
+      "pt": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      },
+      "fr": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      },
+      "de": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      },
+      "ja": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      },
+      "zh": {
+        "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
+        "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      }
+    }
+  },
+  {
+    "source": "CupCalendar",
+    "tag": "Data",
+    "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+    "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
+    "url": "https://cupcalendar.xyz/2026/",
+    "time": "2026-06-14",
+    "id": "9a9f4950ae830ad0bbeb98f15335dcb7",
+    "titleHash": "8a093e4c6ed0bac9e6680982c3ef877f",
+    "translations": {
+      "es": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      },
+      "pt": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      },
+      "fr": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      },
+      "de": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      },
+      "ja": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      },
+      "zh": {
+        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
+        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+      }
+    }
+  }
+]
