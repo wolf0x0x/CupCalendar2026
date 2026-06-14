@@ -1,0 +1,43 @@
+{
+  "syncedAt": "2026-06-14T12:44:51.414Z",
+  "timezone": "UTC",
+  "schedule": {
+    "requested": "Daily 03:30 Asia/Shanghai",
+    "githubActionsCronUtc": "30 19 * * *"
+  },
+  "outputs": {
+    "matches": "data/matches.json",
+    "standings": "data/standings.json",
+    "lastSync": "data/last_sync.json"
+  },
+  "sources": [
+    {
+      "name": "worldcup26.ir",
+      "priority": 1,
+      "ok": true,
+      "source": "https://worldcup26.ir/get/games",
+      "fetched": 104
+    },
+    {
+      "name": "football-data.org",
+      "priority": 2,
+      "ok": false,
+      "skipped": true,
+      "source": "https://api.football-data.org/v4/competitions/WC/matches",
+      "fetched": 0,
+      "reason": "FOOTBALL_DATA_TOKEN is not configured"
+    },
+    {
+      "name": "FIFA official site",
+      "priority": 3,
+      "ok": true,
+      "mode": "manual factual baseline",
+      "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+      "note": "FIFA has no stable public JSON API configured for this static sync; use this source as the human verification baseline when conflicts are reported."
+    }
+  ],
+  "validation": {
+    "conflictCount": 0,
+    "conflicts": []
+  }
+}

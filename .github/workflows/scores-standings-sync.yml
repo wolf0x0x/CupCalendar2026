@@ -1,0 +1,44 @@
+name: Scores and Standings Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:30 Beijing time = 19:30 UTC on the previous day.
+    - cron: "30 19 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scores-standings-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-scores:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      WORLDCUP26_API_BASE: ${{ secrets.WORLDCUP26_API_BASE || 'https://worldcup26.ir' }}
+      FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+      FOOTBALL_DATA_MATCHES_URL: ${{ secrets.FOOTBALL_DATA_MATCHES_URL }}
+      FIFA_REFERENCE_URL: ${{ secrets.FIFA_REFERENCE_URL || 'https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Sync scores and standings
+        run: node scripts/sync-scores-standings.mjs
+      - name: Commit changed score data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/matches.json data/standings.json
+          if git diff --cached --quiet; then
+            echo "No match or standings data changes."
+            exit 0
+          fi
+          git add data/last_sync.json
+          git commit -m "[auto] scores update $(date -u '+%Y-%m-%d %H:%M UTC')"
+      - name: Push changed score data
+        run: git push || true
