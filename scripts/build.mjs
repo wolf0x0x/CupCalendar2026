@@ -578,7 +578,16 @@ async function build() {
   await copyFile(path.join(root, "CNAME"), path.join(dist, "CNAME"));
   await copyFile(path.join(root, "ads.txt"), path.join(dist, "ads.txt"));
 
-  await writeRoute("/", `<!doctype html><html lang="en"><head><meta charset="utf-8"><title>2026 FIFA World Cup</title><meta http-equiv="refresh" content="0; url=/2026/en/"><link rel="canonical" href="${data.domain}/2026/en/"></head><body></body></html>`, "0.5");
+  await writeRoute("/", `<!doctype html><html lang="en"><head><meta charset="utf-8"><title>2026 FIFA World Cup | CupCalendar</title><meta http-equiv="refresh" content="0; url=/2026/"><link rel="canonical" href="${data.domain}/2026/"></head><body><a href="/2026/">Continue to CupCalendar 2026</a></body></html>`, "0.5");
+
+  await writeRoute("/2026/", layout({
+    route: "/2026/",
+    lang: "en",
+    title: "2026 FIFA World Cup Schedule, Teams & Calendar | CupCalendar",
+    description: i18n.en.desc,
+    body: homePage("en"),
+    jsonLd: baseJsonLd("/2026/", { name: "2026 FIFA World Cup Schedule, Teams & Calendar | CupCalendar" })
+  }), "1.0");
 
   // 循环为 site.json 中配置的所有 7 种语言独立编译全套子专区页面结构
   for (const langObj of data.languages) {
