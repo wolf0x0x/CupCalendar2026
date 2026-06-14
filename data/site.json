@@ -5981,7 +5981,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-14T13:14:05.756Z",
+    "fetchedAt": "2026-06-14T15:26:14.436Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },
