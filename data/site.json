@@ -1368,10 +1368,10 @@
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "South Korea",
@@ -1379,10 +1379,10 @@
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 1,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 1
         },
         {
           "team": "Czechia",
@@ -1390,10 +1390,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 2,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 2
         },
         {
           "team": "South Africa",
@@ -1401,10 +1401,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         }
       ]
     },
@@ -1417,10 +1417,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Canada",
@@ -1428,10 +1428,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Qatar",
@@ -1439,10 +1439,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Switzerland",
@@ -1450,10 +1450,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1466,10 +1466,10 @@
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Brazil",
@@ -1477,10 +1477,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Morocco",
@@ -1488,10 +1488,10 @@
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Haiti",
@@ -1499,10 +1499,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         }
       ]
     },
@@ -1515,21 +1515,21 @@
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "Australia",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
+          "gd": 2,
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "Türkiye",
@@ -1537,10 +1537,21 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
+        },
+        {
+          "team": "Turkey",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gd": -2,
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         },
         {
           "team": "Paraguay",
@@ -1548,10 +1559,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -1564,10 +1575,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Ecuador",
@@ -1575,10 +1586,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Germany",
@@ -1586,10 +1597,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Ivory Coast",
@@ -1597,10 +1608,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1613,10 +1624,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Netherlands",
@@ -1624,10 +1635,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Sweden",
@@ -1635,10 +1646,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Tunisia",
@@ -1646,10 +1657,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1662,10 +1673,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Egypt",
@@ -1673,10 +1684,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Iran",
@@ -1684,10 +1695,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "New Zealand",
@@ -1695,10 +1706,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1711,10 +1722,21 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
+        },
+        {
+          "team": "Cape Verde",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gd": 0,
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Saudi Arabia",
@@ -1722,10 +1744,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Spain",
@@ -1733,10 +1755,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Uruguay",
@@ -1744,10 +1766,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1760,10 +1782,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Iraq",
@@ -1771,10 +1793,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Norway",
@@ -1782,10 +1804,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Senegal",
@@ -1793,10 +1815,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1809,10 +1831,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Argentina",
@@ -1820,10 +1842,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Austria",
@@ -1831,10 +1853,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Jordan",
@@ -1842,10 +1864,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1858,10 +1880,21 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
+        },
+        {
+          "team": "Democratic Republic of the Congo",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gd": 0,
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "DR Congo",
@@ -1869,10 +1902,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Portugal",
@@ -1880,10 +1913,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Uzbekistan",
@@ -1891,10 +1924,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1907,10 +1940,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "England",
@@ -1918,10 +1951,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Ghana",
@@ -1929,10 +1962,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Panama",
@@ -1940,10 +1973,10 @@
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     }
@@ -5759,5 +5792,12 @@
   "monetization": {
     "googleAnalyticsId": "G-H9JLLHT5KN",
     "adsenseClient": "ca-pub-8695398658548679"
+  },
+  "dataSource": {
+    "provider": "worldcup26.ir",
+    "apiBase": "https://worldcup26.ir",
+    "fetchedAt": "2026-06-14T08:15:28.032Z",
+    "mode": "standings-only",
+    "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   }
 }

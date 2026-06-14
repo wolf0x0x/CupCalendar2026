@@ -1,0 +1,55 @@
+name: Sync WorldCup26 Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply_to_site:
+        description: "Apply synced standings into data/site.json before build"
+        required: false
+        default: "false"
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  sync-build-deploy:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      WORLDCUP26_API_BASE: ${{ secrets.WORLDCUP26_API_BASE || 'https://worldcup26.ir' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Sync API snapshot
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.apply_to_site }}" = "true" ]; then
+            APPLY_WORLDCUP26=1 npm run sync:data
+          else
+            npm run sync:data
+          fi
+      - name: Build static site
+        run: npm run build
+      - name: Commit synced data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data assets
+          git diff --cached --quiet || git commit -m "Sync WorldCup26 data snapshot"
+      - name: Push synced data
+        run: |
+          git push || true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

@@ -25,6 +25,58 @@ const teamColors = {
   GHA: ["#ce1126", "#fcd116", "#006b3f"]
 };
 
+const flagCodes = {
+  ALG: "dz",
+  ARG: "ar",
+  AUS: "au",
+  AUT: "at",
+  BEL: "be",
+  BIH: "ba",
+  BRA: "br",
+  CAN: "ca",
+  CIV: "ci",
+  COD: "cd",
+  COL: "co",
+  CPV: "cv",
+  CRO: "hr",
+  CUW: "cw",
+  CZE: "cz",
+  ECU: "ec",
+  EGY: "eg",
+  ENG: "gb-eng",
+  ESP: "es",
+  FRA: "fr",
+  GER: "de",
+  GHA: "gh",
+  HAI: "ht",
+  IRN: "ir",
+  IRQ: "iq",
+  JOR: "jo",
+  JPN: "jp",
+  KOR: "kr",
+  MAR: "ma",
+  MEX: "mx",
+  NED: "nl",
+  NOR: "no",
+  NZL: "nz",
+  PAN: "pa",
+  PAR: "py",
+  POL: "pl",
+  POR: "pt",
+  QAT: "qa",
+  RSA: "za",
+  SAU: "sa",
+  SCO: "gb-sct",
+  SEN: "sn",
+  SUI: "ch",
+  SWE: "se",
+  TUN: "tn",
+  TUR: "tr",
+  URU: "uy",
+  USA: "us",
+  UZB: "uz"
+};
+
 function slug(value) {
   return String(value).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 }
@@ -51,6 +103,38 @@ function teamSvg({ code, name }) {
   <text x="320" y="232" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#00204e">${esc(code)}</text>
   <text x="320" y="388" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#111c2d">${esc(name)}</text>
 </svg>`;
+}
+
+function flagFallbackSvg({ code, name }) {
+  const [primary, secondary, accent] = teamColors[code] || ["#003478", "#ffffff", "#ff6b35"];
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-label="${esc(name)} national flag fallback">
+  <rect width="640" height="140" fill="${primary}"/>
+  <rect y="140" width="640" height="140" fill="${secondary}"/>
+  <rect y="280" width="640" height="140" fill="${accent}"/>
+  <rect x="0" y="0" width="640" height="420" fill="none" stroke="#d8dee9" stroke-width="8"/>
+  <circle cx="320" cy="210" r="88" fill="rgba(255,255,255,.92)"/>
+  <text x="320" y="232" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="900" fill="#00204e">${esc(code)}</text>
+</svg>`;
+}
+
+async function downloadFlag(team) {
+  const flagCode = flagCodes[team.code];
+  const outPath = path.join(root, `assets/flags/${slug(team.code)}.svg`);
+  if (!flagCode) {
+    await writeFile(outPath, flagFallbackSvg(team));
+    return false;
+  }
+
+  try {
+    const response = await fetch(`https://flagcdn.com/${flagCode}.svg`);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const svg = await response.text();
+    await writeFile(outPath, svg);
+    return true;
+  } catch {
+    await writeFile(outPath, flagFallbackSvg(team));
+    return false;
+  }
 }
 
 function venueSvg(venue) {
@@ -147,12 +231,18 @@ for (const match of data.matches) {
 }
 
 await mkdir(path.join(root, "assets/teams"), { recursive: true });
+await mkdir(path.join(root, "assets/flags"), { recursive: true });
 await mkdir(path.join(root, "assets/venues"), { recursive: true });
 await mkdir(path.join(root, "assets/news"), { recursive: true });
 await mkdir(path.join(root, "assets/brand"), { recursive: true });
 
 for (const team of teamMap.values()) {
   await writeFile(path.join(root, `assets/teams/${slug(team.code)}.svg`), teamSvg(team));
+}
+
+let downloadedFlags = 0;
+for (const team of teamMap.values()) {
+  if (await downloadFlag(team)) downloadedFlags += 1;
 }
 
 for (const venue of data.venues) {
@@ -168,4 +258,4 @@ await writeFile(path.join(root, "assets/brand/icon.svg"), icon);
 await writeFile(path.join(root, "assets/brand/favicon.svg"), icon);
 await writeFile(path.join(root, "assets/site.webmanifest"), siteManifest());
 
-console.log(`Generated ${teamMap.size} team images, ${data.venues.length} venue images, ${data.news.length} news images, favicon, manifest, and brand assets.`);
+console.log(`Generated ${teamMap.size} team images, ${downloadedFlags}/${teamMap.size} downloaded flags, ${data.venues.length} venue images, ${data.news.length} news images, favicon, manifest, and brand assets.`);

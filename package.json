@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "assets": "node scripts/generate-assets.mjs",
+    "sync:data": "node scripts/sync-worldcup26.mjs",
+    "sync:data:apply": "APPLY_WORLDCUP26=1 node scripts/sync-worldcup26.mjs",
     "build": "npm run assets && node scripts/build.mjs",
     "start": "python3 -m http.server 4173 -d dist",
     "check": "npm run build"

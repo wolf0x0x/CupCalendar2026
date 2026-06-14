@@ -119,6 +119,10 @@ function slug(value) {
 }
 
 function teamImage(code) {
+  return asset(`flags/${slug(code)}.svg`);
+}
+
+function teamFallbackImage(code) {
   return asset(`teams/${slug(code)}.svg`);
 }
 
@@ -313,9 +317,9 @@ function matchCard(match, lang) {
       <span>${esc(match.group)} · ${esc(match.matchday)}</span>
     </div>
     <div class="scoreline">
-      <div><span class="team-badge"><img src="${teamImage(match.homeCode)}" alt="${esc(match.home)} team image" loading="lazy"></span><strong>${esc(match.home)}</strong></div>
+      <div><span class="team-badge"><img src="${teamImage(match.homeCode)}" alt="${esc(match.home)} national flag" loading="lazy" onerror="this.src='${teamFallbackImage(match.homeCode)}'"></span><strong>${esc(match.home)}</strong></div>
       <div><div class="score">${esc(match.score)}</div><div class="prediction">${esc(matchNote)}</div></div>
-      <div><span class="team-badge"><img src="${teamImage(match.awayCode)}" alt="${esc(match.away)} team image" loading="lazy"></span><strong>${esc(match.away)}</strong></div>
+      <div><span class="team-badge"><img src="${teamImage(match.awayCode)}" alt="${esc(match.away)} national flag" loading="lazy" onerror="this.src='${teamFallbackImage(match.awayCode)}'"></span><strong>${esc(match.away)}</strong></div>
     </div>
     <div class="match-actions">
       <span class="status${statusClass}">${esc(match.status)}</span>
@@ -347,9 +351,12 @@ function homePage(lang) {
   return `<section class="container">
     <div class="hero">
       <div class="hero-copy">
-        <span class="eyebrow">2026-first SEO hub · cupcalendar.xyz/2026/${lang}/</span>
+        <span class="eyebrow">2026 FIFA World Cup hub · cupcalendar.xyz/2026/${lang}/</span>
         <h1>${esc(dict.homeTitle)}</h1>
         <p>Follow every match across the United States, Canada, and Mexico with local kick-off times, standings, team profiles, and one-click calendar tools.</p>
+        <div class="language-strip" aria-label="Language switcher">
+          ${data.languages.map((item) => `<a class="${item.code === lang ? "active" : ""}" href="/2026/${item.code}/" hreflang="${esc(item.code)}">${esc(item.label)}</a>`).join("")}
+        </div>
         <div class="countdown" data-countdown aria-label="Countdown to kickoff">
           <div><strong data-unit="days">0</strong><span>Days</span></div>
           <div><strong data-unit="hours">00</strong><span>Hours</span></div>
@@ -367,6 +374,8 @@ function homePage(lang) {
   <section class="container section">
     <div class="section-head"><div><h2>Today & Tomorrow Focus</h2><p>Fast match cards for local time, venue, teams, status, and ticket links in one scan.</p></div><a class="btn secondary" href="/2026/${lang}/schedule/">Full Schedule</a></div>
     ${data.matches.slice(0, 3).map(m => matchCard(m, lang)).join("")}
+    <div class="section-head compact"><div><h2>Next 7 Featured Matches</h2><p>More upcoming fixtures are one tap from the homepage.</p></div></div>
+    <div class="fixture-strip">${data.matches.slice(3, 10).map((match) => `<a class="fixture-pill" href="/2026/${lang}/matches/${esc(match.id)}/"><span>${esc(slugifyDate(match.date))}</span><strong>${esc(match.home)} vs ${esc(match.away)}</strong><small>${esc(match.venue)}</small></a>`).join("")}</div>
   </section>
   <section class="container section">
     <div class="layout">
@@ -379,8 +388,25 @@ function homePage(lang) {
       </div>
       <aside class="side-stack">
         ${renderAdSlot("square")}
-        <section class="panel"><h2>SEO Recovery Plan</h2><p>All priority pages live under <strong>/2026/</strong></p></section>
+        <section class="panel quick-links">
+          <h2>Fan Tools</h2>
+          <a href="/2026/${lang}/tools/">Download ICS calendar</a>
+          <a href="/2026/${lang}/tools/#timezone">Timezone converter</a>
+          <a href="https://www.fifa.com/tickets" rel="nofollow sponsored">Ticket hub</a>
+        </section>
       </aside>
+    </div>
+  </section>
+  <section class="container section">
+    <div class="section-head"><div><h2>All Group Standings</h2><p>Every group is linked from the homepage so users and crawlers can discover the full tournament structure.</p></div><a class="btn secondary" href="/2026/${lang}/schedule/#standings">Full Tables</a></div>
+    <div class="grid three group-overview">${data.standings.map((group) => `<a class="mini-standing" href="/2026/${lang}/schedule/#standings"><strong>${esc(group.group)}</strong><span>${group.rows.slice(0, 2).map((row) => `${esc(row.team)} ${row.points} pts`).join(" · ")}</span></a>`).join("")}</div>
+  </section>
+  <section class="container section">
+    <div class="section-head"><div><h2>Fan Tools</h2><p>Calendar download, timezone conversion, and ticket links sit one level from the homepage.</p></div><a class="btn secondary" href="/2026/${lang}/tools/">${dict.tools}</a></div>
+    <div class="grid three">
+      <a class="tool-card" href="/2026/${lang}/tools/"><strong>ICS Calendar</strong><span>Download all fixtures into Apple, Google, or Outlook Calendar.</span></a>
+      <a class="tool-card" href="/2026/${lang}/tools/#timezone"><strong>Timezone Converter</strong><span>Convert kick-off times for your local viewing window.</span></a>
+      <a class="tool-card" href="https://www.fifa.com/tickets" rel="nofollow sponsored"><strong>Tickets</strong><span>Open the official ticketing path when sales windows are active.</span></a>
     </div>
   </section>
   <section class="container section">
@@ -403,7 +429,7 @@ function homePage(lang) {
 function teamCard(team, lang) {
   return `<article class="team-card" data-team-card="${esc(`${team.name} ${team.code} ${team.region}`)}">
     <a href="/2026/${lang}/teams/${esc(team.slug)}/">
-      <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} team image" loading="lazy"></div>
+      <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} national flag" loading="lazy" onerror="this.src='${teamFallbackImage(team.code)}'"></div>
       <div class="card-title"><span>${esc(team.name)}</span><span class="chip">#${team.ranking}</span></div>
       <p class="muted">${esc(team.region)} · ${team.titles} titles</p>
     </a>
@@ -470,7 +496,7 @@ function teamPage(team, lang) {
   return `<section class="container section">
     <header class="panel profile-header">
       <div class="profile-main">
-        <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} team image" loading="lazy"></div>
+        <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} national flag" loading="lazy" onerror="this.src='${teamFallbackImage(team.code)}'"></div>
         <div>
           <h1>2026 FIFA World Cup ${esc(team.name)} Team Profile</h1>
         </div>
@@ -522,6 +548,24 @@ function toolsPage(lang) {
         <h2>Calendar Subscription</h2>
         ${data.matches.map((match) => `<span class="sr-only" data-match-start="${isoStart(match)}" data-match-label="${esc(match.home)} vs ${esc(match.away)}" data-match-id="${esc(match.id)}" data-match-venue="${esc(match.venue)}"></span>`).join("")}
         <button class="btn primary" type="button" data-ics>Download ICS</button>
+      </section>
+      <section class="tool-panel" id="timezone">
+        <h2>Timezone Converter</h2>
+        <select data-timezone aria-label="Select timezone">
+          <option value="America/New_York">New York / Toronto</option>
+          <option value="America/Los_Angeles">Los Angeles / Vancouver</option>
+          <option value="America/Mexico_City">Mexico City</option>
+          <option value="Europe/London">London</option>
+          <option value="Europe/Madrid">Madrid</option>
+          <option value="Asia/Tokyo">Tokyo</option>
+          <option value="Asia/Shanghai">Shanghai</option>
+        </select>
+        <ul class="timezone-output" data-timezone-output></ul>
+      </section>
+      <section class="tool-panel">
+        <h2>Ticket Hub</h2>
+        <p>Open the official ticketing path and keep CupCalendar open for fixture planning.</p>
+        <a class="btn primary" href="https://www.fifa.com/tickets" rel="nofollow sponsored">Official Tickets</a>
       </section>
     </div>
     ${renderAdSlot("banner")}
