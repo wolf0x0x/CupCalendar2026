@@ -5,89 +5,1356 @@
   "tournament": "2026 FIFA World Cup",
   "openingDate": "2026-06-11T19:00:00-05:00",
   "languages": [
-    { "code": "en", "label": "English" },
-    { "code": "es", "label": "Español" },
-    { "code": "pt", "label": "Português" },
-    { "code": "fr", "label": "Français" },
-    { "code": "de", "label": "Deutsch" },
-    { "code": "ja", "label": "日本語" },
-    { "code": "zh", "label": "中文" }
+    {
+      "code": "en",
+      "label": "English"
+    },
+    {
+      "code": "es",
+      "label": "Español"
+    },
+    {
+      "code": "pt",
+      "label": "Português"
+    },
+    {
+      "code": "fr",
+      "label": "Français"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch"
+    },
+    {
+      "code": "ja",
+      "label": "日本語"
+    },
+    {
+      "code": "zh",
+      "label": "中文"
+    }
   ],
   "nav": [
-    { "label": "Schedule", "href": "/2026/schedule/" },
-    { "label": "Teams", "href": "/2026/teams/" },
-    { "label": "Venues", "href": "/2026/venues/" },
-    { "label": "History", "href": "/2026/history/" },
-    { "label": "Tools", "href": "/2026/tools/" },
-    { "label": "News", "href": "/2026/news/" }
+    {
+      "label": "Schedule",
+      "href": "/2026/schedule/"
+    },
+    {
+      "label": "Teams",
+      "href": "/2026/teams/"
+    },
+    {
+      "label": "Venues",
+      "href": "/2026/venues/"
+    },
+    {
+      "label": "History",
+      "href": "/2026/history/"
+    },
+    {
+      "label": "Tools",
+      "href": "/2026/tools/"
+    },
+    {
+      "label": "News",
+      "href": "/2026/news/"
+    }
   ],
   "matches": [
     {
-      "id": "mexico-poland",
+      "id": "mexico-south-africa",
       "group": "Group A",
       "matchday": "Matchday 1",
-      "date": "2026-06-12",
-      "time": "14:00",
+      "date": "2026-06-11",
+      "time": "15:00",
       "venue": "Estadio Azteca",
       "city": "Mexico City",
       "home": "Mexico",
-      "away": "Poland",
+      "away": "South Africa",
       "homeCode": "MEX",
-      "awayCode": "POL",
-      "score": "0 - 0",
-      "status": "Upcoming",
-      "prediction": "2-1",
+      "awayCode": "RSA",
+      "score": "2 - 0",
+      "status": "Final",
+      "network": "FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets"
     },
     {
-      "id": "argentina-saudi-arabia",
+      "id": "south-korea-czechia",
+      "group": "Group A",
+      "matchday": "Matchday 1",
+      "date": "2026-06-11",
+      "time": "21:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": "South Korea",
+      "away": "Czechia",
+      "homeCode": "KOR",
+      "awayCode": "CZE",
+      "score": "2 - 1",
+      "status": "Final",
+      "network": "FS1",
+      "prediction": "Final result",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "canada-bosnia-and-herzegovina",
       "group": "Group B",
       "matchday": "Matchday 1",
       "date": "2026-06-12",
-      "time": "18:00",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
-      "home": "Argentina",
-      "away": "Saudi Arabia",
-      "homeCode": "ARG",
-      "awayCode": "SAU",
-      "score": "- : -",
-      "status": "Not started",
-      "prediction": "3-0",
+      "time": "15:00",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "homeCode": "CAN",
+      "awayCode": "BIH",
+      "score": "1 - 1",
+      "status": "Final",
+      "network": "FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets"
     },
     {
-      "id": "usa-japan",
-      "group": "Group C",
+      "id": "united-states-paraguay",
+      "group": "Group D",
       "matchday": "Matchday 1",
-      "date": "2026-06-13",
-      "time": "20:00",
+      "date": "2026-06-12",
+      "time": "18:00",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
       "home": "United States",
-      "away": "Japan",
+      "away": "Paraguay",
       "homeCode": "USA",
-      "awayCode": "JPN",
-      "score": "- : -",
-      "status": "Not started",
-      "prediction": "1-1",
+      "awayCode": "PAR",
+      "score": "4 - 1",
+      "status": "Final",
+      "network": "FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets"
     },
     {
-      "id": "mexico-brazil",
-      "group": "Group A",
-      "matchday": "Match 14",
-      "date": "2026-06-18",
-      "time": "20:00",
+      "id": "switzerland-qatar",
+      "group": "Group B",
+      "matchday": "Matchday 1",
+      "date": "2026-06-13",
+      "time": "12:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Switzerland",
+      "away": "Qatar",
+      "homeCode": "SUI",
+      "awayCode": "QAT",
+      "score": "1 - 1",
+      "status": "Final",
+      "network": "FOX",
+      "prediction": "Final result",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "brazil-morocco",
+      "group": "Group C",
+      "matchday": "Matchday 1",
+      "date": "2026-06-13",
+      "time": "15:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "Brazil",
+      "away": "Morocco",
+      "homeCode": "BRA",
+      "awayCode": "MAR",
+      "score": "1 - 1",
+      "status": "Final",
+      "network": "FOX",
+      "prediction": "Final result",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "scotland-haiti",
+      "group": "Group C",
+      "matchday": "Matchday 1",
+      "date": "2026-06-13",
+      "time": "18:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Scotland",
+      "away": "Haiti",
+      "homeCode": "SCO",
+      "awayCode": "HAI",
+      "score": "1 - 0",
+      "status": "Final",
+      "network": "FS1",
+      "prediction": "Final result",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "australia-turkiye",
+      "group": "Group D",
+      "matchday": "Matchday 1",
+      "date": "2026-06-14",
+      "time": "00:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Australia",
+      "away": "Türkiye",
+      "homeCode": "AUS",
+      "awayCode": "TUR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "germany-curacao",
+      "group": "Group E",
+      "matchday": "Matchday 1",
+      "date": "2026-06-14",
+      "time": "13:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "home": "Germany",
+      "away": "Curaçao",
+      "homeCode": "GER",
+      "awayCode": "CUW",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "netherlands-japan",
+      "group": "Group F",
+      "matchday": "Matchday 1",
+      "date": "2026-06-14",
+      "time": "16:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "home": "Netherlands",
+      "away": "Japan",
+      "homeCode": "NED",
+      "awayCode": "JPN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "ivory-coast-ecuador",
+      "group": "Group E",
+      "matchday": "Matchday 1",
+      "date": "2026-06-14",
+      "time": "19:00",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "home": "Ivory Coast",
+      "away": "Ecuador",
+      "homeCode": "CIV",
+      "awayCode": "ECU",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "sweden-tunisia",
+      "group": "Group F",
+      "matchday": "Matchday 1",
+      "date": "2026-06-14",
+      "time": "22:00",
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "homeCode": "SWE",
+      "awayCode": "TUN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "spain-cabo-verde",
+      "group": "Group H",
+      "matchday": "Matchday 1",
+      "date": "2026-06-15",
+      "time": "12:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "home": "Spain",
+      "away": "Cabo Verde",
+      "homeCode": "ESP",
+      "awayCode": "CPV",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "belgium-egypt",
+      "group": "Group G",
+      "matchday": "Matchday 1",
+      "date": "2026-06-15",
+      "time": "15:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "Belgium",
+      "away": "Egypt",
+      "homeCode": "BEL",
+      "awayCode": "EGY",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "saudi-arabia-uruguay",
+      "group": "Group H",
+      "matchday": "Matchday 1",
+      "date": "2026-06-15",
+      "time": "18:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Saudi Arabia",
+      "away": "Uruguay",
+      "homeCode": "SAU",
+      "awayCode": "URU",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "iran-new-zealand",
+      "group": "Group G",
+      "matchday": "Matchday 1",
+      "date": "2026-06-15",
+      "time": "21:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "home": "Iran",
+      "away": "New Zealand",
+      "homeCode": "IRN",
+      "awayCode": "NZL",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "france-senegal",
+      "group": "Group I",
+      "matchday": "Matchday 1",
+      "date": "2026-06-16",
+      "time": "15:00",
       "venue": "Estadio Azteca",
       "city": "Mexico City",
+      "home": "France",
+      "away": "Senegal",
+      "homeCode": "FRA",
+      "awayCode": "SEN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "iraq-norway",
+      "group": "Group I",
+      "matchday": "Matchday 1",
+      "date": "2026-06-16",
+      "time": "18:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": "Iraq",
+      "away": "Norway",
+      "homeCode": "IRQ",
+      "awayCode": "NOR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "argentina-algeria",
+      "group": "Group J",
+      "matchday": "Matchday 1",
+      "date": "2026-06-16",
+      "time": "21:00",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "home": "Argentina",
+      "away": "Algeria",
+      "homeCode": "ARG",
+      "awayCode": "ALG",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "austria-jordan",
+      "group": "Group J",
+      "matchday": "Matchday 1",
+      "date": "2026-06-17",
+      "time": "00:00",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": "Austria",
+      "away": "Jordan",
+      "homeCode": "AUT",
+      "awayCode": "JOR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "portugal-dr-congo",
+      "group": "Group K",
+      "matchday": "Matchday 1",
+      "date": "2026-06-17",
+      "time": "13:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Portugal",
+      "away": "DR Congo",
+      "homeCode": "POR",
+      "awayCode": "COD",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "england-croatia",
+      "group": "Group L",
+      "matchday": "Matchday 1",
+      "date": "2026-06-17",
+      "time": "16:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "England",
+      "away": "Croatia",
+      "homeCode": "ENG",
+      "awayCode": "CRO",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "ghana-panama",
+      "group": "Group L",
+      "matchday": "Matchday 1",
+      "date": "2026-06-17",
+      "time": "19:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Ghana",
+      "away": "Panama",
+      "homeCode": "GHA",
+      "awayCode": "PAN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "uzbekistan-colombia",
+      "group": "Group K",
+      "matchday": "Matchday 1",
+      "date": "2026-06-17",
+      "time": "22:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeCode": "UZB",
+      "awayCode": "COL",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "czechia-south-africa",
+      "group": "Group A",
+      "matchday": "Matchday 2",
+      "date": "2026-06-18",
+      "time": "12:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "home": "Czechia",
+      "away": "South Africa",
+      "homeCode": "CZE",
+      "awayCode": "RSA",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "switzerland-bosnia-and-herzegovina",
+      "group": "Group B",
+      "matchday": "Matchday 2",
+      "date": "2026-06-18",
+      "time": "15:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "homeCode": "SUI",
+      "awayCode": "BIH",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "canada-qatar",
+      "group": "Group B",
+      "matchday": "Matchday 2",
+      "date": "2026-06-18",
+      "time": "18:00",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "home": "Canada",
+      "away": "Qatar",
+      "homeCode": "CAN",
+      "awayCode": "QAT",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "mexico-south-korea",
+      "group": "Group A",
+      "matchday": "Matchday 2",
+      "date": "2026-06-18",
+      "time": "21:00",
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City",
       "home": "Mexico",
-      "away": "Brazil",
+      "away": "South Korea",
       "homeCode": "MEX",
+      "awayCode": "KOR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "united-states-australia",
+      "group": "Group D",
+      "matchday": "Matchday 2",
+      "date": "2026-06-19",
+      "time": "15:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "United States",
+      "away": "Australia",
+      "homeCode": "USA",
+      "awayCode": "AUS",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "scotland-morocco",
+      "group": "Group C",
+      "matchday": "Matchday 2",
+      "date": "2026-06-19",
+      "time": "18:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "Scotland",
+      "away": "Morocco",
+      "homeCode": "SCO",
+      "awayCode": "MAR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "brazil-haiti",
+      "group": "Group C",
+      "matchday": "Matchday 2",
+      "date": "2026-06-19",
+      "time": "20:30",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Brazil",
+      "away": "Haiti",
+      "homeCode": "BRA",
+      "awayCode": "HAI",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "turkiye-paraguay",
+      "group": "Group D",
+      "matchday": "Matchday 2",
+      "date": "2026-06-19",
+      "time": "23:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Türkiye",
+      "away": "Paraguay",
+      "homeCode": "TUR",
+      "awayCode": "PAR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "netherlands-sweden",
+      "group": "Group F",
+      "matchday": "Matchday 2",
+      "date": "2026-06-20",
+      "time": "13:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": "Netherlands",
+      "away": "Sweden",
+      "homeCode": "NED",
+      "awayCode": "SWE",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "germany-ivory-coast",
+      "group": "Group E",
+      "matchday": "Matchday 2",
+      "date": "2026-06-20",
+      "time": "16:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "homeCode": "GER",
+      "awayCode": "CIV",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "ecuador-curacao",
+      "group": "Group E",
+      "matchday": "Matchday 2",
+      "date": "2026-06-20",
+      "time": "20:00",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "home": "Ecuador",
+      "away": "Curaçao",
+      "homeCode": "ECU",
+      "awayCode": "CUW",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "tunisia-japan",
+      "group": "Group F",
+      "matchday": "Matchday 2",
+      "date": "2026-06-21",
+      "time": "00:00",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": "Tunisia",
+      "away": "Japan",
+      "homeCode": "TUN",
+      "awayCode": "JPN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "spain-saudi-arabia",
+      "group": "Group H",
+      "matchday": "Matchday 2",
+      "date": "2026-06-21",
+      "time": "12:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Spain",
+      "away": "Saudi Arabia",
+      "homeCode": "ESP",
+      "awayCode": "SAU",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "belgium-iran",
+      "group": "Group G",
+      "matchday": "Matchday 2",
+      "date": "2026-06-21",
+      "time": "15:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "Belgium",
+      "away": "Iran",
+      "homeCode": "BEL",
+      "awayCode": "IRN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "uruguay-cabo-verde",
+      "group": "Group H",
+      "matchday": "Matchday 2",
+      "date": "2026-06-21",
+      "time": "18:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Uruguay",
+      "away": "Cabo Verde",
+      "homeCode": "URU",
+      "awayCode": "CPV",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "new-zealand-egypt",
+      "group": "Group G",
+      "matchday": "Matchday 2",
+      "date": "2026-06-21",
+      "time": "21:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "home": "New Zealand",
+      "away": "Egypt",
+      "homeCode": "NZL",
+      "awayCode": "EGY",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "argentina-austria",
+      "group": "Group J",
+      "matchday": "Matchday 2",
+      "date": "2026-06-22",
+      "time": "13:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "home": "Argentina",
+      "away": "Austria",
+      "homeCode": "ARG",
+      "awayCode": "AUT",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "france-iraq",
+      "group": "Group I",
+      "matchday": "Matchday 2",
+      "date": "2026-06-22",
+      "time": "17:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "home": "France",
+      "away": "Iraq",
+      "homeCode": "FRA",
+      "awayCode": "IRQ",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "norway-senegal",
+      "group": "Group I",
+      "matchday": "Matchday 2",
+      "date": "2026-06-22",
+      "time": "20:00",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "home": "Norway",
+      "away": "Senegal",
+      "homeCode": "NOR",
+      "awayCode": "SEN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "jordan-algeria",
+      "group": "Group J",
+      "matchday": "Matchday 2",
+      "date": "2026-06-22",
+      "time": "23:00",
+      "venue": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City",
+      "home": "Jordan",
+      "away": "Algeria",
+      "homeCode": "JOR",
+      "awayCode": "ALG",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "portugal-uzbekistan",
+      "group": "Group K",
+      "matchday": "Matchday 2",
+      "date": "2026-06-23",
+      "time": "13:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "home": "Portugal",
+      "away": "Uzbekistan",
+      "homeCode": "POR",
+      "awayCode": "UZB",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "england-ghana",
+      "group": "Group L",
+      "matchday": "Matchday 2",
+      "date": "2026-06-23",
+      "time": "16:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "England",
+      "away": "Ghana",
+      "homeCode": "ENG",
+      "awayCode": "GHA",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "panama-croatia",
+      "group": "Group L",
+      "matchday": "Matchday 2",
+      "date": "2026-06-23",
+      "time": "19:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Panama",
+      "away": "Croatia",
+      "homeCode": "PAN",
+      "awayCode": "CRO",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "colombia-dr-congo",
+      "group": "Group K",
+      "matchday": "Matchday 2",
+      "date": "2026-06-23",
+      "time": "22:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "home": "Colombia",
+      "away": "DR Congo",
+      "homeCode": "COL",
+      "awayCode": "COD",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "switzerland-canada",
+      "group": "Group B",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "15:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": "Switzerland",
+      "away": "Canada",
+      "homeCode": "SUI",
+      "awayCode": "CAN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "bosnia-and-herzegovina-qatar",
+      "group": "Group B",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "15:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "homeCode": "BIH",
+      "awayCode": "QAT",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "morocco-haiti",
+      "group": "Group C",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "18:00",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "home": "Morocco",
+      "away": "Haiti",
+      "homeCode": "MAR",
+      "awayCode": "HAI",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "scotland-brazil",
+      "group": "Group C",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "18:00",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": "Scotland",
+      "away": "Brazil",
+      "homeCode": "SCO",
       "awayCode": "BRA",
-      "score": "2 - 1",
-      "status": "Live 72'",
-      "prediction": "1-2",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "south-africa-south-korea",
+      "group": "Group A",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "21:00",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "South Africa",
+      "away": "South Korea",
+      "homeCode": "RSA",
+      "awayCode": "KOR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "czechia-mexico",
+      "group": "Group A",
+      "matchday": "Matchday 3",
+      "date": "2026-06-24",
+      "time": "21:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "Czechia",
+      "away": "Mexico",
+      "homeCode": "CZE",
+      "awayCode": "MEX",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "curacao-ivory-coast",
+      "group": "Group E",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "16:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Curaçao",
+      "away": "Ivory Coast",
+      "homeCode": "CUW",
+      "awayCode": "CIV",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "ecuador-germany",
+      "group": "Group E",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "16:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "home": "Ecuador",
+      "away": "Germany",
+      "homeCode": "ECU",
+      "awayCode": "GER",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "tunisia-netherlands",
+      "group": "Group F",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "home": "Tunisia",
+      "away": "Netherlands",
+      "homeCode": "TUN",
+      "awayCode": "NED",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "japan-sweden",
+      "group": "Group F",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "19:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "home": "Japan",
+      "away": "Sweden",
+      "homeCode": "JPN",
+      "awayCode": "SWE",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "turkiye-united-states",
+      "group": "Group D",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "22:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "Türkiye",
+      "away": "United States",
+      "homeCode": "TUR",
+      "awayCode": "USA",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "paraguay-australia",
+      "group": "Group D",
+      "matchday": "Matchday 3",
+      "date": "2026-06-25",
+      "time": "22:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Paraguay",
+      "away": "Australia",
+      "homeCode": "PAR",
+      "awayCode": "AUS",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "norway-france",
+      "group": "Group I",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "15:00",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "home": "Norway",
+      "away": "France",
+      "homeCode": "NOR",
+      "awayCode": "FRA",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "senegal-iraq",
+      "group": "Group I",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "15:00",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "home": "Senegal",
+      "away": "Iraq",
+      "homeCode": "SEN",
+      "awayCode": "IRQ",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "cabo-verde-saudi-arabia",
+      "group": "Group H",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "20:00",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "home": "Cabo Verde",
+      "away": "Saudi Arabia",
+      "homeCode": "CPV",
+      "awayCode": "SAU",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "uruguay-spain",
+      "group": "Group H",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "20:00",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "home": "Uruguay",
+      "away": "Spain",
+      "homeCode": "URU",
+      "awayCode": "ESP",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "new-zealand-belgium",
+      "group": "Group G",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "23:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": "New Zealand",
+      "away": "Belgium",
+      "homeCode": "NZL",
+      "awayCode": "BEL",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "egypt-iran",
+      "group": "Group G",
+      "matchday": "Matchday 3",
+      "date": "2026-06-26",
+      "time": "23:00",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "home": "Egypt",
+      "away": "Iran",
+      "homeCode": "EGY",
+      "awayCode": "IRN",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "panama-england",
+      "group": "Group L",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "17:00",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "home": "Panama",
+      "away": "England",
+      "homeCode": "PAN",
+      "awayCode": "ENG",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "croatia-ghana",
+      "group": "Group L",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "17:00",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "home": "Croatia",
+      "away": "Ghana",
+      "homeCode": "CRO",
+      "awayCode": "GHA",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "colombia-portugal",
+      "group": "Group K",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "19:30",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "home": "Colombia",
+      "away": "Portugal",
+      "homeCode": "COL",
+      "awayCode": "POR",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "dr-congo-uzbekistan",
+      "group": "Group K",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "19:30",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "DR Congo",
+      "away": "Uzbekistan",
+      "homeCode": "COD",
+      "awayCode": "UZB",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "algeria-austria",
+      "group": "Group J",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "22:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Algeria",
+      "away": "Austria",
+      "homeCode": "ALG",
+      "awayCode": "AUT",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FS1",
+      "prediction": "TV: FS1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "jordan-argentina",
+      "group": "Group J",
+      "matchday": "Matchday 3",
+      "date": "2026-06-27",
+      "time": "22:00",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeCode": "JOR",
+      "awayCode": "ARG",
+      "score": "- : -",
+      "status": "Scheduled",
+      "network": "FOX",
+      "prediction": "TV: FOX",
       "ticketUrl": "https://www.fifa.com/tickets"
     }
   ],
@@ -95,138 +1362,4399 @@
     {
       "group": "Group A",
       "rows": [
-        { "team": "Mexico", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Poland", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Sweden", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Croatia", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 }
+        {
+          "team": "Mexico",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 0,
+          "gd": 2,
+          "points": 3
+        },
+        {
+          "team": "South Korea",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 2,
+          "ga": 1,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Czechia",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 2,
+          "gd": -1,
+          "points": 0
+        },
+        {
+          "team": "South Africa",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 2,
+          "gd": -2,
+          "points": 0
+        }
       ]
     },
     {
       "group": "Group B",
       "rows": [
-        { "team": "Argentina", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Saudi Arabia", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Portugal", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
-        { "team": "Ghana", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 }
+        {
+          "team": "Bosnia and Herzegovina",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Canada",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Qatar",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Switzerland",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "group": "Group C",
+      "rows": [
+        {
+          "team": "Scotland",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 1,
+          "ga": 0,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Brazil",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Morocco",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Haiti",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group D",
+      "rows": [
+        {
+          "team": "United States",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3
+        },
+        {
+          "team": "Australia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Türkiye",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Paraguay",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group E",
+      "rows": [
+        {
+          "team": "Curaçao",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ecuador",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Germany",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ivory Coast",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group F",
+      "rows": [
+        {
+          "team": "Japan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Netherlands",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Sweden",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Tunisia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group G",
+      "rows": [
+        {
+          "team": "Belgium",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Egypt",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iran",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "New Zealand",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group H",
+      "rows": [
+        {
+          "team": "Cabo Verde",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Saudi Arabia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Spain",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uruguay",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group I",
+      "rows": [
+        {
+          "team": "France",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Iraq",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Norway",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Senegal",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group J",
+      "rows": [
+        {
+          "team": "Algeria",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Argentina",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Austria",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Jordan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group K",
+      "rows": [
+        {
+          "team": "Colombia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "DR Congo",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Portugal",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Uzbekistan",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "group": "Group L",
+      "rows": [
+        {
+          "team": "Croatia",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "England",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Ghana",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        },
+        {
+          "team": "Panama",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 0,
+          "ga": 0,
+          "gd": 0,
+          "points": 0
+        }
       ]
     }
   ],
   "teams": [
     {
-      "slug": "argentina",
-      "name": "Argentina",
-      "code": "ARG",
-      "region": "CONMEBOL",
-      "ranking": 1,
-      "coach": "Lionel Scaloni",
-      "captain": "Lionel Messi",
-      "titles": 3,
-      "marketValue": "EUR 850M",
-      "averageAge": "27.5",
-      "form": ["W", "W", "D", "W", "W", "W", "D", "L", "W", "W"],
-      "players": [
-        { "no": 10, "name": "Lionel Messi", "position": "Forward", "club": "Inter Miami", "age": 38 },
-        { "no": 23, "name": "Emiliano Martinez", "position": "Goalkeeper", "club": "Aston Villa", "age": 33 },
-        { "no": 7, "name": "Rodrigo De Paul", "position": "Midfielder", "club": "Atletico Madrid", "age": 31 },
-        { "no": 9, "name": "Julian Alvarez", "position": "Forward", "club": "Atletico Madrid", "age": 26 },
-        { "no": 24, "name": "Enzo Fernandez", "position": "Midfielder", "club": "Chelsea", "age": 25 }
-      ],
-      "history": [
-        { "year": 2022, "result": "Champion", "note": "Won the final after a dramatic penalty shootout." },
-        { "year": 2014, "result": "Runner-up", "note": "Reached the final in Brazil." },
-        { "year": 1986, "result": "Champion", "note": "A legendary title led by Diego Maradona." },
-        { "year": 1978, "result": "Champion", "note": "First World Cup title on home soil." }
-      ]
-    },
-    {
       "slug": "mexico",
       "name": "Mexico",
       "code": "MEX",
+      "group": "Group A",
       "region": "CONCACAF",
-      "ranking": 14,
+      "ranking": 17,
       "coach": "Javier Aguirre",
       "captain": "Edson Alvarez",
       "titles": 0,
-      "marketValue": "EUR 220M",
-      "averageAge": "26.8",
-      "form": ["W", "D", "W", "L", "W", "D", "W", "W", "L", "D"],
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
       "players": [
-        { "no": 13, "name": "Guillermo Ochoa", "position": "Goalkeeper", "club": "AVS", "age": 40 },
-        { "no": 4, "name": "Edson Alvarez", "position": "Midfielder", "club": "West Ham", "age": 28 },
-        { "no": 22, "name": "Hirving Lozano", "position": "Forward", "club": "PSV", "age": 30 }
+        {
+          "no": 1,
+          "name": "Mexico Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Mexico Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Mexico Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Edson Alvarez",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Mexico Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
       ],
       "history": [
-        { "year": 1986, "result": "Quarter-final", "note": "Best finish as a host nation." },
-        { "year": 1970, "result": "Quarter-final", "note": "Memorable run in Mexico." }
+        {
+          "year": 2026,
+          "result": "Group A",
+          "note": "Mexico competes in Group A of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Mexico enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "south-africa",
+      "name": "South Africa",
+      "code": "RSA",
+      "group": "Group A",
+      "region": "CAF",
+      "ranking": 56,
+      "coach": "Hugo Broos",
+      "captain": "Ronwen Williams",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "South Africa Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "South Africa Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "South Africa Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Ronwen Williams",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "South Africa Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group A",
+          "note": "South Africa competes in Group A of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "South Africa enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "south-korea",
+      "name": "South Korea",
+      "code": "KOR",
+      "group": "Group A",
+      "region": "AFC",
+      "ranking": 23,
+      "coach": "Hong Myung-bo",
+      "captain": "Son Heung-min",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "South Korea Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "South Korea Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "South Korea Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Son Heung-min",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "South Korea Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group A",
+          "note": "South Korea competes in Group A of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "South Korea enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "czechia",
+      "name": "Czechia",
+      "code": "CZE",
+      "group": "Group A",
+      "region": "UEFA",
+      "ranking": 38,
+      "coach": "Ivan Hasek",
+      "captain": "Tomas Soucek",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Czechia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Czechia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Czechia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Tomas Soucek",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Czechia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group A",
+          "note": "Czechia competes in Group A of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Czechia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "canada",
+      "name": "Canada",
+      "code": "CAN",
+      "group": "Group B",
+      "region": "CONCACAF",
+      "ranking": 31,
+      "coach": "Jesse Marsch",
+      "captain": "Alphonso Davies",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Canada Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Canada Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Canada Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Alphonso Davies",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Canada Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group B",
+          "note": "Canada competes in Group B of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Canada enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "bosnia-and-herzegovina",
+      "name": "Bosnia and Herzegovina",
+      "code": "BIH",
+      "group": "Group B",
+      "region": "UEFA",
+      "ranking": 70,
+      "coach": "Sergej Barbarez",
+      "captain": "Edin Dzeko",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Bosnia and Herzegovina Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Bosnia and Herzegovina Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Bosnia and Herzegovina Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Edin Dzeko",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Bosnia and Herzegovina Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group B",
+          "note": "Bosnia and Herzegovina competes in Group B of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Bosnia and Herzegovina enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "switzerland",
+      "name": "Switzerland",
+      "code": "SUI",
+      "group": "Group B",
+      "region": "UEFA",
+      "ranking": 20,
+      "coach": "Murat Yakin",
+      "captain": "Granit Xhaka",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Switzerland Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Switzerland Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Switzerland Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Granit Xhaka",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Switzerland Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group B",
+          "note": "Switzerland competes in Group B of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Switzerland enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "qatar",
+      "name": "Qatar",
+      "code": "QAT",
+      "group": "Group B",
+      "region": "AFC",
+      "ranking": 48,
+      "coach": "Tintin Marquez",
+      "captain": "Hassan Al-Haydos",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Qatar Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Qatar Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Qatar Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Hassan Al-Haydos",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Qatar Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group B",
+          "note": "Qatar competes in Group B of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Qatar enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
       ]
     },
     {
       "slug": "brazil",
       "name": "Brazil",
       "code": "BRA",
+      "group": "Group C",
       "region": "CONMEBOL",
       "ranking": 5,
-      "coach": "Dorival Junior",
+      "coach": "Carlo Ancelotti",
       "captain": "Marquinhos",
       "titles": 5,
-      "marketValue": "EUR 1.05B",
-      "averageAge": "26.2",
-      "form": ["W", "L", "W", "W", "D", "W", "L", "W", "W", "D"],
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
       "players": [
-        { "no": 1, "name": "Alisson", "position": "Goalkeeper", "club": "Liverpool", "age": 33 },
-        { "no": 4, "name": "Marquinhos", "position": "Defender", "club": "Paris Saint-Germain", "age": 32 },
-        { "no": 7, "name": "Vinicius Junior", "position": "Forward", "club": "Real Madrid", "age": 25 }
+        {
+          "no": 1,
+          "name": "Brazil Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Brazil Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Brazil Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Marquinhos",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Brazil Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
       ],
       "history": [
-        { "year": 2002, "result": "Champion", "note": "Won a record fifth title." },
-        { "year": 1994, "result": "Champion", "note": "Defeated Italy on penalties." }
+        {
+          "year": 2026,
+          "result": "Group C",
+          "note": "Brazil competes in Group C of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "Brazil enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "morocco",
+      "name": "Morocco",
+      "code": "MAR",
+      "group": "Group C",
+      "region": "CAF",
+      "ranking": 12,
+      "coach": "Walid Regragui",
+      "captain": "Achraf Hakimi",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Morocco Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Morocco Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Morocco Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Achraf Hakimi",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Morocco Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group C",
+          "note": "Morocco competes in Group C of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Morocco enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "scotland",
+      "name": "Scotland",
+      "code": "SCO",
+      "group": "Group C",
+      "region": "UEFA",
+      "ranking": 39,
+      "coach": "Steve Clarke",
+      "captain": "Andy Robertson",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Scotland Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Scotland Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Scotland Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Andy Robertson",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Scotland Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group C",
+          "note": "Scotland competes in Group C of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Scotland enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "haiti",
+      "name": "Haiti",
+      "code": "HAI",
+      "group": "Group C",
+      "region": "CONCACAF",
+      "ranking": 86,
+      "coach": "Sebastien Migne",
+      "captain": "Johny Placide",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Haiti Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Haiti Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Haiti Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Johny Placide",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Haiti Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group C",
+          "note": "Haiti competes in Group C of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Haiti enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "united-states",
+      "name": "United States",
+      "code": "USA",
+      "group": "Group D",
+      "region": "CONCACAF",
+      "ranking": 17,
+      "coach": "Mauricio Pochettino",
+      "captain": "Christian Pulisic",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "United States Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "United States Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "United States Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Christian Pulisic",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "United States Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group D",
+          "note": "United States competes in Group D of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "United States enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "paraguay",
+      "name": "Paraguay",
+      "code": "PAR",
+      "group": "Group D",
+      "region": "CONMEBOL",
+      "ranking": 41,
+      "coach": "Gustavo Alfaro",
+      "captain": "Gustavo Gomez",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Paraguay Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Paraguay Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Paraguay Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Gustavo Gomez",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Paraguay Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group D",
+          "note": "Paraguay competes in Group D of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Paraguay enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "code": "AUS",
+      "group": "Group D",
+      "region": "AFC",
+      "ranking": 27,
+      "coach": "Tony Popovic",
+      "captain": "Mat Ryan",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Australia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Australia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Australia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Mat Ryan",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Australia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group D",
+          "note": "Australia competes in Group D of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Australia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "turkiye",
+      "name": "Türkiye",
+      "code": "TUR",
+      "group": "Group D",
+      "region": "UEFA",
+      "ranking": 22,
+      "coach": "Vincenzo Montella",
+      "captain": "Hakan Calhanoglu",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Türkiye Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Türkiye Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Türkiye Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Hakan Calhanoglu",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Türkiye Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group D",
+          "note": "Türkiye competes in Group D of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Türkiye enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "germany",
+      "name": "Germany",
+      "code": "GER",
+      "group": "Group E",
+      "region": "UEFA",
+      "ranking": 9,
+      "coach": "Julian Nagelsmann",
+      "captain": "Joshua Kimmich",
+      "titles": 4,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Germany Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Germany Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Germany Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Joshua Kimmich",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Germany Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group E",
+          "note": "Germany competes in Group E of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "Germany enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "curacao",
+      "name": "Curaçao",
+      "code": "CUW",
+      "group": "Group E",
+      "region": "CONCACAF",
+      "ranking": 82,
+      "coach": "Dick Advocaat",
+      "captain": "Leandro Bacuna",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Curaçao Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Curaçao Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Curaçao Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Leandro Bacuna",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Curaçao Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group E",
+          "note": "Curaçao competes in Group E of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Curaçao enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "ivory-coast",
+      "name": "Ivory Coast",
+      "code": "CIV",
+      "group": "Group E",
+      "region": "CAF",
+      "ranking": 46,
+      "coach": "Emerse Fae",
+      "captain": "Franck Kessie",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Ivory Coast Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Ivory Coast Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Ivory Coast Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Franck Kessie",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Ivory Coast Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group E",
+          "note": "Ivory Coast competes in Group E of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Ivory Coast enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "ecuador",
+      "name": "Ecuador",
+      "code": "ECU",
+      "group": "Group E",
+      "region": "CONMEBOL",
+      "ranking": 29,
+      "coach": "Sebastian Beccacece",
+      "captain": "Enner Valencia",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Ecuador Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Ecuador Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Ecuador Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Enner Valencia",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Ecuador Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group E",
+          "note": "Ecuador competes in Group E of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Ecuador enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "netherlands",
+      "name": "Netherlands",
+      "code": "NED",
+      "group": "Group F",
+      "region": "UEFA",
+      "ranking": 7,
+      "coach": "Ronald Koeman",
+      "captain": "Virgil van Dijk",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Netherlands Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Netherlands Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Netherlands Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Virgil van Dijk",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Netherlands Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group F",
+          "note": "Netherlands competes in Group F of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Netherlands enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
       ]
     },
     {
       "slug": "japan",
       "name": "Japan",
       "code": "JPN",
+      "group": "Group F",
       "region": "AFC",
       "ranking": 18,
       "coach": "Hajime Moriyasu",
       "captain": "Wataru Endo",
       "titles": 0,
-      "marketValue": "EUR 315M",
-      "averageAge": "26.4",
-      "form": ["W", "W", "W", "D", "W", "L", "W", "W", "D", "W"],
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
       "players": [
-        { "no": 6, "name": "Wataru Endo", "position": "Midfielder", "club": "Liverpool", "age": 33 },
-        { "no": 14, "name": "Takefusa Kubo", "position": "Forward", "club": "Real Sociedad", "age": 25 },
-        { "no": 7, "name": "Kaoru Mitoma", "position": "Forward", "club": "Brighton", "age": 29 }
+        {
+          "no": 1,
+          "name": "Japan Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Japan Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Japan Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Wataru Endo",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Japan Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
       ],
       "history": [
-        { "year": 2022, "result": "Round of 16", "note": "Topped a difficult group before a penalty shootout exit." }
+        {
+          "year": 2026,
+          "result": "Group F",
+          "note": "Japan competes in Group F of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Japan enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "sweden",
+      "name": "Sweden",
+      "code": "SWE",
+      "group": "Group F",
+      "region": "UEFA",
+      "ranking": 28,
+      "coach": "Jon Dahl Tomasson",
+      "captain": "Victor Lindelof",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Sweden Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Sweden Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Sweden Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Victor Lindelof",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Sweden Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group F",
+          "note": "Sweden competes in Group F of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Sweden enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "tunisia",
+      "name": "Tunisia",
+      "code": "TUN",
+      "group": "Group F",
+      "region": "CAF",
+      "ranking": 52,
+      "coach": "Sami Trabelsi",
+      "captain": "Youssef Msakni",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Tunisia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Tunisia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Tunisia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Youssef Msakni",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Tunisia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group F",
+          "note": "Tunisia competes in Group F of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Tunisia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "belgium",
+      "name": "Belgium",
+      "code": "BEL",
+      "group": "Group G",
+      "region": "UEFA",
+      "ranking": 8,
+      "coach": "Rudi Garcia",
+      "captain": "Kevin De Bruyne",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Belgium Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Belgium Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Belgium Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Kevin De Bruyne",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Belgium Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group G",
+          "note": "Belgium competes in Group G of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Belgium enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "egypt",
+      "name": "Egypt",
+      "code": "EGY",
+      "group": "Group G",
+      "region": "CAF",
+      "ranking": 34,
+      "coach": "Hossam Hassan",
+      "captain": "Mohamed Salah",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Egypt Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Egypt Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Egypt Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Mohamed Salah",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Egypt Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group G",
+          "note": "Egypt competes in Group G of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Egypt enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "iran",
+      "name": "Iran",
+      "code": "IRN",
+      "group": "Group G",
+      "region": "AFC",
+      "ranking": 21,
+      "coach": "Amir Ghalenoei",
+      "captain": "Alireza Jahanbakhsh",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Iran Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Iran Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Iran Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Alireza Jahanbakhsh",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Iran Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group G",
+          "note": "Iran competes in Group G of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Iran enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "name": "New Zealand",
+      "code": "NZL",
+      "group": "Group G",
+      "region": "OFC",
+      "ranking": 90,
+      "coach": "Darren Bazeley",
+      "captain": "Chris Wood",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "New Zealand Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "New Zealand Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "New Zealand Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Chris Wood",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "New Zealand Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group G",
+          "note": "New Zealand competes in Group G of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "New Zealand enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "spain",
+      "name": "Spain",
+      "code": "ESP",
+      "group": "Group H",
+      "region": "UEFA",
+      "ranking": 3,
+      "coach": "Luis de la Fuente",
+      "captain": "Rodri",
+      "titles": 1,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Spain Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Spain Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Spain Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Rodri",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Spain Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group H",
+          "note": "Spain competes in Group H of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "Spain enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "cabo-verde",
+      "name": "Cabo Verde",
+      "code": "CPV",
+      "group": "Group H",
+      "region": "CAF",
+      "ranking": 72,
+      "coach": "Bubista",
+      "captain": "Ryan Mendes",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Cabo Verde Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Cabo Verde Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Cabo Verde Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Ryan Mendes",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Cabo Verde Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group H",
+          "note": "Cabo Verde competes in Group H of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Cabo Verde enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "saudi-arabia",
+      "name": "Saudi Arabia",
+      "code": "SAU",
+      "group": "Group H",
+      "region": "AFC",
+      "ranking": 59,
+      "coach": "Herve Renard",
+      "captain": "Salem Al-Dawsari",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Saudi Arabia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Saudi Arabia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Saudi Arabia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Salem Al-Dawsari",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Saudi Arabia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group H",
+          "note": "Saudi Arabia competes in Group H of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Saudi Arabia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "uruguay",
+      "name": "Uruguay",
+      "code": "URU",
+      "group": "Group H",
+      "region": "CONMEBOL",
+      "ranking": 15,
+      "coach": "Marcelo Bielsa",
+      "captain": "Federico Valverde",
+      "titles": 2,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Uruguay Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Uruguay Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Uruguay Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Federico Valverde",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Uruguay Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group H",
+          "note": "Uruguay competes in Group H of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "Uruguay enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "france",
+      "name": "France",
+      "code": "FRA",
+      "group": "Group I",
+      "region": "UEFA",
+      "ranking": 2,
+      "coach": "Didier Deschamps",
+      "captain": "Kylian Mbappe",
+      "titles": 2,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "France Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "France Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "France Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Kylian Mbappe",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "France Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group I",
+          "note": "France competes in Group I of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "France enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "senegal",
+      "name": "Senegal",
+      "code": "SEN",
+      "group": "Group I",
+      "region": "CAF",
+      "ranking": 19,
+      "coach": "Pape Thiaw",
+      "captain": "Kalidou Koulibaly",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Senegal Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Senegal Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Senegal Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Kalidou Koulibaly",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Senegal Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group I",
+          "note": "Senegal competes in Group I of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Senegal enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "iraq",
+      "name": "Iraq",
+      "code": "IRQ",
+      "group": "Group I",
+      "region": "AFC",
+      "ranking": 58,
+      "coach": "Jesus Casas",
+      "captain": "Jalal Hassan",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Iraq Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Iraq Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Iraq Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Jalal Hassan",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Iraq Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group I",
+          "note": "Iraq competes in Group I of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Iraq enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "norway",
+      "name": "Norway",
+      "code": "NOR",
+      "group": "Group I",
+      "region": "UEFA",
+      "ranking": 32,
+      "coach": "Stale Solbakken",
+      "captain": "Martin Odegaard",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Norway Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Norway Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Norway Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Martin Odegaard",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Norway Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group I",
+          "note": "Norway competes in Group I of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Norway enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "code": "ARG",
+      "group": "Group J",
+      "region": "CONMEBOL",
+      "ranking": 1,
+      "coach": "Lionel Scaloni",
+      "captain": "Lionel Messi",
+      "titles": 3,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Argentina Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Argentina Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Argentina Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Lionel Messi",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Argentina Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group J",
+          "note": "Argentina competes in Group J of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "Argentina enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "algeria",
+      "name": "Algeria",
+      "code": "ALG",
+      "group": "Group J",
+      "region": "CAF",
+      "ranking": 37,
+      "coach": "Vladimir Petkovic",
+      "captain": "Riyad Mahrez",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Algeria Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Algeria Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Algeria Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Riyad Mahrez",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Algeria Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group J",
+          "note": "Algeria competes in Group J of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Algeria enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "austria",
+      "name": "Austria",
+      "code": "AUT",
+      "group": "Group J",
+      "region": "UEFA",
+      "ranking": 24,
+      "coach": "Ralf Rangnick",
+      "captain": "David Alaba",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Austria Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Austria Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Austria Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "David Alaba",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Austria Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group J",
+          "note": "Austria competes in Group J of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Austria enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "jordan",
+      "name": "Jordan",
+      "code": "JOR",
+      "group": "Group J",
+      "region": "AFC",
+      "ranking": 68,
+      "coach": "Jamal Sellami",
+      "captain": "Musa Al-Taamari",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Jordan Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Jordan Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Jordan Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Musa Al-Taamari",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Jordan Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group J",
+          "note": "Jordan competes in Group J of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Jordan enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "portugal",
+      "name": "Portugal",
+      "code": "POR",
+      "group": "Group K",
+      "region": "UEFA",
+      "ranking": 6,
+      "coach": "Roberto Martinez",
+      "captain": "Cristiano Ronaldo",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Portugal Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Portugal Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Portugal Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Cristiano Ronaldo",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Portugal Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group K",
+          "note": "Portugal competes in Group K of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Portugal enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "dr-congo",
+      "name": "DR Congo",
+      "code": "COD",
+      "group": "Group K",
+      "region": "CAF",
+      "ranking": 56,
+      "coach": "Sebastien Desabre",
+      "captain": "Chancel Mbemba",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "DR Congo Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "DR Congo Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "DR Congo Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Chancel Mbemba",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "DR Congo Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group K",
+          "note": "DR Congo competes in Group K of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "DR Congo enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "uzbekistan",
+      "name": "Uzbekistan",
+      "code": "UZB",
+      "group": "Group K",
+      "region": "AFC",
+      "ranking": 57,
+      "coach": "Srecko Katanec",
+      "captain": "Eldor Shomurodov",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Uzbekistan Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Uzbekistan Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Uzbekistan Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Eldor Shomurodov",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Uzbekistan Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group K",
+          "note": "Uzbekistan competes in Group K of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Uzbekistan enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "colombia",
+      "name": "Colombia",
+      "code": "COL",
+      "group": "Group K",
+      "region": "CONMEBOL",
+      "ranking": 13,
+      "coach": "Nestor Lorenzo",
+      "captain": "James Rodriguez",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Colombia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Colombia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Colombia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "James Rodriguez",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Colombia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group K",
+          "note": "Colombia competes in Group K of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Colombia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "england",
+      "name": "England",
+      "code": "ENG",
+      "group": "Group L",
+      "region": "UEFA",
+      "ranking": 4,
+      "coach": "Thomas Tuchel",
+      "captain": "Harry Kane",
+      "titles": 1,
+      "marketValue": "Elite contender",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "England Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "England Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "England Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Harry Kane",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "England Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group L",
+          "note": "England competes in Group L of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "Previous champion pedigree",
+          "note": "England enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "croatia",
+      "name": "Croatia",
+      "code": "CRO",
+      "group": "Group L",
+      "region": "UEFA",
+      "ranking": 10,
+      "coach": "Zlatko Dalic",
+      "captain": "Luka Modric",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Croatia Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Croatia Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Croatia Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Luka Modric",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Croatia Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group L",
+          "note": "Croatia competes in Group L of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Croatia enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "ghana",
+      "name": "Ghana",
+      "code": "GHA",
+      "group": "Group L",
+      "region": "CAF",
+      "ranking": 77,
+      "coach": "Otto Addo",
+      "captain": "Thomas Partey",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Ghana Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Ghana Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Ghana Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Thomas Partey",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Ghana Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group L",
+          "note": "Ghana competes in Group L of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Ghana enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
+      ]
+    },
+    {
+      "slug": "panama",
+      "name": "Panama",
+      "code": "PAN",
+      "group": "Group L",
+      "region": "CONCACAF",
+      "ranking": 45,
+      "coach": "Thomas Christiansen",
+      "captain": "Anibal Godoy",
+      "titles": 0,
+      "marketValue": "Tournament squad",
+      "averageAge": "Tournament roster",
+      "form": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "players": [
+        {
+          "no": 1,
+          "name": "Panama Goalkeeper",
+          "position": "Goalkeeper",
+          "club": "National squad pool",
+          "age": 29
+        },
+        {
+          "no": 4,
+          "name": "Panama Defender",
+          "position": "Defender",
+          "club": "National squad pool",
+          "age": 27
+        },
+        {
+          "no": 8,
+          "name": "Panama Midfielder",
+          "position": "Midfielder",
+          "club": "National squad pool",
+          "age": 26
+        },
+        {
+          "no": 10,
+          "name": "Anibal Godoy",
+          "position": "Captain",
+          "club": "National squad pool",
+          "age": 30
+        },
+        {
+          "no": 11,
+          "name": "Panama Forward",
+          "position": "Forward",
+          "club": "National squad pool",
+          "age": 25
+        }
+      ],
+      "history": [
+        {
+          "year": 2026,
+          "result": "Group L",
+          "note": "Panama competes in Group L of the expanded 48-team tournament."
+        },
+        {
+          "year": 2022,
+          "result": "World Cup qualification cycle",
+          "note": "Panama enters CupCalendar's 2026 data hub with fixtures, standings, and match pages."
+        }
       ]
     }
   ],
   "venues": [
-    { "slug": "estadio-azteca", "name": "Estadio Azteca", "city": "Mexico City", "country": "Mexico", "capacity": "87,523", "matches": 5 },
-    { "slug": "metlife-stadium", "name": "MetLife Stadium", "city": "New York New Jersey", "country": "United States", "capacity": "82,500", "matches": 8 },
-    { "slug": "sofi-stadium", "name": "SoFi Stadium", "city": "Los Angeles", "country": "United States", "capacity": "70,240", "matches": 8 },
-    { "slug": "bc-place", "name": "BC Place", "city": "Vancouver", "country": "Canada", "capacity": "54,500", "matches": 7 }
+    {
+      "slug": "estadio-azteca",
+      "name": "Estadio Azteca",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "capacity": "87,523",
+      "matches": 5
+    },
+    {
+      "slug": "estadio-akron",
+      "name": "Estadio Akron",
+      "city": "Guadalajara",
+      "country": "Mexico",
+      "capacity": "48,071",
+      "matches": 5
+    },
+    {
+      "slug": "estadio-bbva",
+      "name": "Estadio BBVA",
+      "city": "Monterrey",
+      "country": "Mexico",
+      "capacity": "53,500",
+      "matches": 5
+    },
+    {
+      "slug": "bmo-field",
+      "name": "BMO Field",
+      "city": "Toronto",
+      "country": "Canada",
+      "capacity": "45,736",
+      "matches": 4
+    },
+    {
+      "slug": "bc-place",
+      "name": "BC Place",
+      "city": "Vancouver",
+      "country": "Canada",
+      "capacity": "54,500",
+      "matches": 6
+    },
+    {
+      "slug": "sofi-stadium",
+      "name": "SoFi Stadium",
+      "city": "Los Angeles",
+      "country": "United States",
+      "capacity": "70,240",
+      "matches": 7
+    },
+    {
+      "slug": "metlife-stadium",
+      "name": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "country": "United States",
+      "capacity": "82,500",
+      "matches": 5
+    },
+    {
+      "slug": "att-stadium",
+      "name": "AT&T Stadium",
+      "city": "Dallas",
+      "country": "United States",
+      "capacity": "80,000",
+      "matches": 4
+    },
+    {
+      "slug": "mercedes-benz-stadium",
+      "name": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "country": "United States",
+      "capacity": "71,000",
+      "matches": 4
+    },
+    {
+      "slug": "gillette-stadium",
+      "name": "Gillette Stadium",
+      "city": "Boston",
+      "country": "United States",
+      "capacity": "65,878",
+      "matches": 4
+    },
+    {
+      "slug": "nrg-stadium",
+      "name": "NRG Stadium",
+      "city": "Houston",
+      "country": "United States",
+      "capacity": "72,220",
+      "matches": 3
+    },
+    {
+      "slug": "arrowhead-stadium",
+      "name": "GEHA Field at Arrowhead Stadium",
+      "city": "Kansas City",
+      "country": "United States",
+      "capacity": "76,416",
+      "matches": 3
+    },
+    {
+      "slug": "lincoln-financial-field",
+      "name": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "country": "United States",
+      "capacity": "69,796",
+      "matches": 3
+    },
+    {
+      "slug": "lumen-field",
+      "name": "Lumen Field",
+      "city": "Seattle",
+      "country": "United States",
+      "capacity": "68,740",
+      "matches": 5
+    },
+    {
+      "slug": "levis-stadium",
+      "name": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
+      "country": "United States",
+      "capacity": "68,500",
+      "matches": 6
+    },
+    {
+      "slug": "hard-rock-stadium",
+      "name": "Hard Rock Stadium",
+      "city": "Miami",
+      "country": "United States",
+      "capacity": "65,326",
+      "matches": 3
+    }
   ],
   "champions": [
-    { "year": 2022, "winner": "Argentina", "runnerUp": "France", "score": "3-3 (4-2 pens)", "host": "Qatar" },
-    { "year": 2018, "winner": "France", "runnerUp": "Croatia", "score": "4-2", "host": "Russia" },
-    { "year": 2014, "winner": "Germany", "runnerUp": "Argentina", "score": "1-0", "host": "Brazil" },
-    { "year": 2010, "winner": "Spain", "runnerUp": "Netherlands", "score": "1-0", "host": "South Africa" }
+    {
+      "year": 2022,
+      "winner": "Argentina",
+      "runnerUp": "France",
+      "score": "3-3 (4-2 pens)",
+      "host": "Qatar"
+    },
+    {
+      "year": 2018,
+      "winner": "France",
+      "runnerUp": "Croatia",
+      "score": "4-2",
+      "host": "Russia"
+    },
+    {
+      "year": 2014,
+      "winner": "Germany",
+      "runnerUp": "Argentina",
+      "score": "1-0",
+      "host": "Brazil"
+    },
+    {
+      "year": 2010,
+      "winner": "Spain",
+      "runnerUp": "Netherlands",
+      "score": "1-0",
+      "host": "South Africa"
+    }
   ],
   "scorers": [
-    { "rank": 1, "player": "Miroslav Klose", "country": "Germany", "goals": 16 },
-    { "rank": 2, "player": "Ronaldo", "country": "Brazil", "goals": 15 },
-    { "rank": 3, "player": "Gerd Muller", "country": "Germany", "goals": 14 },
-    { "rank": 4, "player": "Lionel Messi", "country": "Argentina", "goals": 13 },
-    { "rank": 5, "player": "Just Fontaine", "country": "France", "goals": 13 }
+    {
+      "rank": 1,
+      "player": "Miroslav Klose",
+      "country": "Germany",
+      "goals": 16
+    },
+    {
+      "rank": 2,
+      "player": "Ronaldo",
+      "country": "Brazil",
+      "goals": 15
+    },
+    {
+      "rank": 3,
+      "player": "Gerd Muller",
+      "country": "Germany",
+      "goals": 14
+    },
+    {
+      "rank": 4,
+      "player": "Lionel Messi",
+      "country": "Argentina",
+      "goals": 13
+    },
+    {
+      "rank": 5,
+      "player": "Just Fontaine",
+      "country": "France",
+      "goals": 13
+    }
   ],
   "news": [
-    { "source": "FIFA", "tag": "Official", "title": "Host cities prepare fan zones for the 2026 FIFA World Cup", "time": "2026-06-14" },
-    { "source": "BBC Sport", "tag": "Analysis", "title": "How the 48-team format changes the group-stage math", "time": "2026-06-13" },
-    { "source": "ESPN", "tag": "Preview", "title": "Contenders, dark horses, and the squads to watch this summer", "time": "2026-06-12" }
+    {
+      "source": "FIFA",
+      "tag": "Official",
+      "title": "2026 World Cup opens with the expanded 48-team group stage",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "SB Nation",
+      "tag": "Schedule",
+      "title": "Full group-stage schedule lists matches from June 11 through June 27",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "The Guardian",
+      "tag": "Live",
+      "title": "Scotland edge Haiti in Group C opener",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "The Guardian",
+      "tag": "Report",
+      "title": "Brazil and Morocco share points in Group C",
+      "time": "2026-06-13"
+    },
+    {
+      "source": "FOX",
+      "tag": "Broadcast",
+      "title": "Group-stage broadcast windows span FOX and FS1",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "FIFA",
+      "tag": "Venues",
+      "title": "Host cities across Canada, Mexico, and the United States stage the tournament",
+      "time": "2026-06-12"
+    },
+    {
+      "source": "CupCalendar",
+      "tag": "Tools",
+      "title": "Calendar downloads and timezone conversion are available for fixture planning",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "CupCalendar",
+      "tag": "Standings",
+      "title": "Group tables update from completed match results",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "CupCalendar",
+      "tag": "Teams",
+      "title": "All 48 team pages now connect squads, fixtures, form, and history",
+      "time": "2026-06-14"
+    },
+    {
+      "source": "CupCalendar",
+      "tag": "SEO",
+      "title": "The 2026 sitemap now exposes every match, team, venue, and language route",
+      "time": "2026-06-14"
+    }
   ],
   "monetization": {
     "googleAnalyticsId": "G-H9JLLHT5KN",

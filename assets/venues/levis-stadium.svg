@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img" aria-label="Levi's Stadium venue image">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#003478"/>
+      <stop offset=".55" stop-color="#395da2"/>
+      <stop offset="1" stop-color="#ff6b35"/>
+    </linearGradient>
+    <radialGradient id="pitch" cx="50%" cy="52%" r="55%">
+      <stop offset="0" stop-color="#20b15a"/>
+      <stop offset="1" stop-color="#0b6b3a"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="560" fill="url(#sky)"/>
+  <circle cx="775" cy="95" r="58" fill="#d4af37" opacity=".88"/>
+  <path d="M90 332c110-92 250-138 420-138s310 46 420 138v72H90z" fill="#0f1b2d" opacity=".88"/>
+  <path d="M144 345c92-62 214-96 366-96s274 34 366 96" fill="none" stroke="#e8eefb" stroke-width="22" opacity=".75"/>
+  <ellipse cx="510" cy="395" rx="330" ry="96" fill="url(#pitch)"/>
+  <ellipse cx="510" cy="395" rx="182" ry="52" fill="none" stroke="#ffffff" stroke-width="5" opacity=".82"/>
+  <line x1="510" y1="299" x2="510" y2="491" stroke="#ffffff" stroke-width="5" opacity=".72"/>
+  <rect x="48" y="42" width="430" height="126" rx="10" fill="rgba(255,255,255,.88)"/>
+  <text x="76" y="94" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#00204e">Levi's Stadium</text>
+  <text x="76" y="132" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#434751">San Francisco Bay Area, United States · 68,500</text>
+</svg>

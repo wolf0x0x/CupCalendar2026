@@ -222,7 +222,7 @@ function layout({ route, lang = "en", title, description, active, h1, intro, bod
       <div class="nav-actions">
         <label class="search">
           <span aria-hidden="true">Search</span>
-          <input type="search" placeholder="Search...">
+          <input type="search" aria-label="Search CupCalendar">
         </label>
         <button class="icon-btn" aria-label="Change language" title="Language">${dict.langBtn}</button>
         <button class="icon-btn" data-menu-button aria-expanded="false" aria-label="Open menu">Menu</button>
@@ -300,6 +300,7 @@ function renderAdSlot(format = "square") {
 
 function matchCard(match, lang) {
   const statusClass = match.status.toLowerCase().includes("live") || match.status.toLowerCase().includes("upcoming") ? "" : " muted";
+  const matchNote = match.status === "Final" ? "Final result" : (match.network ? `TV: ${match.network}` : "Kickoff scheduled");
   return `<article class="match-card" data-match-start="${isoStart(match)}" data-match-label="${esc(match.home)} vs ${esc(match.away)}" data-match-id="${esc(match.id)}" data-match-venue="${esc(match.venue)}">
     <div class="match-meta">
       <strong>${esc(match.venue)}, ${esc(match.city)}</strong>
@@ -308,7 +309,7 @@ function matchCard(match, lang) {
     </div>
     <div class="scoreline">
       <div><span class="team-badge"><img src="${teamImage(match.homeCode)}" alt="${esc(match.home)} team image" loading="lazy"></span><strong>${esc(match.home)}</strong></div>
-      <div><div class="score">${esc(match.score)}</div><div class="prediction">Projected: ${esc(match.prediction)}</div></div>
+      <div><div class="score">${esc(match.score)}</div><div class="prediction">${esc(matchNote)}</div></div>
       <div><span class="team-badge"><img src="${teamImage(match.awayCode)}" alt="${esc(match.away)} team image" loading="lazy"></span><strong>${esc(match.away)}</strong></div>
     </div>
     <div class="match-actions">
@@ -452,7 +453,7 @@ function schedulePage(lang) {
 function teamsPage(lang) {
   return `<section class="container section">
     <div class="toolbar">
-      <input data-team-search type="search" placeholder="Search teams..." aria-label="Search teams">
+      <input data-team-search type="search" aria-label="Search teams">
     </div>
     <div class="grid four section">${data.teams.map(t => teamCard(t, lang)).join("")}</div>
   </section>`;
@@ -466,7 +467,7 @@ function teamPage(team, lang) {
       <div class="profile-main">
         <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} team image" loading="lazy"></div>
         <div>
-          <h1>${esc(team.name)}</h1>
+          <h1>2026 FIFA World Cup ${esc(team.name)} Team Profile</h1>
         </div>
       </div>
     </header>
@@ -496,7 +497,7 @@ function venuePage(venue, lang) {
     <div class="layout">
       <article class="panel">
         <div class="venue-media large"><img src="${venueImage(venue)}" alt="${esc(venue.name)} venue image" loading="lazy"></div>
-        <h2>${esc(venue.name)} Guide</h2>
+        <h1>2026 FIFA World Cup ${esc(venue.name)} Venue Guide</h1>
         <div class="grid three">
           <div class="card"><strong>City</strong><p>${esc(venue.city)}, ${esc(venue.country)}</p></div>
           <div class="card"><strong>Capacity</strong><p>${esc(venue.capacity)}</p></div>
@@ -540,7 +541,7 @@ function newsPage(lang) {
 function matchDetailPage(match, lang) {
   return `<section class="container section">
     <div class="panel">
-      <h2>${esc(match.home)} vs ${esc(match.away)}</h2>
+      <h1>2026 FIFA World Cup ${esc(match.home)} vs ${esc(match.away)}</h1>
       <div class="score">${esc(match.score)}</div>
     </div>
   </section>`;
@@ -595,24 +596,24 @@ async function build() {
     const dict = i18n[lang] || i18n.en;
 
     await writeRoute(`/2026/${lang}/`, layout({ route: `/2026/${lang}/`, lang, title: `${dict.homeTitle}`, description: dict.desc, body: homePage(lang) }), "0.95");
-    await writeRoute(`/2026/${lang}/schedule/`, layout({ route: `/2026/${lang}/schedule/`, lang, title: `${dict.schedule} | CupCalendar`, description: dict.desc, h1: dict.schedule, body: schedulePage(lang) }), "0.95");
-    await writeRoute(`/2026/${lang}/teams/`, layout({ route: `/2026/${lang}/teams/`, lang, title: `${dict.teams} | CupCalendar`, description: dict.desc, h1: dict.teams, body: teamsPage(lang) }), "0.9");
+    await writeRoute(`/2026/${lang}/schedule/`, layout({ route: `/2026/${lang}/schedule/`, lang, title: `2026 FIFA World Cup ${dict.schedule} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.schedule}`, body: schedulePage(lang) }), "0.95");
+    await writeRoute(`/2026/${lang}/teams/`, layout({ route: `/2026/${lang}/teams/`, lang, title: `2026 FIFA World Cup ${dict.teams} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.teams}`, body: teamsPage(lang) }), "0.9");
 
     for (const team of data.teams) {
-      await writeRoute(`/2026/${lang}/teams/${team.slug}/`, layout({ route: `/2026/${lang}/teams/${team.slug}/`, lang, title: `${team.name} Profile | CupCalendar`, description: dict.desc, body: teamPage(team, lang) }), "0.82");
+      await writeRoute(`/2026/${lang}/teams/${team.slug}/`, layout({ route: `/2026/${lang}/teams/${team.slug}/`, lang, title: `2026 FIFA World Cup ${team.name} Team Profile | CupCalendar`, description: dict.desc, body: teamPage(team, lang) }), "0.82");
     }
 
-    await writeRoute(`/2026/${lang}/venues/`, layout({ route: `/2026/${lang}/venues/`, lang, title: `${dict.venues} | CupCalendar`, description: dict.desc, h1: dict.venues, body: venuesPage(lang) }), "0.82");
+    await writeRoute(`/2026/${lang}/venues/`, layout({ route: `/2026/${lang}/venues/`, lang, title: `2026 FIFA World Cup ${dict.venues} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.venues}`, body: venuesPage(lang) }), "0.82");
     for (const venue of data.venues) {
-      await writeRoute(`/2026/${lang}/venues/${venue.slug}/`, layout({ route: `/2026/${lang}/venues/${venue.slug}/`, lang, title: `${venue.name} Guide | CupCalendar`, description: dict.desc, body: venuePage(venue, lang) }), "0.7");
+      await writeRoute(`/2026/${lang}/venues/${venue.slug}/`, layout({ route: `/2026/${lang}/venues/${venue.slug}/`, lang, title: `2026 FIFA World Cup ${venue.name} Venue Guide | CupCalendar`, description: dict.desc, body: venuePage(venue, lang) }), "0.7");
     }
 
-    await writeRoute(`/2026/${lang}/tools/`, layout({ route: `/2026/${lang}/tools/`, lang, title: `${dict.tools} | CupCalendar`, description: dict.desc, h1: dict.tools, body: toolsPage(lang) }), "0.85");
-    await writeRoute(`/2026/${lang}/history/`, layout({ route: `/2026/${lang}/history/`, lang, title: `${dict.history} | CupCalendar`, description: dict.desc, h1: dict.history, body: historyPage(lang) }), "0.72");
-    await writeRoute(`/2026/${lang}/news/`, layout({ route: `/2026/${lang}/news/`, lang, title: `${dict.news} | CupCalendar`, description: dict.desc, h1: dict.news, body: newsPage(lang) }), "0.7");
+    await writeRoute(`/2026/${lang}/tools/`, layout({ route: `/2026/${lang}/tools/`, lang, title: `2026 FIFA World Cup ${dict.tools} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.tools}`, body: toolsPage(lang) }), "0.85");
+    await writeRoute(`/2026/${lang}/history/`, layout({ route: `/2026/${lang}/history/`, lang, title: `2026 FIFA World Cup ${dict.history} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.history}`, body: historyPage(lang) }), "0.72");
+    await writeRoute(`/2026/${lang}/news/`, layout({ route: `/2026/${lang}/news/`, lang, title: `2026 FIFA World Cup ${dict.news} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.news}`, body: newsPage(lang) }), "0.7");
 
     for (const match of data.matches) {
-      await writeRoute(`/2026/${lang}/matches/${match.id}/`, layout({ route: `/2026/${lang}/matches/${match.id}/`, lang, title: `${match.home} vs ${match.away} | CupCalendar`, description: dict.desc, body: matchDetailPage(match, lang) }), "0.7");
+      await writeRoute(`/2026/${lang}/matches/${match.id}/`, layout({ route: `/2026/${lang}/matches/${match.id}/`, lang, title: `2026 FIFA World Cup ${match.home} vs ${match.away} | CupCalendar`, description: dict.desc, body: matchDetailPage(match, lang) }), "0.7");
     }
 
     await writeRoute(`/2026/${lang}/privacy/`, simplePolicy(`/2026/${lang}/privacy/`, lang, "Privacy Policy", "Privacy Policy"), "0.2");

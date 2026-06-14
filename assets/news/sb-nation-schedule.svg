@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="360" viewBox="0 0 560 360" role="img" aria-label="Schedule news image">
+  <rect width="560" height="360" rx="24" fill="#e8eefb"/>
+  <rect x="32" y="32" width="496" height="296" rx="18" fill="#ffffff"/>
+  <rect x="32" y="32" width="496" height="84" rx="18" fill="#003478"/>
+  <circle cx="90" cy="74" r="24" fill="#ff6b35"/>
+  <text x="132" y="84" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="800" fill="#ffffff">Schedule</text>
+  <text x="62" y="174" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#00204e">SB Nation</text>
+  <path d="M62 218h388M62 252h336M62 286h260" stroke="#cfd6e4" stroke-width="16" stroke-linecap="round"/>
+</svg>
