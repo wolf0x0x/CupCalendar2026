@@ -1126,3 +1126,24 @@ tbody tr.bubble {
     padding-bottom: 112px;
   }
 }
+
+/* H5 移动端深度适配与表格防溢出调优 */
+@media (max-width: 760px) {
+  .table-scroll {
+    width: 100% !important;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch !important; /* 强制 iOS 丝滑滚动 */
+    margin-bottom: 16px;
+    border-radius: var(--radius);
+  }
+  table {
+    min-width: 520px !important; /* 确保列数据在窄屏下不被过分压缩 */
+  }
+  .match-card {
+    padding: 16px !important;
+    gap: 14px !important;
+  }
+  .score {
+    font-size: 38px !important;
+  }
+}

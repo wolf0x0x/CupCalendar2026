@@ -26,6 +26,61 @@ function setupMenu() {
   });
 }
 
+// 问题 2 修复：为多语言切换按钮绑定 H5 弹窗或下拉逻辑，智能提取当前路由并完成语种跨目录平滑跳转
+function setupLanguageSwitcher() {
+  const langBtn = document.querySelector(".nav-actions .icon-btn[title='Language']");
+  if (!langBtn) return;
+
+  langBtn.addEventListener("click", () => {
+    const currentPath = window.location.pathname;
+    const languages = [
+      { code: "en", label: "English" },
+      { code: "zh", label: "中文" },
+      { code: "es", label: "Español" },
+      { code: "pt", label: "Português" },
+      { code: "fr", label: "Français" },
+      { code: "de", label: "Deutsch" },
+      { code: "ja", label: "日本語" }
+    ];
+
+    // 构建一个优雅的 H5 弹窗选择器
+    const overlay = document.createElement("div");
+    overlay.style = "position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:100;display:flex;align-items:center;justify-content:center;padding:20px;backdrop-filter:blur(4px);";
+
+    const dialog = document.createElement("div");
+    dialog.style = "background:#fff;width:100%;max-width:320px;border-radius:12px;padding:24px;box-shadow:0 20px 40px rgba(0,0,0,0.3);";
+
+    let listHtml = `<h3 style="margin:0 0 16px 0;font-family:Inter,sans-serif;color:#003478;">Select Language</h3>`;
+    languages.forEach(lang => {
+      listHtml += `<button data-lang="${lang.code}" style="width:100%;padding:12px;margin:4px 0;background:#f8fafc;border:1px solid #e2e8f0;border-radius:8px;font-weight:bold;cursor:pointer;text-align:left;">${lang.label}</button>`;
+    });
+
+    dialog.innerHTML = listHtml;
+    overlay.appendChild(dialog);
+    document.body.appendChild(overlay);
+
+    // 监听关闭与跳转
+    overlay.addEventListener("click", (e) => {
+      if (e.target === overlay) overlay.remove();
+    });
+
+    dialog.querySelectorAll("button").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const targetLang = btn.dataset.lang;
+        // 动态替换路径中的语言前缀：/2026/old_lang/path -> /2026/target_lang/path
+        const pathSegments = currentPath.split("/");
+        if (pathSegments[1] === "2026" && pathSegments[2]) {
+          pathSegments[2] = targetLang;
+          window.location.href = pathSegments.join("/");
+        } else {
+          window.location.href = `/2026/${targetLang}/`;
+        }
+        overlay.remove();
+      });
+    });
+  });
+}
+
 function setupTeamSearch() {
   const input = document.querySelector("[data-team-search]");
   if (!input) return;
@@ -55,6 +110,7 @@ function setupTimezone() {
     output.innerHTML = "";
     document.querySelectorAll("[data-match-start]").forEach((node) => {
       const row = document.createElement("li");
+      row.style = "padding:10px; border-bottom:1px solid #e2e8f0; list-style:none;";
       row.textContent = `${node.dataset.matchLabel}: ${formatter.format(new Date(node.dataset.matchStart))}`;
       output.append(row);
     });
@@ -108,6 +164,7 @@ function setupIcsDownload() {
 updateCountdown();
 setInterval(updateCountdown, 1000);
 setupMenu();
+setupLanguageSwitcher();
 setupTeamSearch();
 setupTimezone();
 setupIcsDownload();
