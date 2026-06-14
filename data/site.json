@@ -235,8 +235,8 @@
       "away": "Curaçao",
       "homeCode": "GER",
       "awayCode": "CUW",
-      "score": "0 - 0",
-      "status": "notstarted",
+      "score": "4 - 1",
+      "status": "live",
       "network": "FOX",
       "prediction": "TV: FOX",
       "ticketUrl": "https://www.fifa.com/tickets",
@@ -5981,7 +5981,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-14T15:26:14.436Z",
+    "fetchedAt": "2026-06-14T18:17:24.886Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },
