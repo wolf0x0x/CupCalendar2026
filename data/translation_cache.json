@@ -400,7 +400,7 @@
       "ja": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "zh": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates"
     },
-    "last_used": "2026-06-14T14:49:58.951Z"
+    "last_used": "2026-06-14T17:50:23.342Z"
   },
   "883ca6cc749296192c28995e1b0d5cf1": {
     "hash": "883ca6cc749296192c28995e1b0d5cf1",
@@ -413,7 +413,7 @@
       "ja": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "zh": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
     },
-    "last_used": "2026-06-14T14:49:58.951Z"
+    "last_used": "2026-06-14T17:50:23.342Z"
   },
   "9a9f4950ae830ad0bbeb98f15335dcb7": {
     "hash": "9a9f4950ae830ad0bbeb98f15335dcb7",
@@ -426,7 +426,7 @@
       "ja": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
       "zh": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync"
     },
-    "last_used": "2026-06-14T14:49:58.951Z"
+    "last_used": "2026-06-14T17:50:23.343Z"
   },
   "5e0ac3004e23988413add15c3809b5b0": {
     "hash": "5e0ac3004e23988413add15c3809b5b0",
@@ -439,6 +439,6 @@
       "ja": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
       "zh": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
     },
-    "last_used": "2026-06-14T14:49:58.952Z"
+    "last_used": "2026-06-14T17:50:23.343Z"
   }
 }

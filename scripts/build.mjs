@@ -7,6 +7,19 @@ const data = JSON.parse(await readFile(path.join(root, "data/site.json"), "utf8"
 
 const pageList = [];
 
+async function resetDir(dir, attempts = 3) {
+  for (let attempt = 1; attempt <= attempts; attempt += 1) {
+    try {
+      await rm(dir, { recursive: true, force: true });
+      break;
+    } catch (error) {
+      if (attempt === attempts || error?.code !== "ENOTEMPTY") throw error;
+      await new Promise((resolve) => setTimeout(resolve, attempt * 100));
+    }
+  }
+  await mkdir(dir, { recursive: true });
+}
+
 // 问题 2 & 3：全面消除英文字符硬编码，构建庞大的多语言本地化运行时字典
 const i18n = {
   en: {
@@ -700,8 +713,7 @@ function sitemap() {
 }
 
 async function build() {
-  await rm(dist, { recursive: true, force: true });
-  await mkdir(dist, { recursive: true });
+  await resetDir(dist);
 
   await cp(path.join(root, "assets"), path.join(dist, "assets"), { recursive: true });
   await copyFile(path.join(root, "assets/brand/favicon.svg"), path.join(dist, "favicon.svg"));

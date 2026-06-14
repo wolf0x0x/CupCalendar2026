@@ -5987,9 +5987,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-14T14:49:58.954Z",
+    "fetchedAt": "2026-06-14T17:50:23.345Z",
     "newsItems": 2,
-    "translationQueue": 24,
+    "translationQueue": 0,
     "errors": [
       {
         "source": "FIFA",
