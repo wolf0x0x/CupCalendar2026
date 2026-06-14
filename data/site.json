@@ -5940,36 +5940,308 @@
       }
     },
     {
-      "source": "CupCalendar",
-      "tag": "Data",
-      "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-      "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
-      "url": "https://cupcalendar.xyz/2026/",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Morocco's Bouaddi won't be underestimated again af...",
+      "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore.",
+      "url": "https://www.espn.com/espn/story/_/id/49054213/morocco-ayyoub-bouaddi-not-underestimated-again-casemiro-humbling",
       "time": "2026-06-14",
       "translations": {
         "es": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
         },
         "pt": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
         },
         "fr": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
         },
         "de": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
         },
         "ja": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
         },
         "zh": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Morocco's Bouaddi won't be underestimated again af...",
+          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+      "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
+      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "pt": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "fr": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "de": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "ja": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "zh": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Could Japan be the World Cup's dark horses?",
+      "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before.",
+      "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        },
+        "pt": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        },
+        "fr": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        },
+        "de": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        },
+        "ja": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        },
+        "zh": {
+          "title": "Could Japan be the World Cup's dark horses?",
+          "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+      "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-13",
+      "translations": {
+        "es": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+      "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-13",
+      "translations": {
+        "es": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+          "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+      "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
+      "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-13",
+      "translations": {
+        "es": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        },
+        "pt": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        },
+        "fr": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        },
+        "de": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        },
+        "ja": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        },
+        "zh": {
+          "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+          "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bellingham set to start, but no Guehi - England's expected team",
+      "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+      "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-12",
+      "translations": {
+        "es": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        },
+        "pt": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        },
+        "fr": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        },
+        "de": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        },
+        "ja": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        },
+        "zh": {
+          "title": "Bellingham set to start, but no Guehi - England's expected team",
+          "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "translations": {
+        "es": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         }
       }
     }
@@ -5987,34 +6259,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-14T17:50:23.345Z",
-    "newsItems": 2,
-    "translationQueue": 0,
+    "fetchedAt": "2026-06-14T20:51:17.182Z",
+    "newsItems": 16,
+    "translationQueue": 72,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "fetch failed"
-      },
-      {
-        "source": "ESPN",
-        "url": "https://www.espn.com/espn/rss/soccer/news",
-        "error": "fetch failed"
-      },
-      {
-        "source": "BBC",
-        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-        "error": "fetch failed"
-      },
-      {
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/rss",
-        "error": "fetch failed"
-      },
-      {
-        "source": "FOX",
-        "url": "https://api.foxsports.com/v1/rss?tag=soccer",
-        "error": "fetch failed"
+        "error": "HTTP 404"
       }
     ]
   }

@@ -36,38 +36,542 @@
     }
   },
   {
-    "source": "CupCalendar",
-    "tag": "Data",
-    "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-    "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
-    "url": "https://cupcalendar.xyz/2026/",
+    "id": "c4bbe41a2f81d9af1f0c4b3193855c47",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "Morocco's Bouaddi won't be underestimated again af...",
+    "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore.",
+    "url": "https://www.espn.com/espn/story/_/id/49054213/morocco-ayyoub-bouaddi-not-underestimated-again-casemiro-humbling",
     "time": "2026-06-14",
-    "id": "9a9f4950ae830ad0bbeb98f15335dcb7",
-    "titleHash": "8a093e4c6ed0bac9e6680982c3ef877f",
+    "titleHash": "d218e5d549ee9ed60a0ea66400002729",
     "translations": {
       "es": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
       },
       "pt": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
       },
       "fr": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
       },
       "de": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
       },
       "ja": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
       },
       "zh": {
-        "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-        "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+        "title": "Morocco's Bouaddi won't be underestimated again af...",
+        "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+      }
+    }
+  },
+  {
+    "id": "d0b5b6eb79732401585698caf0905fc0",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "Every team's odds to win the World Cup: Brazil's o...",
+    "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+    "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+    "time": "2026-06-14",
+    "titleHash": "2caceb77a19dd8233742abb1f4be8dbf",
+    "translations": {
+      "es": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "de": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "ec0166c99665f744fed238ab3d46c74f",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+    "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
+    "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-11",
+    "titleHash": "8566a2c0913197d214872da0e3fa34ee",
+    "translations": {
+      "es": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      },
+      "pt": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      },
+      "fr": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      },
+      "de": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      },
+      "ja": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      },
+      "zh": {
+        "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+        "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+      }
+    }
+  },
+  {
+    "id": "bde55ea45179f766954adea983f6cdd9",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Could Japan be the World Cup's dark horses?",
+    "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before.",
+    "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-14",
+    "titleHash": "ab2f852b90ef75df407efcaac65b3d99",
+    "translations": {
+      "es": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      },
+      "pt": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      },
+      "fr": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      },
+      "de": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      },
+      "ja": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      },
+      "zh": {
+        "title": "Could Japan be the World Cup's dark horses?",
+        "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before."
+      }
+    }
+  },
+  {
+    "id": "2bce9ce174febc20ddd830b3887802a6",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+    "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-13",
+    "titleHash": "430f21cf52f2eb2ded945f4bc74ce59e",
+    "translations": {
+      "es": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      },
+      "de": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
+        "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "83fdd301cba50358c21e982cac324fb7",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+    "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/videos/c3dy5nzjnr1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-13",
+    "titleHash": "f46ed743e2ab0c4b84269ec79c247f75",
+    "translations": {
+      "es": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      },
+      "de": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Vinicius Jr scores 'lightning bolt' equaliser for Brazil",
+        "summary": "Brazil's Vinicius Jr fires home a \"lightning bolt\" of a strike to level up the scores in against Morocco in their Group C match in the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "c8dcb525eecd1aeaf6a34cfdbae67ee5",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+    "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
+    "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-13",
+    "titleHash": "810e28afbe53bc7132beda1e910bd372",
+    "translations": {
+      "es": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      },
+      "pt": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      },
+      "fr": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      },
+      "de": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      },
+      "ja": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      },
+      "zh": {
+        "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
+        "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      }
+    }
+  },
+  {
+    "id": "b5ce39ec6a33ec17b03976c1a0db20db",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Bellingham set to start, but no Guehi - England's expected team",
+    "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+    "url": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-12",
+    "titleHash": "37849d1a12670d1520a9c6e20999690c",
+    "translations": {
+      "es": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      },
+      "pt": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      },
+      "fr": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      },
+      "de": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      },
+      "ja": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      },
+      "zh": {
+        "title": "Bellingham set to start, but no Guehi - England's expected team",
+        "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench."
+      }
+    }
+  },
+  {
+    "id": "ee0b23ce8b839adb6915751d1b327651",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Who will win the World Cup? BBC pundits make their predictions",
+    "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-10",
+    "titleHash": "e8dff0ad1282d5b9a676aff0fdd4fc4c",
+    "translations": {
+      "es": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      },
+      "de": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Who will win the World Cup? BBC pundits make their predictions",
+        "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "6f56125ae4715fa23fcf37885221eab5",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+    "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-10",
+    "titleHash": "25fe8575c7e94d7b66df024e3cdb26b0",
+    "translations": {
+      "es": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      },
+      "de": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "aa021c679299fda54dd620b1d0179606",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+    "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-09",
+    "titleHash": "ca5cb97e19ca5fa8058bccb5af2c3577",
+    "translations": {
+      "es": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      },
+      "pt": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      },
+      "fr": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      },
+      "de": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      },
+      "ja": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      },
+      "zh": {
+        "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at the 2026 World Cup",
+        "summary": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "e44c537c07b559e1209468928bfcfadf",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "What are the deadlines for World Cup squads?",
+    "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup",
+    "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-03",
+    "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56",
+    "translations": {
+      "es": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      },
+      "pt": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      },
+      "fr": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      },
+      "de": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      },
+      "ja": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      },
+      "zh": {
+        "title": "What are the deadlines for World Cup squads?",
+        "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      }
+    }
+  },
+  {
+    "id": "6a99f7dd658f761c70788a0c065ab7f3",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Netherlands v Japan: World Cup 2026 – live",
+    "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live",
+    "time": "2026-06-14",
+    "titleHash": "c11a612a15f9a1cf338a0d1b365fa8ed",
+    "translations": {
+      "es": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Netherlands v Japan: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "80d4ed1e3c226afdeace08eab3d971a9",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: guide to all 1,248 players",
+    "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+    "time": "2026-06-04",
+    "titleHash": "c22e31d790da527970ff06a0695b67b4",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "f6b4320af1a7ee512f6c8a8cccb49af5",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+    "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
+    "time": "2026-06-10",
+    "titleHash": "eaa17f459c034cfe80457e9ef4425a6e",
+    "translations": {
+      "es": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+        "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
       }
     }
   }
