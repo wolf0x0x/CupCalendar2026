@@ -1,0 +1,18 @@
+{
+  "name": "CupCalendar 2026",
+  "short_name": "CupCalendar",
+  "description": "2026 FIFA World Cup schedule, teams, venues, standings, and calendar tools.",
+  "start_url": "/2026/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#00204e",
+  "theme_color": "#003478",
+  "icons": [
+    {
+      "src": "/assets/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

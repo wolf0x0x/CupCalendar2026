@@ -92,13 +92,51 @@ function newsSvg(item) {
 }
 
 function brandSvg() {
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="CupCalendar icon">
-  <rect width="512" height="512" rx="96" fill="#003478"/>
-  <circle cx="256" cy="256" r="154" fill="#ffffff"/>
-  <path d="M160 204h192M160 256h192M160 308h132" stroke="#003478" stroke-width="34" stroke-linecap="round"/>
-  <circle cx="372" cy="348" r="48" fill="#ff6b35"/>
-  <path d="M352 348l14 15 30-35" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="CupCalendar World Cup icon">
+  <defs>
+    <linearGradient id="cup" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff4b8"/>
+      <stop offset=".48" stop-color="#d4af37"/>
+      <stop offset="1" stop-color="#9b6b16"/>
+    </linearGradient>
+    <linearGradient id="field" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#00885a"/>
+      <stop offset="1" stop-color="#003478"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="#00204e"/>
+  <circle cx="256" cy="256" r="190" fill="url(#field)"/>
+  <circle cx="256" cy="256" r="176" fill="none" stroke="#ffffff" stroke-width="14" opacity=".9"/>
+  <path d="M171 124h170v42c0 58-32 102-85 119-53-17-85-61-85-119z" fill="url(#cup)"/>
+  <path d="M166 150h-44c4 58 36 91 80 100" fill="none" stroke="#d4af37" stroke-width="26" stroke-linecap="round"/>
+  <path d="M346 150h44c-4 58-36 91-80 100" fill="none" stroke="#d4af37" stroke-width="26" stroke-linecap="round"/>
+  <path d="M221 286h70v54h-70z" fill="url(#cup)"/>
+  <path d="M188 344h136l20 48H168z" fill="url(#cup)"/>
+  <circle cx="256" cy="199" r="42" fill="#ffffff" opacity=".95"/>
+  <path d="M256 158v82M215 199h82M228 170l56 58M284 170l-56 58" stroke="#00204e" stroke-width="8" stroke-linecap="round" opacity=".86"/>
+  <text x="256" y="445" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="900" fill="#ffffff">2026</text>
 </svg>`;
+}
+
+function siteManifest() {
+  return `${JSON.stringify({
+    name: "CupCalendar 2026",
+    short_name: "CupCalendar",
+    description: "2026 FIFA World Cup schedule, teams, venues, standings, and calendar tools.",
+    start_url: "/2026/",
+    scope: "/",
+    display: "standalone",
+    background_color: "#00204e",
+    theme_color: "#003478",
+    icons: [
+      {
+        src: "/assets/brand/favicon.svg",
+        sizes: "any",
+        type: "image/svg+xml",
+        purpose: "any maskable"
+      }
+    ]
+  }, null, 2)}\n`;
 }
 
 const teamMap = new Map();
@@ -125,6 +163,9 @@ for (const item of data.news) {
   await writeFile(path.join(root, `assets/news/${slug(item.source)}-${slug(item.tag)}.svg`), newsSvg(item));
 }
 
-await writeFile(path.join(root, "assets/brand/icon.svg"), brandSvg());
+const icon = brandSvg();
+await writeFile(path.join(root, "assets/brand/icon.svg"), icon);
+await writeFile(path.join(root, "assets/brand/favicon.svg"), icon);
+await writeFile(path.join(root, "assets/site.webmanifest"), siteManifest());
 
-console.log(`Generated ${teamMap.size} team images, ${data.venues.length} venue images, ${data.news.length} news images, and brand assets.`);
+console.log(`Generated ${teamMap.size} team images, ${data.venues.length} venue images, ${data.news.length} news images, favicon, manifest, and brand assets.`);

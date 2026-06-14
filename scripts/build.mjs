@@ -189,8 +189,13 @@ function layout({ route, lang = "en", title, description, active, h1, intro, bod
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(description)}">
+  <meta name="theme-color" content="#003478">
   <link rel="canonical" href="${esc(canonical)}">
   ${languageLinks}
+  <link rel="icon" href="${asset("brand/favicon.svg")}" type="image/svg+xml">
+  <link rel="shortcut icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="${asset("brand/favicon.svg")}">
+  <link rel="manifest" href="/site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Noto+Sans:wght@400;500;700&display=swap" rel="stylesheet">
@@ -576,6 +581,8 @@ async function build() {
   await mkdir(dist, { recursive: true });
 
   await cp(path.join(root, "assets"), path.join(dist, "assets"), { recursive: true });
+  await copyFile(path.join(root, "assets/brand/favicon.svg"), path.join(dist, "favicon.svg"));
+  await copyFile(path.join(root, "assets/site.webmanifest"), path.join(dist, "site.webmanifest"));
   await copyFile(path.join(root, "CNAME"), path.join(dist, "CNAME"));
   await copyFile(path.join(root, "ads.txt"), path.join(dist, "ads.txt"));
 
