@@ -1,0 +1,231 @@
+{
+  "siteName": "CupCalendar",
+  "domain": "https://cupcalendar.xyz",
+  "year": "2026",
+  "tournament": "2026 FIFA World Cup",
+  "openingDate": "2026-06-11T19:00:00-05:00",
+  "languages": [
+    { "code": "en", "label": "English" },
+    { "code": "es", "label": "Español" },
+    { "code": "pt", "label": "Português" },
+    { "code": "fr", "label": "Français" },
+    { "code": "de", "label": "Deutsch" },
+    { "code": "ja", "label": "日本語" },
+    { "code": "zh", "label": "中文" }
+  ],
+  "nav": [
+    { "label": "Schedule", "href": "/2026/schedule/" },
+    { "label": "Teams", "href": "/2026/teams/" },
+    { "label": "Venues", "href": "/2026/venues/" },
+    { "label": "History", "href": "/2026/history/" },
+    { "label": "Tools", "href": "/2026/tools/" },
+    { "label": "News", "href": "/2026/news/" }
+  ],
+  "matches": [
+    {
+      "id": "mexico-poland",
+      "group": "Group A",
+      "matchday": "Matchday 1",
+      "date": "2026-06-12",
+      "time": "14:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": "Mexico",
+      "away": "Poland",
+      "homeCode": "MEX",
+      "awayCode": "POL",
+      "score": "0 - 0",
+      "status": "Upcoming",
+      "prediction": "2-1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "argentina-saudi-arabia",
+      "group": "Group B",
+      "matchday": "Matchday 1",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
+      "home": "Argentina",
+      "away": "Saudi Arabia",
+      "homeCode": "ARG",
+      "awayCode": "SAU",
+      "score": "- : -",
+      "status": "Not started",
+      "prediction": "3-0",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "usa-japan",
+      "group": "Group C",
+      "matchday": "Matchday 1",
+      "date": "2026-06-13",
+      "time": "20:00",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "home": "United States",
+      "away": "Japan",
+      "homeCode": "USA",
+      "awayCode": "JPN",
+      "score": "- : -",
+      "status": "Not started",
+      "prediction": "1-1",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    },
+    {
+      "id": "mexico-brazil",
+      "group": "Group A",
+      "matchday": "Match 14",
+      "date": "2026-06-18",
+      "time": "20:00",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home": "Mexico",
+      "away": "Brazil",
+      "homeCode": "MEX",
+      "awayCode": "BRA",
+      "score": "2 - 1",
+      "status": "Live 72'",
+      "prediction": "1-2",
+      "ticketUrl": "https://www.fifa.com/tickets"
+    }
+  ],
+  "standings": [
+    {
+      "group": "Group A",
+      "rows": [
+        { "team": "Mexico", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Poland", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Sweden", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Croatia", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 }
+      ]
+    },
+    {
+      "group": "Group B",
+      "rows": [
+        { "team": "Argentina", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Saudi Arabia", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Portugal", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 },
+        { "team": "Ghana", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gd": 0, "points": 0 }
+      ]
+    }
+  ],
+  "teams": [
+    {
+      "slug": "argentina",
+      "name": "Argentina",
+      "code": "ARG",
+      "region": "CONMEBOL",
+      "ranking": 1,
+      "coach": "Lionel Scaloni",
+      "captain": "Lionel Messi",
+      "titles": 3,
+      "marketValue": "EUR 850M",
+      "averageAge": "27.5",
+      "form": ["W", "W", "D", "W", "W", "W", "D", "L", "W", "W"],
+      "players": [
+        { "no": 10, "name": "Lionel Messi", "position": "Forward", "club": "Inter Miami", "age": 38 },
+        { "no": 23, "name": "Emiliano Martinez", "position": "Goalkeeper", "club": "Aston Villa", "age": 33 },
+        { "no": 7, "name": "Rodrigo De Paul", "position": "Midfielder", "club": "Atletico Madrid", "age": 31 },
+        { "no": 9, "name": "Julian Alvarez", "position": "Forward", "club": "Atletico Madrid", "age": 26 },
+        { "no": 24, "name": "Enzo Fernandez", "position": "Midfielder", "club": "Chelsea", "age": 25 }
+      ],
+      "history": [
+        { "year": 2022, "result": "Champion", "note": "Won the final after a dramatic penalty shootout." },
+        { "year": 2014, "result": "Runner-up", "note": "Reached the final in Brazil." },
+        { "year": 1986, "result": "Champion", "note": "A legendary title led by Diego Maradona." },
+        { "year": 1978, "result": "Champion", "note": "First World Cup title on home soil." }
+      ]
+    },
+    {
+      "slug": "mexico",
+      "name": "Mexico",
+      "code": "MEX",
+      "region": "CONCACAF",
+      "ranking": 14,
+      "coach": "Javier Aguirre",
+      "captain": "Edson Alvarez",
+      "titles": 0,
+      "marketValue": "EUR 220M",
+      "averageAge": "26.8",
+      "form": ["W", "D", "W", "L", "W", "D", "W", "W", "L", "D"],
+      "players": [
+        { "no": 13, "name": "Guillermo Ochoa", "position": "Goalkeeper", "club": "AVS", "age": 40 },
+        { "no": 4, "name": "Edson Alvarez", "position": "Midfielder", "club": "West Ham", "age": 28 },
+        { "no": 22, "name": "Hirving Lozano", "position": "Forward", "club": "PSV", "age": 30 }
+      ],
+      "history": [
+        { "year": 1986, "result": "Quarter-final", "note": "Best finish as a host nation." },
+        { "year": 1970, "result": "Quarter-final", "note": "Memorable run in Mexico." }
+      ]
+    },
+    {
+      "slug": "brazil",
+      "name": "Brazil",
+      "code": "BRA",
+      "region": "CONMEBOL",
+      "ranking": 5,
+      "coach": "Dorival Junior",
+      "captain": "Marquinhos",
+      "titles": 5,
+      "marketValue": "EUR 1.05B",
+      "averageAge": "26.2",
+      "form": ["W", "L", "W", "W", "D", "W", "L", "W", "W", "D"],
+      "players": [
+        { "no": 1, "name": "Alisson", "position": "Goalkeeper", "club": "Liverpool", "age": 33 },
+        { "no": 4, "name": "Marquinhos", "position": "Defender", "club": "Paris Saint-Germain", "age": 32 },
+        { "no": 7, "name": "Vinicius Junior", "position": "Forward", "club": "Real Madrid", "age": 25 }
+      ],
+      "history": [
+        { "year": 2002, "result": "Champion", "note": "Won a record fifth title." },
+        { "year": 1994, "result": "Champion", "note": "Defeated Italy on penalties." }
+      ]
+    },
+    {
+      "slug": "japan",
+      "name": "Japan",
+      "code": "JPN",
+      "region": "AFC",
+      "ranking": 18,
+      "coach": "Hajime Moriyasu",
+      "captain": "Wataru Endo",
+      "titles": 0,
+      "marketValue": "EUR 315M",
+      "averageAge": "26.4",
+      "form": ["W", "W", "W", "D", "W", "L", "W", "W", "D", "W"],
+      "players": [
+        { "no": 6, "name": "Wataru Endo", "position": "Midfielder", "club": "Liverpool", "age": 33 },
+        { "no": 14, "name": "Takefusa Kubo", "position": "Forward", "club": "Real Sociedad", "age": 25 },
+        { "no": 7, "name": "Kaoru Mitoma", "position": "Forward", "club": "Brighton", "age": 29 }
+      ],
+      "history": [
+        { "year": 2022, "result": "Round of 16", "note": "Topped a difficult group before a penalty shootout exit." }
+      ]
+    }
+  ],
+  "venues": [
+    { "slug": "estadio-azteca", "name": "Estadio Azteca", "city": "Mexico City", "country": "Mexico", "capacity": "87,523", "matches": 5 },
+    { "slug": "metlife-stadium", "name": "MetLife Stadium", "city": "New York New Jersey", "country": "United States", "capacity": "82,500", "matches": 8 },
+    { "slug": "sofi-stadium", "name": "SoFi Stadium", "city": "Los Angeles", "country": "United States", "capacity": "70,240", "matches": 8 },
+    { "slug": "bc-place", "name": "BC Place", "city": "Vancouver", "country": "Canada", "capacity": "54,500", "matches": 7 }
+  ],
+  "champions": [
+    { "year": 2022, "winner": "Argentina", "runnerUp": "France", "score": "3-3 (4-2 pens)", "host": "Qatar" },
+    { "year": 2018, "winner": "France", "runnerUp": "Croatia", "score": "4-2", "host": "Russia" },
+    { "year": 2014, "winner": "Germany", "runnerUp": "Argentina", "score": "1-0", "host": "Brazil" },
+    { "year": 2010, "winner": "Spain", "runnerUp": "Netherlands", "score": "1-0", "host": "South Africa" }
+  ],
+  "scorers": [
+    { "rank": 1, "player": "Miroslav Klose", "country": "Germany", "goals": 16 },
+    { "rank": 2, "player": "Ronaldo", "country": "Brazil", "goals": 15 },
+    { "rank": 3, "player": "Gerd Muller", "country": "Germany", "goals": 14 },
+    { "rank": 4, "player": "Lionel Messi", "country": "Argentina", "goals": 13 },
+    { "rank": 5, "player": "Just Fontaine", "country": "France", "goals": 13 }
+  ],
+  "news": [
+    { "source": "FIFA", "tag": "Official", "title": "Host cities prepare fan zones for the 2026 FIFA World Cup", "time": "2026-06-14" },
+    { "source": "BBC Sport", "tag": "Analysis", "title": "How the 48-team format changes the group-stage math", "time": "2026-06-13" },
+    { "source": "ESPN", "tag": "Preview", "title": "Contenders, dark horses, and the squads to watch this summer", "time": "2026-06-12" }
+  ]
+}
