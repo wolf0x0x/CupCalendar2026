@@ -256,7 +256,7 @@
       "away": "Japan",
       "homeCode": "NED",
       "awayCode": "JPN",
-      "score": "0 - 0",
+      "score": "2 - 2",
       "status": "live",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -6253,7 +6253,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-14T20:06:27.472Z",
+    "fetchedAt": "2026-06-14T21:51:52.961Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },
