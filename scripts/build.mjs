@@ -1,4 +1,4 @@
-import { mkdir, readFile, rm, writeFile, copyFile } from "node:fs/promises";
+import { cp, mkdir, readFile, rm, writeFile, copyFile } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd();
@@ -42,6 +42,22 @@ const isoStart = (match) => `${match.date}T${match.time}:00-05:00`;
 
 function asset(src) {
   return `/assets/${src}`;
+}
+
+function slug(value) {
+  return String(value).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+}
+
+function teamImage(code) {
+  return asset(`teams/${slug(code)}.svg`);
+}
+
+function venueImage(venue) {
+  return asset(`venues/${venue.slug}.svg`);
+}
+
+function newsImage(item) {
+  return asset(`news/${slug(item.source)}-${slug(item.tag)}.svg`);
 }
 
 function pageUrl(route) {
@@ -128,7 +144,7 @@ function layout({ route, lang = "en", title, description, active, h1, intro, bod
   <header class="topbar">
     <div class="nav-shell">
       <a class="brand" href="/2026/${lang}/" aria-label="CupCalendar 2026 home">
-        <span class="brand-mark">C</span>
+        <span class="brand-mark"><img src="${asset("brand/icon.svg")}" alt="" loading="lazy"></span>
         <span>CupCalendar 2026</span>
       </a>
       <nav class="desktop-nav" aria-label="Primary">
@@ -196,9 +212,9 @@ function matchCard(match, lang) {
       <span>${esc(match.group)} · ${esc(match.matchday)}</span>
     </div>
     <div class="scoreline">
-      <div><span class="team-badge">${esc(match.homeCode)}</span><strong>${esc(match.home)}</strong></div>
+      <div><span class="team-badge"><img src="${teamImage(match.homeCode)}" alt="${esc(match.home)} team image" loading="lazy"></span><strong>${esc(match.home)}</strong></div>
       <div><div class="score">${esc(match.score)}</div><div class="prediction">Projected: ${esc(match.prediction)}</div></div>
-      <div><span class="team-badge">${esc(match.awayCode)}</span><strong>${esc(match.away)}</strong></div>
+      <div><span class="team-badge"><img src="${teamImage(match.awayCode)}" alt="${esc(match.away)} team image" loading="lazy"></span><strong>${esc(match.away)}</strong></div>
     </div>
     <div class="match-actions">
       <span class="status${statusClass}">${esc(match.status)}</span>
@@ -256,7 +272,7 @@ function homePage(lang) {
         ${standingsTable(data.standings[0])}
         <section class="panel">
           <h2>Latest 2026 World Cup News</h2>
-          <div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb">${esc(item.tag)}</div><div><span class="chip">${esc(item.source)}</span><h3>${esc(item.title)}</h3><p class="muted">${esc(item.time)}</p></div></article>`).join("")}</div>
+          <div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="${esc(item.source)} ${esc(item.tag)} image" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h3>${esc(item.title)}</h3><p class="muted">${esc(item.time)}</p></div></article>`).join("")}</div>
         </section>
       </div>
       <aside class="side-stack">
@@ -285,7 +301,7 @@ function homePage(lang) {
 function teamCard(team, lang) {
   return `<article class="team-card" data-team-card="${esc(`${team.name} ${team.code} ${team.region}`)}">
     <a href="/2026/${lang}/teams/${esc(team.slug)}/">
-      <div class="flag-tile">${esc(team.code)}</div>
+      <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} team image" loading="lazy"></div>
       <div class="card-title"><span>${esc(team.name)}</span><span class="chip">#${team.ranking}</span></div>
       <p class="muted">${esc(team.region)} · ${team.titles} titles</p>
     </a>
@@ -295,7 +311,7 @@ function teamCard(team, lang) {
 function venueCard(venue, lang) {
   return `<article class="venue-card">
     <a href="/2026/${lang}/venues/${esc(venue.slug)}/">
-      <div class="venue-media" role="img" aria-label="${esc(venue.name)} stadium preview"></div>
+      <div class="venue-media"><img src="${venueImage(venue)}" alt="${esc(venue.name)} venue image" loading="lazy"></div>
       <div class="card-title"><span>${esc(venue.name)}</span><span>${venue.matches}</span></div>
       <p class="muted">${esc(venue.city)}, ${esc(venue.country)} · ${esc(venue.capacity)} seats</p>
     </a>
@@ -359,7 +375,7 @@ function teamPage(team, lang) {
   return `<section class="container section">
     <header class="panel profile-header">
       <div class="profile-main">
-        <div class="flag-tile">${esc(team.code)}</div>
+        <div class="flag-tile"><img src="${teamImage(team.code)}" alt="${esc(team.name)} team image" loading="lazy"></div>
         <div>
           <h1>2026 FIFA World Cup ${esc(team.name)} Team Profile</h1>
           <div class="language-row">
@@ -397,7 +413,7 @@ function venuePage(venue, lang) {
   return `<section class="container section">
     <div class="layout">
       <article class="panel">
-        <div class="venue-media" style="height:260px"></div>
+        <div class="venue-media large"><img src="${venueImage(venue)}" alt="${esc(venue.name)} venue image" loading="lazy"></div>
         <h2>${esc(venue.name)} 2026 World Cup Guide</h2>
         <p>${esc(venue.name)} in ${esc(venue.city)} is part of the 2026 FIFA World Cup host network. This guide combines stadium facts, match schedule links, transport context, and city planning notes.</p>
         <div class="grid three">
@@ -447,7 +463,7 @@ function historyPage(lang) {
 }
 
 function newsPage(lang) {
-  return `<section class="container section"><div class="layout"><div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb">${esc(item.tag)}</div><div><span class="chip">${esc(item.source)}</span><h2>${esc(item.title)}</h2><p class="muted">${esc(item.time)} · Aggregated source card</p></div></article>`).join("")}</div><aside class="side-stack">${renderAdSlot("square")}<section class="panel"><h2>Refresh Plan</h2><p class="muted">The content pipeline is structured for RSS refreshes during active tournament windows.</p></section></aside></div></section>`;
+  return `<section class="container section"><div class="layout"><div class="news-list">${data.news.map((item) => `<article class="news-item"><div class="news-thumb"><img src="${newsImage(item)}" alt="${esc(item.source)} ${esc(item.tag)} image" loading="lazy"></div><div><span class="chip">${esc(item.source)}</span><h2>${esc(item.title)}</h2><p class="muted">${esc(item.time)} · Aggregated source card</p></div></article>`).join("")}</div><aside class="side-stack">${renderAdSlot("square")}<section class="panel"><h2>Refresh Plan</h2><p class="muted">The content pipeline is structured for RSS refreshes during active tournament windows.</p></section></aside></div></section>`;
 }
 
 function matchDetailPage(match, lang) {
@@ -455,9 +471,9 @@ function matchDetailPage(match, lang) {
     <div class="panel">
       <div class="language-row"><span class="chip">${esc(match.group)}</span><span class="chip">${esc(match.matchday)}</span><span class="status">${esc(match.status)}</span></div>
       <div class="scoreline" style="margin:40px auto;max-width:720px">
-        <div><span class="team-badge">${esc(match.homeCode)}</span><h2>${esc(match.home)}</h2></div>
+        <div><span class="team-badge"><img src="${teamImage(match.homeCode)}" alt="${esc(match.home)} team image" loading="lazy"></span><h2>${esc(match.home)}</h2></div>
         <div><div class="score">${esc(match.score)}</div></div>
-        <div><span class="team-badge">${esc(match.awayCode)}</span><h2>${esc(match.away)}</h2></div>
+        <div><span class="team-badge"><img src="${teamImage(match.awayCode)}" alt="${esc(match.away)} team image" loading="lazy"></span><h2>${esc(match.away)}</h2></div>
       </div>
     </div>
     <div class="grid two section">
@@ -495,12 +511,9 @@ function sitemap() {
 // 主构建流程执行
 async function build() {
   await rm(dist, { recursive: true, force: true });
-  await mkdir(path.join(dist, "assets"), { recursive: true });
+  await mkdir(dist, { recursive: true });
 
-  // 复制基础静态资产
-  await copyFile(path.join(root, "assets/styles.css"), path.join(dist, "assets/styles.css"));
-  await copyFile(path.join(root, "assets/app.js"), path.join(dist, "assets/app.js"));
-  await copyFile(path.join(root, "assets/hero-stadium.png"), path.join(dist, "assets/hero-stadium.png"));
+  await cp(path.join(root, "assets"), path.join(dist, "assets"), { recursive: true });
   await copyFile(path.join(root, "CNAME"), path.join(dist, "CNAME"));
 
   await copyFile(path.join(root, "ads.txt"), path.join(dist, "ads.txt"));

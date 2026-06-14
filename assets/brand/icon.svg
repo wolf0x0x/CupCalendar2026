@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="CupCalendar icon">
+  <rect width="512" height="512" rx="96" fill="#003478"/>
+  <circle cx="256" cy="256" r="154" fill="#ffffff"/>
+  <path d="M160 204h192M160 256h192M160 308h132" stroke="#003478" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="372" cy="348" r="48" fill="#ff6b35"/>
+  <path d="M352 348l14 15 30-35" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

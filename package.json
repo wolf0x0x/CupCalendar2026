@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build.mjs",
+    "assets": "node scripts/generate-assets.mjs",
+    "build": "npm run assets && node scripts/build.mjs",
     "start": "python3 -m http.server 4173 -d dist",
     "check": "npm run build"
   },
