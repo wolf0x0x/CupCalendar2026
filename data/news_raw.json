@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-14T20:51:17.170Z",
+  "fetchedAt": "2026-06-14T23:50:39.755Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-06-14",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "25b7f1a0e90801574ce8eb23ccaff550",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
+      "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament.",
+      "url": "https://www.espn.com/soccer/story/_/id/49064317/germany-confidence-boost-7-goal-rout-curacao",
+      "time": "2026-06-14",
+      "titleHash": "461b46e89e757fa8c80b35d67b70af6e"
     },
     {
       "id": "c4bbe41a2f81d9af1f0c4b3193855c47",
@@ -39,6 +49,16 @@
       "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
     },
     {
+      "id": "e9ad243d08f256b474f187e5a8c450fd",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
+      "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
+      "titleHash": "4e79a9c70e5ca3061061c52e988e5eb7"
+    },
+    {
       "id": "ec0166c99665f744fed238ab3d46c74f",
       "source": "BBC",
       "tag": "RSS",
@@ -47,6 +67,26 @@
       "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-11",
       "titleHash": "8566a2c0913197d214872da0e3fa34ee"
+    },
+    {
+      "id": "8c81569d07c6925e278b01785981dc35",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Summerville scores 'sizzler' as Netherlands retake lead",
+      "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
+      "titleHash": "472d81f9f9a70d1f8e66b198d1ba3dd8"
+    },
+    {
+      "id": "64269a17f86da7aaed2bfa2e0ec41ceb",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Kamada scores late equaliser for Japan",
+      "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
+      "titleHash": "69f5bd6984ef9ba3b1fffa69b81bfc3f"
     },
     {
       "id": "bde55ea45179f766954adea983f6cdd9",
@@ -139,14 +179,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "6a99f7dd658f761c70788a0c065ab7f3",
+      "id": "8cf8e2ee73dd9b978c9da1dc5af65847",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Netherlands v Japan: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 3pm local/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a></p><p><strong>The New York Knicks’ NBA glory has absolutely nothing to do with the World Cup – </strong>but only if you take these things literally. In Manhattan right now, it’s an essential part of the 2026 World Cup story.</p><p><strong>On Haiti v Scotland</strong></p><p>William MacGregor, 41, from Dumbarton, described the post-goal atmosphere as “bouncing … Drinks were flying everywhere when the goal went in. Not mine, I kept mine.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live",
+      "title": "Côte d’Ivoire v Ecuador: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off time: 7pm ET/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beaudure@guardian.co.uk\">Contact Beau</a></p><p><strong>2 min </strong>It’s 90 degrees Fahrenheit. If you prefer Celsius … good for you.</p><p>Caicedo sends an ambitious effort well wide, almost as if to send a warning rather than to put something directly on frame.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/14/cote-d-ivoire-v-ecuador-world-cup-2026-live",
       "time": "2026-06-14",
-      "titleHash": "c11a612a15f9a1cf338a0d1b365fa8ed"
+      "titleHash": "e09b3d1cf18f78cb9c7976df50c3a7dd"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
