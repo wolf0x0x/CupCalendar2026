@@ -61,6 +61,83 @@ function normalizeGame(game) {
   };
 }
 
+const nameAliases = new Map([
+  ["Czech Republic", "Czechia"],
+  ["Turkey", "Türkiye"],
+  ["Turkiye", "Türkiye"],
+  ["Cape Verde", "Cabo Verde"],
+  ["Congo DR", "DR Congo"],
+  ["Democratic Republic of the Congo", "DR Congo"],
+  ["USA", "United States"]
+]);
+
+const normalizeTeamName = (name) => nameAliases.get(name) || name;
+
+const venueAliases = new Map([
+  ["GEHA Field at Arrowhead Stadium", "GEHA Field at Arrowhead Stadium"],
+  ["Arrowhead Stadium", "GEHA Field at Arrowhead Stadium"],
+  ["AT&T Stadium", "AT&T Stadium"],
+  ["BMO Field", "BMO Field"],
+  ["BC Place", "BC Place"],
+  ["Estadio Akron", "Estadio Akron"],
+  ["Estadio Azteca", "Estadio Azteca"],
+  ["Estadio BBVA", "Estadio BBVA"],
+  ["Gillette Stadium", "Gillette Stadium"],
+  ["Hard Rock Stadium", "Hard Rock Stadium"],
+  ["Levi's Stadium", "Levi's Stadium"],
+  ["Lincoln Financial Field", "Lincoln Financial Field"],
+  ["Lumen Field", "Lumen Field"],
+  ["Mercedes-Benz Stadium", "Mercedes-Benz Stadium"],
+  ["MetLife Stadium", "MetLife Stadium"],
+  ["NRG Stadium", "NRG Stadium"],
+  ["SoFi Stadium", "SoFi Stadium"]
+]);
+
+const cityTimezone = [
+  [/Toronto|New York|Boston|Philadelphia|Atlanta|Miami/i, { zone: "America/New_York", offset: "UTC-4" }],
+  [/Mexico City|Monterrey|Guadalajara|Dallas|Houston|Kansas City/i, { zone: "America/Chicago", offset: "UTC-5" }],
+  [/Vancouver|Seattle|Los Angeles|San Francisco/i, { zone: "America/Los_Angeles", offset: "UTC-7" }]
+];
+
+function timezoneFor(city) {
+  return cityTimezone.find(([pattern]) => pattern.test(city))?.[1] || { zone: "America/New_York", offset: "UTC-4" };
+}
+
+function syncKnownMatches(site, normalizedGames, stadiums) {
+  const stadiumById = new Map(stadiums.map((stadium) => [String(stadium.id), stadium]));
+  const matchByTeams = new Map(site.matches.map((match) => [`${match.home}::${match.away}`, match]));
+
+  for (const game of normalizedGames) {
+    const home = normalizeTeamName(game.home);
+    const away = normalizeTeamName(game.away);
+    if (!home || !away || home === "undefined" || away === "undefined") continue;
+    const match = matchByTeams.get(`${home}::${away}`);
+    if (!match) continue;
+
+    const stadium = stadiumById.get(game.stadiumId);
+    if (stadium) {
+      const venue = venueAliases.get(stadium.name_en) || stadium.name_en;
+      const city = String(stadium.city_en || "").replace(/\s*\(.+\)\s*/g, "");
+      const tz = timezoneFor(city);
+      match.venue = venue;
+      match.city = city;
+      match.timezone = tz.zone;
+      match.timezoneLabel = tz.offset;
+    }
+
+    match.date = game.date || match.date;
+    match.time = game.time || match.time;
+    match.score = game.score || match.score;
+    match.status = game.status || match.status;
+    match.prediction = match.status === "Final" ? "Final result" : (match.network ? `TV: ${match.network}` : "Kickoff scheduled");
+    match.dataSource = "worldcup26.ir";
+  }
+
+  for (const venue of site.venues) {
+    venue.matches = site.matches.filter((match) => match.venue === venue.name).length;
+  }
+}
+
 function standingsFromMatches(matches, siteTeams) {
   const teamByName = new Map(siteTeams.map((team) => [team.name, team]));
   const tables = new Map();
@@ -72,7 +149,7 @@ function standingsFromMatches(matches, siteTeams) {
     const table = tables.get(match.group);
     for (const name of [match.home, match.away]) {
       if (!name) continue;
-      const normalized = name === "Czech Republic" ? "Czechia" : name === "Turkiye" ? "Türkiye" : name;
+      const normalized = normalizeTeamName(name);
       if (!table.has(normalized)) table.set(normalized, { team: normalized, played: 0, won: 0, drawn: 0, lost: 0, gd: 0, points: 0, gf: 0, ga: 0 });
     }
   }
@@ -82,8 +159,8 @@ function standingsFromMatches(matches, siteTeams) {
     if (match.status !== "Final" || !match.score.includes("-")) continue;
     const table = tables.get(match.group);
     if (!table) continue;
-    const home = match.home === "Czech Republic" ? "Czechia" : match.home === "Turkiye" ? "Türkiye" : match.home;
-    const away = match.away === "Czech Republic" ? "Czechia" : match.away === "Turkiye" ? "Türkiye" : match.away;
+    const home = normalizeTeamName(match.home);
+    const away = normalizeTeamName(match.away);
     const rowHome = table.get(home);
     const rowAway = table.get(away);
     if (!rowHome || !rowAway) continue;
@@ -137,6 +214,7 @@ await writeFile(snapshotPath, `${JSON.stringify(snapshot, null, 2)}\n`);
 if (process.env.APPLY_WORLDCUP26 === "1") {
   const site = JSON.parse(await readFile(sitePath, "utf8"));
   const normalizedGames = snapshot.games.map(normalizeGame);
+  syncKnownMatches(site, normalizedGames, snapshot.stadiums);
   site.standings = standingsFromMatches(normalizedGames, site.teams);
   site.dataSource = {
     provider: "worldcup26.ir",

@@ -108,7 +108,17 @@ const groupMatches = (matches) =>
     return acc;
   }, {});
 
-const isoStart = (match) => `${match.date}T${match.time}:00-05:00`;
+const offsetForMatch = (match) => {
+  if (match.timezoneLabel === "UTC-4") return "-04:00";
+  if (match.timezoneLabel === "UTC-5") return "-05:00";
+  if (match.timezoneLabel === "UTC-6") return "-06:00";
+  if (match.timezoneLabel === "UTC-7") return "-07:00";
+  return "-05:00";
+};
+
+const displayTime = (match) => `${match.time}${match.timezoneLabel ? ` ${match.timezoneLabel}` : ""}`;
+
+const isoStart = (match) => `${match.date}T${match.time}:00${offsetForMatch(match)}`;
 
 function asset(src) {
   return `/assets/${src}`;
@@ -167,6 +177,52 @@ function baseJsonLd(route, extra = {}) {
   };
 }
 
+function teamJsonLd(team) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "SportsTeam",
+    name: `${team.name} 2026 FIFA World Cup Team`,
+    sport: "Soccer",
+    url: pageUrl(`/2026/en/teams/${team.slug}/`),
+    image: `${data.domain}${teamImage(team.code)}`,
+    memberOf: {
+      "@type": "SportsOrganization",
+      name: "2026 FIFA World Cup"
+    }
+  };
+}
+
+function venueJsonLd(venue) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "StadiumOrArena",
+    name: venue.name,
+    address: `${venue.city}, ${venue.country}`,
+    maximumAttendeeCapacity: Number(String(venue.capacity).replace(/,/g, "")) || undefined,
+    url: pageUrl(`/2026/en/venues/${venue.slug}/`),
+    image: `${data.domain}${venueImage(venue)}`
+  };
+}
+
+function matchJsonLd(match) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    name: `${match.home} vs ${match.away} - 2026 FIFA World Cup`,
+    sport: "Soccer",
+    startDate: isoStart(match),
+    eventStatus: match.status === "Final" ? "https://schema.org/EventCompleted" : "https://schema.org/EventScheduled",
+    location: {
+      "@type": "StadiumOrArena",
+      name: match.venue,
+      address: match.city
+    },
+    homeTeam: { "@type": "SportsTeam", name: match.home },
+    awayTeam: { "@type": "SportsTeam", name: match.away },
+    organizer: { "@type": "SportsOrganization", name: "FIFA" }
+  };
+}
+
 function layout({ route, lang = "en", title, description, active, h1, intro, body, jsonLd, extraHead = "" }) {
   const canonical = pageUrl(route);
   const current = (href) => (href === route || (href !== `/2026/${lang}/` && route.startsWith(href)) ? ' aria-current="page"' : "");
@@ -194,6 +250,15 @@ function layout({ route, lang = "en", title, description, active, h1, intro, bod
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(description)}">
   <meta name="theme-color" content="#003478">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="${esc(title)}">
+  <meta property="og:description" content="${esc(description)}">
+  <meta property="og:url" content="${esc(canonical)}">
+  <meta property="og:image" content="${data.domain}${asset("hero-stadium.png")}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${esc(title)}">
+  <meta name="twitter:description" content="${esc(description)}">
+  <meta name="twitter:image" content="${data.domain}${asset("hero-stadium.png")}">
   <link rel="canonical" href="${esc(canonical)}">
   ${languageLinks}
   <link rel="icon" href="${asset("brand/favicon.svg")}" type="image/svg+xml">
@@ -313,7 +378,7 @@ function matchCard(match, lang) {
   return `<article class="match-card" data-match-start="${isoStart(match)}" data-match-label="${esc(match.home)} vs ${esc(match.away)}" data-match-id="${esc(match.id)}" data-match-venue="${esc(match.venue)}">
     <div class="match-meta">
       <strong>${esc(match.venue)}, ${esc(match.city)}</strong>
-      <span class="match-time">${esc(match.time)}</span>
+      <span class="match-time">${esc(displayTime(match))}</span>
       <span>${esc(match.group)} · ${esc(match.matchday)}</span>
     </div>
     <div class="scoreline">
@@ -375,7 +440,7 @@ function homePage(lang) {
     <div class="section-head"><div><h2>Today & Tomorrow Focus</h2><p>Fast match cards for local time, venue, teams, status, and ticket links in one scan.</p></div><a class="btn secondary" href="/2026/${lang}/schedule/">Full Schedule</a></div>
     ${data.matches.slice(0, 3).map(m => matchCard(m, lang)).join("")}
     <div class="section-head compact"><div><h2>Next 7 Featured Matches</h2><p>More upcoming fixtures are one tap from the homepage.</p></div></div>
-    <div class="fixture-strip">${data.matches.slice(3, 10).map((match) => `<a class="fixture-pill" href="/2026/${lang}/matches/${esc(match.id)}/"><span>${esc(slugifyDate(match.date))}</span><strong>${esc(match.home)} vs ${esc(match.away)}</strong><small>${esc(match.venue)}</small></a>`).join("")}</div>
+    <div class="fixture-strip">${data.matches.slice(3, 10).map((match) => `<a class="fixture-pill" href="/2026/${lang}/matches/${esc(match.id)}/"><span>${esc(slugifyDate(match.date))} · ${esc(displayTime(match))}</span><strong>${esc(match.home)} vs ${esc(match.away)}</strong><small>${esc(match.venue)}</small></a>`).join("")}</div>
   </section>
   <section class="container section">
     <div class="layout">
@@ -651,12 +716,12 @@ async function build() {
     await writeRoute(`/2026/${lang}/teams/`, layout({ route: `/2026/${lang}/teams/`, lang, title: `2026 FIFA World Cup ${dict.teams} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.teams}`, body: teamsPage(lang) }), "0.9");
 
     for (const team of data.teams) {
-      await writeRoute(`/2026/${lang}/teams/${team.slug}/`, layout({ route: `/2026/${lang}/teams/${team.slug}/`, lang, title: `2026 FIFA World Cup ${team.name} Team Profile | CupCalendar`, description: dict.desc, body: teamPage(team, lang) }), "0.82");
+      await writeRoute(`/2026/${lang}/teams/${team.slug}/`, layout({ route: `/2026/${lang}/teams/${team.slug}/`, lang, title: `2026 FIFA World Cup ${team.name} Team Profile | CupCalendar`, description: dict.desc, body: teamPage(team, lang), jsonLd: teamJsonLd(team) }), "0.82");
     }
 
     await writeRoute(`/2026/${lang}/venues/`, layout({ route: `/2026/${lang}/venues/`, lang, title: `2026 FIFA World Cup ${dict.venues} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.venues}`, body: venuesPage(lang) }), "0.82");
     for (const venue of data.venues) {
-      await writeRoute(`/2026/${lang}/venues/${venue.slug}/`, layout({ route: `/2026/${lang}/venues/${venue.slug}/`, lang, title: `2026 FIFA World Cup ${venue.name} Venue Guide | CupCalendar`, description: dict.desc, body: venuePage(venue, lang) }), "0.7");
+      await writeRoute(`/2026/${lang}/venues/${venue.slug}/`, layout({ route: `/2026/${lang}/venues/${venue.slug}/`, lang, title: `2026 FIFA World Cup ${venue.name} Venue Guide | CupCalendar`, description: dict.desc, body: venuePage(venue, lang), jsonLd: venueJsonLd(venue) }), "0.7");
     }
 
     await writeRoute(`/2026/${lang}/tools/`, layout({ route: `/2026/${lang}/tools/`, lang, title: `2026 FIFA World Cup ${dict.tools} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.tools}`, body: toolsPage(lang) }), "0.85");
@@ -664,7 +729,7 @@ async function build() {
     await writeRoute(`/2026/${lang}/news/`, layout({ route: `/2026/${lang}/news/`, lang, title: `2026 FIFA World Cup ${dict.news} | CupCalendar`, description: dict.desc, h1: `2026 FIFA World Cup ${dict.news}`, body: newsPage(lang) }), "0.7");
 
     for (const match of data.matches) {
-      await writeRoute(`/2026/${lang}/matches/${match.id}/`, layout({ route: `/2026/${lang}/matches/${match.id}/`, lang, title: `2026 FIFA World Cup ${match.home} vs ${match.away} | CupCalendar`, description: dict.desc, body: matchDetailPage(match, lang) }), "0.7");
+      await writeRoute(`/2026/${lang}/matches/${match.id}/`, layout({ route: `/2026/${lang}/matches/${match.id}/`, lang, title: `2026 FIFA World Cup ${match.home} vs ${match.away} | CupCalendar`, description: dict.desc, body: matchDetailPage(match, lang), jsonLd: matchJsonLd(match) }), "0.7");
     }
 
     await writeRoute(`/2026/${lang}/privacy/`, simplePolicy(`/2026/${lang}/privacy/`, lang, "Privacy Policy", "Privacy Policy"), "0.2");
