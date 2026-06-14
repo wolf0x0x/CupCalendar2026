@@ -257,9 +257,9 @@
       "homeCode": "NED",
       "awayCode": "JPN",
       "score": "2 - 2",
-      "status": "live",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -278,7 +278,7 @@
       "homeCode": "CIV",
       "awayCode": "ECU",
       "score": "0 - 0",
-      "status": "notstarted",
+      "status": "live",
       "network": "FS1",
       "prediction": "TV: FS1",
       "ticketUrl": "https://www.fifa.com/tickets",
@@ -1819,25 +1819,25 @@
       "rows": [
         {
           "team": "Japan",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gd": 0,
-          "points": 0,
-          "gf": 0,
-          "ga": 0
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Netherlands",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gd": 0,
-          "points": 0,
-          "gf": 0,
-          "ga": 0
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Sweden",
@@ -6253,7 +6253,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-14T21:51:52.961Z",
+    "fetchedAt": "2026-06-14T23:10:33.899Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },
