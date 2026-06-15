@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T05:58:40.229Z",
+  "fetchedAt": "2026-06-15T08:53:30.511Z",
   "errors": [
     {
       "source": "FIFA",
@@ -89,6 +89,16 @@
       "titleHash": "254f7118e15e5dd3c5ae2ebb8e1c2cc0"
     },
     {
+      "id": "fe750a5b67db08d5898ba52f30bbecf2",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "What you need to know about Spain's opponents Cape Verde",
+      "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgzlv1q453o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-05",
+      "titleHash": "0d4ca96b4bd4e6fce5f78ddd58829588"
+    },
+    {
       "id": "8c81569d07c6925e278b01785981dc35",
       "source": "BBC",
       "tag": "RSS",
@@ -107,26 +117,6 @@
       "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-14",
       "titleHash": "69f5bd6984ef9ba3b1fffa69b81bfc3f"
-    },
-    {
-      "id": "bde55ea45179f766954adea983f6cdd9",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Could Japan be the World Cup's dark horses?",
-      "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before.",
-      "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "titleHash": "ab2f852b90ef75df407efcaac65b3d99"
-    },
-    {
-      "id": "c8dcb525eecd1aeaf6a34cfdbae67ee5",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
-      "summary": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?",
-      "url": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-13",
-      "titleHash": "810e28afbe53bc7132beda1e910bd372"
     },
     {
       "id": "ee0b23ce8b839adb6915751d1b327651",
@@ -167,6 +157,16 @@
       "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-03",
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
+    },
+    {
+      "id": "842e5d7cf2c03a296ef4c72a84464952",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: teams hit back at Ceferin over ‘uninteresting’ jibe; Iran arrive in US amid protests – live",
+      "summary": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">Mail Sarah</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live",
+      "time": "2026-06-15",
+      "titleHash": "4efac1d9a37d9f3635264ba2b53fbb50"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
