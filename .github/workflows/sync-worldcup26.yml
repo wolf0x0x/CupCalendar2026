@@ -12,9 +12,11 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: sync-worldcup26-data
+  group: pages
   cancel-in-progress: false
 
 jobs:
@@ -47,3 +49,8 @@ jobs:
         run: |
           git pull --rebase origin main
           git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
