@@ -432,8 +432,40 @@ function standingsTable(group, lang) {
   </section>`;
 }
 
+function addDays(date, days) {
+  const next = new Date(`${date}T00:00:00Z`);
+  next.setUTCDate(next.getUTCDate() + days);
+  return next.toISOString().slice(0, 10);
+}
+
+function sortedMatches(matches) {
+  return [...matches].sort((a, b) => `${a.date} ${a.time}`.localeCompare(`${b.date} ${b.time}`));
+}
+
+function homepageMatchSets() {
+  const today = process.env.CUPCALENDAR_TODAY || new Date().toISOString().slice(0, 10);
+  const tomorrow = addDays(today, 1);
+  const sorted = sortedMatches(data.matches);
+  let focus = sorted.filter((match) => match.date === today || match.date === tomorrow);
+
+  if (focus.length === 0) {
+    focus = sorted.filter((match) => match.date >= today).slice(0, 6);
+  }
+  if (focus.length === 0) {
+    focus = sorted.filter((match) => match.status === "Final").slice(-6);
+  }
+
+  const focusIds = new Set(focus.map((match) => match.id));
+  const featured = sorted
+    .filter((match) => !focusIds.has(match.id) && match.date >= today)
+    .slice(0, 7);
+
+  return { focus, featured };
+}
+
 function homePage(lang) {
   const dict = i18n[lang] || i18n.en;
+  const { focus, featured } = homepageMatchSets();
   return `<section class="container">
     <div class="hero">
       <div class="hero-copy">
@@ -459,9 +491,9 @@ function homePage(lang) {
   </section>
   <section class="container section">
     <div class="section-head"><div><h2>Today & Tomorrow Focus</h2><p>Fast match cards for local time, venue, teams, status, and ticket links in one scan.</p></div><a class="btn secondary" href="/2026/${lang}/schedule/">Full Schedule</a></div>
-    ${data.matches.slice(0, 3).map(m => matchCard(m, lang)).join("")}
+    ${focus.map(m => matchCard(m, lang)).join("")}
     <div class="section-head compact"><div><h2>Next 7 Featured Matches</h2><p>More upcoming fixtures are one tap from the homepage.</p></div></div>
-    <div class="fixture-strip">${data.matches.slice(3, 10).map((match) => `<a class="fixture-pill" href="/2026/${lang}/matches/${esc(match.id)}/"><span>${esc(slugifyDate(match.date))} · ${esc(displayTime(match))}</span><strong>${esc(match.home)} vs ${esc(match.away)}</strong><small>${esc(match.venue)}</small></a>`).join("")}</div>
+    <div class="fixture-strip">${featured.map((match) => `<a class="fixture-pill" href="/2026/${lang}/matches/${esc(match.id)}/"><span>${esc(slugifyDate(match.date))} · ${esc(displayTime(match))}</span><strong>${esc(match.home)} vs ${esc(match.away)}</strong><small>${esc(match.venue)}</small></a>`).join("")}</div>
   </section>
   <section class="container section">
     <div class="layout">
