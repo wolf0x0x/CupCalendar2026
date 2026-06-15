@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-14T20:49:22.264Z",
+  "syncedAt": "2026-06-15T05:59:23.283Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -230,27 +230,27 @@
           "points": 3
         },
         {
-          "team": "Ecuador",
-          "code": "ECU",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
-        },
-        {
           "team": "Ivory Coast",
           "code": "CIV",
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
+          "gf": 1,
           "ga": 0,
-          "gd": 0,
+          "gd": 1,
+          "points": 3
+        },
+        {
+          "team": "Ecuador",
+          "code": "ECU",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 0,
+          "ga": 1,
+          "gd": -1,
           "points": 0
         },
         {
@@ -271,51 +271,51 @@
       "group": "Group F",
       "rows": [
         {
-          "team": "Japan",
-          "code": "JPN",
-          "played": 0,
-          "won": 0,
+          "team": "Sweden",
+          "code": "SWE",
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 5,
+          "ga": 1,
+          "gd": 4,
+          "points": 3
+        },
+        {
+          "team": "Japan",
+          "code": "JPN",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 2,
+          "ga": 2,
           "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Netherlands",
           "code": "NED",
-          "played": 0,
+          "played": 1,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
+          "gf": 2,
+          "ga": 2,
           "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Sweden",
-          "code": "SWE",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
+          "points": 1
         },
         {
           "team": "Tunisia",
           "code": "TUN",
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 5,
+          "gd": -4,
           "points": 0
         }
       ]
