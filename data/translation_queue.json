@@ -1,296 +1,44 @@
 [
   {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "es",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "es",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "pt",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "pt",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "fr",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "fr",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "de",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "de",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "ja",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "ja",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "0da55716d4f591ea15b00a46c076c740",
-    "lang": "zh",
-    "source": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "f61765b0e05d3505341bf2c8d1d5f693",
-    "lang": "zh",
-    "source": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.264Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "es",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "es",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "pt",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "pt",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "fr",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "fr",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "de",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "de",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "ja",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "ja",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "10e889bb127e6e147bd0b5acff288a3e",
-    "lang": "zh",
-    "source": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
-    "hash": "904a9b34578e45a6c3f2a1d4edcbfd90",
-    "lang": "zh",
-    "source": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.265Z"
-  },
-  {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "es",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   },
   {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "pt",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   },
   {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "fr",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   },
   {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "de",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   },
   {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "ja",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   },
   {
     "hash": "64b272b752fbd879a765c17b2f6b3708",
     "lang": "zh",
     "source": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "es",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "es",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "pt",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "pt",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "fr",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "fr",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "de",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "de",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "ja",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "ja",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "61751dd540d5f6b4f02b07bcc8a59279",
-    "lang": "zh",
-    "source": "Iran v New Zealand: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
-  },
-  {
-    "hash": "3d9c452206002356d6e660506aabdb9f",
-    "lang": "zh",
-    "source": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-15T23:57:43.266Z"
+    "queued_at": "2026-06-15T23:05:51.255Z"
   }
 ]

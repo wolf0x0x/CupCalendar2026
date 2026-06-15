@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T23:57:43.259Z",
+  "fetchedAt": "2026-06-15T23:05:51.251Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,34 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "8010b16fda14291e09eb85c49d820610",
-      "source": "ESPN",
+      "id": "895cf98bb956103ac7cc8dc46894ce5b",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-      "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "time": "2026-06-16",
-      "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
-    },
-    {
-      "id": "64c4cf69237735a1c6932e15c827607a",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
-      "titleHash": "afe58f92ad99567a18b4c5cca40cd56c"
-    },
-    {
-      "id": "d0b5b6eb79732401585698caf0905fc0",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
+      "titleHash": "1092319c0221ce0fc08bbd76dffaee62"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
