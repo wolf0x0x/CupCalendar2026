@@ -6186,40 +6186,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "What you need to know about Spain's opponents Cape Verde",
-      "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzlv1q453o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-05",
-      "translations": {
-        "es": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        },
-        "pt": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        },
-        "fr": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        },
-        "de": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        },
-        "ja": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        },
-        "zh": {
-          "title": "What you need to know about Spain's opponents Cape Verde",
-          "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Summerville scores 'sizzler' as Netherlands retake lead",
       "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
@@ -6250,6 +6216,40 @@
           "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Kamada scores late equaliser for Japan",
+      "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-15T11:54:53.324Z",
-    "newsItems": 20,
-    "translationQueue": 36,
+    "fetchedAt": "2026-06-15T12:29:35.778Z",
+    "newsItems": 19,
+    "translationQueue": 0,
     "errors": [
       {
         "source": "FIFA",

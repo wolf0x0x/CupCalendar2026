@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T11:54:53.312Z",
+  "fetchedAt": "2026-06-15T12:29:35.770Z",
   "errors": [
     {
       "source": "FIFA",
@@ -87,16 +87,6 @@
       "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
       "titleHash": "254f7118e15e5dd3c5ae2ebb8e1c2cc0"
-    },
-    {
-      "id": "fe750a5b67db08d5898ba52f30bbecf2",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What you need to know about Spain's opponents Cape Verde",
-      "summary": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgzlv1q453o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-05",
-      "titleHash": "0d4ca96b4bd4e6fce5f78ddd58829588"
     },
     {
       "id": "8c81569d07c6925e278b01785981dc35",
