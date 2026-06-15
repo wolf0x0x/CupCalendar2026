@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-15T06:05:17.479Z",
+  "syncedAt": "2026-06-15T06:08:46.089Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Daily 03:30 Asia/Shanghai",
@@ -12,7 +12,7 @@
     "lastSync": "data/last_sync.json"
   },
   "siteUpdate": {
-    "updatedMatches": 3,
+    "updatedMatches": 0,
     "standingsGroups": 12,
     "note": "data/site.json is updated because the static site build reads this file directly."
   },
