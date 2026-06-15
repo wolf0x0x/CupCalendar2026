@@ -1580,51 +1580,47 @@
       "rows": [
         {
           "team": "Mexico",
-          "code": "MEX",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "South Korea",
-          "code": "KOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 1,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 1
         },
         {
           "team": "Czechia",
-          "code": "CZE",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 2,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 2
         },
         {
           "team": "South Africa",
-          "code": "RSA",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         }
       ]
     },
@@ -1633,51 +1629,47 @@
       "rows": [
         {
           "team": "Bosnia and Herzegovina",
-          "code": "BIH",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Canada",
-          "code": "CAN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Qatar",
-          "code": "QAT",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Switzerland",
-          "code": "SUI",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1686,51 +1678,47 @@
       "rows": [
         {
           "team": "Scotland",
-          "code": "SCO",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Brazil",
-          "code": "BRA",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Morocco",
-          "code": "MAR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Haiti",
-          "code": "HAI",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         }
       ]
     },
@@ -1739,51 +1727,47 @@
       "rows": [
         {
           "team": "United States",
-          "code": "USA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "Australia",
-          "code": "AUS",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "Türkiye",
-          "code": "TUR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         },
         {
           "team": "Paraguay",
-          "code": "PAR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -1792,51 +1776,47 @@
       "rows": [
         {
           "team": "Germany",
-          "code": "GER",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 3
+          "points": 3,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Ivory Coast",
-          "code": "CIV",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Ecuador",
-          "code": "ECU",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Curaçao",
-          "code": "CUW",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1845,51 +1825,47 @@
       "rows": [
         {
           "team": "Sweden",
-          "code": "SWE",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 1,
           "gd": 4,
-          "points": 3
+          "points": 3,
+          "gf": 5,
+          "ga": 1
         },
         {
           "team": "Japan",
-          "code": "JPN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Netherlands",
-          "code": "NED",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Tunisia",
-          "code": "TUN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 5,
           "gd": -4,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 5
         }
       ]
     },
@@ -1898,51 +1874,47 @@
       "rows": [
         {
           "team": "Belgium",
-          "code": "BEL",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Egypt",
-          "code": "EGY",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Iran",
-          "code": "IRN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "New Zealand",
-          "code": "NZL",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -1951,51 +1923,47 @@
       "rows": [
         {
           "team": "Cabo Verde",
-          "code": "CPV",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Saudi Arabia",
-          "code": "SAU",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Spain",
-          "code": "ESP",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Uruguay",
-          "code": "URU",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2004,51 +1972,47 @@
       "rows": [
         {
           "team": "France",
-          "code": "FRA",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Iraq",
-          "code": "IRQ",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Norway",
-          "code": "NOR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Senegal",
-          "code": "SEN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2057,51 +2021,47 @@
       "rows": [
         {
           "team": "Algeria",
-          "code": "ALG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Argentina",
-          "code": "ARG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Austria",
-          "code": "AUT",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Jordan",
-          "code": "JOR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2110,51 +2070,47 @@
       "rows": [
         {
           "team": "Colombia",
-          "code": "COL",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "DR Congo",
-          "code": "COD",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Portugal",
-          "code": "POR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Uzbekistan",
-          "code": "UZB",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2163,51 +2119,47 @@
       "rows": [
         {
           "team": "Croatia",
-          "code": "CRO",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "England",
-          "code": "ENG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Ghana",
-          "code": "GHA",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Panama",
-          "code": "PAN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     }
@@ -6132,34 +6084,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
       "translations": {
         "es": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         },
         "pt": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         },
         "fr": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         },
         "de": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         },
         "ja": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         },
         "zh": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         }
       }
     },
@@ -6307,15 +6259,15 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-15T13:27:41.895Z",
+    "fetchedAt": "2026-06-15T08:36:21.748Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-15T12:29:35.778Z",
-    "newsItems": 19,
-    "translationQueue": 0,
+    "fetchedAt": "2026-06-15T14:57:22.366Z",
+    "newsItems": 20,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
