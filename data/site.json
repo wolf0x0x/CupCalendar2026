@@ -5996,34 +5996,68 @@
     {
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Morocco's Bouaddi won't be underestimated again af...",
-      "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore.",
-      "url": "https://www.espn.com/espn/story/_/id/49054213/morocco-ayyoub-bouaddi-not-underestimated-again-casemiro-humbling",
-      "time": "2026-06-14",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "time": "2026-06-16",
       "translations": {
         "es": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "pt": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "fr": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "de": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "ja": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "zh": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         }
       }
     },
@@ -6064,40 +6098,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "de": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "How to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6126,6 +6126,40 @@
         "zh": {
           "title": "How to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
         }
       }
     },
@@ -6200,6 +6234,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "pt": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "fr": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "de": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "ja": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "zh": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
       "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
@@ -6230,74 +6298,6 @@
           "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Amad scores 90th-minute winner for Ivory Coast",
-      "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-      "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "translations": {
-        "es": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-15T20:57:35.581Z",
+    "fetchedAt": "2026-06-15T23:57:43.274Z",
     "newsItems": 20,
-    "translationQueue": 36,
+    "translationQueue": 42,
     "errors": [
       {
         "source": "FIFA",

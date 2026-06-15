@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T20:57:35.574Z",
+  "fetchedAt": "2026-06-15T23:57:43.266Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,38 +38,74 @@
       }
     },
     {
-      "id": "c4bbe41a2f81d9af1f0c4b3193855c47",
+      "id": "8010b16fda14291e09eb85c49d820610",
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Morocco's Bouaddi won't be underestimated again af...",
-      "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore.",
-      "url": "https://www.espn.com/espn/story/_/id/49054213/morocco-ayyoub-bouaddi-not-underestimated-again-casemiro-humbling",
-      "time": "2026-06-14",
-      "titleHash": "d218e5d549ee9ed60a0ea66400002729",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "time": "2026-06-16",
+      "titleHash": "b68793c0330a295c31c8adf79a84f5d6",
       "translations": {
         "es": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "pt": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "fr": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "de": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "ja": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "zh": {
-          "title": "Morocco's Bouaddi won't be underestimated again af...",
-          "summary": "There was a point, late in the first half of Morocco's opening FIFA World Cup 1-1 draw on Saturday, where the contrast between Brazil's Casemiro and Ayyoub Bouaddi was impossible to ignore."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        }
+      }
+    },
+    {
+      "id": "64c4cf69237735a1c6932e15c827607a",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+      "time": "2026-06-15",
+      "titleHash": "afe58f92ad99567a18b4c5cca40cd56c",
+      "translations": {
+        "es": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         }
       }
     },
@@ -110,42 +146,6 @@
       }
     },
     {
-      "id": "bfe406722a7826e8d36be76e432d5304",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "be75aff2cbc1995ccca656e2ad78972b",
-      "translations": {
-        "es": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "de": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        }
-      }
-    },
-    {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
       "source": "BBC",
       "tag": "RSS",
@@ -178,6 +178,42 @@
         "zh": {
           "title": "How to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "id": "bfe406722a7826e8d36be76e432d5304",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "be75aff2cbc1995ccca656e2ad78972b",
+      "translations": {
+        "es": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
         }
       }
     },
@@ -250,6 +286,42 @@
         "zh": {
           "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
           "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "895cf98bb956103ac7cc8dc46894ce5b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "1092319c0221ce0fc08bbd76dffaee62",
+      "translations": {
+        "es": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "pt": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "fr": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "de": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "ja": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "zh": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
         }
       }
     },
@@ -358,42 +430,6 @@
         "zh": {
           "title": "Summerville scores 'sizzler' as Netherlands retake lead",
           "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "64269a17f86da7aaed2bfa2e0ec41ceb",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Kamada scores late equaliser for Japan",
-      "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "titleHash": "69f5bd6984ef9ba3b1fffa69b81bfc3f",
-      "translations": {
-        "es": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         }
       }
     },
@@ -578,74 +614,74 @@
       }
     },
     {
-      "id": "5ee7a0770550eb5e7debfac1dcc02592",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Belgium v Egypt: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
-      "time": "2026-06-15",
-      "titleHash": "c2b434c5509401656158f17a2649c177",
-      "translations": {
-        "es": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
       "id": "e713c723b4e955a6c74434fd42bdb109",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
       "time": "2026-06-15",
       "titleHash": "44fd2778122e12d0817240628795f1e5",
       "translations": {
         "es": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
           "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "6f393458f8179ae3360ecf051dd6ce2b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Iran v New Zealand: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+      "time": "2026-06-15",
+      "titleHash": "07e244e6eb35d6070dcf2c5fd1ef8036",
+      "translations": {
+        "es": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Iran v New Zealand: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
         }
       }
     },
@@ -682,42 +718,6 @@
         "zh": {
           "title": "World Cup 2026: guide to all 1,248 players",
           "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "f6b4320af1a7ee512f6c8a8cccb49af5",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-      "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
-      "time": "2026-06-10",
-      "titleHash": "eaa17f459c034cfe80457e9ef4425a6e",
-      "translations": {
-        "es": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
-          "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>"
         }
       }
     }
