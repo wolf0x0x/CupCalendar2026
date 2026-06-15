@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T19:06:34.290Z",
+  "fetchedAt": "2026-06-15T20:57:35.574Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,78 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "d2f68a998dcb875575d78a947f7df683",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Iran team downplays protests: We aren't political",
-      "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand.",
-      "url": "https://www.espn.com/soccer/story/_/id/49066875/mehdi-taremi-says-team-melli-playing-every-iranian-wc",
-      "time": "2026-06-15",
-      "titleHash": "7a0fdb068aa8c480fd3132f88e8b857c",
-      "translations": {
-        "es": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        },
-        "pt": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        },
-        "fr": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        },
-        "de": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        },
-        "ja": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        },
-        "zh": {
-          "title": "Iran team downplays protests: We aren't political",
-          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand."
-        }
-      }
-    },
-    {
-      "id": "604a4d4dfec1a363dedcb2c6c6fe40b5",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Egypt coach tabs Barça teen as Salah successor",
-      "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman.",
-      "url": "https://www.espn.com/espn/story/_/id/49066432/barcelona-teen-hamza-abdelkarim-seen-mohamed-salah-successor-egypt-coach",
-      "time": "2026-06-15",
-      "titleHash": "9433c932584acc7ec065b77b2dfbe9c0",
-      "translations": {
-        "es": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
-        },
-        "pt": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
-        },
-        "fr": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
-        },
-        "de": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
-        },
-        "ja": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
-        },
-        "zh": {
-          "title": "Egypt coach tabs Barça teen as Salah successor",
-          "summary": "New Barcelona signing Hamza Abdelkarim is ready to star at the FIFA World Cup, and could prove that he'll be the player to one day take the mantle from Mohamed Salah as Egypt's talisman."
         }
       }
     },
@@ -182,37 +110,109 @@
       }
     },
     {
-      "id": "0f12930fbb30341c774bf5ab0f14d767",
+      "id": "bfe406722a7826e8d36be76e432d5304",
       "source": "BBC",
       "tag": "RSS",
-      "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "be75aff2cbc1995ccca656e2ad78972b",
+      "translations": {
+        "es": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828",
+      "translations": {
+        "es": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "pt": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "fr": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "de": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "ja": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "zh": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "id": "6c3de4b2b7d35565abf509d3aaa4afcc",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
       "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
-      "titleHash": "7783c6567abe259d0b1daeeec450ff99",
+      "titleHash": "6532ec750817648e971a0403042ac98e",
       "translations": {
         "es": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "pt": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "fr": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "de": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "ja": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "zh": {
-          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         }
       }
@@ -250,42 +250,6 @@
         "zh": {
           "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
           "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828",
-      "translations": {
-        "es": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "pt": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "fr": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "de": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "ja": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "zh": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         }
       }
     },
@@ -618,34 +582,70 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Belgium v Egypt: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
       "time": "2026-06-15",
       "titleHash": "c2b434c5509401656158f17a2649c177",
       "translations": {
         "es": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
           "title": "Belgium v Egypt: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+          "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Atalanta’s Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "e713c723b4e955a6c74434fd42bdb109",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
+      "time": "2026-06-15",
+      "titleHash": "44fd2778122e12d0817240628795f1e5",
+      "translations": {
+        "es": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p>Hello and welcome to live, minute-by-minute coverage of Saudi Arabia v Uruguay at the Miami Stadium. Saudi Arabia started the last World Cup with a stunning victory over Argentina. They’d love to do the same another South American giant tonight – not least because it would increase their chances of getting out of a World Cup group for only the second time. The first, as any football nerd worth their loneliness will know, came on their World Cup debut at USA 94.</p><p>Uruguay didn’t even qualify for that tournament. They also missed out in 1998 and 2006, but a memorable run to the semi-finals in 2010 reminded everyone of their pedigree – and their ability to attract or cause controversy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
