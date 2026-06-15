@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-15T13:27:41.895Z",
+  "syncedAt": "2026-06-15T19:32:13.009Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1387,8 +1387,8 @@
       "homeScore": 0,
       "awayScore": 0,
       "score": "0 - 0",
-      "status": "notstarted",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1765,9 +1765,9 @@
       "home": "Belgium",
       "away": "Egypt",
       "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "notstarted",
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "live",
       "finished": false,
       "stadiumId": "14",
       "dataSource": "worldcup26.ir",
