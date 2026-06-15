@@ -5948,40 +5948,6 @@
     {
       "source": "ESPN",
       "tag": "RSS",
-      "title": "2026 World Cup updates: Spain still searching for ...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49066357/world-cup-daily-live-new-zealand-predicting-puppy-poops-live-tv-spain-lamine-yamal-ready-debut",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        },
-        "pt": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        },
-        "fr": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        },
-        "de": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        },
-        "ja": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        },
-        "zh": {
-          "title": "2026 World Cup updates: Spain still searching for ...",
-          "summary": "null"
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
       "title": "Iran team downplays protests: We aren't political",
       "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening game against New Zealand.",
       "url": "https://www.espn.com/soccer/story/_/id/49066875/mehdi-taremi-says-team-melli-playing-every-iranian-wc",
@@ -6118,34 +6084,68 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
       "translations": {
         "es": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "pt": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "fr": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "de": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "ja": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         },
         "zh": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-15T17:56:56.215Z",
+    "fetchedAt": "2026-06-15T19:06:34.295Z",
     "newsItems": 20,
-    "translationQueue": 42,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",

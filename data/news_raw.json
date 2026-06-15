@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T17:56:56.203Z",
+  "fetchedAt": "2026-06-15T19:06:34.286Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-06-15",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "46be28ad4d93a2eed259b1780d8aac8d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "2026 World Cup updates: Spain still searching for ...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49066357/world-cup-daily-live-new-zealand-predicting-puppy-poops-live-tv-spain-lamine-yamal-ready-debut",
-      "time": "2026-06-15",
-      "titleHash": "266824c28f3e4c1aff6354302c50d7fd"
     },
     {
       "id": "d2f68a998dcb875575d78a947f7df683",
@@ -69,14 +59,24 @@
       "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
     },
     {
-      "id": "895cf98bb956103ac7cc8dc46894ce5b",
+      "id": "0f12930fbb30341c774bf5ab0f14d767",
       "source": "BBC",
       "tag": "RSS",
-      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "title": "'He's the story' - Vozinha's goalkeeping heroics thwart Spain",
+      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
-      "titleHash": "1092319c0221ce0fc08bbd76dffaee62"
+      "titleHash": "7783c6567abe259d0b1daeeec450ff99"
+    },
+    {
+      "id": "390f79005a4227bc927f19212338130f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -179,21 +179,11 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "5e27c2528cf6fe4475f594f03f024bc1",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Spain v Cape Verde: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 3pm local/5pm BST/12pm EDT/2am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | And <a href=\"mailto:daniel.harris.casual@theguardian.com\">mail Daniel</a></p><p><strong>Email! </strong>“Don’t forget the story of Pico Lopes,” chides Tikthra, “a lad from Crumlin in inner-city Dublin who was first called up to the Cape Verde team in 2019 and became only the second ever League of Ireland player to qualify for a World Cup. Declan Rice and Pico are the only two former Ireland internationals still left with a chance of winning the World Cup.”</p><p>I was getting to him! First of all, I’m glad Crumlin has someone other than Conor McGregor repping for them; secondly, UK telly just showed a lovely interview with him in which he explained he was on LinkedIn for employment purposes and the manager of Cape Verde contacted him. Problem was, the message was in Portuguese so he ignored it, but got another, in English nine months later, and here he is, at the World Cup. His relief remains palpable.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/spain-v-cape-verde-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/spain-v-cape-verde-world-cup-2026-live",
-      "time": "2026-06-15",
-      "titleHash": "c2481794ef4398aca340d5ed5a7cbf59"
-    },
-    {
       "id": "5ee7a0770550eb5e7debfac1dcc02592",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Belgium v Egypt: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 5pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> </p><p><strong>The other teams in Group G are Iran and New Zealand</strong>, who meet in the last of today’s games.</p><p>Hel and welcome to live, minute-by-minute coverage of Belgium v Egypt at the Seattle Stadium. The 2026 World Cup is gathering pace – we’re already into day five, and by tomorrow morning 32 of the 48 teams will have been in action.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 12pm local/8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>The anthems have been belted out and the match is about to begin.</strong> With Romelu Lukaku starting on the bench – he’s barely played all season – Charles De Ketelaere will play as a falseish nine.</p><p><strong>“It’ll take some going for Spain v Cape Verde not to be my game of the tournament,”</strong> writes James Humphries, and he’s a Scotland supporter. “I could barely watch the last five minutes, and there was a lot of involuntary yelling and clapping. Football, bloody hell.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/15/belgium-v-egypt-world-cup-2026-live",
       "time": "2026-06-15",
       "titleHash": "c2b434c5509401656158f17a2649c177"
@@ -207,6 +197,16 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
+    },
+    {
+      "id": "f6b4320af1a7ee512f6c8a8cccb49af5",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+      "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
+      "time": "2026-06-10",
+      "titleHash": "eaa17f459c034cfe80457e9ef4425a6e"
     }
   ]
 }
