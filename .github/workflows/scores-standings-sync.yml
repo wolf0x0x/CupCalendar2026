@@ -41,4 +41,6 @@ jobs:
           git add data/last_sync.json
           git commit -m "[auto] scores update $(date -u '+%Y-%m-%d %H:%M UTC')"
       - name: Push changed score data
-        run: git push || true
+        run: |
+          git pull --rebase origin main
+          git push

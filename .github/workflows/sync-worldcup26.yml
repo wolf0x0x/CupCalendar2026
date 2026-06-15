@@ -12,11 +12,9 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
-  group: pages
+  group: sync-worldcup26-data
   cancel-in-progress: false
 
 jobs:
@@ -47,9 +45,5 @@ jobs:
           git diff --cached --quiet || git commit -m "Sync WorldCup26 data snapshot"
       - name: Push synced data
         run: |
-          git push || true
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: dist
-      - uses: actions/deploy-pages@v4
+          git pull --rebase origin main
+          git push
