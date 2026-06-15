@@ -275,6 +275,67 @@ function standingsFromMatches(matches, siteTeams = []) {
   }));
 }
 
+function teamPairKey(home, away) {
+  return `${normalizeTeamName(home)}::${normalizeTeamName(away)}`;
+}
+
+function applyScoresToSite(site, matches, standings, syncedAt) {
+  const direct = new Map(site.matches.map((match) => [teamPairKey(match.home, match.away), match]));
+  const reversed = new Map(site.matches.map((match) => [teamPairKey(match.away, match.home), match]));
+  let updatedMatches = 0;
+
+  for (const liveMatch of matches) {
+    if (liveMatch.home === "TBD" || liveMatch.away === "TBD") continue;
+
+    const directMatch = direct.get(teamPairKey(liveMatch.home, liveMatch.away));
+    const reverseMatch = reversed.get(teamPairKey(liveMatch.home, liveMatch.away));
+    const siteMatch = directMatch || reverseMatch;
+    if (!siteMatch) continue;
+
+    const wasReverse = !directMatch && Boolean(reverseMatch);
+    const homeScore = wasReverse ? liveMatch.awayScore : liveMatch.homeScore;
+    const awayScore = wasReverse ? liveMatch.homeScore : liveMatch.awayScore;
+    const nextScore = scoreLabel(homeScore, awayScore);
+    const nextStatus = liveMatch.finished ? "Final" : liveMatch.status;
+    const before = JSON.stringify({
+      date: siteMatch.date,
+      time: siteMatch.time,
+      score: siteMatch.score,
+      status: siteMatch.status,
+      prediction: siteMatch.prediction,
+      dataSource: siteMatch.dataSource
+    });
+
+    siteMatch.date = liveMatch.date || siteMatch.date;
+    siteMatch.time = liveMatch.time || siteMatch.time;
+    siteMatch.score = nextScore;
+    siteMatch.status = nextStatus;
+    siteMatch.prediction = nextStatus === "Final" ? "Final result" : (siteMatch.network ? `TV: ${siteMatch.network}` : "Kickoff scheduled");
+    siteMatch.dataSource = "worldcup26.ir";
+
+    const after = JSON.stringify({
+      date: siteMatch.date,
+      time: siteMatch.time,
+      score: siteMatch.score,
+      status: siteMatch.status,
+      prediction: siteMatch.prediction,
+      dataSource: siteMatch.dataSource
+    });
+    if (before !== after) updatedMatches += 1;
+  }
+
+  site.standings = standings;
+  site.dataSource = {
+    provider: "worldcup26.ir",
+    apiBase: worldcup26Base,
+    fetchedAt: syncedAt,
+    mode: "scores-and-standings",
+    note: "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+  };
+
+  return updatedMatches;
+}
+
 function stableJson(value) {
   return `${JSON.stringify(value, null, 2)}\n`;
 }
@@ -332,6 +393,7 @@ if (!primary.ok) {
 
 const conflicts = secondary.ok ? validateAgainstSecondary(primary.matches, secondary.matches) : [];
 const standings = standingsFromMatches(primary.matches, site.teams || []);
+const siteUpdatedMatches = applyScoresToSite(site, primary.matches, standings, syncedAt);
 
 const matchesPayload = {
   syncedAt,
@@ -358,7 +420,13 @@ const lastSyncPayload = {
   outputs: {
     matches: "data/matches.json",
     standings: "data/standings.json",
+    site: "data/site.json",
     lastSync: "data/last_sync.json"
+  },
+  siteUpdate: {
+    updatedMatches: siteUpdatedMatches,
+    standingsGroups: standings.length,
+    note: "data/site.json is updated because the static site build reads this file directly."
   },
   sources,
   validation: {
@@ -370,6 +438,7 @@ const lastSyncPayload = {
 const changed = {
   matches: await writeJsonIfChanged(matchesPath, matchesPayload),
   standings: await writeJsonIfChanged(standingsPath, standingsPayload),
+  site: await writeJsonIfChanged(sitePath, site),
   lastSync: await writeJsonIfChanged(lastSyncPath, lastSyncPayload)
 };
 

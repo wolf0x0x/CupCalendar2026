@@ -151,8 +151,8 @@
       "matchday": "Matchday 1",
       "date": "2026-06-13",
       "time": "12:00",
-      "venue": "BC Place",
-      "city": "Vancouver",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
       "home": "Switzerland",
       "away": "Qatar",
       "homeCode": "SUI",
@@ -161,7 +161,10 @@
       "status": "Final",
       "network": "FOX",
       "prediction": "Final result",
-      "ticketUrl": "https://www.fifa.com/tickets"
+      "ticketUrl": "https://www.fifa.com/tickets",
+      "dataSource": "worldcup26.ir",
+      "timezone": "America/Los_Angeles",
+      "timezoneLabel": "UTC-7"
     },
     {
       "id": "brazil-morocco",
@@ -189,9 +192,9 @@
       "group": "Group C",
       "matchday": "Matchday 1",
       "date": "2026-06-13",
-      "time": "18:00",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
+      "time": "21:00",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
       "home": "Scotland",
       "away": "Haiti",
       "homeCode": "SCO",
@@ -200,7 +203,10 @@
       "status": "Final",
       "network": "FS1",
       "prediction": "Final result",
-      "ticketUrl": "https://www.fifa.com/tickets"
+      "ticketUrl": "https://www.fifa.com/tickets",
+      "dataSource": "worldcup26.ir",
+      "timezone": "America/New_York",
+      "timezoneLabel": "UTC-4"
     },
     {
       "id": "australia-turkiye",
@@ -298,10 +304,10 @@
       "away": "Tunisia",
       "homeCode": "SWE",
       "awayCode": "TUN",
-      "score": "0 - 0",
-      "status": "notstarted",
+      "score": "5 - 1",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -1818,6 +1824,17 @@
       "group": "Group F",
       "rows": [
         {
+          "team": "Sweden",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gd": 4,
+          "points": 3,
+          "gf": 5,
+          "ga": 1
+        },
+        {
           "team": "Japan",
           "played": 1,
           "won": 0,
@@ -1840,26 +1857,15 @@
           "ga": 2
         },
         {
-          "team": "Sweden",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gd": 0,
-          "points": 0,
-          "gf": 0,
-          "ga": 0
-        },
-        {
           "team": "Tunisia",
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "gd": 0,
+          "lost": 1,
+          "gd": -4,
           "points": 0,
-          "gf": 0,
-          "ga": 0
+          "gf": 1,
+          "ga": 5
         }
       ]
     },
@@ -5751,7 +5757,7 @@
       "city": "Vancouver",
       "country": "Canada",
       "capacity": "54,500",
-      "matches": 6
+      "matches": 5
     },
     {
       "slug": "sofi-stadium",
@@ -5767,7 +5773,7 @@
       "city": "New York New Jersey",
       "country": "United States",
       "capacity": "82,500",
-      "matches": 6
+      "matches": 5
     },
     {
       "slug": "att-stadium",
@@ -5791,7 +5797,7 @@
       "city": "Boston",
       "country": "United States",
       "capacity": "65,878",
-      "matches": 4
+      "matches": 5
     },
     {
       "slug": "nrg-stadium",
@@ -5831,7 +5837,7 @@
       "city": "San Francisco Bay Area",
       "country": "United States",
       "capacity": "68,500",
-      "matches": 4
+      "matches": 5
     },
     {
       "slug": "hard-rock-stadium",
@@ -6253,7 +6259,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-15T02:00:38.237Z",
+    "fetchedAt": "2026-06-15T06:07:02.520Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },

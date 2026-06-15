@@ -106,13 +106,17 @@ function timezoneFor(city) {
 function syncKnownMatches(site, normalizedGames, stadiums) {
   const stadiumById = new Map(stadiums.map((stadium) => [String(stadium.id), stadium]));
   const matchByTeams = new Map(site.matches.map((match) => [`${match.home}::${match.away}`, match]));
+  const matchByReversedTeams = new Map(site.matches.map((match) => [`${match.away}::${match.home}`, match]));
 
   for (const game of normalizedGames) {
     const home = normalizeTeamName(game.home);
     const away = normalizeTeamName(game.away);
     if (!home || !away || home === "undefined" || away === "undefined") continue;
-    const match = matchByTeams.get(`${home}::${away}`);
+    const directMatch = matchByTeams.get(`${home}::${away}`);
+    const reverseMatch = matchByReversedTeams.get(`${home}::${away}`);
+    const match = directMatch || reverseMatch;
     if (!match) continue;
+    const reverseScore = !directMatch && Boolean(reverseMatch);
 
     const stadium = stadiumById.get(game.stadiumId);
     if (stadium) {
@@ -127,7 +131,9 @@ function syncKnownMatches(site, normalizedGames, stadiums) {
 
     match.date = game.date || match.date;
     match.time = game.time || match.time;
-    match.score = game.score || match.score;
+    match.score = reverseScore && game.score.includes("-")
+      ? game.score.split("-").map((part) => part.trim()).reverse().join(" - ")
+      : (game.score || match.score);
     match.status = game.status || match.status;
     match.prediction = match.status === "Final" ? "Final result" : (match.network ? `TV: ${match.network}` : "Kickoff scheduled");
     match.dataSource = "worldcup26.ir";
@@ -220,8 +226,8 @@ if (process.env.APPLY_WORLDCUP26 === "1") {
     provider: "worldcup26.ir",
     apiBase,
     fetchedAt: snapshot.fetchedAt,
-    mode: "standings-only",
-    note: "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
+    mode: "scores-and-standings",
+    note: "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   };
   await writeFile(sitePath, `${JSON.stringify(site, null, 2)}\n`);
 }
