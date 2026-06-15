@@ -5911,7 +5911,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-14",
+      "time": "2026-06-15",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5942,34 +5942,34 @@
     {
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-      "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49064317/germany-confidence-boost-7-goal-rout-curacao",
-      "time": "2026-06-14",
+      "title": "Iran team downplays protests: We aren't political",
+      "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand.",
+      "url": "https://www.espn.com/soccer/story/_/id/49066875/mehdi-taremi-says-team-melli-playing-every-iranian-wc",
+      "time": "2026-06-15",
       "translations": {
         "es": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         },
         "pt": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         },
         "fr": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         },
         "de": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         },
         "ja": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         },
         "zh": {
-          "title": "Germany get 'needed' boost in 7-1 Curaçao rout",
-          "summary": "Germany coach Julian Nagelsmann said his team's 7-1 rout of Curaçao to start their FIFA World Cup campaign was just what they needed after the four-time champions failed to get out of the group stage in the last two editions of the tournament."
+          "title": "Iran team downplays protests: We aren't political",
+          "summary": "Iran coach Amir Ghalenoei and forward Mehdi Taremi said that they will be playing for all Iranians at the FIFA World Cup, as the prospect of protests looms ahead of their opening fixture against New Zealand."
         }
       }
     },
@@ -6044,6 +6044,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+      "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
+      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "pt": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "fr": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "de": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "ja": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        },
+        "zh": {
+          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
+          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
       "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
@@ -6078,34 +6112,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "url": "https://www.bbc.com/sport/football/articles/clypy5p44l9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
+      "title": "Amad scores 90th-minute winner for Ivory Coast",
+      "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
       "translations": {
         "es": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         },
         "pt": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         },
         "fr": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         },
         "de": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         },
         "ja": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         },
         "zh": {
-          "title": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-          "summary": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
+          "title": "Amad scores 90th-minute winner for Ivory Coast",
+          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
         }
       }
     },
@@ -6146,40 +6180,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Kamada scores late equaliser for Japan",
-      "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "translations": {
-        "es": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Kamada scores late equaliser for Japan",
-          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Could Japan be the World Cup's dark horses?",
       "summary": "Japan could be one of the surprise packages of the 2026 World Cup, with growing belief they are ready to go further than ever before.",
       "url": "https://www.bbc.com/sport/football/articles/c2ky51391jlo?at_medium=RSS&at_campaign=rss",
@@ -6214,34 +6214,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-      "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cy4e8079v99o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-13",
+      "title": "Kamada scores late equaliser for Japan",
+      "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c39yle4z4pzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-14",
       "translations": {
         "es": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         },
         "pt": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         },
         "fr": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         },
         "de": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         },
         "ja": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         },
         "zh": {
-          "title": "Saibari's 'clinical' finish gives Morocco lead against Brazil",
-          "summary": "Morocco's Ismael Saibari fires his side into the lead against Brazil with a clinical finish in the 21st minute of their Group C match at the 2026 World Cup."
+          "title": "Kamada scores late equaliser for Japan",
+          "summary": "Watch as Japan's Daichi Kamada brings his side level to the Netherlands in their Group F fixture in the 2026 World Cup."
         }
       }
     }
@@ -6259,9 +6259,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-14T23:50:39.766Z",
+    "fetchedAt": "2026-06-15T02:51:34.537Z",
     "newsItems": 20,
-    "translationQueue": 60,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",
