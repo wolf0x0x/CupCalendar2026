@@ -277,10 +277,10 @@
       "away": "Ecuador",
       "homeCode": "CIV",
       "awayCode": "ECU",
-      "score": "0 - 0",
-      "status": "live",
+      "score": "1 - 0",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/New_York",
       "timezoneLabel": "UTC-4",
@@ -1780,26 +1780,26 @@
           "ga": 1
         },
         {
-          "team": "Ecuador",
-          "played": 0,
-          "won": 0,
+          "team": "Ivory Coast",
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
-          "gf": 0,
+          "gd": 1,
+          "points": 3,
+          "gf": 1,
           "ga": 0
         },
         {
-          "team": "Ivory Coast",
-          "played": 0,
+          "team": "Ecuador",
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "gd": 0,
+          "lost": 1,
+          "gd": -1,
           "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 1
         },
         {
           "team": "Curaçao",
@@ -6253,7 +6253,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-14T23:10:33.899Z",
+    "fetchedAt": "2026-06-15T02:00:38.237Z",
     "mode": "standings-only",
     "note": "CupCalendar stores the upstream snapshot and updates static standings during build-time sync."
   },

@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-06-14T23:10:33.899Z",
+  "fetchedAt": "2026-06-15T02:00:38.237Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e006",
@@ -761,7 +761,7 @@
       "id": "9",
       "home_team_id": "19",
       "away_team_id": "20",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
       "home_scorers": "null",
       "away_scorers": "null",
@@ -770,8 +770,8 @@
       "local_date": "06/14/2026 19:00",
       "persian_date": "1405-03-24 19:00",
       "stadium_id": "10",
-      "finished": "FALSE",
-      "time_elapsed": "live",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "group",
       "home_team_name_en": "Ivory Coast",
       "home_team_name_fa": "ساحل عاج",
