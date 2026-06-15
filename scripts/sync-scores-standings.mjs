@@ -361,7 +361,24 @@ try {
 } catch (error) {
   primary = { ok: false, source: `${worldcup26Base}/get/games`, error: error.message, matches: [] };
 }
-sources.push({ name: "worldcup26.ir", priority: 1, ok: primary.ok, source: primary.source, fetched: primary.fetched || 0, error: primary.error });
+const primaryFinished = primary.matches.filter((match) => match.finished || match.status === "Final");
+const primaryFinishedGroups = [...new Set(primaryFinished.map((match) => match.group).filter(Boolean))].sort();
+const primaryLatestFinishedDate = primaryFinished
+  .map((match) => match.date)
+  .filter(Boolean)
+  .sort()
+  .at(-1) || "";
+sources.push({
+  name: "worldcup26.ir",
+  priority: 1,
+  ok: primary.ok,
+  source: primary.source,
+  fetched: primary.fetched || 0,
+  finishedMatches: primaryFinished.length,
+  finishedGroups: primaryFinishedGroups,
+  latestFinishedDate: primaryLatestFinishedDate,
+  error: primary.error
+});
 
 try {
   secondary = await fetchFootballData();
@@ -411,11 +428,12 @@ const standingsPayload = {
 };
 
 const lastSyncPayload = {
+  checkedAt: syncedAt,
   syncedAt,
   timezone: "UTC",
   schedule: {
-    requested: "Daily 03:30 Asia/Shanghai",
-    githubActionsCronUtc: "30 19 * * *"
+    requested: "Every 15 minutes",
+    githubActionsCronUtc: "*/15 * * * *"
   },
   outputs: {
     matches: "data/matches.json",
@@ -427,6 +445,15 @@ const lastSyncPayload = {
     updatedMatches: siteUpdatedMatches,
     standingsGroups: standings.length,
     note: "data/site.json is updated because the static site build reads this file directly."
+  },
+  dataFreshness: {
+    primaryFinishedMatches: primaryFinished.length,
+    primaryFinishedGroups,
+    primaryLatestFinishedDate,
+    siteFinalMatches: site.matches.filter((match) => match.status === "Final").length,
+    siteNonEmptyGroups: site.standings
+      .filter((group) => group.rows.some((row) => row.played > 0))
+      .map((group) => group.group)
   },
   sources,
   validation: {
