@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T12:01:57.103Z",
+  "fetchedAt": "2026-06-16T14:59:39.039Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,16 +19,6 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "8010b16fda14291e09eb85c49d820610",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "time": "2026-06-16",
-      "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
-    },
-    {
       "id": "1193eb174acf4d83df4bbeb5b4ec06a6",
       "source": "ESPN",
       "tag": "RSS",
@@ -37,6 +27,16 @@
       "url": "https://www.espn.com/espn/story/_/id/49075921/senegal-coach-calls-ny-nj-show-team-home-fans-due-visa-policies",
       "time": "2026-06-16",
       "titleHash": "619967a6c960432b0fbd4b8c39ebb53b"
+    },
+    {
+      "id": "8010b16fda14291e09eb85c49d820610",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "time": "2026-06-16",
+      "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
     },
     {
       "id": "6067b4c3f73874d880f1f6e34edb6465",
@@ -57,6 +57,16 @@
       "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
       "time": "2026-06-14",
       "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
+    },
+    {
+      "id": "d67f0c81f0cb452e6ab43878fa0053b2",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Lack of World Cup segregation a risk - fans' chief",
+      "summary": "The head of fan group Football Supporters Europe says a lack of fan segregation at the 2026 World Cup shows Fifa has \"lost control of their ticketing\".",
+      "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "titleHash": "4c1f6b374e170912391c3e8cef0ec6d2"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -97,16 +107,6 @@
       "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-15",
       "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f"
-    },
-    {
-      "id": "895cf98bb956103ac7cc8dc46894ce5b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "1092319c0221ce0fc08bbd76dffaee62"
     },
     {
       "id": "ee0b23ce8b839adb6915751d1b327651",
@@ -159,14 +159,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "5a23170372532f090c7357dedf2340b1",
+      "id": "0c75b649dd52b44ec1c08ad52e2258c0",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+      "title": "World Cup 2026: England’s Livramento ruled out; Ghana seek to overturn Partey ban; Iran player’s visa expires – live",
       "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live",
       "time": "2026-06-16",
-      "titleHash": "090060443c6dff573fecb2f8172c660c"
+      "titleHash": "ba6be1e51b471285999f06a8b56a8f05"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
