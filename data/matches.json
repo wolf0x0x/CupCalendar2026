@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-16T02:08:03.262Z",
+  "syncedAt": "2026-06-16T07:43:40.072Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1536,11 +1536,11 @@
       "time": "18:00",
       "home": "Iran",
       "away": "New Zealand",
-      "homeScore": 1,
-      "awayScore": 1,
-      "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "homeScore": 2,
+      "awayScore": 2,
+      "score": "2 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "16",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
