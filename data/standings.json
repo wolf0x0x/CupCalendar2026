@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-15T23:17:30.463Z",
+  "syncedAt": "2026-06-16T02:08:03.262Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -377,6 +377,30 @@
       "group": "Group H",
       "rows": [
         {
+          "team": "Saudi Arabia",
+          "code": "SAU",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
+          "team": "Uruguay",
+          "code": "URU",
+          "played": 1,
+          "won": 0,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 1
+        },
+        {
           "team": "Cabo Verde",
           "code": "CPV",
           "played": 1,
@@ -399,30 +423,6 @@
           "ga": 0,
           "gd": 0,
           "points": 1
-        },
-        {
-          "team": "Saudi Arabia",
-          "code": "SAU",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Uruguay",
-          "code": "URU",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
         }
       ]
     },
