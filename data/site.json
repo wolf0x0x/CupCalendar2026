@@ -5994,36 +5994,104 @@
       }
     },
     {
-      "source": "BBC",
+      "source": "ESPN",
       "tag": "RSS",
-      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "time": "2026-06-16",
+      "translations": {
+        "es": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        },
+        "pt": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        },
+        "fr": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        },
+        "de": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        },
+        "ja": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        },
+        "zh": {
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
       "time": "2026-06-15",
       "translations": {
         "es": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         },
         "pt": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         },
         "fr": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         },
         "de": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         },
         "ja": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
         },
         "zh": {
-          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         }
       }
     },
@@ -6230,108 +6298,6 @@
           "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Amad scores 90th-minute winner for Ivory Coast",
-      "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Amad scores 90th-minute winner for Ivory Coast",
-          "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-      "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "translations": {
-        "es": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-          "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-10",
-      "translations": {
-        "es": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6347,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-15T23:05:51.259Z",
-    "newsItems": 17,
-    "translationQueue": 6,
+    "fetchedAt": "2026-06-15T23:59:39.488Z",
+    "newsItems": 20,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",

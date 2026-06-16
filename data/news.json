@@ -36,38 +36,110 @@
     }
   },
   {
-    "id": "895cf98bb956103ac7cc8dc46894ce5b",
-    "source": "BBC",
+    "id": "8010b16fda14291e09eb85c49d820610",
+    "source": "ESPN",
     "tag": "RSS",
-    "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-    "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-    "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-15",
-    "titleHash": "1092319c0221ce0fc08bbd76dffaee62",
+    "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+    "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+    "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+    "time": "2026-06-16",
+    "titleHash": "b68793c0330a295c31c8adf79a84f5d6",
     "translations": {
       "es": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
       },
       "pt": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
       },
       "fr": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
       },
       "de": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
       },
       "ja": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
       },
       "zh": {
-        "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-        "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+        "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+      }
+    }
+  },
+  {
+    "id": "64c4cf69237735a1c6932e15c827607a",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+    "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
+    "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+    "time": "2026-06-15",
+    "titleHash": "afe58f92ad99567a18b4c5cca40cd56c",
+    "translations": {
+      "es": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      },
+      "de": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+        "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "d0b5b6eb79732401585698caf0905fc0",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "Every team's odds to win the World Cup: Brazil's o...",
+    "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+    "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+    "time": "2026-06-14",
+    "titleHash": "2caceb77a19dd8233742abb1f4be8dbf",
+    "translations": {
+      "es": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "de": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Every team's odds to win the World Cup: Brazil's o...",
+        "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
       }
     }
   },
@@ -572,6 +644,42 @@
       "zh": {
         "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
         "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "6f393458f8179ae3360ecf051dd6ce2b",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Iran v New Zealand: World Cup 2026 – live",
+    "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
+    "time": "2026-06-15",
+    "titleHash": "07e244e6eb35d6070dcf2c5fd1ef8036",
+    "translations": {
+      "es": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Iran v New Zealand: World Cup 2026 – live",
+        "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>"
       }
     }
   },
