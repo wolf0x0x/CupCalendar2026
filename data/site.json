@@ -5994,108 +5994,6 @@
       }
     },
     {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "time": "2026-06-16",
-      "translations": {
-        "es": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "pt": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "fr": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "de": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "ja": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "zh": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
-      "time": "2026-06-16",
-      "translations": {
-        "es": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
-          "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        }
-      }
-    },
-    {
       "source": "BBC",
       "tag": "RSS",
       "title": "How to watch the World Cup on the BBC and ITV",
@@ -6298,6 +6196,108 @@
           "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "translations": {
+        "es": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches?",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why are footballers wearing pink boots at the World Cup?",
+      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "pt": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "fr": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "de": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "ja": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "zh": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,8 +6313,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-16T05:58:20.575Z",
-    "newsItems": 16,
+    "fetchedAt": "2026-06-16T05:05:59.828Z",
+    "newsItems": 13,
     "translationQueue": 0,
     "errors": [
       {
