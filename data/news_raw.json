@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-16T21:01:59.066Z",
+  "fetchedAt": "2026-06-16T21:10:28.023Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
