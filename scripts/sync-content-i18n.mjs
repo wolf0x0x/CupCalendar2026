@@ -1,6 +1,8 @@
+import { execFile } from "node:child_process";
 import { createHash } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { promisify } from "node:util";
 
 const root = process.cwd();
 const dataDir = path.join(root, "data");
@@ -10,6 +12,7 @@ const translatedPath = path.join(dataDir, "news_translated.json");
 const newsPath = path.join(dataDir, "news.json");
 const cachePath = path.join(dataDir, "translation_cache.json");
 const queuePath = path.join(dataDir, "translation_queue.json");
+const execFileAsync = promisify(execFile);
 
 const targetLanguages = ["es", "pt", "fr", "de", "ja", "zh"];
 const keywords = [
@@ -109,15 +112,33 @@ async function fetchFeed(feed) {
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 20000);
   try {
-    const response = await fetch(feed.url, {
-      signal: controller.signal,
-      headers: {
-        accept: "application/rss+xml, application/xml, text/xml, */*",
-        "user-agent": "CupCalendarBot/1.0"
-      }
-    });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return parseItems(await response.text(), feed.source);
+    try {
+      const response = await fetch(feed.url, {
+        signal: controller.signal,
+        headers: {
+          accept: "application/rss+xml, application/xml, text/xml, */*",
+          "user-agent": "CupCalendarBot/1.0"
+        }
+      });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return parseItems(await response.text(), feed.source);
+    } catch (error) {
+      const { stdout } = await execFileAsync("curl", [
+        "--fail",
+        "--silent",
+        "--show-error",
+        "--location",
+        "--max-time",
+        "20",
+        "--header",
+        "accept: application/rss+xml, application/xml, text/xml, */*",
+        "--user-agent",
+        "CupCalendarBot/1.0",
+        feed.url
+      ]);
+      if (!stdout.trim()) throw error;
+      return parseItems(stdout, feed.source);
+    }
   } finally {
     clearTimeout(timeout);
   }
