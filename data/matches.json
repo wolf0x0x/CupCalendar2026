@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-16T17:49:53.785Z",
+  "syncedAt": "2026-06-16T19:30:30.399Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -529,10 +529,10 @@
       "time": "15:00",
       "home": "France",
       "away": "Senegal",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
