@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T05:05:59.820Z",
+  "fetchedAt": "2026-06-16T05:59:45.771Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,36 @@
       "time": "2026-06-16",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "8010b16fda14291e09eb85c49d820610",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
+      "time": "2026-06-16",
+      "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
+    },
+    {
+      "id": "64c4cf69237735a1c6932e15c827607a",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
+      "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
+      "time": "2026-06-16",
+      "titleHash": "afe58f92ad99567a18b4c5cca40cd56c"
+    },
+    {
+      "id": "d0b5b6eb79732401585698caf0905fc0",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-14",
+      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
