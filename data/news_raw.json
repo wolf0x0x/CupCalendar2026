@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T02:57:56.395Z",
+  "fetchedAt": "2026-06-16T05:58:20.557Z",
   "errors": [
     {
       "source": "FIFA",
@@ -99,16 +99,6 @@
       "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f"
     },
     {
-      "id": "e9ad243d08f256b474f187e5a8c450fd",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-      "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "titleHash": "4e79a9c70e5ca3061061c52e988e5eb7"
-    },
-    {
       "id": "ee0b23ce8b839adb6915751d1b327651",
       "source": "BBC",
       "tag": "RSS",
@@ -157,16 +147,6 @@
       "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-03",
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
-    },
-    {
-      "id": "6f393458f8179ae3360ecf051dd6ce2b",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Iran v New Zealand: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p><strong>All Whites: </strong>1 Max Crocombe (gk); 13 Liberato Cacace, 16 Finn Surman, 5 Michael Boxall, 2 Tim Payne; 6 Joe Bell, 8 Marko Stamenić; 11 Eli Just, 10 Sarpreet Singh, 20 Callum McCowatt; 9 Chris Wood (c).</p><p>Chris Wood will lead the line and the side into their third World Cup campaign. The XI is expected to settle into a more defensive 4-2-3-1 formation and rely on pace up front from Just, Singh and McCowatt. Crocombe is named goalkeeper ahead of Alex Paulsen.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
-      "time": "2026-06-16",
-      "titleHash": "07e244e6eb35d6070dcf2c5fd1ef8036"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",

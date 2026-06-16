@@ -6268,34 +6268,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-      "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
       "translations": {
         "es": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         },
         "pt": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         },
         "fr": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         },
         "de": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         },
         "ja": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         },
         "zh": {
-          "title": "'Big goal from a big player!' - Van Dijk scores Netherlands opener",
-          "summary": "Virgil van Dijk scores the opening goal in the Netherlands Group F match against Japan at the 2026 World Cup."
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
         }
       }
     }
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-16T02:57:56.408Z",
-    "newsItems": 18,
-    "translationQueue": 12,
+    "fetchedAt": "2026-06-16T05:58:20.575Z",
+    "newsItems": 16,
+    "translationQueue": 0,
     "errors": [
       {
         "source": "FIFA",
