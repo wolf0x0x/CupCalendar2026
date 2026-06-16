@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-15T23:59:39.474Z",
+  "fetchedAt": "2026-06-16T02:57:56.395Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-15",
+      "time": "2026-06-16",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -23,7 +23,7 @@
       "source": "ESPN",
       "tag": "RSS",
       "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-      "summary": "Cape Verde goalkeeper Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
       "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
       "time": "2026-06-16",
       "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
@@ -35,7 +35,7 @@
       "title": "Argentina 'calm' with Emi, Álvarez, Messi ready",
       "summary": "Argentina national team manager Lionel Scaloni ensured the squad is calm ahead of the match against Algeria on Tuesday night in Kansas City, as players return from injuries just in time to debut in the 2026 World Cup.",
       "url": "https://www.espn.com/soccer/story/_/id/49075716/argentina-calm-lionel-messi-emiliano-martinez-julian-alvarez-fit-ahead-algeria",
-      "time": "2026-06-15",
+      "time": "2026-06-16",
       "titleHash": "afe58f92ad99567a18b4c5cca40cd56c"
     },
     {
@@ -69,6 +69,16 @@
       "titleHash": "be75aff2cbc1995ccca656e2ad78972b"
     },
     {
+      "id": "895cf98bb956103ac7cc8dc46894ce5b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "1092319c0221ce0fc08bbd76dffaee62"
+    },
+    {
       "id": "6c3de4b2b7d35565abf509d3aaa4afcc",
       "source": "BBC",
       "tag": "RSS",
@@ -89,16 +99,6 @@
       "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f"
     },
     {
-      "id": "895cf98bb956103ac7cc8dc46894ce5b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
-      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
-      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "1092319c0221ce0fc08bbd76dffaee62"
-    },
-    {
       "id": "e9ad243d08f256b474f187e5a8c450fd",
       "source": "BBC",
       "tag": "RSS",
@@ -107,26 +107,6 @@
       "url": "https://www.bbc.com/sport/football/videos/c5yz9pzz5gdo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-14",
       "titleHash": "4e79a9c70e5ca3061061c52e988e5eb7"
-    },
-    {
-      "id": "1622e2cb5bdc802e13f715b6713acd64",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Amad scores 90th-minute winner for Ivory Coast",
-      "summary": "Watch how Ivory Coast's Amad Diallo wins their Group E match against Ecuador in the 90th minute at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cg748mex77eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "254f7118e15e5dd3c5ae2ebb8e1c2cc0"
-    },
-    {
-      "id": "8c81569d07c6925e278b01785981dc35",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Summerville scores 'sizzler' as Netherlands retake lead",
-      "summary": "Crysencio Summerville's \"sizzler\" of a goal helps Netherlands retake the lead against Japan in their Group F fixture at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c1jypd85k0go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-14",
-      "titleHash": "472d81f9f9a70d1f8e66b198d1ba3dd8"
     },
     {
       "id": "ee0b23ce8b839adb6915751d1b327651",
@@ -179,23 +159,13 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "e713c723b4e955a6c74434fd42bdb109",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Saudi Arabia v Uruguay: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 6pm EDT/11pm BST/8am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">Spain 0-0 Cape Verde</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a></p><p><strong>2 min </strong>The Saudi Arabia attack is led by Salem al-Dawsari, who scored the winner in their astounding win over Argentina four years ago.</p><p><strong>1 min </strong>Saudi Arabia kick off from left to right as we watch. The match is only four minutes behind schedule, so you can all go chill, relax.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/15/saudi-arabia-v-uruguay-world-cup-2026-live",
-      "time": "2026-06-15",
-      "titleHash": "44fd2778122e12d0817240628795f1e5"
-    },
-    {
       "id": "6f393458f8179ae3360ecf051dd6ce2b",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Iran v New Zealand: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>In the other Group G game earlier today, <strong>Egypt</strong> went close to securing a first World Cup win, but were ultimately thwarted by Romelu Lukaku, who came off the bench in the 66th minute and immediately forced an equaliser. Afterwards, <strong>Belgium</strong> coach Rudi Garcia neatly summed up the veteran striker’s impact:</p><p>Frankly, when you are the opponent and you see Romelu Lukaku entering the field, your confidence goes down and your anxiety increases.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/11am AEST/2am BST/9pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\"> Wallchart</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p><strong>All Whites: </strong>1 Max Crocombe (gk); 13 Liberato Cacace, 16 Finn Surman, 5 Michael Boxall, 2 Tim Payne; 6 Joe Bell, 8 Marko Stamenić; 11 Eli Just, 10 Sarpreet Singh, 20 Callum McCowatt; 9 Chris Wood (c).</p><p>Chris Wood will lead the line and the side into their third World Cup campaign. The XI is expected to settle into a more defensive 4-2-3-1 formation and rely on pace up front from Just, Singh and McCowatt. Crocombe is named goalkeeper ahead of Alex Paulsen.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/16/fifa-world-cup-2026-live-iran-v-new-zealand-updates-irn-vs-nzl-group-f-match-score-latest",
-      "time": "2026-06-15",
+      "time": "2026-06-16",
       "titleHash": "07e244e6eb35d6070dcf2c5fd1ef8036"
     },
     {
@@ -207,6 +177,16 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
+    },
+    {
+      "id": "f6b4320af1a7ee512f6c8a8cccb49af5",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Mexico and a history of playing in repeat World Cup opening fixtures | The Knowledge",
+      "summary": "<p>Plus: a national first for Madrid and have Everton supplied the most former managers to World Cup 2026? </p><ul><li><p><a href=\"mailto:knowledge@theguardian.com\"><strong>Mail us</strong></a><strong> with your all of your questions and answers</strong></p></li></ul><p><strong>“The opening match of the year’s World Cup is Mexico v South Africa,”</strong> notes Matt Reilly. <strong>“This was also the first game of South Africa’s World Cup in 2010. Is this the first time that an opening match of a World Cup has featured the same two teams as a previous tournament? If not, what is the most common opening fixture of a World Cup?”</strong></p><p>The hosts <a href=\"https://www.theguardian.com/football/2010/jun/11/south-africa-mexico-world-cup-2010\">South Africa drew 1-1 with Mexico</a> in the opening game of the 2010 edition. Siphiwe Tshabalala put them ahead with a spectacular goal before Rafael Márquez scored a 79th-minute equaliser. The two sides will meet again at the Azteca on Thursday.</p><p><strong>1950</strong> Brazil 4-0 Mexico <br><em>Ademir 2, Jair, Baltazar</em></p><p><strong>1954</strong> Brazil 5-0 Mexico<br><em>Baltazar, Didi, Pinga 2, Julinho</em></p><p><strong>1962</strong> Brazil 2-0 Mexico<br><em>Zagallo, Pelé</em></p> <a href=\"https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/10/mexico-history-of-repeat-world-cup-opening-fixtures-knowledge",
+      "time": "2026-06-10",
+      "titleHash": "eaa17f459c034cfe80457e9ef4425a6e"
     }
   ]
 }
