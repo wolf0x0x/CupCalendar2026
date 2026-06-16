@@ -5994,36 +5994,308 @@
       }
     },
     {
-      "source": "CupCalendar",
-      "tag": "Data",
-      "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-      "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
-      "url": "https://cupcalendar.xyz/2026/",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
       "time": "2026-06-16",
       "translations": {
         "es": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "pt": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "fr": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "de": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "ja": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "zh": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Senegal coach calls on NYC diaspora to show out",
+      "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday.",
+      "url": "https://www.espn.com/espn/story/_/id/49075921/senegal-coach-calls-ny-nj-show-team-home-fans-due-visa-policies",
+      "time": "2026-06-16",
+      "translations": {
+        "es": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "pt": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "fr": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "de": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "ja": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "zh": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+      "summary": "null",
+      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "time": "2026-06-16",
+      "translations": {
+        "es": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "pt": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "fr": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "de": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "ja": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "zh": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-14",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "translations": {
+        "es": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "pt": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "fr": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "de": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "ja": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "zh": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "de": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "translations": {
+        "es": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "pt": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "fr": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "de": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "ja": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "zh": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
         }
       }
     }
@@ -6041,34 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-16T09:01:52.264Z",
-    "newsItems": 2,
-    "translationQueue": 0,
+    "fetchedAt": "2026-06-16T11:23:00.393Z",
+    "newsItems": 18,
+    "translationQueue": 42,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (6) Could not resolve host: inside.fifa.com\n"
-      },
-      {
-        "source": "ESPN",
-        "url": "https://www.espn.com/espn/rss/soccer/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.espn.com/espn/rss/soccer/news\ncurl: (6) Could not resolve host: www.espn.com\n"
-      },
-      {
-        "source": "BBC",
-        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://feeds.bbci.co.uk/sport/football/rss.xml\ncurl: (6) Could not resolve host: feeds.bbci.co.uk\n"
-      },
-      {
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/rss",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.theguardian.com/football/rss\ncurl: (6) Could not resolve host: www.theguardian.com\n"
-      },
-      {
-        "source": "FOX",
-        "url": "https://api.foxsports.com/v1/rss?tag=soccer",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://api.foxsports.com/v1/rss?tag=soccer\ncurl: (6) Could not resolve host: api.foxsports.com\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
       }
     ]
   }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T09:01:52.260Z",
+  "fetchedAt": "2026-06-16T11:23:00.388Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,38 +38,614 @@
       }
     },
     {
-      "source": "CupCalendar",
-      "tag": "Data",
-      "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-      "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable.",
-      "url": "https://cupcalendar.xyz/2026/",
+      "id": "8010b16fda14291e09eb85c49d820610",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
+      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
       "time": "2026-06-16",
-      "id": "9a9f4950ae830ad0bbeb98f15335dcb7",
-      "titleHash": "8a093e4c6ed0bac9e6680982c3ef877f",
+      "titleHash": "b68793c0330a295c31c8adf79a84f5d6",
       "translations": {
         "es": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "pt": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "fr": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "de": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "ja": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
         },
         "zh": {
-          "title": "CupCalendar keeps 2026 World Cup fixtures, standings, and venues in sync",
-          "summary": "The content pipeline updates static pages while preserving a safe fallback when external feeds are unavailable."
+          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
+        }
+      }
+    },
+    {
+      "id": "1193eb174acf4d83df4bbeb5b4ec06a6",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Senegal coach calls on NYC diaspora to show out",
+      "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday.",
+      "url": "https://www.espn.com/espn/story/_/id/49075921/senegal-coach-calls-ny-nj-show-team-home-fans-due-visa-policies",
+      "time": "2026-06-16",
+      "titleHash": "619967a6c960432b0fbd4b8c39ebb53b",
+      "translations": {
+        "es": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "pt": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "fr": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "de": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "ja": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        },
+        "zh": {
+          "title": "Senegal coach calls on NYC diaspora to show out",
+          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+        }
+      }
+    },
+    {
+      "id": "6067b4c3f73874d880f1f6e34edb6465",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+      "summary": "null",
+      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
+      "time": "2026-06-16",
+      "titleHash": "2b5fb1587d943ea787e1557bd069bd78",
+      "translations": {
+        "es": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "pt": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "fr": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "de": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "ja": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        },
+        "zh": {
+          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
+          "summary": "null"
+        }
+      }
+    },
+    {
+      "id": "d0b5b6eb79732401585698caf0905fc0",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-14",
+      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828",
+      "translations": {
+        "es": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "pt": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "fr": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "de": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "ja": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "zh": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "id": "bfe406722a7826e8d36be76e432d5304",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "be75aff2cbc1995ccca656e2ad78972b",
+      "translations": {
+        "es": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
+          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "6c3de4b2b7d35565abf509d3aaa4afcc",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "6532ec750817648e971a0403042ac98e",
+      "translations": {
+        "es": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "de": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
+          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "390f79005a4227bc927f19212338130f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f",
+      "translations": {
+        "es": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
+          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "895cf98bb956103ac7cc8dc46894ce5b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+      "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?",
+      "url": "https://www.bbc.com/sport/football/articles/cn81y63wn27o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-15",
+      "titleHash": "1092319c0221ce0fc08bbd76dffaee62",
+      "translations": {
+        "es": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "pt": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "fr": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "de": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "ja": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        },
+        "zh": {
+          "title": "BBC or ITV? Inside how World Cup broadcast picks are made",
+          "summary": "The 2026 World Cup is under way - but how do the BBC and ITV decide who shows which matches on TV?"
+        }
+      }
+    },
+    {
+      "id": "ee0b23ce8b839adb6915751d1b327651",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "titleHash": "e8dff0ad1282d5b9a676aff0fdd4fc4c",
+      "translations": {
+        "es": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "6f56125ae4715fa23fcf37885221eab5",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "titleHash": "25fe8575c7e94d7b66df024e3cdb26b0",
+      "translations": {
+        "es": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "18c1f179b0c890fa5c2357f3fd65624f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches?",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "titleHash": "5788a67006969fca93a3fbce96d3bbed",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
+    },
+    {
+      "id": "639596db0f3956f0e07c83a7f96cf2b7",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why are footballers wearing pink boots at the World Cup?",
+      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "titleHash": "d02141a3aefcfe9071ceb8a004296aff",
+      "translations": {
+        "es": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "pt": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "fr": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "de": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "ja": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "zh": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        }
+      }
+    },
+    {
+      "id": "e44c537c07b559e1209468928bfcfadf",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "What are the deadlines for World Cup squads?",
+      "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-03",
+      "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56",
+      "translations": {
+        "es": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        },
+        "pt": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        },
+        "fr": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        },
+        "de": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        },
+        "ja": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        },
+        "zh": {
+          "title": "What are the deadlines for World Cup squads?",
+          "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+        }
+      }
+    },
+    {
+      "id": "5a23170372532f090c7357dedf2340b1",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+      "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live",
+      "time": "2026-06-16",
+      "titleHash": "090060443c6dff573fecb2f8172c660c",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: Iran player’s visa expires after opener; Tunisia hire Renard; Klopp criticised for jibe – live",
+          "summary": "<p>⚽ All the latest on day six of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Donald Trump:</strong> The US president is in France for the G7 summit where he is meeting with world leaders. The US-Iran agreement will be high on the agenda after Trump clashed with and threatened key allies. Why am I mentioning this in the <s>Geopolitics</s> World Cup blog? Because the German chancellor, Friedrich Merz, took a punt and opted to give Trump a belated 80th birthday gift: a Germany football top with the number 47 on the back and “Trump” written on it. It is quite rare for Trump to endorse anything that is not branded “USA! USA! USA! but he seemed pleased.</p><p><strong>Algeria:</strong> The Desert Warriors will hope to harness strong backing from local supporters ⁠when they open their campaign ​against the defending champions Argentina. Residents of Lawrence, Kansas have fallen in love ⁠with Algeria, who have made their base camp in the city 40 miles west of Kansas City and Petkovic praised the north African team’s newfound fans for their warm welcome.</p><p>Lawrence is located a little over 40 miles from Kansas City, a roughly 40-minute drive from the Metropolitan area that is hosting the base camps of Argentina, the Netherlands, and England for the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>. All three are staying at boutique hotels around the city. Algeria? Well, they chose the humble Lawrence DoubleTree.</p><p>So where did this come from? According to Stan Herd, a local artist, you have to go back to April, when it was officially announced that Lawrence would host Algeria. “I think everybody’s surprised at it,” Herd said. “We’re not.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/world-cup-2026-news-france-enter-fray-iran-feel-oppressed-var-official-cleared-over-gesture-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "f64f9afcc64456351a8667d54b12d478",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+      "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026",
+      "time": "2026-06-16",
+      "titleHash": "f191044c8385d4d36f0d1c2853c5f123",
+      "translations": {
+        "es": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "‘I’m not a model!’ Uruguay’s Bielsa defends bizarre World Cup portrait shoot",
+          "summary": "<ul><li><p>Head coach looked downwards in official Fifa photo</p></li><li><p>‘The picture was taken the way it was taken’</p></li></ul><p>The Uruguay head coach Marcelo Bielsa has lived up to his maverick reputation by refusing to cooperate during a bizarre photoshoot for Fifa at the 2026 World Cup.</p><p>Bielsa – known as <em>El Loco</em> – stared down at the floor, hands in pockets, statuesque, during the obligatory media duty last Wednesday. The 70-year-old hit back at reporters when quizzed about the incident after <a href=\"https://www.theguardian.com/football/2026/jun/16/saudi-arabia-uruguay-world-cup-match-report\">Uruguay’s 1-1 draw with Saudi Arabia</a> on Monday.</p> <a href=\"https://www.theguardian.com/football/2026/jun/16/marcelo-bielsa-photoshoot-uruguay-world-cup-2026\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-06-04",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         }
       }
     }
