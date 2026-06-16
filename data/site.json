@@ -5946,138 +5946,36 @@
       }
     },
     {
-      "source": "ESPN",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Senegal coach calls on NYC diaspora to show out",
-      "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday.",
-      "url": "https://www.espn.com/espn/story/_/id/49075921/senegal-coach-calls-ny-nj-show-team-home-fans-due-visa-policies",
+      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-16",
       "translations": {
         "es": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         },
         "pt": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         },
         "fr": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         },
         "de": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         },
         "ja": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         },
         "zh": {
-          "title": "Senegal coach calls on NYC diaspora to show out",
-          "summary": "Senegal head coach Pape Thiaw has called on the country's diaspora community in New York and beyond to put their full backing behind the team when they face France in their FIFA World Cup opener on Tuesday."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-      "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
-      "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-2m-followers",
-      "time": "2026-06-16",
-      "translations": {
-        "es": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "pt": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "fr": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "de": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "ja": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        },
-        "zh": {
-          "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
-          "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-16",
-      "translations": {
-        "es": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "pt": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "fr": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "de": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "ja": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "zh": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         }
       }
     },
@@ -6250,6 +6148,108 @@
           "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "translations": {
+        "es": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "translations": {
+        "es": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches?",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches?",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,14 +6265,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-16T14:59:39.050Z",
-    "newsItems": 17,
+    "fetchedAt": "2026-06-16T17:06:57.702Z",
+    "newsItems": 14,
     "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
       }
     ]
   }
