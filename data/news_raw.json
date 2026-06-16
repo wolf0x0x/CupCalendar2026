@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-16T18:01:39.409Z",
+  "fetchedAt": "2026-06-16T21:01:59.066Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "2b17f55ad95ffca2da9120ca00da0eb8",
+      "id": "b62252a71808e799a3455272f495bc5a",
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Cape Verde GK Vozinha stopped World Cup favorites ...",
+      "title": "👀 Cape Verde GK Vozinha is a social media star!",
       "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
       "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
       "time": "2026-06-16",
-      "titleHash": "b68793c0330a295c31c8adf79a84f5d6"
+      "titleHash": "97bb1ab1836a9ef995569ccc1267eb3e"
     },
     {
       "id": "6067b4c3f73874d880f1f6e34edb6465",
@@ -163,10 +163,20 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "France v Senegal: World Cup 2026 – live",
-      "summary": "<p>⚽ World Cup news: kick-off 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Email Daniel</a></p><p>There are some fixtures that need only the names of the teams to get us going and France v Senegal is one such, a meld of nostalgia, history and righteous indignation. “I think Senegal will win,” says Othmane Sonoko, former prime minister and speaker of the Senegalese parliament, “but in any case, whichever team wins, it is Africa that will have beaten Africa.”</p><p>The teams, of course, met in the <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-upset-didier-deschamps-world-cup-2002-players-humble\">World Cup 2002</a> opener, a game which featured one of the great centre-forward displays from El-Hadji Diouf and one of the great celebrations following Papa Bouba Diop’s goal, which secured one of the great shocks. Nor did things improve for France thereafter, eliminated bottom of the group with one point and no goals, the worst-ever performance from a defending champion. The teams have not met since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/france-v-senegal-world-cup-2026-live\">Continue reading...</a>",
+      "summary": "<p>⚽ World Cup news: kick-off 3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Email Daniel</a></p><p><strong>You may or may not have seen the wonderful new Senegal kit, printed inside-out.</strong> What a beauty!</p><p><strong>Yes, yes, don’t worry, it’s coming.</strong> It is of course, impossible to mention our dear departed <a href=\"https://www.youtube.com/watch?v=D8WLoRoQ5Yw\">without also mentioning this goa</a>l.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/france-v-senegal-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/16/france-v-senegal-world-cup-2026-live",
       "time": "2026-06-16",
       "titleHash": "553cd5dd0a7b80b02c4c00fc021f0d64"
+    },
+    {
+      "id": "cb5f44599e396c180f2819ba9bb0c17b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Iraq v Norway: World Cup 2026 – live",
+      "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p>Hello all, and I hope you’re all enjoying the debate over the no-call in the France-Senegal match (unanimous view in the referees’ message board I frequent: correct no-call) and also the goal that followed.</p><p>Follow along with Daniel Harris, and I’ll be back with a proper preamble when that one has ended.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live",
+      "time": "2026-06-16",
+      "titleHash": "c51bd06a348718c44615f7391f288d39"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
