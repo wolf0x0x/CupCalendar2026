@@ -409,7 +409,7 @@
       "away": "Senegal",
       "homeCode": "FRA",
       "awayCode": "SEN",
-      "score": "0 - 0",
+      "score": "2 - 0",
       "status": "live",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1580,47 +1580,51 @@
       "rows": [
         {
           "team": "Mexico",
+          "code": "MEX",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 2,
-          "ga": 0
+          "ga": 0,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "South Korea",
+          "code": "KOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 1,
-          "points": 3,
           "gf": 2,
-          "ga": 1
+          "ga": 1,
+          "gd": 1,
+          "points": 3
         },
         {
           "team": "Czechia",
+          "code": "CZE",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -1,
-          "points": 0,
           "gf": 1,
-          "ga": 2
+          "ga": 2,
+          "gd": -1,
+          "points": 0
         },
         {
           "team": "South Africa",
+          "code": "RSA",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 0,
-          "ga": 2
+          "ga": 2,
+          "gd": -2,
+          "points": 0
         }
       ]
     },
@@ -1629,47 +1633,51 @@
       "rows": [
         {
           "team": "Bosnia and Herzegovina",
+          "code": "BIH",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Canada",
+          "code": "CAN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Qatar",
+          "code": "QAT",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Switzerland",
+          "code": "SUI",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         }
       ]
     },
@@ -1678,47 +1686,51 @@
       "rows": [
         {
           "team": "Scotland",
+          "code": "SCO",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 1,
-          "points": 3,
           "gf": 1,
-          "ga": 0
+          "ga": 0,
+          "gd": 1,
+          "points": 3
         },
         {
           "team": "Brazil",
+          "code": "BRA",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Morocco",
+          "code": "MAR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Haiti",
+          "code": "HAI",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -1,
-          "points": 0,
           "gf": 0,
-          "ga": 1
+          "ga": 1,
+          "gd": -1,
+          "points": 0
         }
       ]
     },
@@ -1727,47 +1739,51 @@
       "rows": [
         {
           "team": "United States",
+          "code": "USA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 3,
           "gf": 4,
-          "ga": 1
+          "ga": 1,
+          "gd": 3,
+          "points": 3
         },
         {
           "team": "Australia",
+          "code": "AUS",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 2,
-          "ga": 0
+          "ga": 0,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Türkiye",
+          "code": "TUR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 0,
-          "ga": 2
+          "ga": 2,
+          "gd": -2,
+          "points": 0
         },
         {
           "team": "Paraguay",
+          "code": "PAR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -3,
-          "points": 0,
           "gf": 1,
-          "ga": 4
+          "ga": 4,
+          "gd": -3,
+          "points": 0
         }
       ]
     },
@@ -1776,47 +1792,51 @@
       "rows": [
         {
           "team": "Germany",
+          "code": "GER",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 6,
-          "points": 3,
           "gf": 7,
-          "ga": 1
+          "ga": 1,
+          "gd": 6,
+          "points": 3
         },
         {
           "team": "Ivory Coast",
+          "code": "CIV",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 1,
-          "points": 3,
           "gf": 1,
-          "ga": 0
+          "ga": 0,
+          "gd": 1,
+          "points": 3
         },
         {
           "team": "Ecuador",
+          "code": "ECU",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -1,
-          "points": 0,
           "gf": 0,
-          "ga": 1
+          "ga": 1,
+          "gd": -1,
+          "points": 0
         },
         {
           "team": "Curaçao",
+          "code": "CUW",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -6,
-          "points": 0,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 0
         }
       ]
     },
@@ -1825,47 +1845,51 @@
       "rows": [
         {
           "team": "Sweden",
+          "code": "SWE",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 4,
-          "points": 3,
           "gf": 5,
-          "ga": 1
+          "ga": 1,
+          "gd": 4,
+          "points": 3
         },
         {
           "team": "Japan",
+          "code": "JPN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Netherlands",
+          "code": "NED",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Tunisia",
+          "code": "TUN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -4,
-          "points": 0,
           "gf": 1,
-          "ga": 5
+          "ga": 5,
+          "gd": -4,
+          "points": 0
         }
       ]
     },
@@ -1874,47 +1898,51 @@
       "rows": [
         {
           "team": "Iran",
+          "code": "IRN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "New Zealand",
+          "code": "NZL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Belgium",
+          "code": "BEL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Egypt",
+          "code": "EGY",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         }
       ]
     },
@@ -1923,47 +1951,51 @@
       "rows": [
         {
           "team": "Saudi Arabia",
+          "code": "SAU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Uruguay",
+          "code": "URU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Cabo Verde",
+          "code": "CPV",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Spain",
+          "code": "ESP",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 1
         }
       ]
     },
@@ -1972,47 +2004,51 @@
       "rows": [
         {
           "team": "France",
+          "code": "FRA",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Iraq",
+          "code": "IRQ",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Norway",
+          "code": "NOR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Senegal",
+          "code": "SEN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         }
       ]
     },
@@ -2021,47 +2057,51 @@
       "rows": [
         {
           "team": "Algeria",
+          "code": "ALG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Argentina",
+          "code": "ARG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Austria",
+          "code": "AUT",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Jordan",
+          "code": "JOR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         }
       ]
     },
@@ -2070,47 +2110,51 @@
       "rows": [
         {
           "team": "Colombia",
+          "code": "COL",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "DR Congo",
+          "code": "COD",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Portugal",
+          "code": "POR",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Uzbekistan",
+          "code": "UZB",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         }
       ]
     },
@@ -2119,47 +2163,51 @@
       "rows": [
         {
           "team": "Croatia",
+          "code": "CRO",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "England",
+          "code": "ENG",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Ghana",
+          "code": "GHA",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         },
         {
           "team": "Panama",
+          "code": "PAN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gd": 0,
-          "points": 0,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 0
         }
       ]
     }
@@ -6259,9 +6307,9 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-16T20:14:45.436Z",
+    "fetchedAt": "2026-06-16T20:53:12.709Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
+    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
