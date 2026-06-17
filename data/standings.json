@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-16T20:53:12.709Z",
+  "syncedAt": "2026-06-17T00:18:01.027Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -430,51 +430,51 @@
       "group": "Group I",
       "rows": [
         {
-          "team": "France",
-          "code": "FRA",
-          "played": 0,
-          "won": 0,
+          "team": "Norway",
+          "code": "NOR",
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 3
+        },
+        {
+          "team": "France",
+          "code": "FRA",
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 3,
+          "ga": 1,
+          "gd": 2,
+          "points": 3
+        },
+        {
+          "team": "Senegal",
+          "code": "SEN",
+          "played": 1,
+          "won": 0,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 3,
+          "gd": -2,
           "points": 0
         },
         {
           "team": "Iraq",
           "code": "IRQ",
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Norway",
-          "code": "NOR",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Senegal",
-          "code": "SEN",
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 4,
+          "gd": -3,
           "points": 0
         }
       ]
