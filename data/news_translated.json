@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T18:10:16.333Z",
+  "fetchedAt": "2026-06-17T20:21:36.208Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,146 +38,38 @@
       }
     },
     {
-      "id": "f949e9716f2cabb8b835d449dda2bbbb",
-      "source": "ESPN",
+      "id": "0e514ec5a2f5a592c0188a66e6091f27",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-      "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer.",
-      "url": "https://www.espn.com/soccer/story/_/id/49092315/erling-haaland-world-cup-best-goalscorer",
+      "title": "DR Congo earn World Cup point against Portugal",
+      "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
-      "titleHash": "c65386760d58aa5f495e7aa10c26ab2a",
+      "titleHash": "46d9db8fffaa85abbcbb34ba37966fa5",
       "translations": {
         "es": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         },
         "pt": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         },
         "fr": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         },
         "de": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         },
         "ja": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         },
         "zh": {
-          "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-          "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer."
-        }
-      }
-    },
-    {
-      "id": "6067b4c3f73874d880f1f6e34edb6465",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-17",
-      "titleHash": "2b5fb1587d943ea787e1557bd069bd78",
-      "translations": {
-        "es": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "pt": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "fr": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "de": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "ja": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "zh": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        }
-      }
-    },
-    {
-      "id": "1cd2f596fb11dee1e6b9245bba31a41e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-17",
-      "titleHash": "76f88731edb303a99ea16cb7b6011891",
-      "translations": {
-        "es": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "pt": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "fr": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "de": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "ja": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "zh": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        }
-      }
-    },
-    {
-      "id": "ee8c396c5098e22865af2118c9c25a7d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Mbappé hel...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-17",
-      "titleHash": "4fb4f96addc94aca08aca9554b88ad8e",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+          "title": "DR Congo earn World Cup point against Portugal",
+          "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         }
       }
     },
@@ -214,42 +106,6 @@
         "zh": {
           "title": "Highlights: Haaland scores twice in Norway win over Iraq",
           "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        }
-      }
-    },
-    {
-      "id": "6ea51ed52c09fadc41a415438e2c7b1a",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Highlights: Mbappe stars as France beat Senegal",
-      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
-      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50",
-      "translations": {
-        "es": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "pt": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "fr": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "de": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "ja": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "zh": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         }
       }
     },
@@ -326,38 +182,38 @@
       }
     },
     {
-      "id": "a603492a448240c83e0d343ef792470f",
+      "id": "6ea51ed52c09fadc41a415438e2c7b1a",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "title": "Highlights: Mbappe stars as France beat Senegal",
+      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
+      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-16",
-      "titleHash": "a16742011439ce434efd34d5d6ac3a74",
+      "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50",
       "translations": {
         "es": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "pt": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "fr": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "de": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "ja": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "zh": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         }
       }
     },
@@ -506,38 +362,38 @@
       }
     },
     {
-      "id": "d40581f9ac68b4308ade7bd01514cd12",
+      "id": "10f445486b93a3be225c34b2d8fe766d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Portugal v DR Congo: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
+      "title": "England v Croatia: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
       "time": "2026-06-17",
-      "titleHash": "48c3ac437705a6dd942405c7b4d573dc",
+      "titleHash": "4e003f7562633c3963b8a7c457a7fb27",
       "translations": {
         "es": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "de": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Portugal v DR Congo: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+          "title": "England v Croatia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>"
         }
       }
     },
