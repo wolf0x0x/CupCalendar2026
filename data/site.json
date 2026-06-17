@@ -6030,10 +6030,44 @@
     {
       "source": "ESPN",
       "tag": "RSS",
+      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-17",
+      "translations": {
+        "es": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "pt": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "fr": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "de": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "ja": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "zh": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
       "title": "Key issues for England at 2026 World Cup: Fatigue,...",
       "summary": "null",
       "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-16",
+      "time": "2026-06-17",
       "translations": {
         "es": {
           "title": "Key issues for England at 2026 World Cup: Fatigue,...",
@@ -6098,34 +6132,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Highlights: Mbappe stars as France beat Senegal",
-      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
-      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
+      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
+      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
       "translations": {
         "es": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "pt": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "fr": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "de": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "ja": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "zh": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         }
       }
     },
@@ -6234,68 +6268,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
+      "title": "Highlights: Mbappe stars as France beat Senegal",
+      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
+      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
       "translations": {
         "es": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "pt": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "fr": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "de": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "ja": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         },
         "zh": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-      "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c75y6gp1qyyo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        },
-        "de": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
-          "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         }
       }
     }
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-17T00:03:11.725Z",
-    "newsItems": 19,
-    "translationQueue": 30,
+    "fetchedAt": "2026-06-17T03:05:17.969Z",
+    "newsItems": 20,
+    "translationQueue": 54,
     "errors": [
       {
         "source": "FIFA",

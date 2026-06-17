@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T00:03:11.716Z",
+  "fetchedAt": "2026-06-17T03:05:17.959Z",
   "items": [
     {
       "source": "FIFA",
@@ -74,13 +74,49 @@
       }
     },
     {
+      "id": "1cd2f596fb11dee1e6b9245bba31a41e",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-17",
+      "titleHash": "76f88731edb303a99ea16cb7b6011891",
+      "translations": {
+        "es": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "pt": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "fr": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "de": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "ja": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "zh": {
+          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        }
+      }
+    },
+    {
       "id": "6067b4c3f73874d880f1f6e34edb6465",
       "source": "ESPN",
       "tag": "RSS",
       "title": "Key issues for England at 2026 World Cup: Fatigue,...",
       "summary": "null",
       "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-16",
+      "time": "2026-06-17",
       "titleHash": "2b5fb1587d943ea787e1557bd069bd78",
       "translations": {
         "es": {
@@ -146,38 +182,38 @@
       }
     },
     {
-      "id": "6ea51ed52c09fadc41a415438e2c7b1a",
+      "id": "8c4a7fd2098e66ea3a32685f5c722de6",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Highlights: Mbappe stars as France beat Senegal",
-      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
-      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50",
+      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
+      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "titleHash": "c76525a4bdb69746f13573fa37cc3cb2",
       "translations": {
         "es": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "pt": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "fr": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "de": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "ja": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         },
         "zh": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
         }
       }
     },
@@ -290,6 +326,42 @@
       }
     },
     {
+      "id": "6ea51ed52c09fadc41a415438e2c7b1a",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Highlights: Mbappe stars as France beat Senegal",
+      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
+      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50",
+      "translations": {
+        "es": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "pt": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "fr": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "de": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "ja": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "zh": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        }
+      }
+    },
+    {
       "id": "bfe406722a7826e8d36be76e432d5304",
       "source": "BBC",
       "tag": "RSS",
@@ -358,42 +430,6 @@
         "zh": {
           "title": "'He's the story' - Vozinha's epic goalkeeping display thwarts Spain",
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "390f79005a4227bc927f19212338130f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "024bcb387b9d29b7dec9c3b1189e9c5f",
-      "translations": {
-        "es": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
         }
       }
     },
@@ -470,37 +506,37 @@
       }
     },
     {
-      "id": "18c1f179b0c890fa5c2357f3fd65624f",
+      "id": "76d6a14bf784f8d193608ac054e65e33",
       "source": "BBC",
       "tag": "RSS",
-      "title": "How to watch highlights of World Cup matches?",
+      "title": "How to watch highlights of World Cup matches",
       "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
       "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-11",
-      "titleHash": "5788a67006969fca93a3fbce96d3bbed",
+      "titleHash": "54e5d641f527c1d903f384ae31d9b4c9",
       "translations": {
         "es": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         },
         "pt": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         },
         "fr": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         },
         "de": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         },
         "ja": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         },
         "zh": {
-          "title": "How to watch highlights of World Cup matches?",
+          "title": "How to watch highlights of World Cup matches",
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         }
       }
@@ -578,74 +614,74 @@
       }
     },
     {
-      "id": "cb5f44599e396c180f2819ba9bb0c17b",
+      "id": "44fc58405f461da4f3c8c8b18f921020",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Iraq v Norway: World Cup 2026 – live",
-      "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live",
+      "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest",
       "time": "2026-06-17",
-      "titleHash": "c51bd06a348718c44615f7391f288d39",
+      "titleHash": "2e0daa4c922b994e64a33be5706d4bb8",
       "translations": {
         "es": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         },
         "de": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Iraq v Norway: World Cup 2026 – live",
-          "summary": "<p><strong>⚽ </strong>World Cup news: kick-off 6pm EDT/11pm BST/8am AEST<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Email Beau</a></p><p><strong>1 min </strong>Iraq go direct to start, with Amir Al-Ammari hammering a ball from midfield, but his target is surrounded by Norwegian defenders, and Nyland easily collects.</p><p>Atcho blows his whistle, and there’s a sea of red in the stands.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/16/iraq-v-norway-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Argentina 3-0 Algeria: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p><strong>What about Algeria? Even Maher Mezahi isn’t sure what to expect.</strong></p><p>Algeria are one of this World Cup’s great unknowns. On paper, this team has an impressive recent record: a friendly victory over the Netherlands made it 21 wins, four draws and three defeats from 28 matches under Vladimir Petkovic, with 67 goals scored. The problem is that it has been achieved against generally poor-quality opposition. Algeria’s qualifying campaign was a breeze, with Guinea and Mozambique – both considered Pot C sides on the continent – being their sternest tests.</p><p>We can be pretty sure Petkovic will lean on his players’ technical quality, play attractive football, but leave gaps in behind the defence. What we don’t know is which players will be called upon for half the starting positions.</p><p>The holders arrive at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> with a squad that knows each other almost by heart but perhaps not with its players in peak physical condition – several had injury set-backs at the end of a very demanding season with their clubs. If everyone is fit, the coach will field many of the same players who were crowned champions in Qatar, with the exception of Ángel Di María, who no longer plays for the national team.</p><p>Lionel Scaloni’s plan is to keep the 4-3-3 formation, with a solid defence featuring two centre-backs and two attacking full-backs, plus dynamic midfielders with excellent passing. Lionel Messi leads the charge once more, supported by the formidable Julián Alvarez and Thiago Almada, who could be the breakout star. Almost two thirds of the 2022 squad remains, but it now also includes some promising young players such as Nico Paz, who has been in excellent form at Como. They will also have established stars like Lautaro Martínez, who aims to be in top condition for this World Cup: something he couldn’t achieve in Qatar.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "d1cecad9fb6e5f1ae217839ecbe3dded",
+      "id": "945850fb34f1c8cfdac8b99259d04c92",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Argentina v Algeria: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest",
+      "title": "Austria v Jordan: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
       "time": "2026-06-17",
-      "titleHash": "3fc929d1fa999c5b47b0df4242a09657",
+      "titleHash": "37d4dee61b21012ad20eddf7e178d82f",
       "translations": {
         "es": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         },
         "de": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Argentina v Algeria: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 8pm local/11am AEST/2am BST/9pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Norway have delivered on their pre-tournament dark horse status with a comfortable 4-1 victory over Iraq to join France at the top of Group I. There was a brace for Erling Haaland, putting the Manchester City goal machine alongside Kylian Mbappe in the race for the Golden Boot.</p><p><strong>In the latest who-cares-the-rapture-is-coming-soon-anyway news Johnny Child continues to turn left for global warming.</strong></p><p>As a result of the huge distances the New Weather Institute has described this World Cup as “the most polluting event ever”, estimating that it will generate about 9 million tons of carbon dioxide equivalent. Air travel is responsible for about 7.7 million tons of that carbon estimate, more than four times that of the average for World Cups held from 2010 to 2022.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-argentina-v-algeria-updates-arg-vs-alg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "Austria v Jordan: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Meanwhile in Kansas City…. it may come as no surprise that Lionel Messi has taken just 76 minutes to stamp his mark on the tournament with a hat-trick for reigning champions Argentina in their opener against Algeria. With that, he equals the all-time World Cup scoring record. Austria and Jordan must be quaking in their boots. Join Jonathan Howcroft for what remains of that Group J game.</p><p>The streets and cafes of Amman will be heaving this morning as Jordan make their World Cup debut. <strong>John Duerden</strong> looks at how <em>Al-Nashama</em> booked their ticket – and what to expect against Austria at San Francisco Bay Area Stadium.</p><p>Jordan v Austria has been used as an example of a game that will challenge Fifa’s dynamic pricing system but regardless of how full the San Francisco Bay Area Stadium is, the cafes in Amman’s Prince Muhammad Street and all around the country will be packed. They were a year ago, as fans watched Portugal beat Spain in the Uefa Nations League final, three days after the World Cup spot had been secured with the city still buzzing with the thought of <em>Al-Nashama</em> (The Chivalrous Ones) taking on the superstars of the world and … here they are.</p><p>But while Jordan may be more about team spirit, organisation and counterattacking, they have stars of their own. In the days after qualification, the faces of the big three forwards featured on billboards everywhere you looked, though they have had differing fortunes since.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
         }
       }
     },
