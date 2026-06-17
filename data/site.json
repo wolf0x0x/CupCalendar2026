@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-16",
+      "time": "2026-06-17",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5999,7 +5999,7 @@
       "title": "👀 Cape Verde GK Vozinha is a social media star!",
       "summary": "Cape Verde GK Vozinha is a 40-year-old journeyman who is now one of the 2026 World Cup's most beloved players.",
       "url": "https://www.espn.com/soccer/story/_/id/49074487/cape-verde-gk-vozinha-stopped-world-cup-favourites-spain-gained-8m-followers",
-      "time": "2026-06-16",
+      "time": "2026-06-17",
       "translations": {
         "es": {
           "title": "👀 Cape Verde GK Vozinha is a social media star!",
@@ -6092,6 +6092,40 @@
         "zh": {
           "title": "Every team's odds to win the World Cup: Brazil's o...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Highlights: Mbappe stars as France beat Senegal",
+      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
+      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "translations": {
+        "es": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "pt": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "fr": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "de": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "ja": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
+        },
+        "zh": {
+          "title": "Highlights: Mbappe stars as France beat Senegal",
+          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
         }
       }
     },
@@ -6264,40 +6298,6 @@
           "summary": "Watch Cape Verde goalkeeper Vozinha produce a masterclass in goalkeeping to help his team record a 0-0 draw again Spain in their Group H fixture at the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-      "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cpv34dv4rmgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "translations": {
-        "es": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Emotional full-time scenes as Cape Verde celebrate 0-0 draw against Spain",
-          "summary": "Watch the emotional full-time scenes following Cape Verde's 0-0 draw against Spain in the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-16T21:10:28.032Z",
-    "newsItems": 18,
-    "translationQueue": 0,
+    "fetchedAt": "2026-06-17T00:03:11.725Z",
+    "newsItems": 19,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }
