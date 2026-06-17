@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-17T21:09:46.695Z",
+  "fetchedAt": "2026-06-17T22:47:29.550Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -19,74 +19,34 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "8e25bed1dab017428a8d525c68f029c7",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Ronaldo frustrated as Congo stun Portugal in draw",
-      "summary": "Congo DR produced a stunning result at the 2026 World Cup, as the African side held one of the pre-tournament favorites, Portugal, to a 1-1 draw in Houston on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49097269/portugal-congo-dr-world-cup-2026-cristiano-ronaldo",
-      "time": "2026-06-17",
-      "titleHash": "465ff1b8300d171f6bd0f209e8e5b53c"
-    },
-    {
-      "id": "c75ce9446b99afca0b1e1078ac9133d1",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-      "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49098237/ivory-coast-elye-wahi-arrested-ligue-1-spot-fixing",
-      "time": "2026-06-17",
-      "titleHash": "cdf4484a3db11c62503795b44e3e43cd"
-    },
-    {
-      "id": "f949e9716f2cabb8b835d449dda2bbbb",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Haaland: I'm not 'statistically' No.1 goalscorer",
-      "summary": "Despite Erling Haaland successfully launching Norway's 2026 World Cup campaign with a brace against Iraq, the striker still believes Harry Kane and Kylian Mbappé are ahead of him in the race to be regarded as football's best goalscorer.",
-      "url": "https://www.espn.com/soccer/story/_/id/49092315/erling-haaland-world-cup-best-goalscorer",
-      "time": "2026-06-17",
-      "titleHash": "c65386760d58aa5f495e7aa10c26ab2a"
-    },
-    {
-      "id": "1cd2f596fb11dee1e6b9245bba31a41e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-17",
-      "titleHash": "76f88731edb303a99ea16cb7b6011891"
-    },
-    {
-      "id": "ee8c396c5098e22865af2118c9c25a7d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Mbappé hel...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-17",
-      "titleHash": "4fb4f96addc94aca08aca9554b88ad8e"
-    },
-    {
-      "id": "0e514ec5a2f5a592c0188a66e6091f27",
+      "id": "d892956a1d0bb84c826f096fa273d367",
       "source": "BBC",
       "tag": "RSS",
-      "title": "DR Congo earn World Cup point against Portugal",
-      "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
+      "title": "Substitute Rashford hits England's fourth against Croatia",
+      "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
-      "titleHash": "46d9db8fffaa85abbcbb34ba37966fa5"
+      "titleHash": "efd9e46990bddb62d6b1206a7e1c415e"
     },
     {
-      "id": "8c4a7fd2098e66ea3a32685f5c722de6",
+      "id": "b70bc2a0c334477f28fe325346d202f9",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
-      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+      "title": "Bellingham scores early in second half to put England 3-2 up",
+      "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c20y9dqpz0zo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
-      "titleHash": "c76525a4bdb69746f13573fa37cc3cb2"
+      "titleHash": "1443654be59695b1bb0fe0aca5209c34"
+    },
+    {
+      "id": "3d18640156c080081ca824c6ba049bcc",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Baturina fires Croatia level against England",
+      "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "titleHash": "efadce51fc1e35d01c02814b9036b1e9"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -107,6 +67,26 @@
       "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
       "titleHash": "0e90ae981dbe1ae83f2c8d3d400d82b9"
+    },
+    {
+      "id": "0e514ec5a2f5a592c0188a66e6091f27",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "DR Congo earn World Cup point against Portugal",
+      "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c8j2e2rj0klo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "titleHash": "46d9db8fffaa85abbcbb34ba37966fa5"
+    },
+    {
+      "id": "8c4a7fd2098e66ea3a32685f5c722de6",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
+      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
+      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "titleHash": "c76525a4bdb69746f13573fa37cc3cb2"
     },
     {
       "id": "6ea51ed52c09fadc41a415438e2c7b1a",
@@ -159,14 +139,24 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "10f445486b93a3be225c34b2d8fe766d",
+      "id": "cd593764cef7a1a2088787935411b13b",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "England v Croatia: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
+      "title": "England 4-2 Croatia: World Cup 2026 – live",
+      "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates",
       "time": "2026-06-17",
-      "titleHash": "4e003f7562633c3963b8a7c457a7fb27"
+      "titleHash": "49e11ce33c51b60d2f15ff39d6d982d2"
+    },
+    {
+      "id": "bce35dd89cae78843d18fd593c21e65e",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Ghana v Panama: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live",
+      "time": "2026-06-17",
+      "titleHash": "dc2dd5530436efe727dc95c467df75ab"
     },
     {
       "id": "1a974ded7bddd668b3223fdc72c0f6bf",
@@ -187,6 +177,16 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
+    },
+    {
+      "id": "cdd74d096db02aebfe6edb7670cf4d2a",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+      "summary": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures",
+      "time": "2026-06-17",
+      "titleHash": "92df8761172109abd0907520e1342332"
     }
   ]
 }
