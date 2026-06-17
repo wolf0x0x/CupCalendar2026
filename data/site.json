@@ -6084,33 +6084,33 @@
     {
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "title": "Every team's odds to win the World Cup: Mbappé hel...",
       "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
       "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
+      "time": "2026-06-17",
       "translations": {
         "es": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         },
         "pt": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         },
         "fr": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         },
         "de": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         },
         "ja": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         },
         "zh": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
         }
       }
@@ -6265,14 +6265,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-17T15:07:07.238Z",
-    "newsItems": 19,
+    "fetchedAt": "2026-06-17T15:51:14.327Z",
+    "newsItems": 18,
     "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
       }
     ]
   }

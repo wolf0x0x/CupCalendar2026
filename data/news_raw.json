@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-17T15:07:07.224Z",
+  "fetchedAt": "2026-06-17T15:51:14.310Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -59,14 +59,14 @@
       "titleHash": "76f88731edb303a99ea16cb7b6011891"
     },
     {
-      "id": "d0b5b6eb79732401585698caf0905fc0",
+      "id": "ee8c396c5098e22865af2118c9c25a7d",
       "source": "ESPN",
       "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
+      "title": "Every team's odds to win the World Cup: Mbappé hel...",
       "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
       "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
+      "time": "2026-06-17",
+      "titleHash": "4fb4f96addc94aca08aca9554b88ad8e"
     },
     {
       "id": "38b12e0debfc04612e664f82db436538",
@@ -119,16 +119,6 @@
       "titleHash": "a16742011439ce434efd34d5d6ac3a74"
     },
     {
-      "id": "d67f0c81f0cb452e6ab43878fa0053b2",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Lack of World Cup segregation a risk - fans' chief",
-      "summary": "The head of fan group Football Supporters Europe says a lack of fan segregation at the 2026 World Cup shows Fifa has \"lost control of their ticketing\".",
-      "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "4c1f6b374e170912391c3e8cef0ec6d2"
-    },
-    {
       "id": "ee0b23ce8b839adb6915751d1b327651",
       "source": "BBC",
       "tag": "RSS",
@@ -179,14 +169,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "f49f3404281cac5a692a619313435574",
+      "id": "d40581f9ac68b4308ade7bd01514cd12",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, environment protests planned for Mexico match – live",
-      "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
+      "title": "Portugal v DR Congo: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
       "time": "2026-06-17",
-      "titleHash": "0ca13aedcc668d4dfbccd24331562e88"
+      "titleHash": "48c3ac437705a6dd942405c7b4d573dc"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
