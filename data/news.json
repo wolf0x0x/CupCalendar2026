@@ -72,42 +72,6 @@
     }
   },
   {
-    "id": "ee0e0b11f589fe555f54a0b3b38f8860",
-    "source": "ESPN",
-    "tag": "RSS",
-    "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-    "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
-    "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
-    "time": "2026-06-17",
-    "titleHash": "547d1a0a43a8061c69e5f120c58d8426",
-    "translations": {
-      "es": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      },
-      "pt": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      },
-      "fr": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      },
-      "de": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      },
-      "ja": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      },
-      "zh": {
-        "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-        "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-      }
-    }
-  },
-  {
     "id": "6067b4c3f73874d880f1f6e34edb6465",
     "source": "ESPN",
     "tag": "RSS",
@@ -212,42 +176,6 @@
       "zh": {
         "title": "Every team's odds to win the World Cup: Mbappé hel...",
         "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "38b12e0debfc04612e664f82db436538",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-    "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
-    "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-17",
-    "titleHash": "0e90ae981dbe1ae83f2c8d3d400d82b9",
-    "translations": {
-      "es": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-      },
-      "pt": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-      },
-      "fr": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-      },
-      "de": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-      },
-      "ja": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-      },
-      "zh": {
-        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
       }
     }
   },
@@ -360,6 +288,42 @@
     }
   },
   {
+    "id": "38b12e0debfc04612e664f82db436538",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+    "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
+    "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-17",
+    "titleHash": "0e90ae981dbe1ae83f2c8d3d400d82b9",
+    "translations": {
+      "es": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      },
+      "pt": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      },
+      "fr": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      },
+      "de": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      },
+      "ja": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      },
+      "zh": {
+        "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+        "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+      }
+    }
+  },
+  {
     "id": "a603492a448240c83e0d343ef792470f",
     "source": "BBC",
     "tag": "RSS",
@@ -428,42 +392,6 @@
       "zh": {
         "title": "Who will win the World Cup? BBC pundits make their predictions",
         "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "6f56125ae4715fa23fcf37885221eab5",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-    "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/articles/cvgdxg2v5d7o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-10",
-    "titleHash": "25fe8575c7e94d7b66df024e3cdb26b0",
-    "translations": {
-      "es": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
-      },
-      "de": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the first round of group games at the 2026 World Cup."
       }
     }
   },
@@ -580,34 +508,70 @@
     "source": "The Guardian",
     "tag": "RSS",
     "title": "Portugal v DR Congo: World Cup 2026 – live",
-    "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>",
+    "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>",
     "url": "https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live",
     "time": "2026-06-17",
     "titleHash": "48c3ac437705a6dd942405c7b4d573dc",
     "translations": {
       "es": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
       },
       "pt": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
       },
       "fr": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
       },
       "de": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
       },
       "ja": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
       },
       "zh": {
         "title": "Portugal v DR Congo: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p>Rui Patricio; Cédric, Fonte, Pepe, Guerreiro; Carvalho; Sanches, Silva, João Mário; Nani, Ronaldo: names branded on to the soul of all Portuguese football fans. And yet the team which won the 2016 Euros, a first international title after a long wait and much pain, is so inferior to the one that’s since failed even to get close, it’s almost silly.</p><p>Football, though, is an art not a science, the job of balancing a team needing feel as much as calculation – feel which eluded Fernando Santos and, so far, has eluded Roberto Martínez too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+        "summary": "<p>⚽️ Kick-off: 12pm local time/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Email! </strong>“Let’s not forget that Cristiano Ronaldo, in an alternative World Cup not driven by profit, would be serving a three-game ban now for violent behaviour,” remembers Justin Kavanagh. “But Infantino has learned to honour the time-traditions of the host country, where laws are just for little people, inapplicable to the rich.”</p><p>Yup, as the story below illustrates. I guess in the context of the competition, the decision to let Ronaldo off has been largely ignored because there’s so much worse going on, but it is a stain on the competition’s sporting integrity.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/portugal-v-dr-congo-world-cup-2026-live\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "1a974ded7bddd668b3223fdc72c0f6bf",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+    "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+    "time": "2026-06-17",
+    "titleHash": "28f1a209786a31c6e68d97f3eeddc630",
+    "translations": {
+      "es": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+        "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>"
       }
     }
   },

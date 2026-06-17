@@ -5982,40 +5982,6 @@
     {
       "source": "ESPN",
       "tag": "RSS",
-      "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-      "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
-      "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
-      "time": "2026-06-17",
-      "translations": {
-        "es": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "pt": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "fr": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "de": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "ja": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "zh": {
-          "title": "World Cup Daily: NFL star Winston dresses goat as ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
       "title": "Key issues for England at 2026 World Cup: Fatigue,...",
       "summary": "null",
       "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
@@ -6112,40 +6078,6 @@
         "zh": {
           "title": "Every team's odds to win the World Cup: Mbappé hel...",
           "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-      "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
-      "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "translations": {
-        "es": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-        },
-        "pt": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-        },
-        "fr": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-        },
-        "de": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-        },
-        "ja": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
-        },
-        "zh": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
         }
       }
     },
@@ -6250,6 +6182,74 @@
           "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+      "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
+      "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "translations": {
+        "es": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        },
+        "pt": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        },
+        "fr": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        },
+        "de": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        },
+        "ja": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        },
+        "zh": {
+          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "translations": {
+        "es": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "pt": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "fr": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "de": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "ja": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "zh": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,14 +6265,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-17T15:51:14.327Z",
-    "newsItems": 18,
+    "fetchedAt": "2026-06-17T18:10:16.341Z",
+    "newsItems": 17,
     "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }
