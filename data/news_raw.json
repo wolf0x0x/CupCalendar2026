@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T12:08:04.774Z",
+  "fetchedAt": "2026-06-17T15:07:07.224Z",
   "errors": [
     {
       "source": "FIFA",
@@ -69,14 +69,14 @@
       "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
     },
     {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "id": "38b12e0debfc04612e664f82db436538",
       "source": "BBC",
       "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828"
+      "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
+      "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
+      "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "titleHash": "0e90ae981dbe1ae83f2c8d3d400d82b9"
     },
     {
       "id": "8c4a7fd2098e66ea3a32685f5c722de6",
@@ -97,6 +97,16 @@
       "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-16",
       "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50"
+    },
+    {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828"
     },
     {
       "id": "a603492a448240c83e0d343ef792470f",
@@ -169,14 +179,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "d3a1855d954d4966c481769ce96ea20d",
+      "id": "f49f3404281cac5a692a619313435574",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, environment protests planned for Mexico match – live",
       "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
       "time": "2026-06-17",
-      "titleHash": "292014291ab2d36cab18f63f2ca95595"
+      "titleHash": "0ca13aedcc668d4dfbccd24331562e88"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
