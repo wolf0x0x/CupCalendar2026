@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-17T06:09:24.682Z",
+  "fetchedAt": "2026-06-17T11:08:12.655Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,150 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "1cd2f596fb11dee1e6b9245bba31a41e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-17",
-      "titleHash": "76f88731edb303a99ea16cb7b6011891",
-      "translations": {
-        "es": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "pt": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "fr": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "de": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "ja": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "zh": {
-          "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        }
-      }
-    },
-    {
-      "id": "6067b4c3f73874d880f1f6e34edb6465",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-17",
-      "titleHash": "2b5fb1587d943ea787e1557bd069bd78",
-      "translations": {
-        "es": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "pt": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "fr": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "de": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "ja": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        },
-        "zh": {
-          "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-          "summary": "null"
-        }
-      }
-    },
-    {
-      "id": "d0b5b6eb79732401585698caf0905fc0",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: Brazil's o...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "a603492a448240c83e0d343ef792470f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "a16742011439ce434efd34d5d6ac3a74",
-      "translations": {
-        "es": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
-        },
-        "pt": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
-        },
-        "fr": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
-        },
-        "de": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
-        },
-        "ja": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
-        },
-        "zh": {
-          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
         }
       }
     },
@@ -290,6 +146,42 @@
       }
     },
     {
+      "id": "a603492a448240c83e0d343ef792470f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "titleHash": "a16742011439ce434efd34d5d6ac3a74",
+      "translations": {
+        "es": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "pt": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "fr": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "de": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "ja": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        },
+        "zh": {
+          "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+          "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas."
+        }
+      }
+    },
+    {
       "id": "d67f0c81f0cb452e6ab43878fa0053b2",
       "source": "BBC",
       "tag": "RSS",
@@ -322,42 +214,6 @@
         "zh": {
           "title": "Lack of World Cup segregation a risk - fans' chief",
           "summary": "The head of fan group Football Supporters Europe says a lack of fan segregation at the 2026 World Cup shows Fifa has \"lost control of their ticketing\"."
-        }
-      }
-    },
-    {
-      "id": "bfe406722a7826e8d36be76e432d5304",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "be75aff2cbc1995ccca656e2ad78972b",
-      "translations": {
-        "es": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "de": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-          "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup."
         }
       }
     },
@@ -542,38 +398,38 @@
       }
     },
     {
-      "id": "945850fb34f1c8cfdac8b99259d04c92",
+      "id": "d3a1855d954d4966c481769ce96ea20d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Austria v Jordan: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+      "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
       "time": "2026-06-17",
-      "titleHash": "37d4dee61b21012ad20eddf7e178d82f",
+      "titleHash": "292014291ab2d36cab18f63f2ca95595",
       "translations": {
         "es": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         },
         "de": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Austria v Jordan: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+          "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>"
         }
       }
     },

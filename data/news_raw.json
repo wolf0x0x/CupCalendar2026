@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-17T06:09:24.676Z",
+  "fetchedAt": "2026-06-17T11:08:12.651Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -17,46 +17,6 @@
       "time": "2026-06-17",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "1cd2f596fb11dee1e6b9245bba31a41e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Mahomes, Jay Z top celebrities at 2026 World Cup",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-17",
-      "titleHash": "76f88731edb303a99ea16cb7b6011891"
-    },
-    {
-      "id": "6067b4c3f73874d880f1f6e34edb6465",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Key issues for England at 2026 World Cup: Fatigue,...",
-      "summary": "null",
-      "url": "https://www.espn.com/soccer/story/_/id/49041738/key-issues-england-2026-world-cup-bukayo-saka-anthony-gordon-jude-bellingham",
-      "time": "2026-06-17",
-      "titleHash": "2b5fb1587d943ea787e1557bd069bd78"
-    },
-    {
-      "id": "d0b5b6eb79732401585698caf0905fc0",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Brazil's o...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-14",
-      "titleHash": "2caceb77a19dd8233742abb1f4be8dbf"
-    },
-    {
-      "id": "a603492a448240c83e0d343ef792470f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
-      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "a16742011439ce434efd34d5d6ac3a74"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -89,6 +49,16 @@
       "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50"
     },
     {
+      "id": "a603492a448240c83e0d343ef792470f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Up to 15,000 England fans head to Dallas for World Cup opener",
+      "summary": "England fans have had a longer wait than most for their 2026 World Cup campaign to get under way. But now supporters are starting to arrive in Dallas.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzr1nj1ppo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-16",
+      "titleHash": "a16742011439ce434efd34d5d6ac3a74"
+    },
+    {
       "id": "d67f0c81f0cb452e6ab43878fa0053b2",
       "source": "BBC",
       "tag": "RSS",
@@ -97,16 +67,6 @@
       "url": "https://www.bbc.com/sport/football/articles/cvgedy9w7z9o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-16",
       "titleHash": "4c1f6b374e170912391c3e8cef0ec6d2"
-    },
-    {
-      "id": "bfe406722a7826e8d36be76e432d5304",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'My word!' - Ashour's long-range strikes put Egypt ahead",
-      "summary": "Egypt's Emam Ashour scores the opener in their Group G fixture against Belgium in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c9v2p9vp1vno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-15",
-      "titleHash": "be75aff2cbc1995ccca656e2ad78972b"
     },
     {
       "id": "ee0b23ce8b839adb6915751d1b327651",
@@ -159,14 +119,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "945850fb34f1c8cfdac8b99259d04c92",
+      "id": "d3a1855d954d4966c481769ce96ea20d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Austria v Jordan: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p>Supporters on both sides have descended on San Francisco with Jordan making their World Cup debut and Austria returning to the stage for the first time in 28 years.</p><p>It’s a comfortable 15C in San Francisco which should suit Austria more than Jordan ahead of a 9pm kick-off. The players have finished warming up and should be out with their game faces on shortly.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/fifa-world-cup-2026-live-austria-v-jordan-updates-aut-vs-jor-group-j-match-score-latest",
+      "title": "World Cup 2026: Starmer tells England to ‘dare to dream’, Bernardo Silva signs for Real Madrid – live",
+      "summary": "<p>⚽ All the latest news on day seven of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>It is Wednesday, so you can feast upon your weekly dose of The Knowledge.</strong></p><p><strong><a href=\"https://www.theguardian.com/football/2026/jun/17/australians-relate-to-socceroos-diversity-world-cup-australia-national-team\">Socceroos forward Awer Mabil</a> on </strong><em><strong>that </strong></em><strong>viral video.</strong></p><p>The reason why it went viral is because it was raw. It was not edited. It was just purely what the players wanted to say and all put together. It had an effect because individually Australians can feel and relate with it.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/17/world-cup-2026-news-live-england-croatia-portugal-dr-congo-ghana-panama-uzbekistan-colombia",
       "time": "2026-06-17",
-      "titleHash": "37d4dee61b21012ad20eddf7e178d82f"
+      "titleHash": "292014291ab2d36cab18f63f2ca95595"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
