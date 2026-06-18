@@ -6030,6 +6030,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Why are England playing a darts song at the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c5yzkx6vjxno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        },
+        "pt": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        },
+        "fr": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        },
+        "de": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        },
+        "ja": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        },
+        "zh": {
+          "title": "Why are England playing a darts song at the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything looks at the range of goal songs being used at the 2026 World Cup"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "How to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6264,40 +6298,6 @@
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why are footballers wearing pink boots at the World Cup?",
-      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "pt": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "fr": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "de": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "ja": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "zh": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-18T10:39:33.380Z",
-    "newsItems": 15,
-    "translationQueue": 24,
+    "fetchedAt": "2026-06-18T15:39:08.172Z",
+    "newsItems": 14,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
