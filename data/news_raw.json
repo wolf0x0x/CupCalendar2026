@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T04:41:02.991Z",
+  "fetchedAt": "2026-06-18T10:39:33.368Z",
   "errors": [
     {
       "source": "FIFA",
@@ -29,6 +29,16 @@
       "titleHash": "53b383dd8dbcf2c185f1b5af3e1039d9"
     },
     {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828"
+    },
+    {
       "id": "92f30bd73b4f0333e4f4f04aee21d344",
       "source": "BBC",
       "tag": "RSS",
@@ -47,16 +57,6 @@
       "url": "https://www.bbc.com/sport/football/videos/c20y9dqpz0zo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
       "titleHash": "1443654be59695b1bb0fe0aca5209c34"
-    },
-    {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828"
     },
     {
       "id": "3d18640156c080081ca824c6ba049bcc",
@@ -119,14 +119,24 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "1a974ded7bddd668b3223fdc72c0f6bf",
+      "id": "16ca8aeaf4ef39fc44f52a41700ba97a",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
-      "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
+      "title": "World Cup 2026: England’s Bellingham playing with ‘chip on shoulder’, Liverpool to sign Spain’s Muñoz for £34.5m – live",
+      "summary": "<p>⚽ All the latest news from day eight of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>A fresh England line </strong>hot<strong> </strong>off the wires coming right up …</p><p><strong>If by some bizarre chance</strong> you missed it, here’s a gallery of some of the best images from England 4-2 Croatia:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live",
+      "time": "2026-06-18",
+      "titleHash": "2c7258bfeffec0d6b0f8add990d9aeb9"
+    },
+    {
+      "id": "0117037bc5e963b424bed4aca0091ec3",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
+      "summary": "<ul><li><p>Storming second-half display comes after coach’s speech</p></li><li><p>Coach tells team to ‘show the world what we can be’</p></li></ul><p>Harry Kane has revealed that a half-time speech from Thomas Tuchel when he told England “to show the world what we can be” inspired <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">victory in their opening match of the 2026 World Cup</a>.</p><p>Croatia equalised twice before half-time after Kane had equalled Gary Lineker’s record for goals <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">scored by an England player at the World Cup</a> finals with a penalty and a header from Declan Rice’s corner. But a much-improved performance in the second half saw Jude Bellingham re-establish England’s lead before Marcus Rashford came off the bench to wrap up the victory late on.</p> <a href=\"https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech",
       "time": "2026-06-17",
-      "titleHash": "28f1a209786a31c6e68d97f3eeddc630"
+      "titleHash": "5a735d5e7b0d4c6d2f7d53c0bf9cfa8b"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
@@ -139,14 +149,14 @@
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
-      "id": "ded37608b5ed9942b14c4fc582f9251f",
+      "id": "1a974ded7bddd668b3223fdc72c0f6bf",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
-      "summary": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings",
+      "title": "All-time greatest: who is the highest goalscorer in World Cup history?",
+      "summary": "<p>Lionel Messi and Kylian Mbappé are vying to become not just 2026 World Cup winners but also the greatest goalscorers in the history of the tournament. Here’s how they compare with others on the all-time list</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot: World Cup 2026 top goalscorers</strong></a> </p><p>Lionel Messi started his 2026 World Cup campaign with a hat-trick <a href=\"https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report\">in a 3-0 win over Algeria</a>.</p><p>The trio of strikes gave him a career total of 16 World Cup goals, equalling the existing record held by Miroslav Klose. It’s reasonable to expect the Inter Miami player to set a new mark this summer but he is being chased hard by Kylian Mbappé. He scored twice in <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">France’s opening match victory against Senegal</a>, giving him a total of 14 goals since his competition debut eight years ago.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
       "time": "2026-06-17",
-      "titleHash": "cacfce5e46a65287c7fed11f5518e55e"
+      "titleHash": "28f1a209786a31c6e68d97f3eeddc630"
     }
   ]
 }

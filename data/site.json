@@ -5982,6 +5982,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "translations": {
+        "es": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "pt": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "fr": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "de": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "ja": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "zh": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Substitute Rashford guides home England's fourth against Croatia",
       "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
@@ -6044,40 +6078,6 @@
         "zh": {
           "title": "Bellingham scores early in second half to put England 3-2 up",
           "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "translations": {
-        "es": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "pt": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "fr": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "de": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "ja": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        },
-        "zh": {
-          "title": "How to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-18T04:41:03.010Z",
-    "newsItems": 14,
-    "translationQueue": 0,
+    "fetchedAt": "2026-06-18T10:39:33.380Z",
+    "newsItems": 15,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
