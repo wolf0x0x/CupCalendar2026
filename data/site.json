@@ -514,10 +514,10 @@
       "away": "Croatia",
       "homeCode": "ENG",
       "awayCode": "CRO",
-      "score": "4 - 2",
-      "status": "Final",
+      "score": "null - null",
+      "status": "notstarted",
       "network": "FOX",
-      "prediction": "Final result",
+      "prediction": "TV: FOX",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -535,8 +535,8 @@
       "away": "Panama",
       "homeCode": "GHA",
       "awayCode": "PAN",
-      "score": "0 - 0",
-      "status": "live",
+      "score": "null - null",
+      "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
       "ticketUrl": "https://www.fifa.com/tickets",
@@ -556,7 +556,7 @@
       "away": "Colombia",
       "homeCode": "UZB",
       "awayCode": "COL",
-      "score": "- : -",
+      "score": "null - null",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1580,51 +1580,47 @@
       "rows": [
         {
           "team": "Mexico",
-          "code": "MEX",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "South Korea",
-          "code": "KOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 1,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 1
         },
         {
           "team": "Czechia",
-          "code": "CZE",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 2,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 2
         },
         {
           "team": "South Africa",
-          "code": "RSA",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         }
       ]
     },
@@ -1633,51 +1629,47 @@
       "rows": [
         {
           "team": "Bosnia and Herzegovina",
-          "code": "BIH",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Canada",
-          "code": "CAN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Qatar",
-          "code": "QAT",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Switzerland",
-          "code": "SUI",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1686,51 +1678,47 @@
       "rows": [
         {
           "team": "Scotland",
-          "code": "SCO",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Brazil",
-          "code": "BRA",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Morocco",
-          "code": "MAR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Haiti",
-          "code": "HAI",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         }
       ]
     },
@@ -1739,51 +1727,47 @@
       "rows": [
         {
           "team": "United States",
-          "code": "USA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "Australia",
-          "code": "AUS",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 2,
-          "ga": 0,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 0
         },
         {
           "team": "Türkiye",
-          "code": "TUR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         },
         {
           "team": "Paraguay",
-          "code": "PAR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -1792,51 +1776,47 @@
       "rows": [
         {
           "team": "Germany",
-          "code": "GER",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 3
+          "points": 3,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Ivory Coast",
-          "code": "CIV",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Ecuador",
-          "code": "ECU",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Curaçao",
-          "code": "CUW",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1845,51 +1825,47 @@
       "rows": [
         {
           "team": "Sweden",
-          "code": "SWE",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 1,
           "gd": 4,
-          "points": 3
+          "points": 3,
+          "gf": 5,
+          "ga": 1
         },
         {
           "team": "Japan",
-          "code": "JPN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Netherlands",
-          "code": "NED",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Tunisia",
-          "code": "TUN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 5,
           "gd": -4,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 5
         }
       ]
     },
@@ -1898,51 +1874,47 @@
       "rows": [
         {
           "team": "Iran",
-          "code": "IRN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "New Zealand",
-          "code": "NZL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Belgium",
-          "code": "BEL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Egypt",
-          "code": "EGY",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1951,51 +1923,47 @@
       "rows": [
         {
           "team": "Saudi Arabia",
-          "code": "SAU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Uruguay",
-          "code": "URU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Cabo Verde",
-          "code": "CPV",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Spain",
-          "code": "ESP",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2004,51 +1972,47 @@
       "rows": [
         {
           "team": "Norway",
-          "code": "NOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "France",
-          "code": "FRA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Senegal",
-          "code": "SEN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Iraq",
-          "code": "IRQ",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -2057,51 +2021,47 @@
       "rows": [
         {
           "team": "Argentina",
-          "code": "ARG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 0,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 0
         },
         {
           "team": "Austria",
-          "code": "AUT",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Jordan",
-          "code": "JOR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Algeria",
-          "code": "ALG",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 3,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 3
         }
       ]
     },
@@ -2110,51 +2070,47 @@
       "rows": [
         {
           "team": "DR Congo",
-          "code": "COD",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Portugal",
-          "code": "POR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Colombia",
-          "code": "COL",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Uzbekistan",
-          "code": "UZB",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2162,52 +2118,48 @@
       "group": "Group L",
       "rows": [
         {
-          "team": "England",
-          "code": "ENG",
-          "played": 1,
-          "won": 1,
+          "team": "Croatia",
+          "played": 0,
+          "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 2,
-          "gd": 2,
-          "points": 3
+          "gd": 0,
+          "points": 0,
+          "gf": 0,
+          "ga": 0
+        },
+        {
+          "team": "England",
+          "played": 0,
+          "won": 0,
+          "drawn": 0,
+          "lost": 0,
+          "gd": 0,
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Ghana",
-          "code": "GHA",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Panama",
-          "code": "PAN",
           "played": 0,
           "won": 0,
           "drawn": 0,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 0
-        },
-        {
-          "team": "Croatia",
-          "code": "CRO",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gf": 2,
-          "ga": 4,
-          "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 0
         }
       ]
     }
@@ -5965,7 +5917,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-17",
+      "time": "2026-06-18",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5994,35 +5946,171 @@
       }
     },
     {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+      "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday.",
+      "url": "https://www.espn.com/soccer/story/_/id/49098237/ivory-coast-elye-wahi-arrested-ligue-1-spot-fixing",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        },
+        "pt": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        },
+        "fr": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        },
+        "de": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        },
+        "ja": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        },
+        "zh": {
+          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
+          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+      "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
+      "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        },
+        "pt": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        },
+        "fr": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        },
+        "de": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        },
+        "ja": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        },
+        "zh": {
+          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
+          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup: Mbappé hel...",
+      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup: Mbappé hel...",
+          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Substitute Rashford hits England's fourth against Croatia",
+      "title": "England hit four in World Cup opener against Croatia",
+      "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "translations": {
+        "es": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        },
+        "pt": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        },
+        "fr": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        },
+        "de": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        },
+        "ja": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        },
+        "zh": {
+          "title": "England hit four in World Cup opener against Croatia",
+          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Substitute Rashford guides home England's fourth against Croatia",
       "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
       "translations": {
         "es": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         },
         "pt": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         },
         "fr": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         },
         "de": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         },
         "ja": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         },
         "zh": {
-          "title": "Substitute Rashford hits England's fourth against Croatia",
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
           "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         }
       }
@@ -6064,40 +6152,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Baturina fires Croatia level against England",
-      "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "translations": {
-        "es": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        },
-        "pt": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        },
-        "fr": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        },
-        "de": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        },
-        "ja": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        },
-        "zh": {
-          "title": "Baturina fires Croatia level against England",
-          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "How to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6132,34 +6186,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-      "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America.",
-      "url": "https://www.bbc.com/sport/football/articles/cgqklykgjqzo?at_medium=RSS&at_campaign=rss",
+      "title": "Baturina fires Croatia level against England",
+      "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-17",
       "translations": {
         "es": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         },
         "pt": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         },
         "fr": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         },
         "de": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         },
         "ja": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         },
         "zh": {
-          "title": "'Nearly men of Asian football' - Uzbekistan's rise to the World Cup",
-          "summary": "Uzbekistan are the first nation from Central Asia to qualify for the Fifa World Cup. Here is how they got to North America."
+          "title": "Baturina fires Croatia level against England",
+          "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup."
         }
       }
     },
@@ -6196,108 +6250,6 @@
           "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
-      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "translations": {
-        "es": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        },
-        "pt": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        },
-        "fr": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        },
-        "de": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        },
-        "ja": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        },
-        "zh": {
-          "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-          "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Highlights: Mbappe stars as France beat Senegal",
-      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
-      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "translations": {
-        "es": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "pt": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "fr": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "de": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "ja": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        },
-        "zh": {
-          "title": "Highlights: Mbappe stars as France beat Senegal",
-          "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-10",
-      "translations": {
-        "es": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6307,20 +6259,20 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-17T23:08:28.671Z",
+    "fetchedAt": "2026-06-17T19:38:44.588Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-17T22:47:29.562Z",
-    "newsItems": 18,
-    "translationQueue": 72,
+    "fetchedAt": "2026-06-18T00:08:25.456Z",
+    "newsItems": 19,
+    "translationQueue": 78,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }

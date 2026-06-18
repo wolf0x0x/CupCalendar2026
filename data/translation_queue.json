@@ -1,506 +1,548 @@
 [
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "ebc1966788d801499bad84b980160b39",
     "lang": "es",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.445Z"
+  },
+  {
+    "hash": "ebc1966788d801499bad84b980160b39",
+    "lang": "pt",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "ebc1966788d801499bad84b980160b39",
+    "lang": "fr",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "ebc1966788d801499bad84b980160b39",
+    "lang": "de",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "ebc1966788d801499bad84b980160b39",
+    "lang": "ja",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "ebc1966788d801499bad84b980160b39",
+    "lang": "zh",
+    "source": "World Cup Daily: Ghana face Panama; England, Kane ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "es",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "es",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "pt",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "pt",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "fr",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "fr",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "de",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "de",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "ja",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "ja",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "c19dc7c1b3a32f3c01bd3b140d2c98f0",
+    "lang": "zh",
+    "source": "England hit four in World Cup opener against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "74c7b6b54a616f6e6aab72656c5fa7fb",
+    "lang": "zh",
+    "source": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
+  },
+  {
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
+    "lang": "es",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "es",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
     "lang": "pt",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "pt",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
     "lang": "fr",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "fr",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
     "lang": "de",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "de",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
     "lang": "ja",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "ja",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
-    "hash": "08a1c03ec591e820049a93b59309a0d2",
+    "hash": "7ad9270a8c7521c2aa9141d87f3d66ef",
     "lang": "zh",
-    "source": "Substitute Rashford hits England's fourth against Croatia",
+    "source": "Substitute Rashford guides home England's fourth against Croatia",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "39067f0dd4243b975bca1a2aee28662d",
     "lang": "zh",
     "source": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "es",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "es",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "pt",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "pt",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "fr",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "fr",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "de",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "de",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "ja",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "ja",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "c95233a78cc195e4af0fade81b7d8da5",
     "lang": "zh",
     "source": "Bellingham scores early in second half to put England 3-2 up",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "888ec770b68dcadb6db1c45b8d91f0ed",
     "lang": "zh",
     "source": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "es",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "es",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "pt",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "pt",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "fr",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "fr",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "de",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "de",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "ja",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "ja",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "7d654db113865049e13014bcc0cad5c6",
     "lang": "zh",
     "source": "Baturina fires Croatia level against England",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "2f577d7e098a938cb0a3a7a160f2cf74",
     "lang": "zh",
     "source": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.554Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "es",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "es",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "pt",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "pt",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "fr",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "fr",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "de",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "de",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "ja",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "ja",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "ff275985d6a7eea41fb01bda19388c35",
-    "lang": "zh",
-    "source": "England 4-2 Croatia: World Cup 2026 – live",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
-  },
-  {
-    "hash": "e0d642f7b015e1c1d68dd0f4f6bfa063",
-    "lang": "zh",
-    "source": "<p>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">In pictures: England v Croatia </a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time highest scorers</a><br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>Thomas Tuchel speaks to Independent Television.</strong> “This is what we have worked for … the goal of the prep camp … to be ready for the day … I don’t want to be anywhere else in the world … so let’s go … ideal conditions … to play an intensive match … that’s our aim … we stick with the team that started so well against Costa Rica … we will not start and finish this match with 11 players … we need a strong bench … we have players who can influence and change matches from the bench … that is important … it was a 50-50 call to go with Jude [instead of Morgan Rogers] … I expected Mateo Kovacic to start so we have one slight tweak … we need to adapt our press … we are prepared for that … we are at the starting line … we let the players go and take the next steps.”</p><p><strong>… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers.</strong> Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.446Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "es",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "es",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "pt",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "pt",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "fr",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "fr",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "de",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "de",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "ja",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "ja",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
     "hash": "1fb8132828572cbfa2df92a8831df056",
     "lang": "zh",
     "source": "Ghana v Panama: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "14d4d1a9f42713f0ebe97f92bf302b40",
+    "hash": "b304dd928ea053e5e0f1f21301db2c2c",
     "lang": "zh",
-    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>Have you tried Bracketology?</strong></p><p>My current picks have France over Spain in one semifinal and Argentina over England in the other. I see France taking it this time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "es",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "es",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "pt",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "pt",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "fr",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "fr",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "de",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "de",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "ja",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "ja",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "4cf67aac6dbb38b27503edcea59f3457",
+    "hash": "44dc3afb72912492d0961b582a2752a0",
     "lang": "zh",
-    "source": "World Cup 2026: England and Croatia open their campaigns – in pictures",
+    "source": "England 4-2 Croatia: World Cup 2026 Group L player ratings",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   },
   {
-    "hash": "1e1639cc6ead5917b62d161c41b7c4e7",
+    "hash": "01027d1d5fefbd371591b9280fa1e3b3",
     "lang": "zh",
-    "source": "<p>All the best images as England try to take revenge on their World Cup 2022 semi-final opponents in the Dallas Stadium.</p><p>More images to follow</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jun/17/world-cup-2026-england-and-croatia-open-their-campaign-in-pictures\">Continue reading...</a>",
+    "source": "<p>Harry Kane was in fine form while Dominik Livakovic stopped the scoreline running away from Croatia</p><p><strong>Jordan Pickford</strong> Could have done better with Baturina’s goal. Made crucial late save to keep England ahead but looked shaky. <strong>6</strong></p> <a href=\"https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-17T22:47:29.555Z"
+    "queued_at": "2026-06-18T00:08:25.447Z"
   }
 ]
