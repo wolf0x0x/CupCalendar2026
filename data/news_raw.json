@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-18T03:08:49.787Z",
+  "fetchedAt": "2026-06-18T04:41:02.991Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -17,36 +17,6 @@
       "time": "2026-06-18",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "c75ce9446b99afca0b1e1078ac9133d1",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-      "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49098237/ivory-coast-elye-wahi-arrested-ligue-1-spot-fixing",
-      "time": "2026-06-18",
-      "titleHash": "cdf4484a3db11c62503795b44e3e43cd"
-    },
-    {
-      "id": "96f368b40065f694667700bab9e1ee17",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-      "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
-      "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
-      "time": "2026-06-18",
-      "titleHash": "4a94c6412d14eb201eac6d2f7f207713"
-    },
-    {
-      "id": "ee8c396c5098e22865af2118c9c25a7d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Mbappé hel...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-18",
-      "titleHash": "4fb4f96addc94aca08aca9554b88ad8e"
     },
     {
       "id": "0bef12a3d72f6e85a17d95cf6980da7c",
@@ -109,16 +79,6 @@
       "titleHash": "46d9db8fffaa85abbcbb34ba37966fa5"
     },
     {
-      "id": "8c4a7fd2098e66ea3a32685f5c722de6",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Highlights: Haaland scores twice in Norway win over Iraq",
-      "summary": "Erling Haland scores two goals as Norway begin their World Cup 2026 campaign with a 4-1 win against Iraq.",
-      "url": "https://www.bbc.com/sport/football/videos/cql1v6vlg1qo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "titleHash": "c76525a4bdb69746f13573fa37cc3cb2"
-    },
-    {
       "id": "ee0b23ce8b839adb6915751d1b327651",
       "source": "BBC",
       "tag": "RSS",
@@ -157,16 +117,6 @@
       "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-03",
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
-    },
-    {
-      "id": "b054c1a4dbff4fbc13d098200ec2b20f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Uzbekistan v Colombia: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Fabio Cannavaro has continued with the 3-4-3 that served Uzbekistan well in qualifying. Khusanov is the only man in the starting XI to play in one of Europe’s top five leagues. The promising playmaker Fayzullaev is on the cusp of bigger things at İstanbul Başakşehir, where he is teammates with the proven goalscorer Shomurodov. Everyone else in the squad is drawn from clubs in Uzbekistan, Iran, or the UAE.</p><p>1 Yusupov; 18 Abdullaev, 5 Ashurmatov, 2 Khusanov; 13 Nasrullaev 7 Shukurov, 6 Mozgovoy, 24 Karimov; 22 Fayzullaev, 11 Urunov, 14 Shomurodov.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest",
-      "time": "2026-06-18",
-      "titleHash": "875a6000e24f5319aabeca6dad18adb7"
     },
     {
       "id": "1a974ded7bddd668b3223fdc72c0f6bf",

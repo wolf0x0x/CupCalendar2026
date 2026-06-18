@@ -5994,108 +5994,6 @@
       }
     },
     {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-      "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49098237/ivory-coast-elye-wahi-arrested-ligue-1-spot-fixing",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        },
-        "pt": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        },
-        "fr": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        },
-        "de": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        },
-        "ja": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        },
-        "zh": {
-          "title": "Ivory Coast's Elye Wahi arrested for spot-fixing",
-          "summary": "Ivory Coast's Elye Wahi, who is playing at the 2026 World Cup, was arrested for alleged spot-fixing just a couple of weeks before the tournament began, ABC News confirmed on Wednesday."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-      "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition.",
-      "url": "https://www.espn.com/soccer/story/_/id/49090581/world-cup-daily-nfl-star-winston-dresses-goat-messi-tribute-goat",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "pt": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "fr": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "de": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "ja": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        },
-        "zh": {
-          "title": "World Cup Daily: Ghana face Panama; England, Kane ...",
-          "summary": "It has officially been one week of 2026 FIFA World Cup action. Enjoy all the features, news, video analysis and color from around the competition."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: Mbappé hel...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: Mbappé hel...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        }
-      }
-    },
-    {
       "source": "BBC",
       "tag": "RSS",
       "title": "England hit four in World Cup opener against Croatia",
@@ -6298,6 +6196,108 @@
           "summary": "DR Congo come from behind to hold Portugal to a 1-1 draw in their Group K match at the Houston Stadium in the Fifa World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-10",
+      "translations": {
+        "es": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Who will win the World Cup? BBC pundits make their predictions",
+          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why are footballers wearing pink boots at the World Cup?",
+      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
+      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "pt": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "fr": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "de": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "ja": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "zh": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-18T03:08:49.803Z",
-    "newsItems": 19,
-    "translationQueue": 12,
+    "fetchedAt": "2026-06-18T04:41:03.010Z",
+    "newsItems": 14,
+    "translationQueue": 0,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
       }
     ]
   }
