@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-06-18T19:29:22.645Z",
+  "fetchedAt": "2026-06-18T21:35:21.090Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -557,17 +557,17 @@
       "id": "26",
       "home_team_id": "8",
       "away_team_id": "6",
-      "home_score": "0",
-      "away_score": "0",
-      "home_scorers": "null",
-      "away_scorers": "null",
+      "home_score": "4",
+      "away_score": "1",
+      "home_scorers": "{\"Jvhan Mnzambi 74'\",\"Rvbn Vargas 84'\",\"Jvhan Mnzambi 90'\"}",
+      "away_scorers": "{\"Armin Mhmich 90+3'\"}",
       "group": "B",
       "matchday": "2",
       "local_date": "06/18/2026 12:00",
       "persian_date": "1405-03-28 12:00",
       "stadium_id": "16",
-      "finished": "FALSE",
-      "time_elapsed": "live",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "group",
       "home_team_name_en": "Switzerland",
       "home_team_name_fa": "سوئیس",
@@ -2625,6 +2625,18 @@
       "name": "B",
       "teams": [
         {
+          "team_id": "8",
+          "mp": "2",
+          "w": "1",
+          "l": "0",
+          "d": "1",
+          "pts": "4",
+          "gf": "5",
+          "ga": "2",
+          "gd": "3",
+          "_id": "698985a46e8cb0bf61b5ac7e"
+        },
+        {
           "team_id": "5",
           "mp": "1",
           "w": "0",
@@ -2635,18 +2647,6 @@
           "ga": "1",
           "gd": "0",
           "_id": "698985a46e8cb0bf61b5ac7b"
-        },
-        {
-          "team_id": "6",
-          "mp": "1",
-          "w": "0",
-          "l": "0",
-          "d": "1",
-          "pts": "1",
-          "gf": "1",
-          "ga": "1",
-          "gd": "0",
-          "_id": "698985a46e8cb0bf61b5ac7c"
         },
         {
           "team_id": "7",
@@ -2661,20 +2661,21 @@
           "_id": "698985a46e8cb0bf61b5ac7d"
         },
         {
-          "team_id": "8",
-          "mp": "1",
+          "team_id": "6",
+          "mp": "2",
           "w": "0",
-          "l": "0",
+          "l": "1",
           "d": "1",
           "pts": "1",
-          "gf": "1",
-          "ga": "1",
-          "gd": "0",
-          "_id": "698985a46e8cb0bf61b5ac7e"
+          "gf": "2",
+          "ga": "5",
+          "gd": "-3",
+          "_id": "698985a46e8cb0bf61b5ac7c"
         }
       ],
       "createdAt": "2026-02-09T06:58:44.354Z",
-      "__v": 0
+      "__v": 0,
+      "updatedAt": "2026-06-18T20:59:19.785Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5acb6",

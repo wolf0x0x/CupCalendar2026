@@ -598,10 +598,10 @@
       "away": "Bosnia and Herzegovina",
       "homeCode": "SUI",
       "awayCode": "BIH",
-      "score": "0 - 0",
-      "status": "live",
+      "score": "4 - 1",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Los_Angeles",
       "timezoneLabel": "UTC-7",
@@ -1602,27 +1602,25 @@
         },
         {
           "team": "Czechia",
-          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 3,
           "gd": -1,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 3
         },
         {
           "team": "South Africa",
-          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 3
         }
       ]
     },
@@ -1630,15 +1628,15 @@
       "group": "Group B",
       "rows": [
         {
-          "team": "Bosnia and Herzegovina",
-          "played": 1,
-          "won": 0,
+          "team": "Switzerland",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
-          "gf": 1,
-          "ga": 1
+          "gd": 3,
+          "points": 4,
+          "gf": 5,
+          "ga": 2
         },
         {
           "team": "Canada",
@@ -1663,15 +1661,15 @@
           "ga": 1
         },
         {
-          "team": "Switzerland",
-          "played": 1,
+          "team": "Bosnia and Herzegovina",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "gd": 0,
+          "lost": 1,
+          "gd": -3,
           "points": 1,
-          "gf": 1,
-          "ga": 1
+          "gf": 2,
+          "ga": 5
         }
       ]
     },
@@ -6261,9 +6259,9 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-18T19:31:10.243Z",
+    "fetchedAt": "2026-06-18T21:35:21.090Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
