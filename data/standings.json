@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-18T19:31:10.243Z",
+  "syncedAt": "2026-06-18T22:21:09.985Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -59,16 +59,16 @@
       "group": "Group B",
       "rows": [
         {
-          "team": "Bosnia and Herzegovina",
-          "code": "BIH",
-          "played": 1,
-          "won": 0,
+          "team": "Switzerland",
+          "code": "SUI",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
+          "gf": 5,
+          "ga": 2,
+          "gd": 3,
+          "points": 4
         },
         {
           "team": "Canada",
@@ -95,15 +95,15 @@
           "points": 1
         },
         {
-          "team": "Switzerland",
-          "code": "SUI",
-          "played": 1,
+          "team": "Bosnia and Herzegovina",
+          "code": "BIH",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "lost": 1,
+          "gf": 2,
+          "ga": 5,
+          "gd": -3,
           "points": 1
         }
       ]
