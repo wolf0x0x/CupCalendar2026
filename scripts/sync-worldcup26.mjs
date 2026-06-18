@@ -61,6 +61,14 @@ function normalizeGame(game) {
   };
 }
 
+async function readJson(file, fallback) {
+  try {
+    return JSON.parse(await readFile(file, "utf8"));
+  } catch {
+    return fallback;
+  }
+}
+
 const nameAliases = new Map([
   ["Czech Republic", "Czechia"],
   ["Turkey", "Türkiye"],
@@ -198,26 +206,36 @@ function standingsFromMatches(matches, siteTeams) {
     }));
 }
 
-const [gamesRaw, groupsRaw, teamsRaw, stadiumsRaw] = await Promise.all([
-  fetchJson("games", endpoints.games),
-  fetchJson("groups", endpoints.groups),
-  fetchJson("teams", endpoints.teams),
-  fetchJson("stadiums", endpoints.stadiums)
-]);
+let snapshot;
+let usedCachedSnapshot = false;
 
-const snapshot = {
-  source: apiBase,
-  fetchedAt: new Date().toISOString(),
-  games: unwrap(gamesRaw, "games"),
-  groups: unwrap(groupsRaw, "groups"),
-  teams: unwrap(teamsRaw, "teams"),
-  stadiums: unwrap(stadiumsRaw, "stadiums")
-};
+try {
+  const [gamesRaw, groupsRaw, teamsRaw, stadiumsRaw] = await Promise.all([
+    fetchJson("games", endpoints.games),
+    fetchJson("groups", endpoints.groups),
+    fetchJson("teams", endpoints.teams),
+    fetchJson("stadiums", endpoints.stadiums)
+  ]);
 
-await mkdir(outDir, { recursive: true });
-await writeFile(snapshotPath, `${JSON.stringify(snapshot, null, 2)}\n`);
+  snapshot = {
+    source: apiBase,
+    fetchedAt: new Date().toISOString(),
+    games: unwrap(gamesRaw, "games"),
+    groups: unwrap(groupsRaw, "groups"),
+    teams: unwrap(teamsRaw, "teams"),
+    stadiums: unwrap(stadiumsRaw, "stadiums")
+  };
 
-if (process.env.APPLY_WORLDCUP26 === "1") {
+  await mkdir(outDir, { recursive: true });
+  await writeFile(snapshotPath, `${JSON.stringify(snapshot, null, 2)}\n`);
+} catch (error) {
+  snapshot = await readJson(snapshotPath, null);
+  if (!snapshot?.games?.length) throw error;
+  usedCachedSnapshot = true;
+  console.warn(`Using cached worldcup26 snapshot from ${snapshot.fetchedAt}: ${error.message}`);
+}
+
+if (process.env.APPLY_WORLDCUP26 === "1" && !usedCachedSnapshot) {
   const site = JSON.parse(await readFile(sitePath, "utf8"));
   const normalizedGames = snapshot.games.map(normalizeGame);
   syncKnownMatches(site, normalizedGames, snapshot.stadiums);
@@ -232,4 +250,4 @@ if (process.env.APPLY_WORLDCUP26 === "1") {
   await writeFile(sitePath, `${JSON.stringify(site, null, 2)}\n`);
 }
 
-console.log(`Synced worldcup26.ir snapshot: ${snapshot.games.length} games, ${snapshot.groups.length} groups, ${snapshot.teams.length} teams, ${snapshot.stadiums.length} stadiums.`);
+console.log(`${usedCachedSnapshot ? "Preserved" : "Synced"} worldcup26.ir snapshot: ${snapshot.games.length} games, ${snapshot.groups.length} groups, ${snapshot.teams.length} teams, ${snapshot.stadiums.length} stadiums.`);

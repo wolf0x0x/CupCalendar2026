@@ -78,6 +78,16 @@ async function readJson(file, fallback) {
   }
 }
 
+async function readCommittedJson(file, fallback) {
+  try {
+    const relPath = path.relative(root, file);
+    const { stdout } = await execFileAsync("git", ["show", `HEAD:${relPath}`]);
+    return JSON.parse(stdout);
+  } catch {
+    return fallback;
+  }
+}
+
 function parseTag(block, tag) {
   const match = block.match(new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i"));
   return esc(match?.[1] || "");
@@ -207,6 +217,8 @@ function pruneCache(cache) {
 async function main() {
   await mkdir(dataDir, { recursive: true });
   const feeds = process.env.RSS_SOURCES_JSON ? JSON.parse(process.env.RSS_SOURCES_JSON) : defaultFeeds;
+  const previousRaw = await readJson(rawPath, null);
+  const previousQueue = await readJson(queuePath, []);
   const fetched = [];
   const errors = [];
 
@@ -219,7 +231,17 @@ async function main() {
   }
 
   const filtered = dedupe(fetched.filter(isRelevant)).slice(0, 20);
-  const rawNews = filtered.length ? filtered : fallbackNews.map((item) => ({ ...item, id: hashText(item.title), titleHash: hashText(item.title.toLowerCase()) }));
+  const committedRaw = fetched.length === 0 ? await readCommittedJson(rawPath, null) : null;
+  const previousItems = previousRaw?.items?.length ? previousRaw.items : null;
+  const committedItems = committedRaw?.items?.length ? committedRaw.items : null;
+  const preservedItems = (fetched.length === 0 && committedItems && (!previousItems || committedItems.length > previousItems.length))
+    ? committedItems
+    : (previousItems || committedItems);
+  const rawNews = filtered.length
+    ? filtered
+    : (preservedItems
+      ? preservedItems
+      : fallbackNews.map((item) => ({ ...item, id: hashText(item.title), titleHash: hashText(item.title.toLowerCase()) })));
   if (!rawNews.some((item) => item.source === "FIFA")) {
     rawNews.unshift({ ...officialFifaFallback, id: hashText(officialFifaFallback.title), titleHash: hashText(officialFifaFallback.title.toLowerCase()) });
   }
@@ -240,10 +262,15 @@ async function main() {
     translated.push({ ...item, translations });
   }
 
+  const committedQueue = fetched.length === 0 ? await readCommittedJson(queuePath, []) : [];
+  const pendingQueue = !process.env.DEEPL_API_KEY && queue.length === 0
+    ? ((previousQueue?.length ? previousQueue : committedQueue) || [])
+    : queue;
+
   await writeFile(translatedPath, `${JSON.stringify({ fetchedAt: new Date().toISOString(), items: translated }, null, 2)}\n`);
   await writeFile(newsPath, `${JSON.stringify(translated, null, 2)}\n`);
   await writeFile(cachePath, `${JSON.stringify(cache, null, 2)}\n`);
-  await writeFile(queuePath, `${JSON.stringify(queue, null, 2)}\n`);
+  await writeFile(queuePath, `${JSON.stringify(pendingQueue, null, 2)}\n`);
 
   const site = await readJson(sitePath, null);
   if (site) {
@@ -260,13 +287,13 @@ async function main() {
       provider: "rss+translation-cache",
       fetchedAt: new Date().toISOString(),
       newsItems: translated.length,
-      translationQueue: queue.length,
+      translationQueue: pendingQueue.length,
       errors
     };
     await writeFile(sitePath, `${JSON.stringify(site, null, 2)}\n`);
   }
 
-  console.log(`Content+i18n sync complete: ${rawNews.length} news items, ${queue.length} queued translations, ${errors.length} feed errors.`);
+  console.log(`Content+i18n sync complete: ${rawNews.length} news items, ${pendingQueue.length} queued translations, ${errors.length} feed errors.`);
 }
 
 main().catch((error) => {

@@ -1,8 +1,11 @@
+import { execFile } from "node:child_process";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { promisify } from "node:util";
 
 const root = process.cwd();
 const data = JSON.parse(await readFile(path.join(root, "data/site.json"), "utf8"));
+const execFileAsync = promisify(execFile);
 
 const esc = (value) =>
   String(value ?? "")
@@ -117,6 +120,16 @@ function flagFallbackSvg({ code, name }) {
 </svg>`;
 }
 
+async function readCommittedAsset(outPath) {
+  try {
+    const relPath = path.relative(root, outPath);
+    const { stdout } = await execFileAsync("git", ["show", `HEAD:${relPath}`]);
+    return stdout || null;
+  } catch {
+    return null;
+  }
+}
+
 async function downloadFlag(team) {
   const flagCode = flagCodes[team.code];
   const outPath = path.join(root, `assets/flags/${slug(team.code)}.svg`);
@@ -132,7 +145,18 @@ async function downloadFlag(team) {
     await writeFile(outPath, svg);
     return true;
   } catch {
-    await writeFile(outPath, flagFallbackSvg(team));
+    const committedSvg = await readCommittedAsset(outPath);
+    if (committedSvg) {
+      await writeFile(outPath, committedSvg);
+      return false;
+    }
+
+    try {
+      await readFile(outPath, "utf8");
+      return false;
+    } catch {
+      await writeFile(outPath, flagFallbackSvg(team));
+    }
     return false;
   }
 }
