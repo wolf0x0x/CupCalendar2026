@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T00:08:25.441Z",
+  "fetchedAt": "2026-06-18T03:08:49.787Z",
   "errors": [
     {
       "source": "FIFA",
@@ -119,16 +119,6 @@
       "titleHash": "c76525a4bdb69746f13573fa37cc3cb2"
     },
     {
-      "id": "6ea51ed52c09fadc41a415438e2c7b1a",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Highlights: Mbappe stars as France beat Senegal",
-      "summary": "Kylian Mbappe scores twice as France begin their World Cup 2026 campaign with a 3-1 win over Senegal in Group I.",
-      "url": "https://www.bbc.com/sport/football/videos/ced40y0xj1eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-16",
-      "titleHash": "52a7bee16ec18a6b9a4a050e8d6a6d50"
-    },
-    {
       "id": "ee0b23ce8b839adb6915751d1b327651",
       "source": "BBC",
       "tag": "RSS",
@@ -169,14 +159,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "bce35dd89cae78843d18fd593c21e65e",
+      "id": "b054c1a4dbff4fbc13d098200ec2b20f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Ghana v Panama: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 7pm local/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a></p><p><strong>1 min </strong>Panama pass pointlessly, possession purloined.</p><p>It’s raining a bit in Toronto as we get started. Current temperature is 20 degrees. That’s Celsius. Canada isn’t <em>that </em>cold.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/17/ghana-v-panama-world-cup-2026-live",
-      "time": "2026-06-17",
-      "titleHash": "dc2dd5530436efe727dc95c467df75ab"
+      "title": "Uzbekistan v Colombia: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Fabio Cannavaro has continued with the 3-4-3 that served Uzbekistan well in qualifying. Khusanov is the only man in the starting XI to play in one of Europe’s top five leagues. The promising playmaker Fayzullaev is on the cusp of bigger things at İstanbul Başakşehir, where he is teammates with the proven goalscorer Shomurodov. Everyone else in the squad is drawn from clubs in Uzbekistan, Iran, or the UAE.</p><p>1 Yusupov; 18 Abdullaev, 5 Ashurmatov, 2 Khusanov; 13 Nasrullaev 7 Shukurov, 6 Mozgovoy, 24 Karimov; 22 Fayzullaev, 11 Urunov, 14 Shomurodov.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/18/fifa-world-cup-2026-live-uzbekistan-v-colombia-updates-uzb-vs-col-group-k-match-score-latest",
+      "time": "2026-06-18",
+      "titleHash": "875a6000e24f5319aabeca6dad18adb7"
     },
     {
       "id": "1a974ded7bddd668b3223fdc72c0f6bf",
@@ -187,6 +177,16 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe",
       "time": "2026-06-17",
       "titleHash": "28f1a209786a31c6e68d97f3eeddc630"
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-06-04",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
       "id": "ded37608b5ed9942b14c4fc582f9251f",
