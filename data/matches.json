@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-18T17:42:06.211Z",
+  "syncedAt": "2026-06-18T19:31:10.243Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -494,7 +494,7 @@
       "homeScore": 0,
       "awayScore": 0,
       "score": "0 - 0",
-      "status": "notstarted",
+      "status": "live",
       "finished": false,
       "stadiumId": "16",
       "dataSource": "worldcup26.ir",
@@ -530,10 +530,10 @@
       "home": "Czechia",
       "away": "South Africa",
       "homeScore": 1,
-      "awayScore": 0,
-      "score": "1 - 0",
-      "status": "live",
-      "finished": false,
+      "awayScore": 1,
+      "score": "1 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
       "validation": "primary"

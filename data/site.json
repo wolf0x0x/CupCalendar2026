@@ -1602,25 +1602,27 @@
         },
         {
           "team": "Czechia",
+          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 1,
           "gf": 2,
-          "ga": 3
+          "ga": 3,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "South Africa",
+          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -2,
-          "points": 1,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 1
         }
       ]
     },
@@ -6259,9 +6261,9 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-18T19:29:22.645Z",
+    "fetchedAt": "2026-06-18T19:31:10.243Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
+    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
