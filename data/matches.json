@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-19T00:09:34.002Z",
+  "syncedAt": "2026-06-19T05:25:16.508Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -472,11 +472,11 @@
       "time": "19:00",
       "home": "Mexico",
       "away": "South Korea",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": "1 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "2",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
