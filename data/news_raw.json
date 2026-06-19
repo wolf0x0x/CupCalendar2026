@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-19T04:59:58.872Z",
+  "fetchedAt": "2026-06-19T06:15:14.772Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -17,36 +17,6 @@
       "time": "2026-06-19",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "899214cbaca242ea7d66ad432987ab97",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-      "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a",
-      "time": "2026-06-19",
-      "titleHash": "d92e8c09a939925e7ee425ea9532a982"
-    },
-    {
-      "id": "ed253267426b910ea7d713d27943ecb4",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-      "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49096885/scotland-tartan-army-world-cup-boston-haiti-red-sox-fenway-park",
-      "time": "2026-06-18",
-      "titleHash": "7f7c796fb75bffd1b67e4b953200920a"
-    },
-    {
-      "id": "730fa9338baa847c3a294efff44ea485",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: England's ...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-18",
-      "titleHash": "bd0c254e907633cbb2a92af9689d8fd6"
     },
     {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
