@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-18",
+      "time": "2026-06-19",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -6024,6 +6024,40 @@
         "zh": {
           "title": "Sutton's World Cup score predictions - second group games",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Kone injury is a 'huge loss' - Marsch",
+      "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
+      "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "translations": {
+        "es": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+        },
+        "pt": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+        },
+        "fr": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+        },
+        "de": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+        },
+        "ja": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+        },
+        "zh": {
+          "title": "Kone injury is a 'huge loss' - Marsch",
+          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
         }
       }
     },
@@ -6264,40 +6298,6 @@
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why are footballers wearing pink boots at the World Cup?",
-      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "pt": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "fr": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "de": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "ja": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "zh": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-18T22:58:53.536Z",
-    "newsItems": 12,
+    "fetchedAt": "2026-06-19T03:15:30.314Z",
+    "newsItems": 13,
     "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }

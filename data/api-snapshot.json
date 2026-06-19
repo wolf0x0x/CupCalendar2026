@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-06-18T21:35:21.090Z",
+  "fetchedAt": "2026-06-19T03:15:39.860Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -535,17 +535,17 @@
       "id": "25",
       "home_team_id": "1",
       "away_team_id": "3",
-      "home_score": "0",
+      "home_score": "1",
       "away_score": "0",
-      "home_scorers": "null",
+      "home_scorers": "{\"Luis Romo 50'\"}",
       "away_scorers": "null",
       "group": "A",
       "matchday": "2",
       "local_date": "06/18/2026 19:00",
       "persian_date": "1405-03-28 19:00",
       "stadium_id": "2",
-      "finished": "FALSE",
-      "time_elapsed": "notstarted",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "group",
       "home_team_name_en": "Mexico",
       "home_team_name_fa": "مکزیک",
@@ -579,17 +579,17 @@
       "id": "27",
       "home_team_id": "5",
       "away_team_id": "7",
-      "home_score": "0",
+      "home_score": "6",
       "away_score": "0",
-      "home_scorers": "null",
+      "home_scorers": "{\"Kail Larin 16'\",\"Jonathan David 29'\",\"Jonathan David 45+3'\",\"Nathan Saliba 64'\",\"Mohamed Almnai 75'\",\"Jonathan David 90+2'\"}",
       "away_scorers": "null",
       "group": "B",
       "matchday": "2",
       "local_date": "06/18/2026 15:00",
       "persian_date": "1405-03-28 15:00",
       "stadium_id": "13",
-      "finished": "FALSE",
-      "time_elapsed": "notstarted",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "group",
       "home_team_name_en": "Canada",
       "home_team_name_fa": "کانادا",
@@ -603,7 +603,7 @@
       "away_team_id": "2",
       "home_score": "1",
       "away_score": "1",
-      "home_scorers": "{\"mikhal Sadilk 6'\"}",
+      "home_scorers": "{\"‫mikhal Sadilk 6'\"}",
       "away_scorers": "null",
       "group": "A",
       "matchday": "2",
@@ -2270,13 +2270,13 @@
         },
         {
           "team_id": "32",
-          "mp": "0",
+          "mp": "1",
           "w": "0",
           "l": "0",
-          "d": "0",
-          "pts": "0",
-          "gf": "0",
-          "ga": "0",
+          "d": "1",
+          "pts": "1",
+          "gf": "1",
+          "ga": "1",
           "gd": "0",
           "_id": "698985a46e8cb0bf61b5aca2"
         }
@@ -2570,38 +2570,26 @@
       "teams": [
         {
           "team_id": "1",
-          "mp": "1",
-          "w": "1",
+          "mp": "2",
+          "w": "2",
           "l": "0",
           "d": "0",
-          "pts": "3",
-          "gf": "2",
+          "pts": "6",
+          "gf": "3",
           "ga": "0",
-          "gd": "2",
+          "gd": "3",
           "_id": "698985a46e8cb0bf61b5ac75"
         },
         {
-          "team_id": "2",
-          "mp": "2",
-          "w": "0",
-          "l": "1",
-          "d": "1",
-          "pts": "1",
-          "gf": "1",
-          "ga": "3",
-          "gd": "-2",
-          "_id": "698985a46e8cb0bf61b5ac76"
-        },
-        {
           "team_id": "3",
-          "mp": "1",
+          "mp": "2",
           "w": "1",
-          "l": "0",
+          "l": "1",
           "d": "0",
           "pts": "3",
           "gf": "2",
-          "ga": "1",
-          "gd": "1",
+          "ga": "2",
+          "gd": "0",
           "_id": "698985a46e8cb0bf61b5ac77"
         },
         {
@@ -2615,15 +2603,40 @@
           "ga": "3",
           "gd": "-1",
           "_id": "698985a46e8cb0bf61b5ac78"
+        },
+        {
+          "team_id": "2",
+          "mp": "2",
+          "w": "0",
+          "l": "1",
+          "d": "1",
+          "pts": "1",
+          "gf": "1",
+          "ga": "3",
+          "gd": "-2",
+          "_id": "698985a46e8cb0bf61b5ac76"
         }
       ],
       "createdAt": "2026-02-09T06:58:44.331Z",
-      "__v": 0
+      "__v": 0,
+      "updatedAt": "2026-06-19T02:58:15.946Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5ac7a",
       "name": "B",
       "teams": [
+        {
+          "team_id": "5",
+          "mp": "2",
+          "w": "1",
+          "l": "0",
+          "d": "1",
+          "pts": "4",
+          "gf": "7",
+          "ga": "1",
+          "gd": "6",
+          "_id": "698985a46e8cb0bf61b5ac7b"
+        },
         {
           "team_id": "8",
           "mp": "2",
@@ -2637,30 +2650,6 @@
           "_id": "698985a46e8cb0bf61b5ac7e"
         },
         {
-          "team_id": "5",
-          "mp": "1",
-          "w": "0",
-          "l": "0",
-          "d": "1",
-          "pts": "1",
-          "gf": "1",
-          "ga": "1",
-          "gd": "0",
-          "_id": "698985a46e8cb0bf61b5ac7b"
-        },
-        {
-          "team_id": "7",
-          "mp": "1",
-          "w": "0",
-          "l": "0",
-          "d": "1",
-          "pts": "1",
-          "gf": "1",
-          "ga": "1",
-          "gd": "0",
-          "_id": "698985a46e8cb0bf61b5ac7d"
-        },
-        {
           "team_id": "6",
           "mp": "2",
           "w": "0",
@@ -2671,11 +2660,23 @@
           "ga": "5",
           "gd": "-3",
           "_id": "698985a46e8cb0bf61b5ac7c"
+        },
+        {
+          "team_id": "7",
+          "mp": "2",
+          "w": "0",
+          "l": "1",
+          "d": "1",
+          "pts": "1",
+          "gf": "1",
+          "ga": "7",
+          "gd": "-6",
+          "_id": "698985a46e8cb0bf61b5ac7d"
         }
       ],
       "createdAt": "2026-02-09T06:58:44.354Z",
       "__v": 0,
-      "updatedAt": "2026-06-18T20:59:19.785Z"
+      "updatedAt": "2026-06-19T00:02:47.382Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5acb6",
