@@ -36,78 +36,6 @@
     }
   },
   {
-    "id": "34b7ba7b308c6ad94413539b4d48747e",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Iran to lodge complaint over travel restrictions",
-    "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-19",
-    "titleHash": "2fa5e1b660c08e69e7c088db7418c493",
-    "translations": {
-      "es": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "de": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "282b69683cc5228a9c6a8dd3e09b91ec",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Sutton's World Cup score predictions - second group games",
-    "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-18",
-    "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6",
-    "translations": {
-      "es": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      },
-      "de": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Sutton's World Cup score predictions - second group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      }
-    }
-  },
-  {
     "id": "6611f9d3c0708282b171a790f937f805",
     "source": "BBC",
     "tag": "RSS",
@@ -216,38 +144,74 @@
     }
   },
   {
-    "id": "41ab66233fb0002827eca59769619b3f",
+    "id": "282b69683cc5228a9c6a8dd3e09b91ec",
     "source": "BBC",
     "tag": "RSS",
-    "title": "Can Renard revive Tunisia's World Cup campaign?",
-    "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
-    "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-19",
-    "titleHash": "de248a5b7debad7a538f09e9e25cc287",
+    "title": "Sutton's World Cup score predictions - second group games",
+    "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-18",
+    "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6",
     "translations": {
       "es": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
       },
       "pt": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
       },
       "fr": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
       },
       "de": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
       },
       "ja": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
       },
       "zh": {
-        "title": "Can Renard revive Tunisia's World Cup campaign?",
-        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        "title": "Sutton's World Cup score predictions - second group games",
+        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "34b7ba7b308c6ad94413539b4d48747e",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Iran to lodge complaint over travel restrictions",
+    "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-19",
+    "titleHash": "2fa5e1b660c08e69e7c088db7418c493",
+    "translations": {
+      "es": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+      },
+      "de": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Iran to lodge complaint over travel restrictions",
+        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
       }
     }
   },
@@ -284,6 +248,42 @@
       "zh": {
         "title": "How to watch the World Cup on the BBC and ITV",
         "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+      }
+    }
+  },
+  {
+    "id": "41ab66233fb0002827eca59769619b3f",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Can Renard revive Tunisia's World Cup campaign?",
+    "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+    "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-19",
+    "titleHash": "de248a5b7debad7a538f09e9e25cc287",
+    "translations": {
+      "es": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+      },
+      "pt": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+      },
+      "fr": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+      },
+      "de": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+      },
+      "ja": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+      },
+      "zh": {
+        "title": "Can Renard revive Tunisia's World Cup campaign?",
+        "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
       }
     }
   },
@@ -468,37 +468,37 @@
     }
   },
   {
-    "id": "8ff07df20788a92c6ce00ee3308897c2",
+    "id": "3ff8aaf8fae126aad0a156202d35a722",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+    "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
     "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>",
     "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
     "time": "2026-06-19",
-    "titleHash": "6e8553e617d7c669cd0d29d52bfbf599",
+    "titleHash": "da4bde02f421dce41badcf0737167e89",
     "translations": {
       "es": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       },
       "pt": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       },
       "fr": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       },
       "de": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       },
       "ja": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       },
       "zh": {
-        "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+        "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
         "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>"
       }
     }

@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-19T10:47:14.306Z",
+  "fetchedAt": "2026-06-19T12:15:48.114Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -17,26 +17,6 @@
       "time": "2026-06-19",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "34b7ba7b308c6ad94413539b4d48747e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "titleHash": "2fa5e1b660c08e69e7c088db7418c493"
-    },
-    {
-      "id": "282b69683cc5228a9c6a8dd3e09b91ec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Sutton's World Cup score predictions - second group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6"
     },
     {
       "id": "6611f9d3c0708282b171a790f937f805",
@@ -69,14 +49,24 @@
       "titleHash": "53b383dd8dbcf2c185f1b5af3e1039d9"
     },
     {
-      "id": "41ab66233fb0002827eca59769619b3f",
+      "id": "282b69683cc5228a9c6a8dd3e09b91ec",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Can Renard revive Tunisia's World Cup campaign?",
-      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's World Cup score predictions - second group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6"
+    },
+    {
+      "id": "34b7ba7b308c6ad94413539b4d48747e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Iran to lodge complaint over travel restrictions",
+      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-19",
-      "titleHash": "de248a5b7debad7a538f09e9e25cc287"
+      "titleHash": "2fa5e1b660c08e69e7c088db7418c493"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -87,6 +77,16 @@
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-06",
       "titleHash": "69b61b06a7ade637c68b32a288389828"
+    },
+    {
+      "id": "41ab66233fb0002827eca59769619b3f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Can Renard revive Tunisia's World Cup campaign?",
+      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "titleHash": "de248a5b7debad7a538f09e9e25cc287"
     },
     {
       "id": "92f30bd73b4f0333e4f4f04aee21d344",
@@ -139,14 +139,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "8ff07df20788a92c6ce00ee3308897c2",
+      "id": "3ff8aaf8fae126aad0a156202d35a722",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
+      "title": "World Cup 2026: Scotland fans take over Boston; Pochettino looking for spies; Koné injury – live",
       "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
       "time": "2026-06-19",
-      "titleHash": "6e8553e617d7c669cd0d29d52bfbf599"
+      "titleHash": "da4bde02f421dce41badcf0737167e89"
     },
     {
       "id": "b77317d03edf4818f27d8349239e8b27",

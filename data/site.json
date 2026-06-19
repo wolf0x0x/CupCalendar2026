@@ -5996,74 +5996,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "translations": {
-        "es": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Sutton's World Cup score predictions - second group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Kone injury is a 'huge loss' - Marsch",
       "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
       "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
@@ -6166,34 +6098,68 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Can Renard revive Tunisia's World Cup campaign?",
-      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
-      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Sutton's World Cup score predictions - second group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Iran to lodge complaint over travel restrictions",
+      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-19",
       "translations": {
         "es": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         },
         "pt": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         },
         "fr": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         },
         "de": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         },
         "ja": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         },
         "zh": {
-          "title": "Can Renard revive Tunisia's World Cup campaign?",
-          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
         }
       }
     },
@@ -6228,6 +6194,40 @@
         "zh": {
           "title": "How to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Can Renard revive Tunisia's World Cup campaign?",
+      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "translations": {
+        "es": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "pt": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "fr": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "de": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "ja": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "zh": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
         }
       }
     },
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-19T10:47:14.323Z",
+    "fetchedAt": "2026-06-19T12:15:48.133Z",
     "newsItems": 16,
-    "translationQueue": 18,
+    "translationQueue": 6,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }
