@@ -5996,6 +5996,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Iran to lodge complaint over travel restrictions",
+      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "translations": {
+        "es": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Sutton's World Cup score predictions - second group games",
       "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
@@ -6234,40 +6268,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Who will win the World Cup? BBC pundits make their predictions",
-      "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-10",
-      "translations": {
-        "es": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Who will win the World Cup? BBC pundits make their predictions",
-          "summary": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "How to watch highlights of World Cup matches",
       "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
       "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-19T06:15:14.789Z",
-    "newsItems": 13,
-    "translationQueue": 24,
+    "fetchedAt": "2026-06-19T09:13:47.732Z",
+    "newsItems": 15,
+    "translationQueue": 42,
     "errors": [
       {
         "source": "FIFA",
