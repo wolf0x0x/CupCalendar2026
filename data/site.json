@@ -619,10 +619,10 @@
       "away": "Qatar",
       "homeCode": "CAN",
       "awayCode": "QAT",
-      "score": "1 - 0",
-      "status": "live",
+      "score": "6 - 0",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Los_Angeles",
       "timezoneLabel": "UTC-7",
@@ -640,7 +640,7 @@
       "away": "South Korea",
       "homeCode": "MEX",
       "awayCode": "KOR",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1632,6 +1632,18 @@
       "group": "Group B",
       "rows": [
         {
+          "team": "Canada",
+          "code": "CAN",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 7,
+          "ga": 1,
+          "gd": 6,
+          "points": 4
+        },
+        {
           "team": "Switzerland",
           "code": "SUI",
           "played": 2,
@@ -1644,30 +1656,6 @@
           "points": 4
         },
         {
-          "team": "Canada",
-          "code": "CAN",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Qatar",
-          "code": "QAT",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
           "team": "Bosnia and Herzegovina",
           "code": "BIH",
           "played": 2,
@@ -1677,6 +1665,18 @@
           "gf": 2,
           "ga": 5,
           "gd": -3,
+          "points": 1
+        },
+        {
+          "team": "Qatar",
+          "code": "QAT",
+          "played": 2,
+          "won": 0,
+          "drawn": 1,
+          "lost": 1,
+          "gf": 1,
+          "ga": 7,
+          "gd": -6,
           "points": 1
         }
       ]
@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-18T22:21:09.985Z",
+    "fetchedAt": "2026-06-19T00:09:34.002Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
