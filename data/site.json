@@ -661,10 +661,10 @@
       "away": "Australia",
       "homeCode": "USA",
       "awayCode": "AUS",
-      "score": "1 - 0",
-      "status": "live",
+      "score": "2 - 0",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Los_Angeles",
       "timezoneLabel": "UTC-7",
@@ -1580,51 +1580,47 @@
       "rows": [
         {
           "team": "Mexico",
-          "code": "MEX",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 0,
           "gd": 3,
-          "points": 6
+          "points": 6,
+          "gf": 3,
+          "ga": 0
         },
         {
           "team": "South Korea",
-          "code": "KOR",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Czechia",
-          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 3,
           "gd": -1,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 3
         },
         {
           "team": "South Africa",
-          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 3
         }
       ]
     },
@@ -1633,51 +1629,47 @@
       "rows": [
         {
           "team": "Canada",
-          "code": "CAN",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 4
+          "points": 4,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Switzerland",
-          "code": "SUI",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 5,
-          "ga": 2,
           "gd": 3,
-          "points": 4
+          "points": 4,
+          "gf": 5,
+          "ga": 2
         },
         {
           "team": "Bosnia and Herzegovina",
-          "code": "BIH",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 5,
           "gd": -3,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 5
         },
         {
           "team": "Qatar",
-          "code": "QAT",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1686,51 +1678,47 @@
       "rows": [
         {
           "team": "Scotland",
-          "code": "SCO",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Brazil",
-          "code": "BRA",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Morocco",
-          "code": "MAR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Haiti",
-          "code": "HAI",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         }
       ]
     },
@@ -1739,51 +1727,47 @@
       "rows": [
         {
           "team": "United States",
-          "code": "USA",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
-          "gd": 3,
-          "points": 3
+          "gd": 5,
+          "points": 6,
+          "gf": 6,
+          "ga": 1
         },
         {
           "team": "Australia",
-          "code": "AUS",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
+          "gd": 0,
+          "points": 3,
           "gf": 2,
-          "ga": 0,
-          "gd": 2,
-          "points": 3
+          "ga": 2
         },
         {
           "team": "Türkiye",
-          "code": "TUR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         },
         {
           "team": "Paraguay",
-          "code": "PAR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -1792,51 +1776,47 @@
       "rows": [
         {
           "team": "Germany",
-          "code": "GER",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 3
+          "points": 3,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Ivory Coast",
-          "code": "CIV",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Ecuador",
-          "code": "ECU",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Curaçao",
-          "code": "CUW",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1845,51 +1825,47 @@
       "rows": [
         {
           "team": "Sweden",
-          "code": "SWE",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 1,
           "gd": 4,
-          "points": 3
+          "points": 3,
+          "gf": 5,
+          "ga": 1
         },
         {
           "team": "Japan",
-          "code": "JPN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Netherlands",
-          "code": "NED",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Tunisia",
-          "code": "TUN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 5,
           "gd": -4,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 5
         }
       ]
     },
@@ -1898,51 +1874,47 @@
       "rows": [
         {
           "team": "Iran",
-          "code": "IRN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "New Zealand",
-          "code": "NZL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Belgium",
-          "code": "BEL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Egypt",
-          "code": "EGY",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1951,51 +1923,47 @@
       "rows": [
         {
           "team": "Saudi Arabia",
-          "code": "SAU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Uruguay",
-          "code": "URU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Cabo Verde",
-          "code": "CPV",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Spain",
-          "code": "ESP",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2004,51 +1972,47 @@
       "rows": [
         {
           "team": "Norway",
-          "code": "NOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "France",
-          "code": "FRA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Senegal",
-          "code": "SEN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Iraq",
-          "code": "IRQ",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -2057,51 +2021,47 @@
       "rows": [
         {
           "team": "Argentina",
-          "code": "ARG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 0,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 0
         },
         {
           "team": "Austria",
-          "code": "AUT",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Jordan",
-          "code": "JOR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Algeria",
-          "code": "ALG",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 3,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 3
         }
       ]
     },
@@ -2110,51 +2070,47 @@
       "rows": [
         {
           "team": "Colombia",
-          "code": "COL",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "DR Congo",
-          "code": "COD",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Portugal",
-          "code": "POR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Uzbekistan",
-          "code": "UZB",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         }
       ]
     },
@@ -2163,51 +2119,47 @@
       "rows": [
         {
           "team": "England",
-          "code": "ENG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 2,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 2
         },
         {
           "team": "Ghana",
-          "code": "GHA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Panama",
-          "code": "PAN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Croatia",
-          "code": "CRO",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 2,
-          "ga": 4,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 2,
+          "ga": 4
         }
       ]
     }
@@ -5994,176 +5946,6 @@
       }
     },
     {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-      "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49113839/mexico-beats-south-korea-clinch-first-place-group-a",
-      "time": "2026-06-19",
-      "translations": {
-        "es": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        },
-        "pt": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        },
-        "fr": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        },
-        "de": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        },
-        "ja": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        },
-        "zh": {
-          "title": "Korea GK gaffe helps Mexico clinch 1st in Group A",
-          "summary": "Mexico took advantage of a defensive blunder by South Korea to win 1-0 on Thursday and become the first team to advance to the knockout stage of the FIFA World Cup."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup 2026 Power Rankings after one game: U.S....",
-      "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?",
-      "url": "https://www.espn.com/soccer/story/_/id/49094186/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina",
-      "time": "2026-06-19",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        },
-        "pt": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        },
-        "fr": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        },
-        "de": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        },
-        "ja": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        },
-        "zh": {
-          "title": "World Cup 2026 Power Rankings after one game: U.S....",
-          "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?"
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-      "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues.",
-      "url": "https://www.espn.com/soccer/story/_/id/49113556/fifa-world-cup-daily-brazil-usmnt-action-day-9",
-      "time": "2026-06-19",
-      "translations": {
-        "es": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        },
-        "pt": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        },
-        "fr": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        },
-        "de": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        },
-        "ja": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        },
-        "zh": {
-          "title": "World Cup Daily: Meet Scotland superfan Donny the ...",
-          "summary": "Day 9 is upon us, with the United States and Brazil among the teams playing as 2026 FIFA World Cup action continues."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-      "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49096885/scotland-tartan-army-world-cup-boston-haiti-red-sox-fenway-park",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        },
-        "pt": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        },
-        "fr": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        },
-        "de": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        },
-        "ja": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        },
-        "zh": {
-          "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-          "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: England's ...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "de": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Every team's odds to win the World Cup: England's ...",
-          "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup."
-        }
-      }
-    },
-    {
       "source": "BBC",
       "tag": "RSS",
       "title": "Kone injury is a 'huge loss' - Marsch",
@@ -6268,6 +6050,74 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "translations": {
+        "es": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "pt": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "fr": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "de": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "ja": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        },
+        "zh": {
+          "title": "How to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Sutton's World Cup score predictions - second group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Sutton's World Cup score predictions - second group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
       "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
       "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
@@ -6298,6 +6148,108 @@
           "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Substitute Rashford guides home England's fourth against Croatia",
+      "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "translations": {
+        "es": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        },
+        "pt": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        },
+        "fr": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        },
+        "de": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        },
+        "ja": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        },
+        "zh": {
+          "title": "Substitute Rashford guides home England's fourth against Croatia",
+          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bellingham scores early in second half to put England 3-2 up",
+      "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c20y9dqpz0zo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-17",
+      "translations": {
+        "es": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        },
+        "pt": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        },
+        "fr": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        },
+        "de": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        },
+        "ja": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        },
+        "zh": {
+          "title": "Bellingham scores early in second half to put England 3-2 up",
+          "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Iran to lodge complaint over travel restrictions",
+      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "translations": {
+        "es": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Iran to lodge complaint over travel restrictions",
+          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+        }
+      }
     }
   ],
   "monetization": {
@@ -6307,20 +6259,20 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-19T19:34:30.949Z",
+    "fetchedAt": "2026-06-19T21:16:39.077Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-19T19:55:45.326Z",
-    "newsItems": 20,
-    "translationQueue": 24,
+    "fetchedAt": "2026-06-19T21:16:51.023Z",
+    "newsItems": 19,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }
