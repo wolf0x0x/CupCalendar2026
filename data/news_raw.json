@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-19T09:13:47.715Z",
+  "fetchedAt": "2026-06-19T10:47:14.306Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -69,6 +69,16 @@
       "titleHash": "53b383dd8dbcf2c185f1b5af3e1039d9"
     },
     {
+      "id": "41ab66233fb0002827eca59769619b3f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Can Renard revive Tunisia's World Cup campaign?",
+      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "titleHash": "de248a5b7debad7a538f09e9e25cc287"
+    },
+    {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
       "source": "BBC",
       "tag": "RSS",
@@ -129,14 +139,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "7a8b3a914cfab3b0c4ec6d26af8fe120",
+      "id": "8ff07df20788a92c6ce00ee3308897c2",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Koné injury mars Canada rout; Scotland’s ‘big challenge’; USA v Australia buildup – live",
+      "title": "World Cup 2026: Scotland fans take over Boston; Koné injury latest; USA v Australia buildup – live",
       "summary": "<p><strong>⚽ All the latest news from day eight of the tournament<br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Mail us</strong></a></p><p><strong>Let’s begin our look at what will happen later today.</strong></p><p>First up is USA v Australia in Seattle at 8pm BST/12pm local time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live",
       "time": "2026-06-19",
-      "titleHash": "0be4d1329adcfe18a06eebd9da13fcbf"
+      "titleHash": "6e8553e617d7c669cd0d29d52bfbf599"
     },
     {
       "id": "b77317d03edf4818f27d8349239e8b27",

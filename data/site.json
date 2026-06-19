@@ -6166,6 +6166,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Can Renard revive Tunisia's World Cup campaign?",
+      "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match.",
+      "url": "https://www.bbc.com/sport/football/articles/cvgjpk00l7xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-19",
+      "translations": {
+        "es": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "pt": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "fr": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "de": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "ja": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        },
+        "zh": {
+          "title": "Can Renard revive Tunisia's World Cup campaign?",
+          "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "How to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6264,40 +6298,6 @@
           "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch highlights of World Cup matches",
-      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "pt": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "fr": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "de": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "ja": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "zh": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-19T09:13:47.732Z",
-    "newsItems": 15,
-    "translationQueue": 42,
+    "fetchedAt": "2026-06-19T10:47:14.323Z",
+    "newsItems": 16,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
       }
     ]
   }
