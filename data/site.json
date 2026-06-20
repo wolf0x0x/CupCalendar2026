@@ -683,9 +683,9 @@
       "homeCode": "SCO",
       "awayCode": "MAR",
       "score": "0 - 1",
-      "status": "live",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/New_York",
       "timezoneLabel": "UTC-4",
@@ -703,7 +703,7 @@
       "away": "Haiti",
       "homeCode": "BRA",
       "awayCode": "HAI",
-      "score": "- : -",
+      "score": "null - null",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -724,7 +724,7 @@
       "away": "Paraguay",
       "homeCode": "TUR",
       "awayCode": "PAR",
-      "score": "- : -",
+      "score": "null - null",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1580,51 +1580,47 @@
       "rows": [
         {
           "team": "Mexico",
-          "code": "MEX",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 0,
           "gd": 3,
-          "points": 6
+          "points": 6,
+          "gf": 3,
+          "ga": 0
         },
         {
           "team": "South Korea",
-          "code": "KOR",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Czechia",
-          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 3,
           "gd": -1,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 3
         },
         {
           "team": "South Africa",
-          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 3
         }
       ]
     },
@@ -1633,51 +1629,47 @@
       "rows": [
         {
           "team": "Canada",
-          "code": "CAN",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 4
+          "points": 4,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Switzerland",
-          "code": "SUI",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 5,
-          "ga": 2,
           "gd": 3,
-          "points": 4
+          "points": 4,
+          "gf": 5,
+          "ga": 2
         },
         {
           "team": "Bosnia and Herzegovina",
-          "code": "BIH",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 5,
           "gd": -3,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 5
         },
         {
           "team": "Qatar",
-          "code": "QAT",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1685,52 +1677,48 @@
       "group": "Group C",
       "rows": [
         {
+          "team": "Morocco",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gd": 1,
+          "points": 4,
+          "gf": 2,
+          "ga": 1
+        },
+        {
           "team": "Scotland",
-          "code": "SCO",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
+          "gd": 0,
+          "points": 3,
           "gf": 1,
-          "ga": 0,
-          "gd": 1,
-          "points": 3
+          "ga": 1
         },
         {
           "team": "Brazil",
-          "code": "BRA",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Morocco",
-          "code": "MAR",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
+          "points": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
+          "ga": 1
         },
         {
           "team": "Haiti",
-          "code": "HAI",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         }
       ]
     },
@@ -1739,51 +1727,47 @@
       "rows": [
         {
           "team": "United States",
-          "code": "USA",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 6,
-          "ga": 1,
           "gd": 5,
-          "points": 6
+          "points": 6,
+          "gf": 6,
+          "ga": 1
         },
         {
           "team": "Australia",
-          "code": "AUS",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 3
+          "points": 3,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Türkiye",
-          "code": "TUR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 2,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 2
         },
         {
           "team": "Paraguay",
-          "code": "PAR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -1792,51 +1776,47 @@
       "rows": [
         {
           "team": "Germany",
-          "code": "GER",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 7,
-          "ga": 1,
           "gd": 6,
-          "points": 3
+          "points": 3,
+          "gf": 7,
+          "ga": 1
         },
         {
           "team": "Ivory Coast",
-          "code": "CIV",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Ecuador",
-          "code": "ECU",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Curaçao",
-          "code": "CUW",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 7,
           "gd": -6,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 7
         }
       ]
     },
@@ -1845,51 +1825,47 @@
       "rows": [
         {
           "team": "Sweden",
-          "code": "SWE",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 1,
           "gd": 4,
-          "points": 3
+          "points": 3,
+          "gf": 5,
+          "ga": 1
         },
         {
           "team": "Japan",
-          "code": "JPN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Netherlands",
-          "code": "NED",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Tunisia",
-          "code": "TUN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 5,
           "gd": -4,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 5
         }
       ]
     },
@@ -1898,51 +1874,47 @@
       "rows": [
         {
           "team": "Iran",
-          "code": "IRN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "New Zealand",
-          "code": "NZL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 2,
+          "ga": 2
         },
         {
           "team": "Belgium",
-          "code": "BEL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Egypt",
-          "code": "EGY",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         }
       ]
     },
@@ -1951,51 +1923,47 @@
       "rows": [
         {
           "team": "Saudi Arabia",
-          "code": "SAU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Uruguay",
-          "code": "URU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Cabo Verde",
-          "code": "CPV",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         },
         {
           "team": "Spain",
-          "code": "ESP",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 0,
-          "ga": 0,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 0,
+          "ga": 0
         }
       ]
     },
@@ -2004,51 +1972,47 @@
       "rows": [
         {
           "team": "Norway",
-          "code": "NOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 1,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 1
         },
         {
           "team": "France",
-          "code": "FRA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Senegal",
-          "code": "SEN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Iraq",
-          "code": "IRQ",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 4,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 4
         }
       ]
     },
@@ -2057,51 +2021,47 @@
       "rows": [
         {
           "team": "Argentina",
-          "code": "ARG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 0,
           "gd": 3,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 0
         },
         {
           "team": "Austria",
-          "code": "AUT",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "Jordan",
-          "code": "JOR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         },
         {
           "team": "Algeria",
-          "code": "ALG",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 3,
           "gd": -3,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 3
         }
       ]
     },
@@ -2110,51 +2070,47 @@
       "rows": [
         {
           "team": "Colombia",
-          "code": "COL",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
-          "ga": 1,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 3,
+          "ga": 1
         },
         {
           "team": "DR Congo",
-          "code": "COD",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Portugal",
-          "code": "POR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
-          "points": 1
+          "points": 1,
+          "gf": 1,
+          "ga": 1
         },
         {
           "team": "Uzbekistan",
-          "code": "UZB",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
-          "ga": 3,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 1,
+          "ga": 3
         }
       ]
     },
@@ -2163,51 +2119,47 @@
       "rows": [
         {
           "team": "England",
-          "code": "ENG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 4,
-          "ga": 2,
           "gd": 2,
-          "points": 3
+          "points": 3,
+          "gf": 4,
+          "ga": 2
         },
         {
           "team": "Ghana",
-          "code": "GHA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gf": 1,
-          "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 3,
+          "gf": 1,
+          "ga": 0
         },
         {
           "team": "Panama",
-          "code": "PAN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 1,
           "gd": -1,
-          "points": 0
+          "points": 0,
+          "gf": 0,
+          "ga": 1
         },
         {
           "team": "Croatia",
-          "code": "CRO",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gf": 2,
-          "ga": 4,
           "gd": -2,
-          "points": 0
+          "points": 0,
+          "gf": 2,
+          "ga": 4
         }
       ]
     }
@@ -5965,7 +5917,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-19",
+      "time": "2026-06-20",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -6024,40 +5976,6 @@
         "zh": {
           "title": "Kone injury is a 'huge loss' - Marsch",
           "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Switzerland's Manzambi scores superb double against Bosnia",
-      "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
-      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "translations": {
-        "es": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "pt": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "fr": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "de": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "ja": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "zh": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
         }
       }
     },
@@ -6166,6 +6084,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Switzerland's Manzambi scores superb double against Bosnia",
+      "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
+      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "translations": {
+        "es": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        },
+        "pt": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        },
+        "fr": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        },
+        "de": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        },
+        "ja": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        },
+        "zh": {
+          "title": "Switzerland's Manzambi scores superb double against Bosnia",
+          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "England hit four in World Cup opener against Croatia",
       "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
       "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
@@ -6194,40 +6146,6 @@
         "zh": {
           "title": "England hit four in World Cup opener against Croatia",
           "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Substitute Rashford guides home England's fourth against Croatia",
-      "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "translations": {
-        "es": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
-        },
-        "pt": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
-        },
-        "fr": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
-        },
-        "de": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
-        },
-        "ja": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
-        },
-        "zh": {
-          "title": "Substitute Rashford guides home England's fourth against Croatia",
-          "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup."
         }
       }
     },
@@ -6298,6 +6216,40 @@
           "summary": "Tunisia have turned to two-time Africa Cup of Nations winner Herve Renard to revive their 2026 World Cup campaign after a disastrous start which saw Sabri Lamouchi sacked after one match."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6307,20 +6259,20 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-19T23:48:57.224Z",
+    "fetchedAt": "2026-06-20T00:18:33.585Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
+    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-19T22:09:23.369Z",
-    "newsItems": 17,
-    "translationQueue": 18,
+    "fetchedAt": "2026-06-20T00:18:26.946Z",
+    "newsItems": 16,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (56) The requested URL returned error: 404\n"
       }
     ]
   }

@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-06-19T21:16:39.077Z",
+  "fetchedAt": "2026-06-20T00:18:33.585Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -623,8 +623,8 @@
       "id": "29",
       "home_team_id": "9",
       "away_team_id": "11",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "null",
+      "away_score": "null",
       "home_scorers": "null",
       "away_scorers": "null",
       "group": "C",
@@ -646,16 +646,16 @@
       "home_team_id": "12",
       "away_team_id": "10",
       "home_score": "0",
-      "away_score": "0",
+      "away_score": "1",
       "home_scorers": "null",
-      "away_scorers": "null",
+      "away_scorers": "{\"Asmaail Saibari 2'\"}",
       "group": "C",
       "matchday": "2",
       "local_date": "06/19/2026 18:00",
       "persian_date": "1405-03-29 18:00",
       "stadium_id": "9",
-      "finished": "FALSE",
-      "time_elapsed": "notstarted",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "group",
       "home_team_name_en": "Scotland",
       "home_team_name_fa": "اسکاتلند",
@@ -689,8 +689,8 @@
       "id": "32",
       "home_team_id": "16",
       "away_team_id": "14",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "null",
+      "away_score": "null",
       "home_scorers": "null",
       "away_scorers": "null",
       "group": "D",
@@ -2796,6 +2796,30 @@
       "name": "C",
       "teams": [
         {
+          "team_id": "10",
+          "mp": "2",
+          "w": "1",
+          "l": "0",
+          "d": "1",
+          "pts": "4",
+          "gf": "2",
+          "ga": "1",
+          "gd": "1",
+          "_id": "698985a46e8cb0bf61b5ac82"
+        },
+        {
+          "team_id": "12",
+          "mp": "2",
+          "w": "1",
+          "l": "1",
+          "d": "0",
+          "pts": "3",
+          "gf": "1",
+          "ga": "1",
+          "gd": "0",
+          "_id": "698985a46e8cb0bf61b5ac84"
+        },
+        {
           "team_id": "9",
           "mp": "1",
           "w": "0",
@@ -2808,18 +2832,6 @@
           "_id": "698985a46e8cb0bf61b5ac81"
         },
         {
-          "team_id": "10",
-          "mp": "1",
-          "w": "0",
-          "l": "0",
-          "d": "1",
-          "pts": "1",
-          "gf": "1",
-          "ga": "1",
-          "gd": "0",
-          "_id": "698985a46e8cb0bf61b5ac82"
-        },
-        {
           "team_id": "11",
           "mp": "1",
           "w": "0",
@@ -2830,22 +2842,11 @@
           "ga": "1",
           "gd": "-1",
           "_id": "698985a46e8cb0bf61b5ac83"
-        },
-        {
-          "team_id": "12",
-          "mp": "1",
-          "w": "1",
-          "l": "0",
-          "d": "0",
-          "pts": "3",
-          "gf": "1",
-          "ga": "0",
-          "gd": "1",
-          "_id": "698985a46e8cb0bf61b5ac84"
         }
       ],
       "createdAt": "2026-02-09T06:58:44.360Z",
-      "__v": 0
+      "__v": 0,
+      "updatedAt": "2026-06-20T00:00:50.149Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5acaa",
