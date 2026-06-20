@@ -5948,40 +5948,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Why are so many World Cup goals being scored late?",
-      "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
-      "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "translations": {
-        "es": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "pt": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "fr": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "de": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "ja": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "zh": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "World Cup first sees Almiron sent off for covering mouth",
       "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
       "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
@@ -6152,6 +6118,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Why are so many World Cup goals being scored late?",
+      "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
+      "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "translations": {
+        "es": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        },
+        "pt": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        },
+        "fr": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        },
+        "de": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        },
+        "ja": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        },
+        "zh": {
+          "title": "Why are so many World Cup goals being scored late?",
+          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Kone injury is a 'huge loss' - Marsch",
       "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
       "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-20T14:16:36.764Z",
+    "fetchedAt": "2026-06-20T16:23:59.178Z",
     "newsItems": 17,
-    "translationQueue": 24,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
