@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T19:46:16.170Z",
+  "fetchedAt": "2026-06-20T22:15:03.525Z",
   "errors": [
     {
       "source": "FIFA",
@@ -29,6 +29,16 @@
       "titleHash": "4f45d22f90f14c617f4797cb142556e4"
     },
     {
+      "id": "b19d3e65503b1764ebaebac4853cc502",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+      "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America.",
+      "url": "https://www.bbc.com/sport/videos/c0ly473g3dgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "2bb605a5c0dc6cfc7ee8a3258646f492"
+    },
+    {
       "id": "18600da48ae91aae1a366da5cfc1a56d",
       "source": "BBC",
       "tag": "RSS",
@@ -37,16 +47,6 @@
       "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b"
-    },
-    {
-      "id": "a6386bafa0475e2c4c56e06e698eeece",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -77,6 +77,16 @@
       "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "efe92ac6589737835390982ec82d8c93"
+    },
+    {
+      "id": "a6386bafa0475e2c4c56e06e698eeece",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
