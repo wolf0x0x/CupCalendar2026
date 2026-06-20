@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T04:13:04.888Z",
+  "fetchedAt": "2026-06-20T09:27:48.455Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,34 +19,24 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "ecbf2d17699ef5b504bcfb4e5ddba13f",
-      "source": "ESPN",
+      "id": "b533c4dd41ce16642ec2c6eaf573877d",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "World Cup 2026 Power Rankings after one game: U.S....",
-      "summary": "All 48 teams have played one group game, so let's revisit our Power Rankings. What do our writers and experts think the field of favorites looks like after one week?",
-      "url": "https://www.espn.com/soccer/story/_/id/49094186/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina",
-      "time": "2026-06-19",
-      "titleHash": "cc99e5ec59be21ed7dea300770b3ed23"
+      "title": "World Cup first sees Almiron sent off for covering mouth",
+      "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
+      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "d8858cccc80128713314e8320dd76b15"
     },
     {
-      "id": "ed253267426b910ea7d713d27943ecb4",
-      "source": "ESPN",
+      "id": "4cdef9a6270cd9f83c13d804ada60daa",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Full hearts, empty kegs, can't lose: Scotland's Tartan Army takes over World Cup",
-      "summary": "Scotland's Tartan Army has been one of the stories of the 2026 World Cup so far, drinking its way through Boston and bringing bonhomie, passion and national pride after nearly 30 years away from the tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49096885/scotland-tartan-army-world-cup-boston-haiti-red-sox-fenway-park",
-      "time": "2026-06-18",
-      "titleHash": "7f7c796fb75bffd1b67e4b953200920a"
-    },
-    {
-      "id": "730fa9338baa847c3a294efff44ea485",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup: England's ...",
-      "summary": "Odds for all 48 teams to advance from their group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-18",
-      "titleHash": "bd0c254e907633cbb2a92af9689d8fd6"
+      "title": "White House in talks over Iran travel restrictions",
+      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb"
     },
     {
       "id": "18600da48ae91aae1a366da5cfc1a56d",
@@ -57,6 +47,16 @@
       "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b"
+    },
+    {
+      "id": "a6386bafa0475e2c4c56e06e698eeece",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
@@ -97,16 +97,6 @@
       "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-18",
       "titleHash": "e2a701d376bbb91256f494e933355e09"
-    },
-    {
-      "id": "0bef12a3d72f6e85a17d95cf6980da7c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "England hit four in World Cup opener against Croatia",
-      "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
-      "titleHash": "53b383dd8dbcf2c185f1b5af3e1039d9"
     },
     {
       "id": "34b7ba7b308c6ad94413539b4d48747e",
@@ -159,24 +149,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "bdd0cbd90568ce8fc557874e9cbfd023",
+      "id": "d9cc2b2541c1bf8e37f58b4810a35ca6",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Turkey v Paraguay: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
+      "title": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
+      "summary": "<p>⚽ All the latest news from day nine of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Email us</a></p><p><strong>One of the biggest gripes</strong> about the World Cup so far has been the <s>advert</s> hydration breaks, but Emma Hayes, from a coach’s perspective, has a more mixed view:</p><p>I’m not a fan of the hydration breaks that have been introduced at this <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>, but they’re here for now and it is fascinating from a coaching perspective because the momentum has swung straight after several hydration breaks. That could suggest coach involvement has helped teams to tweak things.</p><p>Turning the game into four quarters – it felt inevitable it was going to head in that direction, and I hope it doesn’t carry on going in that direction. I don’t like it, but let me also be clear – when it’s hot, you really need it, for health and safety. So put yourself in Fifa’s shoes. If you only have drinks breaks in the hot cities you could be accused of giving certain teams an advantage with a chance for a tactical discussion over, say, a team playing in Seattle, where it’s cooler. Imagine turning around and saying: “We’ll only have VAR in some of the stadiums, not all.” You’re either going to have it or you’re not going to have it.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
       "time": "2026-06-20",
-      "titleHash": "fd913632fc2aea4a726423975912659c"
-    },
-    {
-      "id": "529cba87b175fe7932bc26600d2beada",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-      "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
-      "time": "2026-06-19",
-      "titleHash": "ca60707f55e407012e560acc3e20a995"
+      "titleHash": "33ece685993a5a9f2f496a84055d02d9"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
@@ -187,6 +167,26 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
+    },
+    {
+      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Golden Boot: World Cup 2026 top goalscorers",
+      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+      "time": "2026-06-18",
+      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
+    },
+    {
+      "id": "4079ac933753ca86bb11cc4ddfd2d527",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Cold War Steve on … the arrival of the World Cup superheroes",
+      "summary": "<p><strong>The second in a special series of World Cup 2026 themed collages made for the Guardian </strong><a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\"><strong>by the celebrated satirist</strong></a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jun/20/cold-war-steve-on-the-arrival-of-the-world-cup-superheroes\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/picture/2026/jun/20/cold-war-steve-on-the-arrival-of-the-world-cup-superheroes",
+      "time": "2026-06-20",
+      "titleHash": "2f7c0e361cab42d7eb20aa73551a5937"
     }
   ]
 }
