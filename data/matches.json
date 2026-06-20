@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-20T03:50:10.293Z",
+  "syncedAt": "2026-06-20T07:51:52.469Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -608,8 +608,8 @@
       "homeScore": 0,
       "awayScore": 1,
       "score": "0 - 1",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "15",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1489,14 +1489,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-79",
+      "id": "mexico-tbd-79",
       "sourceId": "79",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-30",
       "time": "19:00",
-      "home": "TBD",
+      "home": "Mexico",
       "away": "TBD",
       "homeScore": 0,
       "awayScore": 0,
@@ -1527,14 +1527,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-81",
+      "id": "united-states-tbd-81",
       "sourceId": "81",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-07-01",
       "time": "17:00",
-      "home": "TBD",
+      "home": "United States",
       "away": "TBD",
       "homeScore": 0,
       "awayScore": 0,

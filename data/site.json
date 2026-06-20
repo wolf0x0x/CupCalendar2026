@@ -725,9 +725,9 @@
       "homeCode": "TUR",
       "awayCode": "PAR",
       "score": "0 - 1",
-      "status": "live",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Los_Angeles",
       "timezoneLabel": "UTC-7",
@@ -1762,26 +1762,26 @@
           "points": 3
         },
         {
-          "team": "Türkiye",
-          "code": "TUR",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gf": 0,
-          "ga": 2,
-          "gd": -2,
-          "points": 0
-        },
-        {
           "team": "Paraguay",
           "code": "PAR",
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 1,
+          "gf": 2,
           "ga": 4,
+          "gd": -2,
+          "points": 3
+        },
+        {
+          "team": "Türkiye",
+          "code": "TUR",
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 0,
+          "ga": 3,
           "gd": -3,
           "points": 0
         }
@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-20T03:50:10.293Z",
+    "fetchedAt": "2026-06-20T07:51:52.469Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
