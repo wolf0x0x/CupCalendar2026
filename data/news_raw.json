@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T09:27:48.455Z",
+  "fetchedAt": "2026-06-20T14:16:36.747Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,16 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "cf9f42a8eff5dc716878beebe9965fa4",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why are so many World Cup goals being scored late?",
+      "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
+      "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "efe92ac6589737835390982ec82d8c93"
+    },
+    {
       "id": "b533c4dd41ce16642ec2c6eaf573877d",
       "source": "BBC",
       "tag": "RSS",
@@ -27,16 +37,6 @@
       "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "d8858cccc80128713314e8320dd76b15"
-    },
-    {
-      "id": "4cdef9a6270cd9f83c13d804ada60daa",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "White House in talks over Iran travel restrictions",
-      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb"
     },
     {
       "id": "18600da48ae91aae1a366da5cfc1a56d",
@@ -59,6 +59,16 @@
       "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
+      "id": "4cdef9a6270cd9f83c13d804ada60daa",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "White House in talks over Iran travel restrictions",
+      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb"
+    },
+    {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
       "source": "BBC",
       "tag": "RSS",
@@ -67,16 +77,6 @@
       "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-06",
       "titleHash": "69b61b06a7ade637c68b32a288389828"
-    },
-    {
-      "id": "282b69683cc5228a9c6a8dd3e09b91ec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Sutton's World Cup score predictions - second group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6"
     },
     {
       "id": "6611f9d3c0708282b171a790f937f805",
@@ -99,24 +99,14 @@
       "titleHash": "e2a701d376bbb91256f494e933355e09"
     },
     {
-      "id": "34b7ba7b308c6ad94413539b4d48747e",
+      "id": "282b69683cc5228a9c6a8dd3e09b91ec",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "titleHash": "2fa5e1b660c08e69e7c088db7418c493"
-    },
-    {
-      "id": "f981c40100790f5f374387618a5c4588",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-      "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
-      "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "titleHash": "ff1a79b263ed1fa86663bc842aff8e48"
+      "title": "Sutton's World Cup score predictions - second group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-18",
+      "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6"
     },
     {
       "id": "76d6a14bf784f8d193608ac054e65e33",
@@ -149,14 +139,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "d9cc2b2541c1bf8e37f58b4810a35ca6",
+      "id": "3dc9d028d62207431c3946eaf15028df",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Scotland fall flat; USA into knockouts; Turkey’s tears and Almíron’s red for covering mouth – live",
-      "summary": "<p>⚽ All the latest news from day nine of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Email us</a></p><p><strong>One of the biggest gripes</strong> about the World Cup so far has been the <s>advert</s> hydration breaks, but Emma Hayes, from a coach’s perspective, has a more mixed view:</p><p>I’m not a fan of the hydration breaks that have been introduced at this <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>, but they’re here for now and it is fascinating from a coaching perspective because the momentum has swung straight after several hydration breaks. That could suggest coach involvement has helped teams to tweak things.</p><p>Turning the game into four quarters – it felt inevitable it was going to head in that direction, and I hope it doesn’t carry on going in that direction. I don’t like it, but let me also be clear – when it’s hot, you really need it, for health and safety. So put yourself in Fifa’s shoes. If you only have drinks breaks in the hot cities you could be accused of giving certain teams an advantage with a chance for a tactical discussion over, say, a team playing in Seattle, where it’s cooler. Imagine turning around and saying: “We’ll only have VAR in some of the stadiums, not all.” You’re either going to have it or you’re not going to have it.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan\">Continue reading...</a>",
+      "title": "World Cup 2026: USA’s ‘high IQ’ squad backed to handle hype; Almíron’s historic red; Sweden’s Dutch test– live",
+      "summary": "<p>⚽ All the latest news from day nine of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Email us</a></p><p><strong>On this day in <s>World Cup</s> Euros history</strong>: 1976 – Antonin Panenka won the final for Czechoslovakia with the most famous penalty of all time. And 50 years on, he sat down with Gavin Newsham for a good long chat:</p><p>Antonin Panenka laughs like a bear might, a low rumble, suggesting mischief among the memories. He is sat in an office at Bohemians football club in Prague, recounting the story of his <a href=\"https://www.uefa.com/uefaeuro/history/video/025a-0eb0b5a588e0-4bf13b9a4a50-1000--watch-every-panenka-penalty-at-euro/\">impudent, revolutionary penalty</a> that not only won the 1976 European Championship for Czechoslovakia against West Germany but soured his relationship with the goalkeeper his spot-kick humiliated, Sepp Maier. “He went 35 years without uttering a single word to me,” he smiles.</p><p>But the feud went much deeper. “I read some articles that he even had a shooting target in his garage with my face on it that he used to fire darts at. We get on well enough now though.”</p><p>I’m not a fan of the hydration breaks that have been introduced at this <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a>, but they’re here for now and it is fascinating from a coaching perspective because the momentum has swung straight after several hydration breaks. That could suggest coach involvement has helped teams to tweak things.</p><p>Turning the game into four quarters – it felt inevitable it was going to head in that direction, and I hope it doesn’t carry on going in that direction. I don’t like it, but let me also be clear – when it’s hot, you really need it, for health and safety. So put yourself in Fifa’s shoes. If you only have drinks breaks in the hot cities you could be accused of giving certain teams an advantage with a chance for a tactical discussion over, say, a team playing in Seattle, where it’s cooler. Imagine turning around and saying: “We’ll only have VAR in some of the stadiums, not all.” You’re either going to have it or you’re not going to have it.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/20/world-cup-2026-scotland-morocco-usa-australia-netherlands-sweden-germany-cote-d-ivoire-ecuador-curacao-tunisia-japan",
       "time": "2026-06-20",
-      "titleHash": "33ece685993a5a9f2f496a84055d02d9"
+      "titleHash": "49a7b2b266b9d247560299b615ddb1b3"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
