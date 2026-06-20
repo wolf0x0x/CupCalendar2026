@@ -1,86 +1,128 @@
 [
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
     "lang": "es",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "World Cup first as Almiron sent off for covering mouth",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.176Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
+    "lang": "pt",
+    "source": "World Cup first as Almiron sent off for covering mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.176Z"
+  },
+  {
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
+    "lang": "fr",
+    "source": "World Cup first as Almiron sent off for covering mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.176Z"
+  },
+  {
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
+    "lang": "de",
+    "source": "World Cup first as Almiron sent off for covering mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.176Z"
+  },
+  {
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
+    "lang": "ja",
+    "source": "World Cup first as Almiron sent off for covering mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.176Z"
+  },
+  {
+    "hash": "165bb3fea4823de6715c9524fbdf7174",
+    "lang": "zh",
+    "source": "World Cup first as Almiron sent off for covering mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.176Z"
+  },
+  {
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "es",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
+    "lang": "es",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-20T19:46:16.177Z"
+  },
+  {
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "pt",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
     "lang": "pt",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "fr",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
     "lang": "fr",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.168Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "de",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
     "lang": "de",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "ja",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
     "lang": "ja",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "7409be82e143457b18c59f71623f8b4e",
+    "hash": "f17cd931bda94d4d6467e690624663dd",
     "lang": "zh",
-    "source": "Netherlands v Sweden: World Cup 2026 – live",
+    "source": "Germany v Côte d’Ivoire: World Cup 2026 – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   },
   {
-    "hash": "e9a8408d47c19b74a899a2f80c28bf78",
+    "hash": "2dc1b363910604c39d4b61458cf23163",
     "lang": "zh",
-    "source": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+    "source": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-20T16:23:59.169Z"
+    "queued_at": "2026-06-20T19:46:16.177Z"
   }
 ]

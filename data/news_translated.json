@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T16:23:59.169Z",
+  "fetchedAt": "2026-06-20T19:46:16.177Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,37 +38,37 @@
       }
     },
     {
-      "id": "b533c4dd41ce16642ec2c6eaf573877d",
+      "id": "9891bf60a635537d19fdac6e86851558",
       "source": "BBC",
       "tag": "RSS",
-      "title": "World Cup first sees Almiron sent off for covering mouth",
+      "title": "World Cup first as Almiron sent off for covering mouth",
       "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
       "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
-      "titleHash": "d8858cccc80128713314e8320dd76b15",
+      "titleHash": "4f45d22f90f14c617f4797cb142556e4",
       "translations": {
         "es": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "pt": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "fr": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "de": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "ja": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "zh": {
-          "title": "World Cup first sees Almiron sent off for covering mouth",
+          "title": "World Cup first as Almiron sent off for covering mouth",
           "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         }
       }
@@ -146,42 +146,6 @@
       }
     },
     {
-      "id": "4cdef9a6270cd9f83c13d804ada60daa",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "White House in talks over Iran travel restrictions",
-      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb",
-      "translations": {
-        "es": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        },
-        "de": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "White House in talks over Iran travel restrictions",
-          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
-        }
-      }
-    },
-    {
       "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
       "source": "BBC",
       "tag": "RSS",
@@ -218,6 +182,42 @@
       }
     },
     {
+      "id": "4cdef9a6270cd9f83c13d804ada60daa",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "White House in talks over Iran travel restrictions",
+      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb",
+      "translations": {
+        "es": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        },
+        "de": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+        }
+      }
+    },
+    {
       "id": "cf9f42a8eff5dc716878beebe9965fa4",
       "source": "BBC",
       "tag": "RSS",
@@ -250,78 +250,6 @@
         "zh": {
           "title": "Why are so many World Cup goals being scored late?",
           "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        }
-      }
-    },
-    {
-      "id": "6611f9d3c0708282b171a790f937f805",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Kone injury is a 'huge loss' - Marsch",
-      "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
-      "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "titleHash": "e6646fcd95e6c4f8b48cb66a219ec4a6",
-      "translations": {
-        "es": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        },
-        "pt": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        },
-        "fr": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        },
-        "de": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        },
-        "ja": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        },
-        "zh": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-        }
-      }
-    },
-    {
-      "id": "fdc0ae4b66252eeb188be52ccf5a3fb7",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Switzerland's Manzambi scores superb double against Bosnia",
-      "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
-      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "titleHash": "e2a701d376bbb91256f494e933355e09",
-      "translations": {
-        "es": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "pt": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "fr": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "de": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "ja": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-        },
-        "zh": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
         }
       }
     },
@@ -470,38 +398,38 @@
       }
     },
     {
-      "id": "0e72da1940dd39ec1c6f71425037213b",
+      "id": "2e025a87113a0eca5dae26fbc393c754",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Netherlands v Sweden: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live",
+      "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
       "time": "2026-06-20",
-      "titleHash": "ff9c920a0aea00f860304d317796df4b",
+      "titleHash": "f649c1dc3e2dbff1b453aaf28cc5e679",
       "translations": {
         "es": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Netherlands v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ World Cup kick-off: 1pm ET/6pm BST/3am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Netherlands:</strong> Verbruggen, Dumfries, van Dijk, van Hecke, van de Ven, Gravenberch, de Jong, Reijnders, Malen, Brobbey, Gakpo. <strong>Subs:</strong> Flekken, Roefs, Ake, Geertruida, Hato, Kluivert, Koopmeiners, Lang, Depay, de Roon, Summerville, Til, Weghorst, Wieffer.</p><p><strong>Sweden:</strong> Nordfeldt, Lagerbielke, Hien, Lindelof, Karlstrom, Bernhardsson, Nygren, Ayari, Gudmundsson, Gyokeres, Isak. <strong>Subs:</strong> Zetterstrom, Viktor Johansson, Herman Johansson, Bergvall, Svensson, Elanga, Sema, Ekdal, Starfelt, Svanberg, Smith, Zeneli, Stroud, Nilsson, Ali.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
