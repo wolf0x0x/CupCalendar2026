@@ -745,7 +745,7 @@
       "away": "Sweden",
       "homeCode": "NED",
       "awayCode": "SWE",
-      "score": "0 - 0",
+      "score": "null - null",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -6259,7 +6259,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-20T15:03:44.375Z",
+    "fetchedAt": "2026-06-20T17:01:36.600Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
