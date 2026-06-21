@@ -5982,6 +5982,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "'He's arrived' - Yamal scores the opener for Spain",
+      "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "translations": {
+        "es": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        },
+        "de": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "'He's arrived' - Yamal scores the opener for Spain",
+          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Goalline technology denies Japan goal by fractions",
       "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey.",
       "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
@@ -6216,40 +6250,6 @@
           "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "translations": {
-        "es": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        },
-        "pt": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        },
-        "fr": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        },
-        "de": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        },
-        "ja": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        },
-        "zh": {
-          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-21T14:24:00.288Z",
+    "fetchedAt": "2026-06-21T16:49:11.068Z",
     "newsItems": 19,
-    "translationQueue": 30,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
