@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T02:05:51.894Z",
+  "syncedAt": "2026-06-21T07:09:06.475Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -681,11 +681,11 @@
       "time": "22:00",
       "home": "Tunisia",
       "away": "Japan",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 0,
+      "awayScore": 4,
+      "score": "0 - 4",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "3",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
