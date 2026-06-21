@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T20:25:38.312Z",
+  "syncedAt": "2026-06-21T21:55:36.720Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -326,14 +326,26 @@
         {
           "team": "Iran",
           "code": "IRN",
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
           "gf": 2,
           "ga": 2,
           "gd": 0,
-          "points": 1
+          "points": 2
+        },
+        {
+          "team": "Belgium",
+          "code": "BEL",
+          "played": 2,
+          "won": 0,
+          "drawn": 2,
+          "lost": 0,
+          "gf": 1,
+          "ga": 1,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "New Zealand",
@@ -344,18 +356,6 @@
           "lost": 0,
           "gf": 2,
           "ga": 2,
-          "gd": 0,
-          "points": 1
-        },
-        {
-          "team": "Belgium",
-          "code": "BEL",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
           "gd": 0,
           "points": 1
         },
@@ -377,16 +377,16 @@
       "group": "Group H",
       "rows": [
         {
-          "team": "Saudi Arabia",
-          "code": "SAU",
-          "played": 1,
-          "won": 0,
+          "team": "Spain",
+          "code": "ESP",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
+          "gf": 4,
+          "ga": 0,
+          "gd": 4,
+          "points": 4
         },
         {
           "team": "Uruguay",
@@ -413,15 +413,15 @@
           "points": 1
         },
         {
-          "team": "Spain",
-          "code": "ESP",
-          "played": 1,
+          "team": "Saudi Arabia",
+          "code": "SAU",
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "gf": 0,
-          "ga": 0,
-          "gd": 0,
+          "lost": 1,
+          "gf": 1,
+          "ga": 5,
+          "gd": -4,
           "points": 1
         }
       ]
