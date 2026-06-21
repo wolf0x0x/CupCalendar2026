@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T10:47:12.271Z",
+  "syncedAt": "2026-06-21T13:07:28.477Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1394,14 +1394,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-74",
+      "id": "germany-tbd-74",
       "sourceId": "74",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-29",
       "time": "16:30",
-      "home": "TBD",
+      "home": "Germany",
       "away": "TBD",
       "homeScore": 0,
       "awayScore": 0,
