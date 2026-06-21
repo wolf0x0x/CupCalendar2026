@@ -703,10 +703,10 @@
       "away": "Haiti",
       "homeCode": "BRA",
       "awayCode": "HAI",
-      "score": "null - null",
-      "status": "notstarted",
+      "score": "3 - 0",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/New_York",
       "timezoneLabel": "UTC-4",
@@ -724,10 +724,10 @@
       "away": "Paraguay",
       "homeCode": "TUR",
       "awayCode": "PAR",
-      "score": "null - null",
-      "status": "notstarted",
+      "score": "0 - 1",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Los_Angeles",
       "timezoneLabel": "UTC-7",
@@ -745,10 +745,10 @@
       "away": "Sweden",
       "homeCode": "NED",
       "awayCode": "SWE",
-      "score": "0 - 0",
-      "status": "notstarted",
+      "score": "5 - 1",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -766,10 +766,10 @@
       "away": "Ivory Coast",
       "homeCode": "GER",
       "awayCode": "CIV",
-      "score": "0 - 0",
-      "status": "notstarted",
+      "score": "2 - 1",
+      "status": "Final",
       "network": "FOX",
-      "prediction": "TV: FOX",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/New_York",
       "timezoneLabel": "UTC-4",
@@ -788,9 +788,9 @@
       "homeCode": "ECU",
       "awayCode": "CUW",
       "score": "0 - 0",
-      "status": "notstarted",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -808,10 +808,10 @@
       "away": "Japan",
       "homeCode": "TUN",
       "awayCode": "JPN",
-      "score": "0 - 0",
-      "status": "notstarted",
+      "score": "0 - 4",
+      "status": "Final",
       "network": "FS1",
-      "prediction": "TV: FS1",
+      "prediction": "Final result",
       "ticketUrl": "https://www.fifa.com/tickets",
       "timezone": "America/Chicago",
       "timezoneLabel": "UTC-5",
@@ -1580,47 +1580,51 @@
       "rows": [
         {
           "team": "Mexico",
+          "code": "MEX",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 6,
           "gf": 3,
-          "ga": 0
+          "ga": 0,
+          "gd": 3,
+          "points": 6
         },
         {
           "team": "South Korea",
+          "code": "KOR",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Czechia",
+          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 1,
           "gf": 2,
-          "ga": 3
+          "ga": 3,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "South Africa",
+          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -2,
-          "points": 1,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 1
         }
       ]
     },
@@ -1629,47 +1633,51 @@
       "rows": [
         {
           "team": "Canada",
+          "code": "CAN",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 6,
-          "points": 4,
           "gf": 7,
-          "ga": 1
+          "ga": 1,
+          "gd": 6,
+          "points": 4
         },
         {
           "team": "Switzerland",
+          "code": "SUI",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 3,
-          "points": 4,
           "gf": 5,
-          "ga": 2
+          "ga": 2,
+          "gd": 3,
+          "points": 4
         },
         {
           "team": "Bosnia and Herzegovina",
+          "code": "BIH",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -3,
-          "points": 1,
           "gf": 2,
-          "ga": 5
+          "ga": 5,
+          "gd": -3,
+          "points": 1
         },
         {
           "team": "Qatar",
+          "code": "QAT",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -6,
-          "points": 1,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 1
         }
       ]
     },
@@ -1677,48 +1685,52 @@
       "group": "Group C",
       "rows": [
         {
-          "team": "Morocco",
+          "team": "Brazil",
+          "code": "BRA",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 1,
-          "points": 4,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 4
+        },
+        {
+          "team": "Morocco",
+          "code": "MAR",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
           "gf": 2,
-          "ga": 1
+          "ga": 1,
+          "gd": 1,
+          "points": 4
         },
         {
           "team": "Scotland",
+          "code": "SCO",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 1,
-          "ga": 1
-        },
-        {
-          "team": "Brazil",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
+          "ga": 1,
           "gd": 0,
-          "points": 1,
-          "gf": 1,
-          "ga": 1
+          "points": 3
         },
         {
           "team": "Haiti",
-          "played": 1,
+          "code": "HAI",
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "gd": -1,
-          "points": 0,
+          "lost": 2,
           "gf": 0,
-          "ga": 1
+          "ga": 4,
+          "gd": -4,
+          "points": 0
         }
       ]
     },
@@ -1727,47 +1739,51 @@
       "rows": [
         {
           "team": "United States",
+          "code": "USA",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 5,
-          "points": 6,
           "gf": 6,
-          "ga": 1
+          "ga": 1,
+          "gd": 5,
+          "points": 6
         },
         {
           "team": "Australia",
+          "code": "AUS",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 2,
-          "ga": 2
-        },
-        {
-          "team": "Türkiye",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gd": -2,
-          "points": 0,
-          "gf": 0,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Paraguay",
-          "played": 1,
-          "won": 0,
+          "code": "PAR",
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
+          "gf": 2,
+          "ga": 4,
+          "gd": -2,
+          "points": 3
+        },
+        {
+          "team": "Türkiye",
+          "code": "TUR",
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 0,
+          "ga": 3,
           "gd": -3,
-          "points": 0,
-          "gf": 1,
-          "ga": 4
+          "points": 0
         }
       ]
     },
@@ -1776,47 +1792,51 @@
       "rows": [
         {
           "team": "Germany",
-          "played": 1,
-          "won": 1,
+          "code": "GER",
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 6,
-          "points": 3,
-          "gf": 7,
-          "ga": 1
+          "gf": 9,
+          "ga": 2,
+          "gd": 7,
+          "points": 6
         },
         {
           "team": "Ivory Coast",
-          "played": 1,
+          "code": "CIV",
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "gd": 1,
-          "points": 3,
-          "gf": 1,
-          "ga": 0
+          "lost": 1,
+          "gf": 2,
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Ecuador",
-          "played": 1,
+          "code": "ECU",
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 0,
           "gf": 0,
-          "ga": 1
+          "ga": 1,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "Curaçao",
-          "played": 1,
+          "code": "CUW",
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gd": -6,
-          "points": 0,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 1
         }
       ]
     },
@@ -1824,48 +1844,52 @@
       "group": "Group F",
       "rows": [
         {
-          "team": "Sweden",
-          "played": 1,
+          "team": "Netherlands",
+          "code": "NED",
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
+          "gf": 7,
+          "ga": 3,
           "gd": 4,
-          "points": 3,
-          "gf": 5,
-          "ga": 1
+          "points": 4
         },
         {
           "team": "Japan",
-          "played": 1,
-          "won": 0,
+          "code": "JPN",
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
-          "gf": 2,
-          "ga": 2
+          "gf": 6,
+          "ga": 2,
+          "gd": 4,
+          "points": 4
         },
         {
-          "team": "Netherlands",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
+          "team": "Sweden",
+          "code": "SWE",
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
+          "gf": 6,
+          "ga": 6,
           "gd": 0,
-          "points": 1,
-          "gf": 2,
-          "ga": 2
+          "points": 3
         },
         {
           "team": "Tunisia",
-          "played": 1,
+          "code": "TUN",
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "gd": -4,
-          "points": 0,
+          "lost": 2,
           "gf": 1,
-          "ga": 5
+          "ga": 9,
+          "gd": -8,
+          "points": 0
         }
       ]
     },
@@ -1874,47 +1898,51 @@
       "rows": [
         {
           "team": "Iran",
+          "code": "IRN",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "New Zealand",
+          "code": "NZL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Belgium",
+          "code": "BEL",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Egypt",
+          "code": "EGY",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         }
       ]
     },
@@ -1923,47 +1951,51 @@
       "rows": [
         {
           "team": "Saudi Arabia",
+          "code": "SAU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Uruguay",
+          "code": "URU",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Cabo Verde",
+          "code": "CPV",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Spain",
+          "code": "ESP",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 0,
-          "ga": 0
+          "ga": 0,
+          "gd": 0,
+          "points": 1
         }
       ]
     },
@@ -1972,47 +2004,51 @@
       "rows": [
         {
           "team": "Norway",
+          "code": "NOR",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 3,
           "gf": 4,
-          "ga": 1
+          "ga": 1,
+          "gd": 3,
+          "points": 3
         },
         {
           "team": "France",
+          "code": "FRA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 3,
-          "ga": 1
+          "ga": 1,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Senegal",
+          "code": "SEN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 0
         },
         {
           "team": "Iraq",
+          "code": "IRQ",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -3,
-          "points": 0,
           "gf": 1,
-          "ga": 4
+          "ga": 4,
+          "gd": -3,
+          "points": 0
         }
       ]
     },
@@ -2021,47 +2057,51 @@
       "rows": [
         {
           "team": "Argentina",
+          "code": "ARG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 3,
           "gf": 3,
-          "ga": 0
+          "ga": 0,
+          "gd": 3,
+          "points": 3
         },
         {
           "team": "Austria",
+          "code": "AUT",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 3,
-          "ga": 1
+          "ga": 1,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Jordan",
+          "code": "JOR",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 0
         },
         {
           "team": "Algeria",
+          "code": "ALG",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -3,
-          "points": 0,
           "gf": 0,
-          "ga": 3
+          "ga": 3,
+          "gd": -3,
+          "points": 0
         }
       ]
     },
@@ -2070,47 +2110,51 @@
       "rows": [
         {
           "team": "Colombia",
+          "code": "COL",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 3,
-          "ga": 1
+          "ga": 1,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "DR Congo",
+          "code": "COD",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Portugal",
+          "code": "POR",
           "played": 1,
           "won": 0,
           "drawn": 1,
           "lost": 0,
-          "gd": 0,
-          "points": 1,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 1
         },
         {
           "team": "Uzbekistan",
+          "code": "UZB",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 0
         }
       ]
     },
@@ -2119,47 +2163,51 @@
       "rows": [
         {
           "team": "England",
+          "code": "ENG",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 2,
-          "points": 3,
           "gf": 4,
-          "ga": 2
+          "ga": 2,
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Ghana",
+          "code": "GHA",
           "played": 1,
           "won": 1,
           "drawn": 0,
           "lost": 0,
-          "gd": 1,
-          "points": 3,
           "gf": 1,
-          "ga": 0
+          "ga": 0,
+          "gd": 1,
+          "points": 3
         },
         {
           "team": "Panama",
+          "code": "PAN",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -1,
-          "points": 0,
           "gf": 0,
-          "ga": 1
+          "ga": 1,
+          "gd": -1,
+          "points": 0
         },
         {
           "team": "Croatia",
+          "code": "CRO",
           "played": 1,
           "won": 0,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 0,
           "gf": 2,
-          "ga": 4
+          "ga": 4,
+          "gd": -2,
+          "points": 0
         }
       ]
     }
@@ -5917,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-20",
+      "time": "2026-06-21",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5948,34 +5996,102 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Cunha scores twice as Brazil beat Haiti",
-      "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+      "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+      "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
+      "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         },
         "pt": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         },
         "fr": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         },
         "de": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         },
         "ja": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         },
         "zh": {
-          "title": "Cunha scores twice as Brazil beat Haiti",
-          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Goalline technology denies Japan goal by fractions",
+      "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey.",
+      "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "translations": {
+        "es": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        },
+        "pt": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        },
+        "fr": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        },
+        "de": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        },
+        "ja": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        },
+        "zh": {
+          "title": "Goalline technology denies Japan goal by fractions",
+          "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+      "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cx260v333plo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "translations": {
+        "es": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        },
+        "de": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+          "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
         }
       }
     },
@@ -6016,238 +6132,170 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Sutton's World Cup score predictions - second group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
+      "title": "World Cup first as Almiron sent off for covering mouth",
+      "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
+      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "pt": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "fr": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "de": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "ja": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         },
         "zh": {
-          "title": "Sutton's World Cup score predictions - second group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
+          "title": "World Cup first as Almiron sent off for covering mouth",
+          "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Kone injury is a 'huge loss' - Marsch",
-      "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
-      "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
+      "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+      "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America.",
+      "url": "https://www.bbc.com/sport/videos/c0ly473g3dgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         },
         "pt": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         },
         "fr": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         },
         "de": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         },
         "ja": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         },
         "zh": {
-          "title": "Kone injury is a 'huge loss' - Marsch",
-          "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
+          "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+          "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Switzerland's Manzambi scores superb double against Bosnia",
-      "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
-      "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
+      "title": "Cunha scores twice as Brazil beat Haiti",
+      "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         },
         "pt": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         },
         "fr": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         },
         "de": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         },
         "ja": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         },
         "zh": {
-          "title": "Switzerland's Manzambi scores superb double against Bosnia",
-          "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
+          "title": "Cunha scores twice as Brazil beat Haiti",
+          "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "England hit four in World Cup opener against Croatia",
-      "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
-      "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-17",
+      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         },
         "pt": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         },
         "fr": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         },
         "de": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         },
         "ja": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         },
         "zh": {
-          "title": "England hit four in World Cup opener against Croatia",
-          "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
+          "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+          "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Iran to lodge complaint over travel restrictions",
-      "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
+      "title": "White House in talks over Iran travel restrictions",
+      "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
       "translations": {
         "es": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         },
         "pt": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         },
         "fr": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         },
         "de": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         },
         "ja": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         },
         "zh": {
-          "title": "Iran to lodge complaint over travel restrictions",
-          "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-      "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
-      "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-19",
-      "translations": {
-        "es": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        },
-        "pt": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        },
-        "fr": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        },
-        "de": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        },
-        "ja": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        },
-        "zh": {
-          "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-          "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch highlights of World Cup matches",
-      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "pt": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "fr": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "de": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "ja": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "zh": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+          "title": "White House in talks over Iran travel restrictions",
+          "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
         }
       }
     }
@@ -6259,14 +6307,14 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-20T00:18:33.585Z",
+    "fetchedAt": "2026-06-21T10:47:12.271Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
+    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-21T12:27:39.390Z",
-    "newsItems": 16,
+    "fetchedAt": "2026-06-21T12:29:34.891Z",
+    "newsItems": 19,
     "translationQueue": 36,
     "errors": [
       {

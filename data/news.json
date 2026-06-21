@@ -5,7 +5,7 @@
     "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
     "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-    "time": "2026-06-20",
+    "time": "2026-06-21",
     "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
     "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
     "translations": {
@@ -36,38 +36,110 @@
     }
   },
   {
-    "id": "18600da48ae91aae1a366da5cfc1a56d",
+    "id": "0f6b791110da53873cb3b08cceb6f263",
     "source": "BBC",
     "tag": "RSS",
-    "title": "Cunha scores twice as Brazil beat Haiti",
-    "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+    "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+    "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
+    "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
     "time": "2026-06-20",
-    "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b",
+    "titleHash": "66c6e7b133a3047922dab3155d11cff3",
     "translations": {
       "es": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
       },
       "pt": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
       },
       "fr": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
       },
       "de": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
       },
       "ja": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
       },
       "zh": {
-        "title": "Cunha scores twice as Brazil beat Haiti",
-        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+        "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+        "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+      }
+    }
+  },
+  {
+    "id": "1a4f34aa9ce7d5e5b5bea942e6f1acc9",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Goalline technology denies Japan goal by fractions",
+    "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey.",
+    "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-21",
+    "titleHash": "68e7426e0e332b8d1e5dca3aa884d30a",
+    "translations": {
+      "es": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      },
+      "pt": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      },
+      "fr": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      },
+      "de": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      },
+      "ja": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      },
+      "zh": {
+        "title": "Goalline technology denies Japan goal by fractions",
+        "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey."
+      }
+    }
+  },
+  {
+    "id": "a8f3fcfcd8d323ca780e7694592ad845",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+    "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/videos/cx260v333plo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-21",
+    "titleHash": "b79022b83503f8f89ccb5c19c846cfcb",
+    "translations": {
+      "es": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+      },
+      "de": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Japan run riot as Tunisia eliminated in Renard's first game",
+        "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
       }
     }
   },
@@ -108,6 +180,222 @@
     }
   },
   {
+    "id": "9891bf60a635537d19fdac6e86851558",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "World Cup first as Almiron sent off for covering mouth",
+    "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
+    "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "4f45d22f90f14c617f4797cb142556e4",
+    "translations": {
+      "es": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      },
+      "pt": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      },
+      "fr": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      },
+      "de": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      },
+      "ja": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      },
+      "zh": {
+        "title": "World Cup first as Almiron sent off for covering mouth",
+        "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey."
+      }
+    }
+  },
+  {
+    "id": "b19d3e65503b1764ebaebac4853cc502",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+    "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America.",
+    "url": "https://www.bbc.com/sport/videos/c0ly473g3dgo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "2bb605a5c0dc6cfc7ee8a3258646f492",
+    "translations": {
+      "es": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      },
+      "pt": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      },
+      "fr": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      },
+      "de": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      },
+      "ja": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      },
+      "zh": {
+        "title": "Scotland 0-1 Morocco: Unique angles and behind the scenes",
+        "summary": "All the unique angles, and everything the TV cameras didn't show you, from Scotland's 1-0 defeat by Morocco at the 2026 World Cup in North America."
+      }
+    }
+  },
+  {
+    "id": "18600da48ae91aae1a366da5cfc1a56d",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Cunha scores twice as Brazil beat Haiti",
+    "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/videos/cy04ly9rk22o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b",
+    "translations": {
+      "es": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      },
+      "de": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Cunha scores twice as Brazil beat Haiti",
+        "summary": "Manchester United forward Matheus Cunha scores twice as Brazil comfortably beat Haiti - who become the first team to be eliminated from the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "a6386bafa0475e2c4c56e06e698eeece",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+    "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "ad6432960b26f68e8dce9696bbc08d57",
+    "translations": {
+      "es": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      },
+      "pt": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      },
+      "fr": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      },
+      "de": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      },
+      "ja": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      },
+      "zh": {
+        "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+        "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "4cdef9a6270cd9f83c13d804ada60daa",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "White House in talks over Iran travel restrictions",
+    "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup.",
+    "url": "https://www.bbc.com/sport/football/articles/c5yz70gjy3xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "3d26a06c4afa076c20ea9a110bad2dcb",
+    "translations": {
+      "es": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      },
+      "de": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "White House in talks over Iran travel restrictions",
+        "summary": "The White House is considering changing the strict travel restrictions Iran are facing at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "cf9f42a8eff5dc716878beebe9965fa4",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Why are so many World Cup goals being scored late?",
+    "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
+    "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-20",
+    "titleHash": "efe92ac6589737835390982ec82d8c93",
+    "translations": {
+      "es": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      },
+      "pt": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      },
+      "fr": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      },
+      "de": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      },
+      "ja": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      },
+      "zh": {
+        "title": "Why are so many World Cup goals being scored late?",
+        "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
+      }
+    }
+  },
+  {
     "id": "282b69683cc5228a9c6a8dd3e09b91ec",
     "source": "BBC",
     "tag": "RSS",
@@ -140,186 +428,6 @@
       "zh": {
         "title": "Sutton's World Cup score predictions - second group games",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "6611f9d3c0708282b171a790f937f805",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Kone injury is a 'huge loss' - Marsch",
-    "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\".",
-    "url": "https://www.bbc.com/sport/football/videos/ckg0r24xk5wo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-19",
-    "titleHash": "e6646fcd95e6c4f8b48cb66a219ec4a6",
-    "translations": {
-      "es": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      },
-      "pt": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      },
-      "fr": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      },
-      "de": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      },
-      "ja": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      },
-      "zh": {
-        "title": "Kone injury is a 'huge loss' - Marsch",
-        "summary": "Canada coach Jessie Marsch praises his players for their 6-0 win over Qatar at the 2026 World Cup in Vancouver, but says losing Ismael Kone to a serious-looking injury is a \"huge loss\"."
-      }
-    }
-  },
-  {
-    "id": "fdc0ae4b66252eeb188be52ccf5a3fb7",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Switzerland's Manzambi scores superb double against Bosnia",
-    "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles.",
-    "url": "https://www.bbc.com/sport/football/videos/ce3ey2ygl4zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-18",
-    "titleHash": "e2a701d376bbb91256f494e933355e09",
-    "translations": {
-      "es": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      },
-      "pt": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      },
-      "fr": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      },
-      "de": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      },
-      "ja": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      },
-      "zh": {
-        "title": "Switzerland's Manzambi scores superb double against Bosnia",
-        "summary": "20-year-old Johan Manzambi scores twice as Switzerland beat Bosnia in their 2026 World Cup match in Los Angeles."
-      }
-    }
-  },
-  {
-    "id": "0bef12a3d72f6e85a17d95cf6980da7c",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "England hit four in World Cup opener against Croatia",
-    "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas.",
-    "url": "https://www.bbc.com/sport/football/videos/c4gy52zj5peo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-17",
-    "titleHash": "53b383dd8dbcf2c185f1b5af3e1039d9",
-    "translations": {
-      "es": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      },
-      "pt": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      },
-      "fr": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      },
-      "de": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      },
-      "ja": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      },
-      "zh": {
-        "title": "England hit four in World Cup opener against Croatia",
-        "summary": "England make a winning start to their World Cup 2026 campaign, beating Croatia 4-2 in a thrilling match in Dallas."
-      }
-    }
-  },
-  {
-    "id": "34b7ba7b308c6ad94413539b4d48747e",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Iran to lodge complaint over travel restrictions",
-    "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup.",
-    "url": "https://www.bbc.com/sport/football/articles/c4gy62p4e67o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-19",
-    "titleHash": "2fa5e1b660c08e69e7c088db7418c493",
-    "translations": {
-      "es": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "de": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Iran to lodge complaint over travel restrictions",
-        "summary": "Iran are to lodge an official complaint to Fifa about the travel restrictions they are facing at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "f981c40100790f5f374387618a5c4588",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-    "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
-    "url": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-19",
-    "titleHash": "ff1a79b263ed1fa86663bc842aff8e48",
-    "translations": {
-      "es": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-      },
-      "pt": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-      },
-      "fr": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-      },
-      "de": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-      },
-      "ja": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
-      },
-      "zh": {
-        "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
-        "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender"
       }
     }
   },
@@ -432,110 +540,74 @@
     }
   },
   {
-    "id": "bdd0cbd90568ce8fc557874e9cbfd023",
+    "id": "9a7e514bb0c09cf97c48ca9fd57b980b",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Turkey v Paraguay: World Cup 2026 – live",
-    "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest",
-    "time": "2026-06-20",
-    "titleHash": "fd913632fc2aea4a726423975912659c",
+    "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+    "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
+    "time": "2026-06-21",
+    "titleHash": "274f1e79270cc0626e4023d55efdf49e",
     "translations": {
       "es": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       },
       "de": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Turkey v Paraguay: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a></p><p>A surprise start for attacker <strong>Isidro Pitta</strong>, who was so certain he wouldn’t be called up to Paraguay’s squad for the World Cup that he had already booked a holiday to Spain with his family during the tournament.</p><p>Nicknamed ‘Viking’ due to his long hair and big ginger beard, he’s found form at Red Bull Bragantino and is described as “a fighter, a tireless worker and a constant nuisance for opposition defences” in the Guardian’s World Cup player guide.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-turkey-v-paraguay-updates-tur-vs-par-group-d-match-score-latest\">Continue reading...</a>"
+        "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+        "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
       }
     }
   },
   {
-    "id": "34c48513b1302b1528a6d18e045d8719",
+    "id": "5131185b2be1a25d530c558ecb4c73fc",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-    "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest",
-    "time": "2026-06-20",
-    "titleHash": "61ed4b94ac092dd54e190a7fbb6cbbb2",
+    "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+    "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars",
+    "time": "2026-06-21",
+    "titleHash": "57f5bfefe68ef3beaa86269aeb7872d4",
     "translations": {
       "es": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       },
       "de": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Brazil 3-0 Haiti: World Cup 2026 – as it happened",
-        "summary": "<p>A quickfire Matheus Cunha double was added to by Vinícius Júnior as Brazil secured a comfortable win over their Caribbean opponents</p><p>Neymar would probably not even be in North America this summer had <strong>Rodrygo</strong> been fit. Instead the Real Madrid winger is recuperating from an ACL injury by penning thoughtful columns.</p><p>The pressure of wearing the Brazil shirt can be heavy but also creates a positive kind of responsibility. That pressure exists solely because of the greatness of our football, the titles we’ve won, and our historic standing in the sport. The fans’ mood often hinges on the result, which is only natural in a country so used to winning regularly.</p><p>So, as a player you have to realise that a barrage of criticism isn’t the end of the world, just as a massive wave of praise doesn’t mean everything is sorted out and that you will win the tournament. It is crucial to distinguish facts and balanced analysis from comments born of raw emotion and frustration.</p><p>If Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.</p><p>He has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in their <a href=\"https://www.theguardian.com/football/2026/jun/14/brazil-morocco-world-cup-match-report\">draw with Morocco on Saturday</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/fifa-world-cup-2026-live-brazil-v-haiti-updates-bra-vs-hai-group-c-match-score-latest\">Continue reading...</a>"
-      }
-    }
-  },
-  {
-    "id": "529cba87b175fe7932bc26600d2beada",
-    "source": "The Guardian",
-    "tag": "RSS",
-    "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-    "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe",
-    "time": "2026-06-19",
-    "titleHash": "ca60707f55e407012e560acc3e20a995",
-    "translations": {
-      "es": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
-      },
-      "pt": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
-      },
-      "fr": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
-      },
-      "de": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
-      },
-      "ja": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
-      },
-      "zh": {
-        "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
-        "summary": "<p>Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it</p><p>They came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.</p><p>“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”</p> <a href=\"https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe\">Continue reading...</a>"
+        "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+        "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>"
       }
     }
   },
@@ -572,6 +644,42 @@
       "zh": {
         "title": "World Cup 2026: guide to all 1,248 players",
         "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Golden Boot: World Cup 2026 top goalscorers",
+    "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+    "time": "2026-06-18",
+    "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2",
+    "translations": {
+      "es": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Golden Boot: World Cup 2026 top goalscorers",
+        "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
       }
     }
   }
