@@ -871,8 +871,8 @@
       "away": "Cabo Verde",
       "homeCode": "URU",
       "awayCode": "CPV",
-      "score": "- : -",
-      "status": "notstarted",
+      "score": "2 - 1",
+      "status": "live",
       "network": "FS1",
       "prediction": "TV: FS1",
       "ticketUrl": "https://www.fifa.com/tickets",
@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-21T21:55:36.720Z",
+    "fetchedAt": "2026-06-21T23:16:54.304Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },

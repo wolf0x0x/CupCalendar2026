@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T21:55:36.720Z",
+  "syncedAt": "2026-06-21T23:16:54.304Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -757,10 +757,10 @@
       "time": "18:00",
       "home": "Uruguay",
       "away": "Cabo Verde",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": "2 - 1",
+      "status": "live",
       "finished": false,
       "stadiumId": "8",
       "dataSource": "worldcup26.ir",
