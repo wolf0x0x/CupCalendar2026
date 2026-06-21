@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T16:49:11.049Z",
+  "fetchedAt": "2026-06-21T19:51:38.315Z",
   "errors": [
     {
       "source": "FIFA",
@@ -29,14 +29,24 @@
       "titleHash": "c99eda3726c4d16ed0935e5486623e0a"
     },
     {
-      "id": "18807bd1aaba0d0f652091ebb56f6518",
+      "id": "6bf687335c535d796c526c082562c95d",
       "source": "BBC",
       "tag": "RSS",
-      "title": "'He's arrived' - Yamal scores the opener for Spain",
+      "title": "Lamine Yamal is Spain's main man - Rooney analysis",
+      "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/clye4lmd3zzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "titleHash": "c0223a509ca5289d67bdd8e608402b9a"
+    },
+    {
+      "id": "79b8d07c04ccd63bf85d2b3c7d7f71ae",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
       "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup.",
       "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-21",
-      "titleHash": "c3ce5fd7423fc6919971cc817febbfb1"
+      "titleHash": "dae1ca5637a36b28073d152bacd11582"
     },
     {
       "id": "1a4f34aa9ce7d5e5b5bea942e6f1acc9",
@@ -109,16 +119,6 @@
       "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b"
     },
     {
-      "id": "a6386bafa0475e2c4c56e06e698eeece",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
-    },
-    {
       "id": "4cdef9a6270cd9f83c13d804ada60daa",
       "source": "BBC",
       "tag": "RSS",
@@ -169,14 +169,14 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "d6634b05b3407018d11da401d2b78e73",
+      "id": "01b9e6414c77722a3d282c64fc345f3f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Spain v Saudi Arabia: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin.Casual@theguardian.com\">Email John</a></p><p><strong>The Spain coach, Luis De La Fuente</strong> had this to say in his Saturday press conference: “This generation of footballers is highly competitive and really fired up... It’s going to be a completely different story,” he said at his pre-match press conference on Saturday. There is no drama or crisis. The bottom line is simply that we need to win tomorrow.”</p><p><strong>Four changes for Spain:</strong> Lamine Yamal, Pedro Porro, Dani Olmo and Alex Baena also come into the side with Marcos Llorente, Fabian Ruiz, Ferran Torres and Gavi dropping out.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live",
+      "title": "Belgium v Iran: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off: 12pm local time/8pm BST/5am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Email Daniel</a></p><p><strong>Hayes is working tonight and so is Roy Keane – </strong>a happy chance, given the Father’s Day card my buddy Tinny received this morning.</p><p><strong>In the UK, the undoubted star has been the wonderful Emma Hayes. </strong>I remember the first time I heard her co-commentate, many years ago now on BBC radio. Her ability to identify what sets the pattern of a match, simplifying complex tactical plans without being patronising, but making clear she’s the expert and compelling us to listen, is unique.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/belgium-v-iran-world-cup-2026-live",
       "time": "2026-06-21",
-      "titleHash": "fe331b0f31bbc23f5da218dd1caa0e62"
+      "titleHash": "3b34caa2211d6ed6e4529ba0323ad435"
     },
     {
       "id": "5131185b2be1a25d530c558ecb4c73fc",
@@ -187,16 +187,6 @@
       "url": "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars",
       "time": "2026-06-21",
       "titleHash": "57f5bfefe68ef3beaa86269aeb7872d4"
-    },
-    {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-06-04",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     }
   ]
 }
