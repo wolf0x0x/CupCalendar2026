@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T12:29:34.882Z",
+  "fetchedAt": "2026-06-21T14:24:00.276Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,38 +38,38 @@
       }
     },
     {
-      "id": "0f6b791110da53873cb3b08cceb6f263",
+      "id": "eabc96122917e047bd837dab52ef40cd",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-      "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
-      "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "66c6e7b133a3047922dab3155d11cff3",
+      "title": "The World Cup records that look set to be broken",
+      "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
+      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "titleHash": "c99eda3726c4d16ed0935e5486623e0a",
       "translations": {
         "es": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         },
         "pt": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         },
         "fr": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         },
         "de": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         },
         "ja": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         },
         "zh": {
-          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
-          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+          "title": "The World Cup records that look set to be broken",
+          "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
         }
       }
     },
@@ -142,6 +142,42 @@
         "zh": {
           "title": "Japan run riot as Tunisia eliminated in Renard's first game",
           "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "0f6b791110da53873cb3b08cceb6f263",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+      "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
+      "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "66c6e7b133a3047922dab3155d11cff3",
+      "translations": {
+        "es": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        },
+        "pt": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        },
+        "fr": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        },
+        "de": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        },
+        "ja": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
+        },
+        "zh": {
+          "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+          "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?"
         }
       }
     },
@@ -362,42 +398,6 @@
       }
     },
     {
-      "id": "cf9f42a8eff5dc716878beebe9965fa4",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why are so many World Cup goals being scored late?",
-      "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches",
-      "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "efe92ac6589737835390982ec82d8c93",
-      "translations": {
-        "es": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "pt": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "fr": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "de": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "ja": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        },
-        "zh": {
-          "title": "Why are so many World Cup goals being scored late?",
-          "summary": "World Cup 2026 is witnessing a surge in late goals. Longer stoppage times, tactical substitutions and hydration breaks are reshaping matches"
-        }
-      }
-    },
-    {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
       "source": "BBC",
       "tag": "RSS",
@@ -542,37 +542,73 @@
       }
     },
     {
-      "id": "9a7e514bb0c09cf97c48ca9fd57b980b",
+      "id": "d6634b05b3407018d11da401d2b78e73",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+      "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live",
+      "time": "2026-06-21",
+      "titleHash": "fe331b0f31bbc23f5da218dd1caa0e62",
+      "translations": {
+        "es": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Spain v Saudi Arabia: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off: 12pm local time/5pm BST/2am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a></p><p><strong>Can Saudi Arabia repeat the magic of 2022?</strong></p><p>Argentina arrived in Qatar on a 36-game unbeaten run. When Lionel Messi opened the scoring from the penalty spot after 10 minutes, a comfortable afternoon seemed in the offing. Saleh al-Shehri and Salem al-Dawsari had other ideas, Argentina had three goals disallowed for offside in the space of 13 minutes and the greatest comeback in Saudi Arabia football history was made. Argentina went on to lift the trophy, while defeats to Poland and Mexico meant the Saudis did not reach the knock-out stage.</p><p>“Those at the Champions League final had a few more days, so I got there on the Wednesday night,” Raya says. “I arrived a bit before Fabián [Ruiz]. I was saying hello to some of the others in reception when he arrived. I went to say congratulations; that was almost the first thing I did. I couldn’t really talk [to him] after the final; I just didn’t have it in me. The next day we talked about the game properly. Just two mates chatting … I was happy for him that he could lift the trophy for a second time.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/spain-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "c5d6c235ffc158c02554cc9f4c37b823",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
       "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt",
       "time": "2026-06-21",
-      "titleHash": "274f1e79270cc0626e4023d55efdf49e",
+      "titleHash": "47af2080c41729558159160523a160d5",
       "translations": {
         "es": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: Infantino criticised over private jet use; Curaçao secure historic point – live",
+          "title": "World Cup 2026: Egypt manager denies Salah rift; Spain screening scrapped due to Madrid heat – live",
           "summary": "<p>⚽ All the latest news from day 10 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>World Cup team of the tournament so far:</strong> John Brewin, Marcus Christenson and I have compiled some of the best performers of the opening 10 days … with one rule – no superstars.</p><p>Move over Messi, Mbappé and Haaland – this is about Laryea, Just and Quiñones:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/world-cup-news-live-curacao-iran-spain-saudi-arabia-belgium-cape-verde-uruguay-new-zealand-egypt\">Continue reading...</a>"
         }
       }
@@ -646,42 +682,6 @@
         "zh": {
           "title": "World Cup 2026: guide to all 1,248 players",
           "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Golden Boot: World Cup 2026 top goalscorers",
-      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
-      "time": "2026-06-18",
-      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2",
-      "translations": {
-        "es": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
         }
       }
     }
