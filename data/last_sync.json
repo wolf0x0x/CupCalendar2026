@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-06-21T18:51:52.931Z",
-  "syncedAt": "2026-06-21T18:51:52.931Z",
+  "checkedAt": "2026-06-21T19:32:46.047Z",
+  "syncedAt": "2026-06-21T19:32:46.047Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -56,6 +56,7 @@
       "priority": 1,
       "ok": true,
       "source": "https://worldcup26.ir/get/games",
+      "fetchedAt": "2026-06-21T19:33:02.510Z",
       "fetched": 104,
       "finishedMatches": 36,
       "finishedGroups": [
@@ -72,7 +73,8 @@
         "Group K",
         "Group L"
       ],
-      "latestFinishedDate": "2026-06-20"
+      "latestFinishedDate": "2026-06-20",
+      "usedCachedSnapshot": false
     },
     {
       "name": "football-data.org",

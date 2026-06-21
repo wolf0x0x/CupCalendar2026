@@ -4,6 +4,7 @@ import path from "node:path";
 const root = process.cwd();
 const dataDir = path.join(root, "data");
 const sitePath = path.join(dataDir, "site.json");
+const apiSnapshotPath = path.join(dataDir, "api-snapshot.json");
 const matchesPath = path.join(dataDir, "matches.json");
 const standingsPath = path.join(dataDir, "standings.json");
 const lastSyncPath = path.join(dataDir, "last_sync.json");
@@ -133,14 +134,29 @@ function normalizeFootballDataMatch(match) {
 }
 
 async function fetchWorldcup26() {
-  const payload = await fetchJson(`${worldcup26Base}/get/games`);
-  const games = unwrap(payload, "games").map(normalizeWorldcup26Game);
-  return {
-    ok: true,
-    source: `${worldcup26Base}/get/games`,
-    fetched: games.length,
-    matches: games
-  };
+  try {
+    const payload = await fetchJson(`${worldcup26Base}/get/games`);
+    const games = unwrap(payload, "games");
+    return {
+      ok: true,
+      source: `${worldcup26Base}/get/games`,
+      fetchedAt: new Date().toISOString(),
+      fetched: games.length,
+      matches: games.map(normalizeWorldcup26Game)
+    };
+  } catch (error) {
+    const snapshot = await readJson(apiSnapshotPath, null);
+    if (!snapshot?.games?.length) throw error;
+    return {
+      ok: true,
+      source: `${worldcup26Base}/get/games`,
+      fetchedAt: snapshot.fetchedAt || null,
+      fetched: snapshot.games.length,
+      matches: snapshot.games.map(normalizeWorldcup26Game),
+      usedCachedSnapshot: true,
+      warning: `Using cached worldcup26 snapshot from ${snapshot.fetchedAt || "unknown time"}: ${error.message}`
+    };
+  }
 }
 
 async function fetchFootballData() {
@@ -373,10 +389,13 @@ sources.push({
   priority: 1,
   ok: primary.ok,
   source: primary.source,
+  fetchedAt: primary.fetchedAt || null,
   fetched: primary.fetched || 0,
   finishedMatches: primaryFinished.length,
   finishedGroups: primaryFinishedGroups,
   latestFinishedDate: primaryLatestFinishedDate,
+  usedCachedSnapshot: primary.usedCachedSnapshot || false,
+  warning: primary.warning,
   error: primary.error
 });
 
