@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-06-21T17:05:10.470Z",
-  "syncedAt": "2026-06-21T17:05:10.470Z",
+  "checkedAt": "2026-06-21T18:51:52.931Z",
+  "syncedAt": "2026-06-21T18:51:52.931Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -13,7 +13,7 @@
     "lastSync": "data/last_sync.json"
   },
   "siteUpdate": {
-    "updatedMatches": 2,
+    "updatedMatches": 0,
     "standingsGroups": 12,
     "note": "data/site.json is updated because the static site build reads this file directly."
   },
