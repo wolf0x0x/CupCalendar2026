@@ -829,7 +829,7 @@
       "away": "Saudi Arabia",
       "homeCode": "ESP",
       "awayCode": "SAU",
-      "score": "- : -",
+      "score": "0 - 0",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -850,7 +850,7 @@
       "away": "Iran",
       "homeCode": "BEL",
       "awayCode": "IRN",
-      "score": "- : -",
+      "score": "0 - 0",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-21T19:32:46.047Z",
+    "fetchedAt": "2026-06-21T20:25:38.312Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
