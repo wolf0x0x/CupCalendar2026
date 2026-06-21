@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T22:15:03.525Z",
+  "fetchedAt": "2026-06-21T04:56:04.639Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,9 +14,19 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-20",
+      "time": "2026-06-21",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "0f6b791110da53873cb3b08cceb6f263",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+      "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
+      "url": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "66c6e7b133a3047922dab3155d11cff3"
     },
     {
       "id": "9891bf60a635537d19fdac6e86851558",
@@ -27,6 +37,16 @@
       "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "4f45d22f90f14c617f4797cb142556e4"
+    },
+    {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828"
     },
     {
       "id": "b19d3e65503b1764ebaebac4853cc502",
@@ -49,14 +69,14 @@
       "titleHash": "2aed0b82b0320eb5b50f6c15009bf65b"
     },
     {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "id": "a6386bafa0475e2c4c56e06e698eeece",
       "source": "BBC",
       "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828"
+      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
+      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-20",
+      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
       "id": "4cdef9a6270cd9f83c13d804ada60daa",
@@ -77,16 +97,6 @@
       "url": "https://www.bbc.com/sport/football/articles/cly9q9nrgdxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-20",
       "titleHash": "efe92ac6589737835390982ec82d8c93"
-    },
-    {
-      "id": "a6386bafa0475e2c4c56e06e698eeece",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "10-man Paraguay knock out Turkey despite Almiron red card",
-      "summary": "Watch highlights as 10-man Paraguay win despite Miguel Almiron's red card, eliminating Turkey from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cm2d45yzm5yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "ad6432960b26f68e8dce9696bbc08d57"
     },
     {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
@@ -129,14 +139,24 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "2e025a87113a0eca5dae26fbc393c754",
+      "id": "ecb94e2316d8b5e1891f10101ded620c",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Germany v Côte d’Ivoire: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 4pm local time/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Email Will</a></p><p><strong>Germany (4-2-3-1):</strong> Neuer; Kimmich, Tah, Schlotterbeck, Brown; Nmecha, Pavlovic; Sane, Musiala, Wirtz; Havertz</p><p><strong>Subs:</strong> Amiri, Anton, Baumann, Beier, Goretzka, Gross, Leweling, Nubel, Ouedraogo, Raum, Rüdiger, Stiller, Thiaw, Undav</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/20/germany-v-cote-divoire-world-cup-2026-live",
-      "time": "2026-06-20",
-      "titleHash": "f649c1dc3e2dbff1b453aaf28cc5e679"
+      "title": "Tunisia v Japan: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 9pm local/2pm AEST/5am BST/12am EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a></p><p>Changes for Japan too with Tomiyasu and Itakura stiffening the back three, and Ito and Tanaka coming into the front three. Kubo misses out through injury and the lively playmaker is a big loss to a side already missing Minamino and Mitoma.</p><p>Expect the same 3-4-3 structure that has served Moriyasu well in recent months as he has built Japan from a side capable of dominating Asia to one equipped to handle the rest of the world.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/21/fifa-world-cup-2026-live-tunisia-v-japan-updates-tun-vs-jpn-group-f-match-score-latest",
+      "time": "2026-06-21",
+      "titleHash": "5871e607b19c685db2dcb83d68aab498"
+    },
+    {
+      "id": "5131185b2be1a25d530c558ecb4c73fc",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
+      "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente, denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to him being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of House Democratic leader Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars",
+      "time": "2026-06-21",
+      "titleHash": "57f5bfefe68ef3beaa86269aeb7872d4"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
@@ -157,16 +177,6 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
       "time": "2026-06-18",
       "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
-    },
-    {
-      "id": "4079ac933753ca86bb11cc4ddfd2d527",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Cold War Steve on … the arrival of the World Cup superheroes",
-      "summary": "<p><strong>The second in a special series of World Cup 2026 themed collages made for the Guardian </strong><a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\"><strong>by the celebrated satirist</strong></a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jun/20/cold-war-steve-on-the-arrival-of-the-world-cup-superheroes\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/20/cold-war-steve-on-the-arrival-of-the-world-cup-superheroes",
-      "time": "2026-06-20",
-      "titleHash": "2f7c0e361cab42d7eb20aa73551a5937"
     }
   ]
 }
