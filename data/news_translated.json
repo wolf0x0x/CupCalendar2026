@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T18:50:56.340Z",
+  "fetchedAt": "2026-06-22T22:50:21.664Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,78 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "f84421ab80fab434638480097691712d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Conceição: No obligation to pass ball to Ronaldo",
-      "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49136209/no-obligation-pass-ronaldo-portugal-francisco-conceicao",
-      "time": "2026-06-22",
-      "titleHash": "0bcbf1d2271d320b29b0e0d278c28c84",
-      "translations": {
-        "es": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        },
-        "pt": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        },
-        "fr": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        },
-        "de": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        },
-        "ja": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        },
-        "zh": {
-          "title": "Conceição: No obligation to pass ball to Ronaldo",
-          "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup."
-        }
-      }
-    },
-    {
-      "id": "998f426c6a82cb9a3d7f10670e85c5b4",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-      "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
-      "url": "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
-      "time": "2026-06-22",
-      "titleHash": "ee94c27aac803e7eb96fcbf1b65181cb",
-      "translations": {
-        "es": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
-        },
-        "pt": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
-        },
-        "fr": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
-        },
-        "de": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
-        },
-        "ja": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
-        },
-        "zh": {
-          "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
-          "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway."
         }
       }
     },
@@ -254,42 +182,6 @@
       }
     },
     {
-      "id": "5b4df8ce0631efdface9e0a7a761e4ed",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f",
-      "translations": {
-        "es": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
-          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
-        }
-      }
-    },
-    {
       "id": "a0996d66c6f029f460b72dd826baadd8",
       "source": "BBC",
       "tag": "RSS",
@@ -326,6 +218,42 @@
       }
     },
     {
+      "id": "5b4df8ce0631efdface9e0a7a761e4ed",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f",
+      "translations": {
+        "es": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+          "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup."
+        }
+      }
+    },
+    {
       "id": "81006beba62cfd07892c35a2920a16b4",
       "source": "BBC",
       "tag": "RSS",
@@ -358,78 +286,6 @@
         "zh": {
           "title": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
           "summary": "Cape Verde's Kevin Pina scores the opening goal against Uruguay in their Group H match in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "6bf687335c535d796c526c082562c95d",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-      "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/clye4lmd3zzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "c0223a509ca5289d67bdd8e608402b9a",
-      "translations": {
-        "es": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        },
-        "de": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Lamine Yamal is Spain's main man - Rooney analysis",
-          "summary": "Watch BBC pundits Wayne Rooney, Cesar Azpilicueta, and Thomas Frank give their analysis on Lamine Yamal's performance for Spain against Saudi Arabia in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "79b8d07c04ccd63bf85d2b3c7d7f71ae",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-      "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/c1jyr87472jo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "dae1ca5637a36b28073d152bacd11582",
-      "translations": {
-        "es": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
-        },
-        "de": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'He's arrived' - Lamine Yamal scores the opener for Spain",
-          "summary": "Spain's Lamine Yamal scores the opening goal against Saudi Arabia in their Group H match in the 2026 World Cup."
         }
       }
     },
@@ -650,38 +506,74 @@
       }
     },
     {
-      "id": "9aebe7bc51ddbe5740ddf0242483491f",
+      "id": "68353f60c8d11c4489006c51ebadfdc0",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live",
+      "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates",
       "time": "2026-06-22",
-      "titleHash": "8e29c02aefcf66216755f1c3c2beb4d4",
+      "titleHash": "45bd265f9e58345087056be335ce2d65",
       "translations": {
         "es": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "de": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>"
+          "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
+          "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "099100dd5e7ffd9f68f351571fe616d3",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Norway v Senegal: World Cup 2026 – live",
+      "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live",
+      "time": "2026-06-22",
+      "titleHash": "19a11d93a629fd48bb5a8fbb6fb9dc8e",
+      "translations": {
+        "es": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Norway v Senegal: World Cup 2026 – live",
+          "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
