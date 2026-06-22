@@ -85,9 +85,15 @@ function scoreLabel(homeScore, awayScore) {
 
 function normalizeWorldcup26Game(game) {
   const { date, time } = normalizeLocalDate(game.local_date);
-  const homeScore = game.home_score === "" || game.home_score == null ? null : Number(game.home_score);
-  const awayScore = game.away_score === "" || game.away_score == null ? null : Number(game.away_score);
   const finished = String(game.finished).toUpperCase() === "TRUE";
+  const status = game.time_elapsed || "Scheduled";
+  const hasPlaceholderScore =
+    !finished &&
+    String(status).toLowerCase() === "notstarted" &&
+    Number(game.home_score) === 0 &&
+    Number(game.away_score) === 0;
+  const homeScore = game.home_score === "" || game.home_score == null || hasPlaceholderScore ? null : Number(game.home_score);
+  const awayScore = game.away_score === "" || game.away_score == null || hasPlaceholderScore ? null : Number(game.away_score);
   const home = normalizeTeamName(game.home_team_name_en);
   const away = normalizeTeamName(game.away_team_name_en);
 
@@ -104,7 +110,7 @@ function normalizeWorldcup26Game(game) {
     homeScore,
     awayScore,
     score: scoreLabel(homeScore, awayScore),
-    status: finished ? "Final" : (game.time_elapsed || "Scheduled"),
+    status: finished ? "Final" : status,
     finished,
     stadiumId: String(game.stadium_id ?? ""),
     dataSource: "worldcup26.ir"
@@ -295,7 +301,7 @@ function teamPairKey(home, away) {
   return `${normalizeTeamName(home)}::${normalizeTeamName(away)}`;
 }
 
-function applyScoresToSite(site, matches, standings, syncedAt) {
+function applyScoresToSite(site, matches, standings, sourceFetchedAt) {
   const direct = new Map(site.matches.map((match) => [teamPairKey(match.home, match.away), match]));
   const reversed = new Map(site.matches.map((match) => [teamPairKey(match.away, match.home), match]));
   let updatedMatches = 0;
@@ -344,7 +350,7 @@ function applyScoresToSite(site, matches, standings, syncedAt) {
   site.dataSource = {
     provider: "worldcup26.ir",
     apiBase: worldcup26Base,
-    fetchedAt: syncedAt,
+    fetchedAt: sourceFetchedAt,
     mode: "scores-and-standings",
     note: "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   };
@@ -429,7 +435,7 @@ if (!primary.ok) {
 
 const conflicts = secondary.ok ? validateAgainstSecondary(primary.matches, secondary.matches) : [];
 const standings = standingsFromMatches(primary.matches, site.teams || []);
-const siteUpdatedMatches = applyScoresToSite(site, primary.matches, standings, syncedAt);
+const siteUpdatedMatches = applyScoresToSite(site, primary.matches, standings, primary.fetchedAt || syncedAt);
 
 const matchesPayload = {
   syncedAt,
