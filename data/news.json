@@ -36,42 +36,6 @@
     }
   },
   {
-    "id": "eabc96122917e047bd837dab52ef40cd",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "The World Cup records that look set to be broken",
-    "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-21",
-    "titleHash": "c99eda3726c4d16ed0935e5486623e0a",
-    "translations": {
-      "es": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      },
-      "pt": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      },
-      "fr": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      },
-      "de": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      },
-      "ja": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      },
-      "zh": {
-        "title": "The World Cup records that look set to be broken",
-        "summary": "The 2026 World Cup may only be 10 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
-      }
-    }
-  },
-  {
     "id": "5b4df8ce0631efdface9e0a7a761e4ed",
     "source": "BBC",
     "tag": "RSS",
@@ -144,6 +108,42 @@
     }
   },
   {
+    "id": "eabc96122917e047bd837dab52ef40cd",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "The World Cup records that look set to be broken",
+    "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
+    "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-21",
+    "titleHash": "c99eda3726c4d16ed0935e5486623e0a",
+    "translations": {
+      "es": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      },
+      "pt": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      },
+      "fr": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      },
+      "de": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      },
+      "ja": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      },
+      "zh": {
+        "title": "The World Cup records that look set to be broken",
+        "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be."
+      }
+    }
+  },
+  {
     "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
     "source": "BBC",
     "tag": "RSS",
@@ -176,6 +176,42 @@
       "zh": {
         "title": "How to watch the World Cup on the BBC and ITV",
         "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+      }
+    }
+  },
+  {
+    "id": "7986f5981456d00eb271a74538104a09",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Name the seven Scotland survivors from Clarke's first squad",
+    "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
+    "url": "https://www.bbc.com/sport/football/articles/c05yze49v71o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-22",
+    "titleHash": "ed486867b4cfa2d6ff73420c0631dded",
+    "translations": {
+      "es": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
+      },
+      "pt": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
+      },
+      "fr": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
+      },
+      "de": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
+      },
+      "ja": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
+      },
+      "zh": {
+        "title": "Name the seven Scotland survivors from Clarke's first squad",
+        "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?"
       }
     }
   },
@@ -464,6 +500,42 @@
       "zh": {
         "title": "What are the deadlines for World Cup squads?",
         "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup"
+      }
+    }
+  },
+  {
+    "id": "dc2f903bb2df97ad672417fc58ae0db2",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live",
+    "time": "2026-06-22",
+    "titleHash": "7eb0bc18c9dc4d77c620e9ac7db1687b",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+        "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>"
       }
     }
   },
