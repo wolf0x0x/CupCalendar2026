@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-06-22T21:39:24.244Z",
+  "fetchedAt": "2026-06-22T23:20:30.795Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -909,8 +909,8 @@
       "id": "42",
       "home_team_id": "36",
       "away_team_id": "34",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "null",
+      "away_score": "null",
       "home_scorers": "null",
       "away_scorers": "null",
       "group": "I",
@@ -953,8 +953,8 @@
       "id": "44",
       "home_team_id": "40",
       "away_team_id": "38",
-      "home_score": "0",
-      "away_score": "0",
+      "home_score": "null",
+      "away_score": "null",
       "home_scorers": "null",
       "away_scorers": "null",
       "group": "J",
@@ -2289,7 +2289,7 @@
       ],
       "createdAt": "2026-02-09T06:58:44.378Z",
       "__v": 0,
-      "updatedAt": "2026-06-22T00:06:52.869Z"
+      "updatedAt": "2026-06-22T21:49:03.841Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5aca4",
@@ -2573,7 +2573,7 @@
       ],
       "createdAt": "2026-02-09T06:58:44.374Z",
       "__v": 0,
-      "updatedAt": "2026-06-22T03:05:02.916Z"
+      "updatedAt": "2026-06-22T21:48:50.899Z"
     },
     {
       "_id": "698985a46e8cb0bf61b5ac74",
