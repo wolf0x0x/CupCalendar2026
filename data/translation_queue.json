@@ -1,212 +1,632 @@
 [
   {
-    "hash": "5d8228391f4a2018c72143225707f76f",
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
     "lang": "es",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
+    "queued_at": "2026-06-22T18:50:56.338Z"
   },
   {
-    "hash": "5d8228391f4a2018c72143225707f76f",
-    "lang": "pt",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "5d8228391f4a2018c72143225707f76f",
-    "lang": "fr",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "5d8228391f4a2018c72143225707f76f",
-    "lang": "de",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "5d8228391f4a2018c72143225707f76f",
-    "lang": "ja",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "5d8228391f4a2018c72143225707f76f",
-    "lang": "zh",
-    "source": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
     "lang": "es",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
+    "queued_at": "2026-06-22T18:50:56.338Z"
   },
   {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
+    "lang": "pt",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
+    "lang": "pt",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
+    "lang": "fr",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
+    "lang": "fr",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
+    "lang": "de",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
+    "lang": "de",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
+    "lang": "ja",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
+    "lang": "ja",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "d9a993f896b3edbb058801fd0a9ebec9",
+    "lang": "zh",
+    "source": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.338Z"
+  },
+  {
+    "hash": "cb2d5379ec0825034cb28d6ce4d4aabc",
+    "lang": "zh",
+    "source": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "59984bd16951dde75d6f9d900cf52582",
     "lang": "es",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
-    "lang": "pt",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
-    "lang": "pt",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
-    "lang": "fr",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
-    "lang": "fr",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
-    "lang": "de",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
-    "lang": "de",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
-    "lang": "ja",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
-    "lang": "ja",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "a6e7d3d395869ceb25e1fa34802330f8",
-    "lang": "zh",
-    "source": "Name the seven Scotland survivors from Clarke's first squad",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "9f1ba3277ae0c7c517f39497e37ce3c2",
-    "lang": "zh",
-    "source": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.567Z"
-  },
-  {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "e984b0dacf835b64db53f578a08c9246",
     "lang": "es",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "59984bd16951dde75d6f9d900cf52582",
+    "lang": "pt",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e984b0dacf835b64db53f578a08c9246",
+    "lang": "pt",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "59984bd16951dde75d6f9d900cf52582",
+    "lang": "fr",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e984b0dacf835b64db53f578a08c9246",
+    "lang": "fr",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "59984bd16951dde75d6f9d900cf52582",
+    "lang": "de",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e984b0dacf835b64db53f578a08c9246",
+    "lang": "de",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "59984bd16951dde75d6f9d900cf52582",
+    "lang": "ja",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e984b0dacf835b64db53f578a08c9246",
+    "lang": "ja",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "59984bd16951dde75d6f9d900cf52582",
+    "lang": "zh",
+    "source": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e984b0dacf835b64db53f578a08c9246",
+    "lang": "zh",
+    "source": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "es",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
+    "lang": "es",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "pt",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
     "lang": "pt",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "fr",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
     "lang": "fr",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "de",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
     "lang": "de",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "ja",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
     "lang": "ja",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "42b7bcbddf3f055a757d4b768c2a161a",
+    "hash": "92caaa1ac35e2f5f8ca6f8b210643550",
     "lang": "zh",
-    "source": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
+    "source": "World Cup 'smart' ball is a game changer. Just don...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
   },
   {
-    "hash": "85bf182f801ffc2cb722d4761b6002cc",
+    "hash": "f5a33b2861bdb5e92ab9eb0c956ad2d1",
     "lang": "zh",
-    "source": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
+    "source": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-22T12:15:42.568Z"
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "es",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "es",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "pt",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "pt",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "fr",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "fr",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "de",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "de",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "ja",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "ja",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "d3654694d9dcfed263ee63ec89ef60a3",
+    "lang": "zh",
+    "source": "Every team's odds to win the World Cup",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "e0074052932d7925f75abf4bb8b68bdd",
+    "lang": "zh",
+    "source": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "es",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "pt",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "fr",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "de",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "ja",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6ec9269d09d9af7e549306fe0e6147cc",
+    "lang": "zh",
+    "source": "Where to watch the World Cup on the BBC and ITV",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "es",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "es",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "pt",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "pt",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "fr",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "fr",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "de",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "de",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "ja",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "ja",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "a4f78637a27b9e0517d2ff5570c9b01d",
+    "lang": "zh",
+    "source": "What is BBC's 3D Live Match Experience and how does it work?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "717dfd4b570f026dcd18cb9e7fb517c2",
+    "lang": "zh",
+    "source": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.339Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "es",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "es",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "pt",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "pt",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "fr",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "fr",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "de",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "de",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "ja",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "ja",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "6f09bde1e9070e2455c2d108680ac317",
+    "lang": "zh",
+    "source": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "e87fb26228ef6f64bc6c3a7fa4b6df18",
+    "lang": "zh",
+    "source": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "es",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "es",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "pt",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "pt",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "fr",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "fr",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "de",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "de",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "ja",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "ja",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "c8f6e5d79f3438601950e54c0ad31ae8",
+    "lang": "zh",
+    "source": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
+  },
+  {
+    "hash": "a1f2c3b46f62bf67ef53a622520dbc04",
+    "lang": "zh",
+    "source": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-22T18:50:56.340Z"
   }
 ]

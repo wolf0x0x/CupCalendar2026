@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T12:15:42.560Z",
+  "fetchedAt": "2026-06-22T18:50:56.331Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,66 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "f84421ab80fab434638480097691712d",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Conceição: No obligation to pass ball to Ronaldo",
+      "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49136209/no-obligation-pass-ronaldo-portugal-francisco-conceicao",
+      "time": "2026-06-22",
+      "titleHash": "0bcbf1d2271d320b29b0e0d278c28c84"
+    },
+    {
+      "id": "998f426c6a82cb9a3d7f10670e85c5b4",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily: Crying Belgium fan saved by VAR; ...",
+      "summary": "It's another week of 2026 FIFA World Cup action, and we have some big teams playing today, including Argentina, France and Norway.",
+      "url": "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
+      "time": "2026-06-22",
+      "titleHash": "ee94c27aac803e7eb96fcbf1b65181cb"
+    },
+    {
+      "id": "ec6ce767574a84aa1c57153948879142",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
+      "summary": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
+      "url": "https://www.espn.com/soccer/story/_/id/49141100/salah-stepped-world-cup-2026-proving-no-country-old-men",
+      "time": "2026-06-22",
+      "titleHash": "15af1b28faf93b487c38d7e4571b4527"
+    },
+    {
+      "id": "9e48dc0552980f7044bf6535bd2a3fee",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup 'smart' ball is a game changer. Just don...",
+      "summary": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
+      "url": "https://www.espn.com/soccer/story/_/id/49083534/world-cup-smart-ball-adidas-trionda-charge-balls-sam-borden",
+      "time": "2026-06-22",
+      "titleHash": "8e880e17a7d7ec09af716580be70afbc"
+    },
+    {
+      "id": "a11db67238666871825954654897a86a",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Messi, Haaland, Mbappé, Kane: Who will be the Worl...",
+      "summary": "We're more than a week into the 2026 World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is heating up.",
+      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+      "time": "2026-06-22",
+      "titleHash": "b591af5bb1ebf5f4da87e53566d14573"
+    },
+    {
+      "id": "189c630027f6680da4dbd18d5be93314",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup",
+      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-21",
+      "titleHash": "d49f7f6b73f8db49f441137495245028"
+    },
+    {
       "id": "5b4df8ce0631efdface9e0a7a761e4ed",
       "source": "BBC",
       "tag": "RSS",
@@ -29,6 +89,16 @@
       "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f"
     },
     {
+      "id": "a0996d66c6f029f460b72dd826baadd8",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Where to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "52040334b53d4ca6614391fbba85b301"
+    },
+    {
       "id": "81006beba62cfd07892c35a2920a16b4",
       "source": "BBC",
       "tag": "RSS",
@@ -37,36 +107,6 @@
       "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-21",
       "titleHash": "5173b4c41bdca7f0aeafdfa27e758d3a"
-    },
-    {
-      "id": "eabc96122917e047bd837dab52ef40cd",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "The World Cup records that look set to be broken",
-      "summary": "The 2026 World Cup may only be 11 days old but the tournament has already rewritten football history. BBC Sport takes a look at the records already broken, or set to be.",
-      "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "c99eda3726c4d16ed0935e5486623e0a"
-    },
-    {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828"
-    },
-    {
-      "id": "7986f5981456d00eb271a74538104a09",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Name the seven Scotland survivors from Clarke's first squad",
-      "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-      "url": "https://www.bbc.com/sport/football/articles/c05yze49v71o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-22",
-      "titleHash": "ed486867b4cfa2d6ff73420c0631dded"
     },
     {
       "id": "6bf687335c535d796c526c082562c95d",
@@ -89,24 +129,24 @@
       "titleHash": "dae1ca5637a36b28073d152bacd11582"
     },
     {
-      "id": "1a4f34aa9ce7d5e5b5bea942e6f1acc9",
+      "id": "7986f5981456d00eb271a74538104a09",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Goalline technology denies Japan goal by fractions",
-      "summary": "Tunisia goalkeeper Aymen Dahmen makes an \"unbelievable save\" to prevent Japan from doubling their lead by the finest of margins, in their 2026 World Cup match at Estadio Monterrey.",
-      "url": "https://www.bbc.com/sport/football/videos/cgevqpe33jvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "68e7426e0e332b8d1e5dca3aa884d30a"
+      "title": "Name the seven Scotland survivors from Clarke's first squad",
+      "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
+      "url": "https://www.bbc.com/sport/football/articles/c05yze49v71o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-22",
+      "titleHash": "ed486867b4cfa2d6ff73420c0631dded"
     },
     {
-      "id": "a8f3fcfcd8d323ca780e7694592ad845",
+      "id": "d2a46ef2aa12705de7730e828c6d8835",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Japan run riot as Tunisia eliminated in Renard's first game",
-      "summary": "Ayase Ueda scores twice to help Japan to a thumping 4-0 win, as Herve Renard's first game in charge of Tunisia ends with his side being eliminated from the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cx260v333plo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "b79022b83503f8f89ccb5c19c846cfcb"
+      "title": "What is BBC's 3D Live Match Experience and how does it work?",
+      "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+      "url": "https://www.bbc.com/sport/articles/ckg5lx6d5pxo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-22",
+      "titleHash": "dffd9b1eb57183cd9d0867868ad75826"
     },
     {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
@@ -149,34 +189,24 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "dc2f903bb2df97ad672417fc58ae0db2",
+      "id": "9aebe7bc51ddbe5740ddf0242483491f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Cape Verde’s story continues; L’Équipe apologises to Doku over ‘disgusting’ comments – live",
-      "summary": "<p>⚽ All the latest news from day 11 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Beiranvand, by the way, holds <a href=\"https://www.guinnessworldrecords.com/world-records/680552-farthest-distance%C2%A0throw-of-a-football-soccer-in-a-competetive-match\">the world record for the longest throw in a competitive match</a> – 61.0026m – <a href=\"https://www.guinnessworldrecords.com/world-records/114432-longest-football-soccer-punt-kick\">and for the longest drop-kick</a>, 78.014m.</strong> Not bad for someone who was once sleeping rough.</p><p><strong>But let’s return to Iran for a moment.</strong> Their goalie, Alireza Beiranvand – or “The Wall of Persia” as he’s known – had to run away from home to become a footballer, his old fella less than enchanted by the ruse and cutting up his gloves. I wonder how he feels now his boy has been player of the match at a World Cup.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/world-cup-2026-cape-verde-continue-remarkable-story-messi-mbappe-and-haaland-return-live",
+      "title": "Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off: 12pm local/1pm ET/6pm BST/3am Mon AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:dominic.booth.casual@guardian.co.uk\">Mail Dominic</a></p><p><strong>A Messi-related email has landed</strong> from David Wall:</p><p>I’ve got to take issue with your description of Messi’s hat-trick in the opening game as brilliant. I’ll give you the third was high quality but the other two were pretty much chucked in by the Algerian goalkeeper. It’s the lowest value World Cup hat-trick since Harry Kane’s in 2018 against Panama (one header from about six yards, one penalty, and one that deflected off his heel when he was trying to get out of the way). Add in the fact that he was incredibly fortunate not to be sent off (presumably the VAR trained on footage from one of those old-fashioned all-village kickabouts), and I thought the hype about his performance was massively over the top. If Argentina are going to continue with their approach of tailoring the team to get the most out of Messi (even though Julián Álvarez is a much more effective forward now) then he’ll need to do a lot more than he showed against Algeria if they’re going to retain the trophy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live",
       "time": "2026-06-22",
-      "titleHash": "7eb0bc18c9dc4d77c620e9ac7db1687b"
+      "titleHash": "8e29c02aefcf66216755f1c3c2beb4d4"
     },
     {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "id": "c54ded1c98c97394656d61015dd476ee",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-06-04",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4"
-    },
-    {
-      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Golden Boot: World Cup 2026 top goalscorers",
-      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
-      "time": "2026-06-18",
-      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
+      "title": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
+      "summary": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history",
+      "time": "2026-06-22",
+      "titleHash": "14e860f95586a71d124eb0565dd87661"
     }
   ]
 }
