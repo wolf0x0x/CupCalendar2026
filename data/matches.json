@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T13:18:49.048Z",
+  "syncedAt": "2026-06-22T18:03:44.723Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -814,10 +814,10 @@
       "time": "12:00",
       "home": "Argentina",
       "away": "Austria",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": "1 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
