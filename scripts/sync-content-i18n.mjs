@@ -185,11 +185,13 @@ async function translateWithDeepL(text, targetLang) {
   return payload.translations?.[0]?.text || null;
 }
 
-async function translateText(text, lang, cache, queue) {
+async function translateText(text, lang, cache, queue, options = {}) {
   const key = hashText(text);
-  const now = new Date().toISOString();
+  const now = options.now || new Date().toISOString();
   cache[key] = cache[key] || { hash: key, source: text, translations: {}, last_used: now };
-  cache[key].last_used = now;
+  if (options.touchCache !== false) {
+    cache[key].last_used = now;
+  }
   if (cache[key].translations?.[lang]) return cache[key].translations[lang];
 
   try {
@@ -218,6 +220,8 @@ async function main() {
   await mkdir(dataDir, { recursive: true });
   const feeds = process.env.RSS_SOURCES_JSON ? JSON.parse(process.env.RSS_SOURCES_JSON) : defaultFeeds;
   const previousRaw = await readJson(rawPath, null);
+  const previousTranslated = await readJson(translatedPath, null);
+  const previousSite = await readJson(sitePath, null);
   const previousQueue = await readJson(queuePath, []);
   const fetched = [];
   const errors = [];
@@ -246,17 +250,28 @@ async function main() {
     rawNews.unshift({ ...officialFifaFallback, id: hashText(officialFifaFallback.title), titleHash: hashText(officialFifaFallback.title.toLowerCase()) });
   }
   rawNews.splice(20);
-  await writeFile(rawPath, `${JSON.stringify({ fetchedAt: new Date().toISOString(), errors, items: rawNews }, null, 2)}\n`);
+  const reusedPreservedNews = fetched.length === 0 && Boolean(preservedItems?.length);
+  const rawSyncTimestamp = reusedPreservedNews
+    ? (previousRaw?.fetchedAt || committedRaw?.fetchedAt || new Date().toISOString())
+    : new Date().toISOString();
+  const translatedSyncTimestamp = reusedPreservedNews
+    ? (previousTranslated?.fetchedAt || rawSyncTimestamp)
+    : rawSyncTimestamp;
+  const siteSyncTimestamp = reusedPreservedNews
+    ? (previousSite?.contentSync?.fetchedAt || translatedSyncTimestamp)
+    : rawSyncTimestamp;
+  await writeFile(rawPath, `${JSON.stringify({ fetchedAt: rawSyncTimestamp, errors, items: rawNews }, null, 2)}\n`);
 
   const cache = pruneCache(await readJson(cachePath, {}));
   const queue = [];
   const translated = [];
+  const touchCache = !reusedPreservedNews;
   for (const item of rawNews) {
     const translations = {};
     for (const lang of targetLanguages) {
       translations[lang] = {
-        title: await translateText(item.title, lang, cache, queue),
-        summary: item.summary ? await translateText(item.summary, lang, cache, queue) : ""
+        title: await translateText(item.title, lang, cache, queue, { now: translatedSyncTimestamp, touchCache }),
+        summary: item.summary ? await translateText(item.summary, lang, cache, queue, { now: translatedSyncTimestamp, touchCache }) : ""
       };
     }
     translated.push({ ...item, translations });
@@ -267,12 +282,12 @@ async function main() {
     ? ((previousQueue?.length ? previousQueue : committedQueue) || [])
     : queue;
 
-  await writeFile(translatedPath, `${JSON.stringify({ fetchedAt: new Date().toISOString(), items: translated }, null, 2)}\n`);
+  await writeFile(translatedPath, `${JSON.stringify({ fetchedAt: translatedSyncTimestamp, items: translated }, null, 2)}\n`);
   await writeFile(newsPath, `${JSON.stringify(translated, null, 2)}\n`);
   await writeFile(cachePath, `${JSON.stringify(cache, null, 2)}\n`);
   await writeFile(queuePath, `${JSON.stringify(pendingQueue, null, 2)}\n`);
 
-  const site = await readJson(sitePath, null);
+  const site = previousSite;
   if (site) {
     site.news = translated.slice(0, 10).map((item) => ({
       source: item.source,
@@ -285,7 +300,7 @@ async function main() {
     }));
     site.contentSync = {
       provider: "rss+translation-cache",
-      fetchedAt: new Date().toISOString(),
+      fetchedAt: siteSyncTimestamp,
       newsItems: translated.length,
       translationQueue: pendingQueue.length,
       errors
