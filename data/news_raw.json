@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-21T22:18:36.258Z",
+  "fetchedAt": "2026-06-22T05:03:38.566Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,39 +14,9 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-21",
+      "time": "2026-06-22",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "f84421ab80fab434638480097691712d",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Conceição: No obligation to pass ball to Ronaldo",
-      "summary": "Portugal's Francisco Conceição on Sunday rejected suggestions that the team feels compelled to constantly look for Cristiano Ronaldo on the pitch at this 2026 FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49136209/no-obligation-pass-ronaldo-portugal-francisco-conceicao",
-      "time": "2026-06-21",
-      "titleHash": "0bcbf1d2271d320b29b0e0d278c28c84"
-    },
-    {
-      "id": "637d81195372983c95291b341f3eeebf",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Japan set sights on WCup glory after record win",
-      "summary": "After a record-breaking evening for Japan, Daichi Kamada reiterated their target of winning the 2026 FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49133799/daichi-kamada-reiterates-japan-goal-win-world-cup-record-win",
-      "time": "2026-06-21",
-      "titleHash": "e98a3bcf8eb1f86abe3ff7d2d064a742"
-    },
-    {
-      "id": "a11db67238666871825954654897a86a",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Messi, Haaland, Mbappé, Kane: Who will be the Worl...",
-      "summary": "We're more than a week into the 2026 World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is heating up.",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "time": "2026-06-21",
-      "titleHash": "b591af5bb1ebf5f4da87e53566d14573"
     },
     {
       "id": "eabc96122917e047bd837dab52ef40cd",
@@ -57,6 +27,36 @@
       "url": "https://www.bbc.com/sport/football/articles/cpv3kkv4z4mo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-21",
       "titleHash": "c99eda3726c4d16ed0935e5486623e0a"
+    },
+    {
+      "id": "5b4df8ce0631efdface9e0a7a761e4ed",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Cape Verde fan goes wild live on BBC News as his country scores",
+      "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f"
+    },
+    {
+      "id": "81006beba62cfd07892c35a2920a16b4",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
+      "summary": "Cape Verde's Kevin Pina scores the opening goal against Uruguay in their Group H match in the 2026 World Cup.",
+      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-21",
+      "titleHash": "5173b4c41bdca7f0aeafdfa27e758d3a"
+    },
+    {
+      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
+      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-06",
+      "titleHash": "69b61b06a7ade637c68b32a288389828"
     },
     {
       "id": "6bf687335c535d796c526c082562c95d",
@@ -79,16 +79,6 @@
       "titleHash": "dae1ca5637a36b28073d152bacd11582"
     },
     {
-      "id": "8bec40c1abc4a5d24b1ffe1b5d5251b0",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
-      "titleHash": "69b61b06a7ade637c68b32a288389828"
-    },
-    {
       "id": "1a4f34aa9ce7d5e5b5bea942e6f1acc9",
       "source": "BBC",
       "tag": "RSS",
@@ -107,16 +97,6 @@
       "url": "https://www.bbc.com/sport/football/videos/cx260v333plo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-21",
       "titleHash": "b79022b83503f8f89ccb5c19c846cfcb"
-    },
-    {
-      "id": "9891bf60a635537d19fdac6e86851558",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "World Cup first as Almiron sent off for covering mouth",
-      "summary": "Watch Miguel Almiron become the first player to be sent off under new rules preventing players from covering their mouths during a game at the 2026 World Cup, with the Paraguay midfielder shown red in a win over Turkey.",
-      "url": "https://www.bbc.com/sport/football/videos/c17y0977klgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-20",
-      "titleHash": "4f45d22f90f14c617f4797cb142556e4"
     },
     {
       "id": "282b69683cc5228a9c6a8dd3e09b91ec",
@@ -159,24 +139,24 @@
       "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
     },
     {
-      "id": "3bae0173eda58fccf3db722b31ac9db8",
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Uruguay v Cape Verde: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off: 6pm local time/11pm BST/8am (Mon) AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure.casual@theguardian.com\">Email Beau</a></p><p>We’re off. Uruguay in their pleasant blue and white. Cape Verde in all red.</p><p>I very much like the Cape Verde national anthem. I’ll see if my band can open our next show with it, though this rendition has the odd tempo change that would probably throw us off.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/21/uruguay-v-cape-verde-world-cup-2026-live",
-      "time": "2026-06-21",
-      "titleHash": "09019a3ad06ad0c8abb197f426e524c2"
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-06-04",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
-      "id": "5131185b2be1a25d530c558ecb4c73fc",
+      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "The 2026 World Cup team of the tournament so far (without the superstars)",
-      "summary": "<p>We pick an XI of players who have impressed during the initial rounds of games in Canada, the US and Mexico</p><p>A star was born, at 40, when a player whose highest-profile employers were Portugal’s Gil Vicente denied Spain’s all-stars in <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">that historic 0-0 draw</a>. His Christian name being Josimar may well have pointed to his being a nascent World Cup cult hero. So huge was his impact that the US authorities, on the orders of the House Democratic leader, Hakeem Jeffries, waived the visa fee and $15,000 (£11,300) bond for his mother, now able to fly in for her boy’s continuing adventures. Seven saves from Spain have made him a global social media sensation, too.</p> <a href=\"https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/21/the-2026-world-cup-team-of-the-tournament-so-far-without-the-superstars",
-      "time": "2026-06-21",
-      "titleHash": "57f5bfefe68ef3beaa86269aeb7872d4"
+      "title": "Golden Boot: World Cup 2026 top goalscorers",
+      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+      "time": "2026-06-18",
+      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
     }
   ]
 }
