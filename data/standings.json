@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T18:03:44.723Z",
+  "syncedAt": "2026-06-22T21:13:54.688Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -485,25 +485,25 @@
         {
           "team": "Argentina",
           "code": "ARG",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
+          "gf": 5,
           "ga": 0,
-          "gd": 3,
-          "points": 3
+          "gd": 5,
+          "points": 6
         },
         {
           "team": "Austria",
           "code": "AUT",
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "gf": 3,
-          "ga": 1,
-          "gd": 2,
+          "ga": 3,
+          "gd": 0,
           "points": 3
         },
         {
