@@ -6320,7 +6320,27 @@
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (6) Could not resolve host: inside.fifa.com\n"
+      },
+      {
+        "source": "ESPN",
+        "url": "https://www.espn.com/espn/rss/soccer/news",
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.espn.com/espn/rss/soccer/news\ncurl: (6) Could not resolve host: www.espn.com\n"
+      },
+      {
+        "source": "BBC",
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://feeds.bbci.co.uk/sport/football/rss.xml\ncurl: (6) Could not resolve host: feeds.bbci.co.uk\n"
+      },
+      {
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/rss",
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.theguardian.com/football/rss\ncurl: (6) Could not resolve host: www.theguardian.com\n"
+      },
+      {
+        "source": "FOX",
+        "url": "https://api.foxsports.com/v1/rss?tag=soccer",
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://api.foxsports.com/v1/rss?tag=soccer\ncurl: (6) Could not resolve host: api.foxsports.com\n"
       }
     ]
   }
