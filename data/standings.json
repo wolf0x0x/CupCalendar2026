@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T18:33:17.591Z",
+  "syncedAt": "2026-06-23T20:55:57.440Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -536,6 +536,18 @@
       "group": "Group K",
       "rows": [
         {
+          "team": "Portugal",
+          "code": "POR",
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "gf": 6,
+          "ga": 1,
+          "gd": 5,
+          "points": 4
+        },
+        {
           "team": "Colombia",
           "code": "COL",
           "played": 1,
@@ -560,27 +572,15 @@
           "points": 1
         },
         {
-          "team": "Portugal",
-          "code": "POR",
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "gf": 1,
-          "ga": 1,
-          "gd": 0,
-          "points": 1
-        },
-        {
           "team": "Uzbekistan",
           "code": "UZB",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "gf": 1,
-          "ga": 3,
-          "gd": -2,
+          "ga": 8,
+          "gd": -7,
           "points": 0
         }
       ]
