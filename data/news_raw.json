@@ -1,30 +1,10 @@
 {
-  "fetchedAt": "2026-06-23T04:02:54.463Z",
+  "fetchedAt": "2026-06-23T09:53:55.746Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (6) Could not resolve host: inside.fifa.com\n"
-    },
-    {
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/rss/soccer/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.espn.com/espn/rss/soccer/news\ncurl: (6) Could not resolve host: www.espn.com\n"
-    },
-    {
-      "source": "BBC",
-      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://feeds.bbci.co.uk/sport/football/rss.xml\ncurl: (6) Could not resolve host: feeds.bbci.co.uk\n"
-    },
-    {
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/rss",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.theguardian.com/football/rss\ncurl: (6) Could not resolve host: www.theguardian.com\n"
-    },
-    {
-      "source": "FOX",
-      "url": "https://api.foxsports.com/v1/rss?tag=soccer",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://api.foxsports.com/v1/rss?tag=soccer\ncurl: (6) Could not resolve host: api.foxsports.com\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -39,74 +19,104 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "a0996d66c6f029f460b72dd826baadd8",
+      "id": "e2ecc785575f10e5bf7a0f89d814b40a",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From U.S. to Spain, why every round-of-32 team will, won't win FIFA World Cup",
+      "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "time": "2026-06-23",
+      "titleHash": "e68ff7b2252b70593a69604d82ff3d30"
+    },
+    {
+      "id": "1b864f42b25f92d1d859c455b4f9f7a5",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily: Mbappé, Haaland with two goals in...",
+      "summary": "It's another week of 2026 FIFA World Cup action, and we had some big teams playing today, including Argentina, France and Norway.",
+      "url": "https://www.espn.com/soccer/story/_/id/49141065/world-cup-daily-crying-belgium-fan-saved-var-messi-mbappe-haaland-action",
+      "time": "2026-06-23",
+      "titleHash": "c70357ec92534a0136885008551f1f64"
+    },
+    {
+      "id": "189c630027f6680da4dbd18d5be93314",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup",
+      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-21",
+      "titleHash": "d49f7f6b73f8db49f441137495245028"
+    },
+    {
+      "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.com/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-06",
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "5b4df8ce0631efdface9e0a7a761e4ed",
+      "id": "a2db234487fa9ab168c7dd2607298a10",
       "source": "BBC",
       "tag": "RSS",
       "title": "Cape Verde fan goes wild live on BBC News as his country scores",
       "summary": "During a live BBC News broadcast, reporter Paul Njie interviews a Cape Verde fan when the country suddenly scores its first ever World Cup goal against Uruguay in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cyv0n4g6p77o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-21",
       "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f"
     },
     {
-      "id": "7986f5981456d00eb271a74538104a09",
+      "id": "c2f65a7f25130f882b46e0a31c28b460",
       "source": "BBC",
       "tag": "RSS",
       "title": "Name the seven Scotland survivors from Clarke's first squad",
       "summary": "Seven players from Steve Clarke's first Scotland squad are with the head coach at the 2026 World Cup - can you name them?",
-      "url": "https://www.bbc.com/sport/football/articles/c05yze49v71o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c05yze49v71o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-22",
       "titleHash": "ed486867b4cfa2d6ff73420c0631dded"
     },
     {
-      "id": "d2a46ef2aa12705de7730e828c6d8835",
+      "id": "44fb5d41b40557aeb2fa32b75fc8502f",
       "source": "BBC",
       "tag": "RSS",
       "title": "What is BBC's 3D Live Match Experience and how does it work?",
       "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
-      "url": "https://www.bbc.com/sport/articles/ckg5lx6d5pxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/articles/ckg5lx6d5pxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-22",
       "titleHash": "dffd9b1eb57183cd9d0867868ad75826"
     },
     {
-      "id": "76d6a14bf784f8d193608ac054e65e33",
+      "id": "10813867c5000e22afe67ca0e3dbbe4c",
       "source": "BBC",
       "tag": "RSS",
       "title": "How to watch highlights of World Cup matches",
       "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-11",
       "titleHash": "54e5d641f527c1d903f384ae31d9b4c9"
     },
     {
-      "id": "639596db0f3956f0e07c83a7f96cf2b7",
+      "id": "0ca64f9337fc21a395e665a821716ec5",
       "source": "BBC",
       "tag": "RSS",
       "title": "Why are footballers wearing pink boots at the World Cup?",
       "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
-      "url": "https://www.bbc.com/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-11",
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "8b5808411cdb71c9803fbf566cbe8fed",
+      "id": "b5204a8c87395db9a58e70c90962af8d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Jordan v Algeria: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"> Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p><strong>The stadium is slowly starting to fill in San Francisco</strong> and the teams have checked out the pitch.</p><p><strong>Senegal are creating <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live#maincontent\">storm of activity on the field</a> at the New Jersey/New York Stadium</strong> but in Philadelphia there was a real live storm that delayed France and Iraq by two hours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/fifa-world-cup-2026-live-jordan-v-algeria-updates-jor-v-alg-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/fifa-world-cup-2026-live-jordan-v-algeria-updates-jor-v-alg-group-j-match-score-latest",
+      "title": "World Cup 2026: Messi makes history; Mbappé and Haaland double up; England face Ghana – live",
+      "summary": "<p>⚽ All the latest news from day 13 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:graham.searles@guardian.co.uk\">Mail us</a></p><p>Our man in the camp David Hytner <strong>goes under the hood</strong> (nailed it) of England’s preparations for the Black Stars.</p><p>Thomas Tuchel shares his view on what Ghana will bring in Foxborough: <em>“I expect more ball possession. I expect Ghana to rely on counterattacks because they are very physical, very fast and dangerous.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
       "time": "2026-06-23",
-      "titleHash": "5f422af534780229a868293fb602a111"
+      "titleHash": "e76fcee57114c005f8a7aa5e28797983"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
