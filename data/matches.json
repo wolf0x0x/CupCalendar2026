@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T20:55:57.440Z",
+  "syncedAt": "2026-06-23T22:17:26.309Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -912,8 +912,8 @@
       "homeScore": 0,
       "awayScore": 0,
       "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "9",
       "dataSource": "worldcup26.ir",
       "validation": "primary"

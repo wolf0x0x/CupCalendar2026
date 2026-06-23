@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T20:55:57.440Z",
+  "syncedAt": "2026-06-23T22:17:26.309Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -591,26 +591,26 @@
         {
           "team": "England",
           "code": "ENG",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 4,
           "ga": 2,
           "gd": 2,
-          "points": 3
+          "points": 4
         },
         {
           "team": "Ghana",
           "code": "GHA",
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "gf": 1,
           "ga": 0,
           "gd": 1,
-          "points": 3
+          "points": 4
         },
         {
           "team": "Panama",
