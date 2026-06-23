@@ -1,30 +1,10 @@
 {
-  "fetchedAt": "2026-06-23T15:13:49.868Z",
+  "fetchedAt": "2026-06-23T20:12:53.447Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (6) Could not resolve host: inside.fifa.com\n"
-    },
-    {
-      "source": "ESPN",
-      "url": "https://www.espn.com/espn/rss/soccer/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.espn.com/espn/rss/soccer/news\ncurl: (6) Could not resolve host: www.espn.com\n"
-    },
-    {
-      "source": "BBC",
-      "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://feeds.bbci.co.uk/sport/football/rss.xml\ncurl: (6) Could not resolve host: feeds.bbci.co.uk\n"
-    },
-    {
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/rss",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://www.theguardian.com/football/rss\ncurl: (6) Could not resolve host: www.theguardian.com\n"
-    },
-    {
-      "source": "FOX",
-      "url": "https://api.foxsports.com/v1/rss?tag=soccer",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://api.foxsports.com/v1/rss?tag=soccer\ncurl: (6) Could not resolve host: api.foxsports.com\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -37,6 +17,36 @@
       "time": "2026-06-23",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "e2ecc785575f10e5bf7a0f89d814b40a",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From U.S. to Spain, why every round-of-32 team will, won't win FIFA World Cup",
+      "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "time": "2026-06-23",
+      "titleHash": "e68ff7b2252b70593a69604d82ff3d30"
+    },
+    {
+      "id": "189c630027f6680da4dbd18d5be93314",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup",
+      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-21",
+      "titleHash": "d49f7f6b73f8db49f441137495245028"
+    },
+    {
+      "id": "a0d800f36c9c24e5c62264837a4bfe89",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Mendes scores 'brilliant' second goal for Portugal",
+      "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-23",
+      "titleHash": "6ee34d19c83e9012f5f8fffa502e8f77"
     },
     {
       "id": "13a4242127992e2639ad37b45c9311b8",
@@ -79,14 +89,14 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "a3187c34c2b5e38b24cc8521a6dc7678",
+      "id": "311b664aa6e43b9026e7cc3aaea5da77",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Jordan fan dies in crowd crush; criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
-      "summary": "<p>⚽ All the latest news from day 13 of the tournament<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p>Our man in the camp David Hytner <strong>goes under the hood</strong> (nailed it) of England’s preparations for the Black Stars.</p><p>Thomas Tuchel shares his view on what Ghana will bring in Foxborough: <em>“I expect more ball possession. I expect Ghana to rely on counterattacks because they are very physical, very fast and dangerous.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo",
+      "title": "England v Ghana: World Cup 2026 – live",
+      "summary": "<p>⚽ World Cup kick-off time: 4pm EST/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Guide to all 1,248 players</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a></p><p><strong>Antoine Semenyo was only 10 years old when Ghana came within a Luis Suárez handball of becoming the first African team to reach the semi-finals of a World Cup.</strong> The Manchester City forward can still vividly recall the emotions that night as he watched with his family in Bexleyheath, south-east London.</p><p>“I remember being at my uncle’s house, and we were <a href=\"https://www.theguardian.com/sport/2020/mar/18/my-favourite-game-uruguay-v-ghana-world-cup-2010-quarter-final\">screaming after the handball</a>, thinking we were going through,” he <a href=\"https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights\">said in an interview last month</a>. “Watching Ghana play in the World Cup was so special. Mum, Dad, uncles, aunties, cousins all turn up to one house, and we would watch all the games together, celebrating and screaming. Ghana came in [for me] when I was 19 or 20, so I was never going to turn it down.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live",
       "time": "2026-06-23",
-      "titleHash": "43d98ba221aee14af436a32131a3e11d"
+      "titleHash": "a3698a59404149e08d0b0f7560c3c16e"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
