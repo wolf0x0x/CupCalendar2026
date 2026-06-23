@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T20:12:53.447Z",
+  "fetchedAt": "2026-06-23T22:18:56.704Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,24 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "e2ecc785575f10e5bf7a0f89d814b40a",
+      "id": "7d6fd91e25f1f6e5631e5784a673916f",
       "source": "ESPN",
       "tag": "RSS",
-      "title": "From U.S. to Spain, why every round-of-32 team will, won't win FIFA World Cup",
+      "title": "World Cup Daily: England draw with Ghana; Ronaldo ...",
+      "summary": "It's another day of 2026 FIFA World Cup action, and some big teams are taking the field.",
+      "url": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
+      "time": "2026-06-23",
+      "titleHash": "d7e2086a8c5752c364a652e396b52abb"
+    },
+    {
+      "id": "f089a14dd86589ab7a3e37e9c32e7884",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From U.S. to Spain, why every round-of-32 team wil...",
       "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
       "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
       "time": "2026-06-23",
-      "titleHash": "e68ff7b2252b70593a69604d82ff3d30"
+      "titleHash": "89f840b11191c1c1d161dc0bc9d9696a"
     },
     {
       "id": "189c630027f6680da4dbd18d5be93314",
@@ -89,14 +99,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "311b664aa6e43b9026e7cc3aaea5da77",
+      "id": "d27374546c7fbf3e9b82d9d87e5ce020",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "England v Ghana: World Cup 2026 – live",
-      "summary": "<p>⚽ World Cup kick-off time: 4pm EST/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Guide to all 1,248 players</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a></p><p><strong>Antoine Semenyo was only 10 years old when Ghana came within a Luis Suárez handball of becoming the first African team to reach the semi-finals of a World Cup.</strong> The Manchester City forward can still vividly recall the emotions that night as he watched with his family in Bexleyheath, south-east London.</p><p>“I remember being at my uncle’s house, and we were <a href=\"https://www.theguardian.com/sport/2020/mar/18/my-favourite-game-uruguay-v-ghana-world-cup-2010-quarter-final\">screaming after the handball</a>, thinking we were going through,” he <a href=\"https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights\">said in an interview last month</a>. “Watching Ghana play in the World Cup was so special. Mum, Dad, uncles, aunties, cousins all turn up to one house, and we would watch all the games together, celebrating and screaming. Ghana came in [for me] when I was 19 or 20, so I was never going to turn it down.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live\">Continue reading...</a>",
+      "title": "England 0-0 Ghana: World Cup 2026 – live",
+      "summary": "<p>⚽ World Cup kick-off time: 4pm EST/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/gallery/2026/jun/23/world-cup-2026-england-ghana-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a></p><p><strong>Antoine Semenyo was only 10 years old when Ghana came within a Luis Suárez handball of becoming the first African team to reach the semi-finals of a World Cup.</strong> The Manchester City forward can still vividly recall the emotions that night as he watched with his family in Bexleyheath, south-east London.</p><p>“I remember being at my uncle’s house, and we were <a href=\"https://www.theguardian.com/sport/2020/mar/18/my-favourite-game-uruguay-v-ghana-world-cup-2010-quarter-final\">screaming after the handball</a>, thinking we were going through,” he <a href=\"https://www.theguardian.com/football/2026/may/17/from-wiltshire-to-wembley-semenyo-surreal-journey-hits-new-heights\">said in an interview last month</a>. “Watching Ghana play in the World Cup was so special. Mum, Dad, uncles, aunties, cousins all turn up to one house, and we would watch all the games together, celebrating and screaming. Ghana came in [for me] when I was 19 or 20, so I was never going to turn it down.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/23/england-v-ghana-world-cup-2026-live",
       "time": "2026-06-23",
-      "titleHash": "a3698a59404149e08d0b0f7560c3c16e"
+      "titleHash": "a06febb7ac5ff4ad45c590987f29809b"
+    },
+    {
+      "id": "2acd79dc28ccb5cf8a5c3fbe3bd475fe",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Panama v Croatia: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off time: 7pm EST/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p>A historic moment for the sport as Modrić becomes the fourth man to earn 200 international caps. Still no Coco Carrasquilla in the lineup as he returns from a pre-tournament knock, though the Pumas midfielder is on the bench.</p><p><strong>Panama (3-4-3)<br></strong>O. Mosquera<br> J. Córdoba – J. Ramos – C. Blackman<br> A. Andrade – C. Harvey – C. Martínez – A. Murillo<br> J. Rodríguez – J. Fajardo – Y. Bárcenas (c)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/panama-v-croatia-world-cup-2026-live-updates\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/panama-v-croatia-world-cup-2026-live-updates",
+      "time": "2026-06-23",
+      "titleHash": "432f6b69d338dc94d5ff18341a3c4963"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
