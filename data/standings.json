@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T04:33:03.901Z",
+  "syncedAt": "2026-06-23T08:20:05.464Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -507,26 +507,26 @@
           "points": 3
         },
         {
-          "team": "Jordan",
-          "code": "JOR",
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "gf": 1,
-          "ga": 3,
-          "gd": -2,
-          "points": 0
-        },
-        {
           "team": "Algeria",
           "code": "ALG",
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gf": 0,
-          "ga": 3,
+          "gf": 2,
+          "ga": 4,
+          "gd": -2,
+          "points": 3
+        },
+        {
+          "team": "Jordan",
+          "code": "JOR",
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "gf": 2,
+          "ga": 5,
           "gd": -3,
           "points": 0
         }
