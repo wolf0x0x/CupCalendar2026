@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T22:50:21.656Z",
+  "fetchedAt": "2026-06-23T04:02:54.463Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,49 +14,9 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-22",
+      "time": "2026-06-23",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "ec6ce767574a84aa1c57153948879142",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Copy of Salah stepped up, but World Cup 2026 is proving to...",
-      "summary": "Mohamed Salah wound back the clock with a sublime display on Sunday, but this World Cup has shown that the tournament has been a step too far for some of world soccer's aging stars.",
-      "url": "https://www.espn.com/soccer/story/_/id/49141100/salah-stepped-world-cup-2026-proving-no-country-old-men",
-      "time": "2026-06-22",
-      "titleHash": "15af1b28faf93b487c38d7e4571b4527"
-    },
-    {
-      "id": "9e48dc0552980f7044bf6535bd2a3fee",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup 'smart' ball is a game changer. Just don...",
-      "summary": "Everything in soccer can always be improved -- even the humble game ball. The 2026 World Cup has the Trionda, filled with chips and sensors, and so far, it's been well-received.",
-      "url": "https://www.espn.com/soccer/story/_/id/49083534/world-cup-smart-ball-adidas-trionda-charge-balls-sam-borden",
-      "time": "2026-06-22",
-      "titleHash": "8e880e17a7d7ec09af716580be70afbc"
-    },
-    {
-      "id": "a11db67238666871825954654897a86a",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Messi, Haaland, Mbappé, Kane: Who will be the Worl...",
-      "summary": "We're more than a week into the 2026 World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is heating up.",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "time": "2026-06-22",
-      "titleHash": "b591af5bb1ebf5f4da87e53566d14573"
-    },
-    {
-      "id": "189c630027f6680da4dbd18d5be93314",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup",
-      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-21",
-      "titleHash": "d49f7f6b73f8db49f441137495245028"
     },
     {
       "id": "a0996d66c6f029f460b72dd826baadd8",
@@ -79,16 +39,6 @@
       "titleHash": "3a9211a8a2377c3ff7f4d041a3fea37f"
     },
     {
-      "id": "81006beba62cfd07892c35a2920a16b4",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Oh my word!' - Cape Verde take shock lead against Uruguay",
-      "summary": "Cape Verde's Kevin Pina scores the opening goal against Uruguay in their Group H match in the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/videos/cjwg6le7193o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-21",
-      "titleHash": "5173b4c41bdca7f0aeafdfa27e758d3a"
-    },
-    {
       "id": "7986f5981456d00eb271a74538104a09",
       "source": "BBC",
       "tag": "RSS",
@@ -107,16 +57,6 @@
       "url": "https://www.bbc.com/sport/articles/ckg5lx6d5pxo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-22",
       "titleHash": "dffd9b1eb57183cd9d0867868ad75826"
-    },
-    {
-      "id": "282b69683cc5228a9c6a8dd3e09b91ec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Sutton's World Cup score predictions - second group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the second round of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.com/sport/football/articles/cwykwyp001xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-18",
-      "titleHash": "45ef675d36cf1a2d1d67b2f10452fcd6"
     },
     {
       "id": "76d6a14bf784f8d193608ac054e65e33",
@@ -139,34 +79,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "e44c537c07b559e1209468928bfcfadf",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What are the deadlines for World Cup squads?",
-      "summary": "BBC Sport's Ask Me Anything team explains the deadlines by which teams must name their final squads for the 2026 World Cup",
-      "url": "https://www.bbc.com/sport/football/articles/ckgp482v49xo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-03",
-      "titleHash": "bc6f1b0f8424d5bc345c3b09b6412d56"
-    },
-    {
-      "id": "68353f60c8d11c4489006c51ebadfdc0",
+      "id": "8b5808411cdb71c9803fbf566cbe8fed",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "France v Iraq: second half delayed by storm at World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off: 5pm ET/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Email Tim</a></p><p><strong>And here’s our reporter at the game, Paul MacInnes.</strong> “Ground already packed for a match that has been highly anticipated in Philly,” he writes. “The French are here is big numbers (I followed a load of them to the ground today) but the Iraqi contingent is hardly to be sniffed at. They’ve packed out the stand behind one goal, and have been visible all over the city for the past few days.</p><p>“Just quickly, but the pre-match has been a weird one. Big load of load music and two hype merchants in the stands getting everyone up. But not all attempts have proven equal. There was a big cheer for the players as the teams were read out (and especially Mbappé) but not so much interaction when the call went up for everyone to ‘Join us in a round of applause for peace!’. I can only imagine Gianni Infantino will be saddened when he hears the news.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/france-v-iraq-world-cup-2026-live-updates",
-      "time": "2026-06-22",
-      "titleHash": "45bd265f9e58345087056be335ce2d65"
+      "title": "Jordan v Algeria: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"> Player guide</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"> Bracketology</a> |<a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"> Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p><strong>The stadium is slowly starting to fill in San Francisco</strong> and the teams have checked out the pitch.</p><p><strong>Senegal are creating <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live#maincontent\">storm of activity on the field</a> at the New Jersey/New York Stadium</strong> but in Philadelphia there was a real live storm that delayed France and Iraq by two hours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/23/fifa-world-cup-2026-live-jordan-v-algeria-updates-jor-v-alg-group-j-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/23/fifa-world-cup-2026-live-jordan-v-algeria-updates-jor-v-alg-group-j-match-score-latest",
+      "time": "2026-06-23",
+      "titleHash": "5f422af534780229a868293fb602a111"
     },
     {
-      "id": "099100dd5e7ffd9f68f351571fe616d3",
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Norway v Senegal: World Cup 2026 – live",
-      "summary": "<p><strong>⚽️ </strong>World Cup kick-off: 8pm ET/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jeff.rueter@theguardian.com\">Email Jeff</a></p><p><em>Jeff will be here shortly, in the mean time here’s Jonathan Wilson on a big tournament for African teams:</em></p><p>On Monday evening local time at New York New Jersey Stadium, Senegal will face Norway in a game that is not only crucial in terms of who qualifies from Group I, but will go a long way in determining how African performance at this World Cup is viewed. This is not entirely fair – nobody can seriously doubt that Senegal are an extremely adept side, and it may be that the court of arbitration for sport decides that they are indeed <a href=\"https://www.theguardian.com/football/2026/mar/17/senegal-stripped-of-africa-cup-of-nations-title-over-protest-in-chaotic-final\">the reigning African champions</a> – but there is a sense that Africa could do with a big performance.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/22/norway-v-senegal-world-cup-2026-live",
-      "time": "2026-06-22",
-      "titleHash": "19a11d93a629fd48bb5a8fbb6fb9dc8e"
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-06-04",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
       "id": "c54ded1c98c97394656d61015dd476ee",
