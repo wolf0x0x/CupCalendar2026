@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T00:14:50.268Z",
+  "syncedAt": "2026-06-23T04:33:03.901Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -430,51 +430,51 @@
       "group": "Group I",
       "rows": [
         {
-          "team": "Norway",
-          "code": "NOR",
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 4,
-          "ga": 1,
-          "gd": 3,
-          "points": 3
-        },
-        {
           "team": "France",
           "code": "FRA",
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gf": 3,
+          "gf": 6,
           "ga": 1,
-          "gd": 2,
-          "points": 3
+          "gd": 5,
+          "points": 6
+        },
+        {
+          "team": "Norway",
+          "code": "NOR",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 7,
+          "ga": 3,
+          "gd": 4,
+          "points": 6
         },
         {
           "team": "Senegal",
           "code": "SEN",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "gf": 1,
-          "ga": 3,
-          "gd": -2,
+          "lost": 2,
+          "gf": 3,
+          "ga": 6,
+          "gd": -3,
           "points": 0
         },
         {
           "team": "Iraq",
           "code": "IRQ",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "gf": 1,
-          "ga": 4,
-          "gd": -3,
+          "ga": 7,
+          "gd": -6,
           "points": 0
         }
       ]
