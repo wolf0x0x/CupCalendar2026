@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T04:05:46.080Z",
+  "fetchedAt": "2026-06-24T09:41:17.108Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,16 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "c5f495c75b35d19a122113216cffa582",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Colombia qualify for last 32 with win over DR Congo",
+      "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20ypnr52k3o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "867e88037d9dd8aa67971c0d6231d35f"
+    },
+    {
       "id": "180fa9e1078c0843d1b8779834fe1833",
       "source": "BBC",
       "tag": "RSS",
@@ -29,16 +39,6 @@
       "titleHash": "1dad5cf9f3a14d5104301978cae6392a"
     },
     {
-      "id": "a0d800f36c9c24e5c62264837a4bfe89",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Mendes scores 'brilliant' second goal for Portugal",
-      "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-23",
-      "titleHash": "6ee34d19c83e9012f5f8fffa502e8f77"
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -47,6 +47,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-06",
       "titleHash": "52040334b53d4ca6614391fbba85b301"
+    },
+    {
+      "id": "a0d800f36c9c24e5c62264837a4bfe89",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Mendes scores 'brilliant' second goal for Portugal",
+      "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-23",
+      "titleHash": "6ee34d19c83e9012f5f8fffa502e8f77"
     },
     {
       "id": "44fb5d41b40557aeb2fa32b75fc8502f",
@@ -79,14 +89,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "72df2d35bc3b56f7db1bb03101dd9476",
+      "id": "190d497d0c2f8e13b3357d795482283a",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Colombia v DR Congo: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:martin.pegan@theguardian.com\">Mail Martin</a></p><p><strong>Today’s other game was the Group I clash between England and Ghana.</strong> Thomas Tuchel’s team got a stern reality check from a dogged Ghanaian side who were happy to sit back and defend.</p><p><strong>David Hytner</strong> was at Boston Stadium:</p><p>England’s idea was to maintain the momentum they had generated in the 4-2 win over Croatia in their opening Group L tie but there was no surge here. Only stodge. <a href=\"https://www.theguardian.com/football/england\">England</a> laboured to create against an ultra-defensive Ghana team, their only pulse-quickening moments coming towards the very end.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/fifa-world-cup-2026-live-colombia-v-dr-congo-updates-col-vs-cod-group-k-match-score-latest",
+      "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
+      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
       "time": "2026-06-24",
-      "titleHash": "52b66bc7fc6c9569ab43c63a88347e9a"
+      "titleHash": "cffc16f07d38668ad0b08f9a3641550f"
+    },
+    {
+      "id": "3add915f4402ec792d2106155ee26020",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
+      "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
+      "time": "2026-06-24",
+      "titleHash": "7106b4fcad14cb67bd376fa5f41406f4"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
