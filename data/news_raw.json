@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T17:09:06.196Z",
+  "fetchedAt": "2026-06-24T19:54:22.982Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,44 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "86478b0a3ab4d54cacc465e8086548a5",
-      "source": "ESPN",
+      "id": "6e8ca6e0a8168c3336ae022d652691a6",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Pochettino: USMNT complacency was a 'big punch'",
-      "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49162699/pochettino-admits-naive-usmnt-culture-2024-arrival-world-cup-2026",
+      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-24",
-      "titleHash": "c967ce146d102ffa4b1d7fc614d56264"
-    },
-    {
-      "id": "2d5b2c41539db0a515055a63b0d4d20f",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
-      "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament.",
-      "url": "https://www.espn.com/soccer/story/_/id/49161306/a-week-life-2026-world-cup-player-curacao-gervane-kastaneer",
-      "time": "2026-06-24",
-      "titleHash": "1e5368daf1c1ffbb3200c275c98854af"
-    },
-    {
-      "id": "e902846727007f7e995204aadab5a8eb",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily: Messi turns 39 with midnight work...",
-      "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time.",
-      "url": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
-      "time": "2026-06-24",
-      "titleHash": "897f87b3dc679ae9204be3aad0d8f8ad"
-    },
-    {
-      "id": "189c630027f6680da4dbd18d5be93314",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Every team's odds to win the World Cup",
-      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-06-24",
-      "titleHash": "d49f7f6b73f8db49f441137495245028"
+      "titleHash": "495c660f206bd5b424e3a1e662ca2986"
     },
     {
       "id": "c5f495c75b35d19a122113216cffa582",
@@ -79,16 +49,6 @@
       "titleHash": "1dad5cf9f3a14d5104301978cae6392a"
     },
     {
-      "id": "9a01c1ff9fa759669bcdead03a76793e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -97,6 +57,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-06",
       "titleHash": "52040334b53d4ca6614391fbba85b301"
+    },
+    {
+      "id": "9a01c1ff9fa759669bcdead03a76793e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
     },
     {
       "id": "a0d800f36c9c24e5c62264837a4bfe89",
@@ -139,14 +109,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "d86d8156c99cedac7b7e4d7046a6b353",
+      "id": "8d71e3a48b57794ce9964906626380ca",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
-      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
+      "title": "Switzerland v Canada: World Cup 2026 – live",
+      "summary": "<p>⚽ Match kicks off at 12pm local time/3pm ET/8pm BST<br>⚽ <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a></p><p><strong>“‘Switzerland and Canada have already qualified for the last 32 of the World Cup’,”</strong> writes Ric Arthur, throwing my words back at me. “Not according to the <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">guide</a> published this morning on these pages. I think you’re right, though. Which means they did not do their homework. But I can’t find a link to notify them of this.”</p><p>It’s true: mathematically, they haven’t qualified for the knockout stage. But they have.</p><p>Guillermo H2 Ochoa</p><p>Damp Burn</p><p>Rampamt Capitalisandro Martinez</p><p>Erictrolyte García</p><p>Jarell Quartah</p><p>Moistyouri Tielemans</p><p>Matheus Coolsya</p><p>Isotonick Woltemade</p><p>Siptor Gyökeres</p><p>Joe Irrigaetjens</p><p>Son Heung-Midity.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live",
       "time": "2026-06-24",
-      "titleHash": "6edd7ad389c7a748d6797bfe57bcef1e"
+      "titleHash": "80a890180b1d9bf4d5a83506ddb42ab6"
+    },
+    {
+      "id": "ca11a7120bf8283b73fecfef48b60289",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Bosnia and Herzegovina v Qatar: World Cup 2026 – live",
+      "summary": "<ul><li><p><strong>⚽ Match in Seattle kicks off at 12pm local time/3pm ET/8pm BST</strong></p></li><li><p><strong>⚽ </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:will.unwin.freelancer@theguardian.com\"><strong>Mail Will</strong></a></p></li></ul><p>Before each game in Bosnia and Herzegovina’s World Cup adventure, Sarajevo has blossomed with primary colours – and two distinct flags.</p><p>One is the national flag dating to 1998: blue and yellow diagonal halves emblazoned with a slanting line of white stars. The other has golden lilies on a blue shield set against a white background, and has a far deeper history, steeped in centuries of complexity. Its striking resurgence as a national symbol, showcased during Bosnia’s</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live",
+      "time": "2026-06-24",
+      "titleHash": "e9590856ec92d335d8cd7e0ea417aca2"
     },
     {
       "id": "3add915f4402ec792d2106155ee26020",
@@ -159,16 +139,6 @@
       "titleHash": "7106b4fcad14cb67bd376fa5f41406f4"
     },
     {
-      "id": "2a7b84bbe5390fde4a284c779cbfc0c9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-      "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures",
-      "time": "2026-06-24",
-      "titleHash": "918859a456ffd45b8e6bda7df6da8304"
-    },
-    {
       "id": "3c979108185eef5748f0893a095ed57f",
       "source": "The Guardian",
       "tag": "RSS",
@@ -179,6 +149,16 @@
       "titleHash": "109beaf687d1867f5e8db7d0bda1a478"
     },
     {
+      "id": "2a7b84bbe5390fde4a284c779cbfc0c9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
+      "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures",
+      "time": "2026-06-24",
+      "titleHash": "918859a456ffd45b8e6bda7df6da8304"
+    },
+    {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
@@ -187,16 +167,6 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
-    },
-    {
-      "id": "7529770884e5d3f8b08c44283512ad36",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
-      "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026",
-      "time": "2026-06-24",
-      "titleHash": "f6da26af882bad51a3b766424df0ec27"
     },
     {
       "id": "c54ded1c98c97394656d61015dd476ee",
