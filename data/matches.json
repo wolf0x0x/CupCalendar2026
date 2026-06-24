@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-23T23:35:35.996Z",
+  "syncedAt": "2026-06-24T01:32:04.204Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -872,10 +872,10 @@
       "home": "Panama",
       "away": "Croatia",
       "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "12",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
