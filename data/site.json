@@ -6016,6 +6016,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "translations": {
+        "es": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "pt": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "fr": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "de": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "ja": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "zh": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6186,68 +6220,34 @@
     {
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
+      "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
       "time": "2026-06-24",
       "translations": {
         "es": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: England frustrated; Scotland face Brazil; Infantino defends hydration breaks – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-      "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
-      "time": "2026-06-24",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         }
       }
     }
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-24T09:41:17.108Z",
-    "newsItems": 12,
-    "translationQueue": 36,
+    "fetchedAt": "2026-06-24T14:43:45.452Z",
+    "newsItems": 15,
+    "translationQueue": 48,
     "errors": [
       {
         "source": "FIFA",
