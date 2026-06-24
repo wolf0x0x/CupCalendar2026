@@ -1081,7 +1081,7 @@
       "away": "Canada",
       "homeCode": "SUI",
       "awayCode": "CAN",
-      "score": "null - null",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1102,7 +1102,7 @@
       "away": "Qatar",
       "homeCode": "BIH",
       "awayCode": "QAT",
-      "score": "null - null",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1123,7 +1123,7 @@
       "away": "Haiti",
       "homeCode": "MAR",
       "awayCode": "HAI",
-      "score": "null - null",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1144,7 +1144,7 @@
       "away": "Brazil",
       "homeCode": "SCO",
       "awayCode": "BRA",
-      "score": "null - null",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1165,7 +1165,7 @@
       "away": "South Korea",
       "homeCode": "RSA",
       "awayCode": "KOR",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1186,7 +1186,7 @@
       "away": "Mexico",
       "homeCode": "CZE",
       "awayCode": "MEX",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1207,7 +1207,7 @@
       "away": "Ivory Coast",
       "homeCode": "CUW",
       "awayCode": "CIV",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1228,7 +1228,7 @@
       "away": "Germany",
       "homeCode": "ECU",
       "awayCode": "GER",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1249,7 +1249,7 @@
       "away": "Netherlands",
       "homeCode": "TUN",
       "awayCode": "NED",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1270,7 +1270,7 @@
       "away": "Sweden",
       "homeCode": "JPN",
       "awayCode": "SWE",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1291,7 +1291,7 @@
       "away": "United States",
       "homeCode": "TUR",
       "awayCode": "USA",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1312,7 +1312,7 @@
       "away": "Australia",
       "homeCode": "PAR",
       "awayCode": "AUS",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1333,7 +1333,7 @@
       "away": "France",
       "homeCode": "NOR",
       "awayCode": "FRA",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1354,7 +1354,7 @@
       "away": "Iraq",
       "homeCode": "SEN",
       "awayCode": "IRQ",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1375,7 +1375,7 @@
       "away": "Saudi Arabia",
       "homeCode": "CPV",
       "awayCode": "SAU",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1396,7 +1396,7 @@
       "away": "Spain",
       "homeCode": "URU",
       "awayCode": "ESP",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1417,7 +1417,7 @@
       "away": "Belgium",
       "homeCode": "NZL",
       "awayCode": "BEL",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1438,7 +1438,7 @@
       "away": "Iran",
       "homeCode": "EGY",
       "awayCode": "IRN",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1459,7 +1459,7 @@
       "away": "England",
       "homeCode": "PAN",
       "awayCode": "ENG",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1480,7 +1480,7 @@
       "away": "Ghana",
       "homeCode": "CRO",
       "awayCode": "GHA",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1501,7 +1501,7 @@
       "away": "Portugal",
       "homeCode": "COL",
       "awayCode": "POR",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1522,7 +1522,7 @@
       "away": "Uzbekistan",
       "homeCode": "COD",
       "awayCode": "UZB",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1543,7 +1543,7 @@
       "away": "Austria",
       "homeCode": "ALG",
       "awayCode": "AUT",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -1564,7 +1564,7 @@
       "away": "Argentina",
       "homeCode": "JOR",
       "awayCode": "ARG",
-      "score": "0 - 0",
+      "score": "- : -",
       "status": "notstarted",
       "network": "FOX",
       "prediction": "TV: FOX",
@@ -1580,47 +1580,51 @@
       "rows": [
         {
           "team": "Mexico",
+          "code": "MEX",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 6,
           "gf": 3,
-          "ga": 0
+          "ga": 0,
+          "gd": 3,
+          "points": 6
         },
         {
           "team": "South Korea",
+          "code": "KOR",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Czechia",
+          "code": "CZE",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 1,
           "gf": 2,
-          "ga": 3
+          "ga": 3,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "South Africa",
+          "code": "RSA",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -2,
-          "points": 1,
           "gf": 1,
-          "ga": 3
+          "ga": 3,
+          "gd": -2,
+          "points": 1
         }
       ]
     },
@@ -1629,47 +1633,51 @@
       "rows": [
         {
           "team": "Canada",
+          "code": "CAN",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 6,
-          "points": 4,
           "gf": 7,
-          "ga": 1
+          "ga": 1,
+          "gd": 6,
+          "points": 4
         },
         {
           "team": "Switzerland",
+          "code": "SUI",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 3,
-          "points": 4,
           "gf": 5,
-          "ga": 2
+          "ga": 2,
+          "gd": 3,
+          "points": 4
         },
         {
           "team": "Bosnia and Herzegovina",
+          "code": "BIH",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -3,
-          "points": 1,
           "gf": 2,
-          "ga": 5
+          "ga": 5,
+          "gd": -3,
+          "points": 1
         },
         {
           "team": "Qatar",
+          "code": "QAT",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -6,
-          "points": 1,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 1
         }
       ]
     },
@@ -1678,47 +1686,51 @@
       "rows": [
         {
           "team": "Brazil",
+          "code": "BRA",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 3,
-          "points": 4,
           "gf": 4,
-          "ga": 1
+          "ga": 1,
+          "gd": 3,
+          "points": 4
         },
         {
           "team": "Morocco",
+          "code": "MAR",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 1,
-          "points": 4,
           "gf": 2,
-          "ga": 1
+          "ga": 1,
+          "gd": 1,
+          "points": 4
         },
         {
           "team": "Scotland",
+          "code": "SCO",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Haiti",
+          "code": "HAI",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -4,
-          "points": 0,
           "gf": 0,
-          "ga": 4
+          "ga": 4,
+          "gd": -4,
+          "points": 0
         }
       ]
     },
@@ -1727,47 +1739,51 @@
       "rows": [
         {
           "team": "United States",
+          "code": "USA",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 5,
-          "points": 6,
           "gf": 6,
-          "ga": 1
+          "ga": 1,
+          "gd": 5,
+          "points": 6
         },
         {
           "team": "Australia",
+          "code": "AUS",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Paraguay",
+          "code": "PAR",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 3,
           "gf": 2,
-          "ga": 4
+          "ga": 4,
+          "gd": -2,
+          "points": 3
         },
         {
           "team": "Türkiye",
+          "code": "TUR",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -3,
-          "points": 0,
           "gf": 0,
-          "ga": 3
+          "ga": 3,
+          "gd": -3,
+          "points": 0
         }
       ]
     },
@@ -1776,47 +1792,51 @@
       "rows": [
         {
           "team": "Germany",
+          "code": "GER",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 7,
-          "points": 6,
           "gf": 9,
-          "ga": 2
+          "ga": 2,
+          "gd": 7,
+          "points": 6
         },
         {
           "team": "Ivory Coast",
+          "code": "CIV",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Ecuador",
+          "code": "ECU",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 1,
           "gf": 0,
-          "ga": 1
+          "ga": 1,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "Curaçao",
+          "code": "CUW",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -6,
-          "points": 1,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 1
         }
       ]
     },
@@ -1825,47 +1845,51 @@
       "rows": [
         {
           "team": "Netherlands",
+          "code": "NED",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 4,
-          "points": 4,
           "gf": 7,
-          "ga": 3
+          "ga": 3,
+          "gd": 4,
+          "points": 4
         },
         {
           "team": "Japan",
+          "code": "JPN",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 4,
-          "points": 4,
           "gf": 6,
-          "ga": 2
+          "ga": 2,
+          "gd": 4,
+          "points": 4
         },
         {
           "team": "Sweden",
+          "code": "SWE",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 6,
-          "ga": 6
+          "ga": 6,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Tunisia",
+          "code": "TUN",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -8,
-          "points": 0,
           "gf": 1,
-          "ga": 9
+          "ga": 9,
+          "gd": -8,
+          "points": 0
         }
       ]
     },
@@ -1874,47 +1898,51 @@
       "rows": [
         {
           "team": "Egypt",
+          "code": "EGY",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 2,
-          "points": 4,
           "gf": 4,
-          "ga": 2
+          "ga": 2,
+          "gd": 2,
+          "points": 4
         },
         {
           "team": "Iran",
+          "code": "IRN",
           "played": 2,
           "won": 0,
           "drawn": 2,
           "lost": 0,
-          "gd": 0,
-          "points": 2,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "Belgium",
+          "code": "BEL",
           "played": 2,
           "won": 0,
           "drawn": 2,
           "lost": 0,
-          "gd": 0,
-          "points": 2,
           "gf": 1,
-          "ga": 1
+          "ga": 1,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "New Zealand",
+          "code": "NZL",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -2,
-          "points": 1,
           "gf": 3,
-          "ga": 5
+          "ga": 5,
+          "gd": -2,
+          "points": 1
         }
       ]
     },
@@ -1923,47 +1951,51 @@
       "rows": [
         {
           "team": "Spain",
+          "code": "ESP",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 4,
-          "points": 4,
           "gf": 4,
-          "ga": 0
+          "ga": 0,
+          "gd": 4,
+          "points": 4
         },
         {
           "team": "Uruguay",
+          "code": "URU",
           "played": 2,
           "won": 0,
           "drawn": 2,
           "lost": 0,
-          "gd": 0,
-          "points": 2,
           "gf": 3,
-          "ga": 3
+          "ga": 3,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "Cabo Verde",
+          "code": "CPV",
           "played": 2,
           "won": 0,
           "drawn": 2,
           "lost": 0,
-          "gd": 0,
-          "points": 2,
           "gf": 2,
-          "ga": 2
+          "ga": 2,
+          "gd": 0,
+          "points": 2
         },
         {
           "team": "Saudi Arabia",
+          "code": "SAU",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -4,
-          "points": 1,
           "gf": 1,
-          "ga": 5
+          "ga": 5,
+          "gd": -4,
+          "points": 1
         }
       ]
     },
@@ -1972,47 +2004,51 @@
       "rows": [
         {
           "team": "France",
+          "code": "FRA",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 5,
-          "points": 6,
           "gf": 6,
-          "ga": 1
+          "ga": 1,
+          "gd": 5,
+          "points": 6
         },
         {
           "team": "Norway",
+          "code": "NOR",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 4,
-          "points": 6,
           "gf": 7,
-          "ga": 3
+          "ga": 3,
+          "gd": 4,
+          "points": 6
         },
         {
           "team": "Senegal",
+          "code": "SEN",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -3,
-          "points": 0,
           "gf": 3,
-          "ga": 6
+          "ga": 6,
+          "gd": -3,
+          "points": 0
         },
         {
           "team": "Iraq",
+          "code": "IRQ",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -6,
-          "points": 0,
           "gf": 1,
-          "ga": 7
+          "ga": 7,
+          "gd": -6,
+          "points": 0
         }
       ]
     },
@@ -2021,47 +2057,51 @@
       "rows": [
         {
           "team": "Argentina",
+          "code": "ARG",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 5,
-          "points": 6,
           "gf": 5,
-          "ga": 0
+          "ga": 0,
+          "gd": 5,
+          "points": 6
         },
         {
           "team": "Austria",
+          "code": "AUT",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": 0,
-          "points": 3,
           "gf": 3,
-          "ga": 3
+          "ga": 3,
+          "gd": 0,
+          "points": 3
         },
         {
           "team": "Algeria",
+          "code": "ALG",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": -2,
-          "points": 3,
           "gf": 2,
-          "ga": 4
+          "ga": 4,
+          "gd": -2,
+          "points": 3
         },
         {
           "team": "Jordan",
+          "code": "JOR",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -3,
-          "points": 0,
           "gf": 2,
-          "ga": 5
+          "ga": 5,
+          "gd": -3,
+          "points": 0
         }
       ]
     },
@@ -2070,47 +2110,51 @@
       "rows": [
         {
           "team": "Colombia",
+          "code": "COL",
           "played": 2,
           "won": 2,
           "drawn": 0,
           "lost": 0,
-          "gd": 3,
-          "points": 6,
           "gf": 4,
-          "ga": 1
+          "ga": 1,
+          "gd": 3,
+          "points": 6
         },
         {
           "team": "Portugal",
+          "code": "POR",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 5,
-          "points": 4,
           "gf": 6,
-          "ga": 1
+          "ga": 1,
+          "gd": 5,
+          "points": 4
         },
         {
           "team": "DR Congo",
+          "code": "COD",
           "played": 2,
           "won": 0,
           "drawn": 1,
           "lost": 1,
-          "gd": -1,
-          "points": 1,
           "gf": 1,
-          "ga": 2
+          "ga": 2,
+          "gd": -1,
+          "points": 1
         },
         {
           "team": "Uzbekistan",
+          "code": "UZB",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -7,
-          "points": 0,
           "gf": 1,
-          "ga": 8
+          "ga": 8,
+          "gd": -7,
+          "points": 0
         }
       ]
     },
@@ -2119,47 +2163,51 @@
       "rows": [
         {
           "team": "England",
+          "code": "ENG",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 2,
-          "points": 4,
           "gf": 4,
-          "ga": 2
+          "ga": 2,
+          "gd": 2,
+          "points": 4
         },
         {
           "team": "Ghana",
+          "code": "GHA",
           "played": 2,
           "won": 1,
           "drawn": 1,
           "lost": 0,
-          "gd": 1,
-          "points": 4,
           "gf": 1,
-          "ga": 0
+          "ga": 0,
+          "gd": 1,
+          "points": 4
         },
         {
           "team": "Croatia",
+          "code": "CRO",
           "played": 2,
           "won": 1,
           "drawn": 0,
           "lost": 1,
-          "gd": -1,
-          "points": 3,
           "gf": 3,
-          "ga": 4
+          "ga": 4,
+          "gd": -1,
+          "points": 3
         },
         {
           "team": "Panama",
+          "code": "PAN",
           "played": 2,
           "won": 0,
           "drawn": 0,
           "lost": 2,
-          "gd": -2,
-          "points": 0,
           "gf": 0,
-          "ga": 2
+          "ga": 2,
+          "gd": -2,
+          "points": 0
         }
       ]
     }
@@ -6259,9 +6307,9 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-24T15:42:16.638Z",
+    "fetchedAt": "2026-06-24T17:18:43.925Z",
     "mode": "scores-and-standings",
-    "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
+    "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
   "contentSync": {
     "provider": "rss+translation-cache",
