@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T19:54:22.982Z",
+  "fetchedAt": "2026-06-24T22:22:44.435Z",
   "errors": [
     {
       "source": "FIFA",
@@ -39,16 +39,6 @@
       "titleHash": "867e88037d9dd8aa67971c0d6231d35f"
     },
     {
-      "id": "180fa9e1078c0843d1b8779834fe1833",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Tuchel credits 'committed' Ghana defending after England draw",
-      "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-23",
-      "titleHash": "1dad5cf9f3a14d5104301978cae6392a"
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -59,14 +49,14 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "9a01c1ff9fa759669bcdead03a76793e",
+      "id": "180fa9e1078c0843d1b8779834fe1833",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
+      "title": "Tuchel credits 'committed' Ghana defending after England draw",
+      "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-23",
+      "titleHash": "1dad5cf9f3a14d5104301978cae6392a"
     },
     {
       "id": "a0d800f36c9c24e5c62264837a4bfe89",
@@ -77,6 +67,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-23",
       "titleHash": "6ee34d19c83e9012f5f8fffa502e8f77"
+    },
+    {
+      "id": "9a01c1ff9fa759669bcdead03a76793e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
     },
     {
       "id": "44fb5d41b40557aeb2fa32b75fc8502f",
@@ -109,24 +109,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "8d71e3a48b57794ce9964906626380ca",
+      "id": "d32aafee9d3851e869d0c6d13cf4468f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Switzerland v Canada: World Cup 2026 – live",
-      "summary": "<p>⚽ Match kicks off at 12pm local time/3pm ET/8pm BST<br>⚽ <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a></p><p><strong>“‘Switzerland and Canada have already qualified for the last 32 of the World Cup’,”</strong> writes Ric Arthur, throwing my words back at me. “Not according to the <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">guide</a> published this morning on these pages. I think you’re right, though. Which means they did not do their homework. But I can’t find a link to notify them of this.”</p><p>It’s true: mathematically, they haven’t qualified for the knockout stage. But they have.</p><p>Guillermo H2 Ochoa</p><p>Damp Burn</p><p>Rampamt Capitalisandro Martinez</p><p>Erictrolyte García</p><p>Jarell Quartah</p><p>Moistyouri Tielemans</p><p>Matheus Coolsya</p><p>Isotonick Woltemade</p><p>Siptor Gyökeres</p><p>Joe Irrigaetjens</p><p>Son Heung-Midity.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/switzerland-v-canada-world-cup-2026-live",
+      "title": "Scotland v Brazil: World Cup 2026 – live",
+      "summary": "<p>⚽ Kick-off: 11pm BST/6pm EDT/8am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>The BBC have flashed up a graphic of Scotland’s chances of reaching the knockout stage.</strong> It shows that if they win tonight, they’re 100 percent sure of getting through. A draw puts them on 99.99%. A defeat by one goal still gives them an 84.7% chance, while a two-goal loss drops the number down to 66.8%. All fairly promising, but then diminishing returns set in: a three-goal loss reduces the chance of progress to 49.2%, a four-goal defeat and it’s 38.7%, a five-goal stuffing and it’s just 31.3% and … well, if it gets much worse it’d probably be for the best to pack up and pop back over the briny. But there’s a big reminder that all hope is not lost should things go awry tonight.</p><p><strong>The first setback for Scotland tonight comes early.</strong> Bosnia and Herzegovina have already seen off Italy in the qualifiers, and now they’ve done for Qatar in Group B with a 3-1 win. Bosnia and Herzegovina therefore finish third in the group, and their four-point haul means one less potential lifeline for Scotland, who have three points in Group C, should they lose tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/scotland-v-brazil-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/scotland-v-brazil-world-cup-2026-live",
       "time": "2026-06-24",
-      "titleHash": "80a890180b1d9bf4d5a83506ddb42ab6"
+      "titleHash": "a2e36ac1743178add54226543e93ea8a"
     },
     {
-      "id": "ca11a7120bf8283b73fecfef48b60289",
+      "id": "4378215457ec0023917267af444c9fdc",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Bosnia and Herzegovina v Qatar: World Cup 2026 – live",
-      "summary": "<ul><li><p><strong>⚽ Match in Seattle kicks off at 12pm local time/3pm ET/8pm BST</strong></p></li><li><p><strong>⚽ </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://viewer.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:will.unwin.freelancer@theguardian.com\"><strong>Mail Will</strong></a></p></li></ul><p>Before each game in Bosnia and Herzegovina’s World Cup adventure, Sarajevo has blossomed with primary colours – and two distinct flags.</p><p>One is the national flag dating to 1998: blue and yellow diagonal halves emblazoned with a slanting line of white stars. The other has golden lilies on a blue shield set against a white background, and has a far deeper history, steeped in centuries of complexity. Its striking resurgence as a national symbol, showcased during Bosnia’s</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/bosnia-and-herzegovina-v-qatar-world-cup-2026-live",
+      "title": "Morocco v Haiti: World Cup 2026 – live",
+      "summary": "<p>⚽ Match kicks off at 6pm ET/11pm BST/8am AEST</p><p>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>No region benefited as much from the expansion of the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> as Africa. Earlier this week, Jonathan Wilson took a look at how the continent’s 10 teams – including Morocco – are doing:</p><p>Thiago Alcântara, in an appearance on Fox’s US prematch show, highlights how Morocco will be looking to remedy some of their recent scoring concerns in this matchup. Across the two games, the Atlas Lions have 26 shots, but just five on target and two goals to show.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/morocco-v-haiti-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/24/morocco-v-haiti-world-cup-2026-live",
       "time": "2026-06-24",
-      "titleHash": "e9590856ec92d335d8cd7e0ea417aca2"
+      "titleHash": "a9b0edf5e4a29735eec5e396de4f5fd7"
     },
     {
       "id": "3add915f4402ec792d2106155ee26020",
@@ -137,16 +137,6 @@
       "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
       "time": "2026-06-24",
       "titleHash": "7106b4fcad14cb67bd376fa5f41406f4"
-    },
-    {
-      "id": "3c979108185eef5748f0893a095ed57f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
-      "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest",
-      "time": "2026-06-24",
-      "titleHash": "109beaf687d1867f5e8db7d0bda1a478"
     },
     {
       "id": "2a7b84bbe5390fde4a284c779cbfc0c9",
