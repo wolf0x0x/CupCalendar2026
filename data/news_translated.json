@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T14:43:45.452Z",
+  "fetchedAt": "2026-06-24T17:09:06.196Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,150 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "86478b0a3ab4d54cacc465e8086548a5",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Pochettino: USMNT complacency was a 'big punch'",
+      "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49162699/pochettino-admits-naive-usmnt-culture-2024-arrival-world-cup-2026",
+      "time": "2026-06-24",
+      "titleHash": "c967ce146d102ffa4b1d7fc614d56264",
+      "translations": {
+        "es": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        },
+        "de": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Pochettino: USMNT complacency was a 'big punch'",
+          "summary": "USMNT coach Mauricio Pochettino admitted he felt 'naïve' about the program's complacency when he took over in 2024, but his efforts to transform the team have paid off with a dominant start to the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "2d5b2c41539db0a515055a63b0d4d20f",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+      "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament.",
+      "url": "https://www.espn.com/soccer/story/_/id/49161306/a-week-life-2026-world-cup-player-curacao-gervane-kastaneer",
+      "time": "2026-06-24",
+      "titleHash": "1e5368daf1c1ffbb3200c275c98854af",
+      "translations": {
+        "es": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        },
+        "pt": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        },
+        "fr": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        },
+        "de": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        },
+        "ja": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        },
+        "zh": {
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
+        }
+      }
+    },
+    {
+      "id": "e902846727007f7e995204aadab5a8eb",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily: Messi turns 39 with midnight work...",
+      "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time.",
+      "url": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
+      "time": "2026-06-24",
+      "titleHash": "897f87b3dc679ae9204be3aad0d8f8ad",
+      "translations": {
+        "es": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        },
+        "pt": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        },
+        "fr": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        },
+        "de": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        },
+        "ja": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        },
+        "zh": {
+          "title": "World Cup Daily: Messi turns 39 with midnight work...",
+          "summary": "We are now down to the final round of group stage matches at the 2026 FIFA World Cup, where all teams from the same group will be playing at the same time."
+        }
+      }
+    },
+    {
+      "id": "189c630027f6680da4dbd18d5be93314",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Every team's odds to win the World Cup",
+      "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-24",
+      "titleHash": "d49f7f6b73f8db49f441137495245028",
+      "translations": {
+        "es": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Every team's odds to win the World Cup",
+          "summary": "Odds for every team to advance from its group through the knockout stage and to win the 2026 World Cup."
         }
       }
     },
@@ -326,38 +470,38 @@
       }
     },
     {
-      "id": "035b48c803db0662eb95eb735b62c320",
+      "id": "d86d8156c99cedac7b7e4d7046a6b353",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
+      "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+      "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live",
       "time": "2026-06-24",
-      "titleHash": "0d552822893c43449c637cb015c9a409",
+      "titleHash": "6edd7ad389c7a748d6797bfe57bcef1e",
       "translations": {
         "es": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
-          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@theguardian.com\">Mail Daniel</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+          "summary": "<p>⚽ All the latest news on a day packed with six matches<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:John.Brewin@guardian.co.uk\">Mail John</a></p><p><strong>How do we feel about the penalty that wasn’t?</strong></p><p>I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live\">Continue reading...</a>"
         }
       }
     },
@@ -398,42 +542,6 @@
       }
     },
     {
-      "id": "6686f5fa2091de7b8c4e4609e25550cf",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-      "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026",
-      "time": "2026-06-24",
-      "titleHash": "19c96d4aa3b9b1665818ee2a76fdc2b0",
-      "translations": {
-        "es": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "‘Not much faith’: the view from Brazil as they prepare to face Scotland",
-          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst ever qualifying campaign. Being competitive in a 2-1 defeat to France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
-        }
-      }
-    },
-    {
       "id": "2a7b84bbe5390fde4a284c779cbfc0c9",
       "source": "The Guardian",
       "tag": "RSS",
@@ -470,6 +578,42 @@
       }
     },
     {
+      "id": "3c979108185eef5748f0893a095ed57f",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+      "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest",
+      "time": "2026-06-24",
+      "titleHash": "109beaf687d1867f5e8db7d0bda1a478",
+      "translations": {
+        "es": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Red-hot strikers, errors and smart subs: why the 2026 World Cup is a goal-fest",
+          "summary": "<p>This tournament is shaping up to be the most prolific since 1970 – if Messi, Mbappé and co can keep up the pace</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The 2026 World Cup has begun in very entertaining fashion. On Wednesday we reached the point at which all 48 nations had played twice, with only four of the matches ending goalless.</p><p>Even then, three of the 0-0 draws delivered <a href=\"https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report\">unexpected points for Cape Verde</a>, <a href=\"https://www.theguardian.com/football/2026/jun/21/curacao-ecuador-world-cup-group-e-match-report\">Curaçao</a> and <a href=\"https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report\">Iran</a> against Spain, Ecuador and Belgium respectively. There was a gripping tension and excitement to override the lack of goals each time. <a href=\"https://www.theguardian.com/football/2026/jun/23/england-ghana-world-cup-group-l-match-report\">England also drew 0-0 with Ghana</a> in a rather more boring match, but you can’t have everything.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/red-hot-strikers-errors-and-smart-subs-why-the-2026-world-cup-is-a-goal-fest\">Continue reading...</a>"
+        }
+      }
+    },
+    {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
@@ -502,6 +646,42 @@
         "zh": {
           "title": "World Cup 2026: guide to all 1,248 players",
           "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "7529770884e5d3f8b08c44283512ad36",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+      "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026",
+      "time": "2026-06-24",
+      "titleHash": "f6da26af882bad51a3b766424df0ec27",
+      "translations": {
+        "es": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+          "summary": "<p>Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army</p><p>The big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “<em><a href=\"https://www.youtube.com/watch?v=0ZEQTlyieWs\">la cuarta estrella</a></em>” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.</p><p>However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026\">Continue reading...</a>"
         }
       }
     },
