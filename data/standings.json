@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-24T01:32:04.204Z",
+  "syncedAt": "2026-06-24T05:50:14.988Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -536,6 +536,18 @@
       "group": "Group K",
       "rows": [
         {
+          "team": "Colombia",
+          "code": "COL",
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "gf": 4,
+          "ga": 1,
+          "gd": 3,
+          "points": 6
+        },
+        {
           "team": "Portugal",
           "code": "POR",
           "played": 2,
@@ -548,27 +560,15 @@
           "points": 4
         },
         {
-          "team": "Colombia",
-          "code": "COL",
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "gf": 3,
-          "ga": 1,
-          "gd": 2,
-          "points": 3
-        },
-        {
           "team": "DR Congo",
           "code": "COD",
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "ga": 2,
+          "gd": -1,
           "points": 1
         },
         {

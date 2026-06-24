@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-24T01:32:04.204Z",
+  "syncedAt": "2026-06-24T05:50:14.988Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -890,11 +890,11 @@
       "time": "20:00",
       "home": "Colombia",
       "away": "DR Congo",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": "1 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "2",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
