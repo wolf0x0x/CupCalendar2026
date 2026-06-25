@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-24T23:43:14.774Z",
+  "syncedAt": "2026-06-25T01:50:55.031Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -114,49 +114,49 @@
         {
           "team": "Brazil",
           "code": "BRA",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "gf": 4,
+          "gf": 7,
           "ga": 1,
-          "gd": 3,
-          "points": 4
+          "gd": 6,
+          "points": 7
         },
         {
           "team": "Morocco",
           "code": "MAR",
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "gf": 2,
-          "ga": 1,
-          "gd": 1,
-          "points": 4
+          "gf": 6,
+          "ga": 3,
+          "gd": 3,
+          "points": 7
         },
         {
           "team": "Scotland",
           "code": "SCO",
-          "played": 2,
+          "played": 3,
           "won": 1,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "gf": 1,
-          "ga": 1,
-          "gd": 0,
+          "ga": 4,
+          "gd": -3,
           "points": 3
         },
         {
           "team": "Haiti",
           "code": "HAI",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "gf": 0,
-          "ga": 4,
-          "gd": -4,
+          "lost": 3,
+          "gf": 2,
+          "ga": 8,
+          "gd": -6,
           "points": 0
         }
       ]
