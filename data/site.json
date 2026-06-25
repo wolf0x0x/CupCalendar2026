@@ -5946,36 +5946,138 @@
       }
     },
     {
-      "source": "BBC",
+      "source": "ESPN",
       "tag": "RSS",
-      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+      "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action.",
+      "url": "https://www.espn.com/soccer/story/_/id/49172255/world-cup-daily-live-neymar-inspired-lewis-hamilton-brazil-return-usmnt-action",
+      "time": "2026-06-25",
+      "translations": {
+        "es": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "pt": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "fr": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "de": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "ja": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "zh": {
+          "title": "World Cup Daily: Emotional Neymar inspired by Lewi...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+      "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California.",
+      "url": "https://www.espn.com/soccer/story/_/id/49171253/christian-pulisic-weston-mckennie-zendejas-pizza-usmnt-world-cup-golf-carts",
+      "time": "2026-06-25",
+      "translations": {
+        "es": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "pt": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "fr": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "de": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "ja": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "zh": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-25",
+      "translations": {
+        "es": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "pt": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "fr": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "de": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "ja": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "zh": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+      "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament.",
+      "url": "https://www.espn.com/soccer/story/_/id/49161306/a-week-life-2026-world-cup-player-curacao-gervane-kastaneer",
       "time": "2026-06-24",
       "translations": {
         "es": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         },
         "pt": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         },
         "fr": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         },
         "de": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         },
         "ja": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         },
         "zh": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Crying long before the anthems': A week in the life of a 2026 World Cup player",
+          "summary": "What is it like to be one of the 1,200 players at this World Cup? Curacao forward Gervane Kastaneer reveals what life is really like during soccer's biggest tournament."
         }
       }
     },
@@ -6010,6 +6112,40 @@
         "zh": {
           "title": "Best World Cup stadium? BBC Sport experts have their say",
           "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "translations": {
+        "es": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
         }
       }
     },
@@ -6114,142 +6250,6 @@
           "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How to watch highlights of World Cup matches",
-      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "pt": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "fr": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "de": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "ja": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        },
-        "zh": {
-          "title": "How to watch highlights of World Cup matches",
-          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why are footballers wearing pink boots at the World Cup?",
-      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-11",
-      "translations": {
-        "es": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "pt": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "fr": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "de": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "ja": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        },
-        "zh": {
-          "title": "Why are footballers wearing pink boots at the World Cup?",
-          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
-        }
-      }
-    },
-    {
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-      "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
-      "time": "2026-06-25",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
-          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-06-04",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-25T14:43:09.232Z",
-    "newsItems": 10,
-    "translationQueue": 12,
+    "fetchedAt": "2026-06-25T17:17:40.700Z",
+    "newsItems": 14,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",
