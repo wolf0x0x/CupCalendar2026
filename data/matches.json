@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-25T06:09:09.097Z",
+  "syncedAt": "2026-06-25T09:44:57.469Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -976,14 +976,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-76",
+      "id": "brazil-tbd-76",
       "sourceId": "76",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-29",
       "time": "12:00",
-      "home": "TBD",
+      "home": "Brazil",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
@@ -1261,14 +1261,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-canada-73",
+      "id": "south-africa-canada-73",
       "sourceId": "73",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-28",
       "time": "12:00",
-      "home": "TBD",
+      "home": "South Africa",
       "away": "Canada",
       "homeScore": null,
       "awayScore": null,
@@ -1850,7 +1850,7 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-75",
+      "id": "tbd-morocco-75",
       "sourceId": "75",
       "type": "r32",
       "group": "R32",
@@ -1858,7 +1858,7 @@
       "date": "2026-06-29",
       "time": "19:00",
       "home": "TBD",
-      "away": "TBD",
+      "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
