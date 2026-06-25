@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T20:09:34.910Z",
+  "fetchedAt": "2026-06-25T22:24:29.683Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,150 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "55885350150e8b7a64da8a6982cbc582",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+      "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action.",
+      "url": "https://www.espn.com/soccer/story/_/id/49172255/world-cup-daily-live-neymar-inspired-lewis-hamilton-brazil-return-usmnt-action",
+      "time": "2026-06-25",
+      "titleHash": "6ae53073cd0a7c939f70edc5d8c4d219",
+      "translations": {
+        "es": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "pt": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "fr": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "de": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "ja": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        },
+        "zh": {
+          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
+          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+        }
+      }
+    },
+    {
+      "id": "febf5ad6f6bfee015849da374b50efde",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+      "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California.",
+      "url": "https://www.espn.com/soccer/story/_/id/49171253/christian-pulisic-weston-mckennie-zendejas-pizza-usmnt-world-cup-golf-carts",
+      "time": "2026-06-25",
+      "titleHash": "ffef61968ce40bbbd18c6a3917ba5d6e",
+      "translations": {
+        "es": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "pt": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "fr": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "de": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "ja": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        },
+        "zh": {
+          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
+          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
+        }
+      }
+    },
+    {
+      "id": "45f9b7c7c31dc4c6585dbfc91c3cc6cf",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-25",
+      "titleHash": "60773963f17d2d2c7e5fe2447639bb8a",
+      "translations": {
+        "es": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "pt": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "fr": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "de": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "ja": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "zh": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        }
+      }
+    },
+    {
+      "id": "919bb26343391c395e90b7c3c77e6e15",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+      "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-25",
+      "titleHash": "3164c363bbac0d8e57396cae6d37f437",
+      "translations": {
+        "es": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+        },
+        "pt": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+        },
+        "fr": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+        },
+        "de": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+        },
+        "ja": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+        },
+        "zh": {
+          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
+          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
         }
       }
     },
@@ -106,42 +250,6 @@
         "zh": {
           "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "c5f495c75b35d19a122113216cffa582",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Colombia qualify for last 32 with win over DR Congo",
-      "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20ypnr52k3o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "867e88037d9dd8aa67971c0d6231d35f",
-      "translations": {
-        "es": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
-        },
-        "pt": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
-        },
-        "fr": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
-        },
-        "de": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
-        },
-        "ja": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
-        },
-        "zh": {
-          "title": "Colombia qualify for last 32 with win over DR Congo",
-          "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage."
         }
       }
     },
@@ -254,74 +362,146 @@
       }
     },
     {
-      "id": "675688770c62dffa2e501d56518560bf",
+      "id": "b746689e2dfe4f2fc22cbe70c0d6e628",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Ecuador v Germany: World Cup 2026 – live",
+      "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
       "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live",
       "time": "2026-06-25",
-      "titleHash": "5f16e8c3ebaa99745f773fe4e6ba204e",
+      "titleHash": "fbc6673d9708d46ec4f94f36ad660ed0",
       "translations": {
         "es": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Ecuador v Germany: World Cup 2026 – live",
+          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "02e1f9bd9b25a41eb75b5a15fad367f8",
+      "id": "d4eadc41382b004bc4636c4da9d73e73",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+      "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
       "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live",
       "time": "2026-06-25",
-      "titleHash": "8a9308798840f4c0ee9106457f534a63",
+      "titleHash": "9acfd1e1353d139a4aa50345cb2b0bd0",
       "translations": {
         "es": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Curaçao v Côte d’Ivoire: World Cup 2026 – live",
+          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
           "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "99cfed5d2e999d698fdcb06d705868ee",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Tunisia v Netherlands: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live",
+      "time": "2026-06-25",
+      "titleHash": "c7d7b589cba1d6a822c954e8262bd56e",
+      "translations": {
+        "es": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Tunisia v Netherlands: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "f8e6e2f121105f4b3444fd88657c0331",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Japan v Sweden: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live",
+      "time": "2026-06-25",
+      "titleHash": "4eb489476b06e0f93b3dc5228ee7db38",
+      "translations": {
+        "es": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Japan v Sweden: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
@@ -330,70 +510,34 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-      "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>",
+      "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up",
       "time": "2026-06-25",
       "titleHash": "fad754ede363fc866e455102ccd06a2e",
       "translations": {
         "es": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         },
         "pt": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         },
         "fr": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         },
         "de": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         },
         "ja": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         },
         "zh": {
           "title": "Erling Haaland v Kylian Mbappé: how the Norway and France hitmen match up",
-          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty box player, capable of finding space in the most dangerous areas where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-06-04",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+          "summary": "<p>Two of the best forwards in the game face each other in the World Cup on Friday. Their most dramatic contrast is in international football</p><p>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot: World Cup 2026 top goalscorers</a><br>• <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>Norway v France is arguably the most talent-loaded fixture in the World Cup group stage. Transfermarkt’s combined estimated market value of the two squads is higher than for any of the other 71 matches in this phase of the tournament. Yet the vast majority of the attention at Boston Stadium will be focused on just two men: Erling Haaland and Kylian Mbappé, who are already in the leading pack to win the <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">World Cup Golden Boot</a> for top goalscorers, both scoring twice in each of their first two games.</p><p>They are very different types of forward. The Norwegian is the ultimate penalty area player, capable of finding space in the most dangerous spots where none appears to exist. His French counterpart is far more comfortable dribbling from wide areas, completing as many take-ons in two games as the Manchester City man does all season. Despite their contrasting styles, they have delivered near-identical output in Europe’s big five leagues since Haaland made his debut for Borussia Dortmund in January 2020.</p> <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Continue reading...</a>"
         }
       }
     }
