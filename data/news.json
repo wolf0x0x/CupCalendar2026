@@ -36,42 +36,6 @@
     }
   },
   {
-    "id": "1208fe6f9624dc8a39de0f4b41aacd99",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Best World Cup stadium? BBC Sport experts have their say",
-    "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-25",
-    "titleHash": "21f5320cfa30e451fe739ae15e9bbdaf",
-    "translations": {
-      "es": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      },
-      "de": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Best World Cup stadium? BBC Sport experts have their say",
-        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
-      }
-    }
-  },
-  {
     "id": "6e8ca6e0a8168c3336ae022d652691a6",
     "source": "BBC",
     "tag": "RSS",
@@ -104,6 +68,42 @@
       "zh": {
         "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "1208fe6f9624dc8a39de0f4b41aacd99",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Best World Cup stadium? BBC Sport experts have their say",
+    "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-25",
+    "titleHash": "21f5320cfa30e451fe739ae15e9bbdaf",
+    "translations": {
+      "es": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+      },
+      "de": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Best World Cup stadium? BBC Sport experts have their say",
+        "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
       }
     }
   },
@@ -288,38 +288,38 @@
     }
   },
   {
-    "id": "ae5cb53d1df938e2f73b2d2e002f0d05",
+    "id": "ac6557ae91744410b5f3f280e08aebc1",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-    "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>",
+    "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+    "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>",
     "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
     "time": "2026-06-25",
-    "titleHash": "41c658a2af4f3a7445f6c65a81c7b964",
+    "titleHash": "50836aaaa09e284b9e59501411a03f85",
     "translations": {
       "es": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       },
       "pt": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       },
       "fr": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       },
       "de": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       },
       "ja": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       },
       "zh": {
-        "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
+        "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/vehicle-hits-crowd-in-cabo-san-lucas-after-mexicos-world-cup-victory-over-czechia\">Vehicle hits crowd in Mexico</a><br>⚽ <a href=\"https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything\">World Cup Q&amp;A: post your questions for our US team</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
       }
     }
   },
