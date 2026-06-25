@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T04:06:05.749Z",
+  "fetchedAt": "2026-06-25T09:33:37.226Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "1208fe6f9624dc8a39de0f4b41aacd99",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Best World Cup stadium? BBC Sport experts have their say",
+      "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vy3grvpg6o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-25",
+      "titleHash": "21f5320cfa30e451fe739ae15e9bbdaf",
+      "translations": {
+        "es": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Best World Cup stadium? BBC Sport experts have their say",
+          "summary": "BBC Sport reporters have their say on the best stadium experiences at the 2026 World Cup."
         }
       }
     },
@@ -146,42 +182,6 @@
       }
     },
     {
-      "id": "9a01c1ff9fa759669bcdead03a76793e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1",
-      "translations": {
-        "es": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "pt": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "fr": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "de": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "ja": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "zh": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        }
-      }
-    },
-    {
       "id": "44fb5d41b40557aeb2fa32b75fc8502f",
       "source": "BBC",
       "tag": "RSS",
@@ -290,74 +290,38 @@
       }
     },
     {
-      "id": "3add915f4402ec792d2106155ee26020",
+      "id": "ae5cb53d1df938e2f73b2d2e002f0d05",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-      "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
+      "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+      "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live",
       "time": "2026-06-25",
-      "titleHash": "7106b4fcad14cb67bd376fa5f41406f4",
+      "titleHash": "41c658a2af4f3a7445f6c65a81c7b964",
       "translations": {
         "es": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-          "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "2a7b84bbe5390fde4a284c779cbfc0c9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-      "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures",
-      "time": "2026-06-24",
-      "titleHash": "918859a456ffd45b8e6bda7df6da8304",
-      "translations": {
-        "es": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Screen epics: World Cup 2026 viewing parties around the globe – in pictures",
-          "summary": "<p>Photographs from across Europe, Asia, Africa and the Americas show communities gathering to watch the greatest show on earth</p><p>Viewing figures for the 2026 World Cup have been massive so far, with footy-mad audiences lapping up the coverage. <a href=\"https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report\">England’s victory over Croatia</a> had a peak audience of 15.4 million on ITV, but that was nothing compared to Brazil where more than 30 million people watched as the <a href=\"https://www.theguardian.com/football/2026/jun/20/brazil-haiti-world-cup-match-report\">Seleçao beat Haiti</a>. In Japan, the Samurai Blue drew a crowd of more than 20 million to Nippon TV for <a href=\"https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report\">their match with Tunisia</a>, while crowds watching the game on their phones flooded across Shibuya Crossing to celebrate a goal (pictured below). Of course, the real blockbuster games are still to come: <a href=\"https://www.theguardian.com/football/2022/dec/18/world-cup-final-argentina-france-match-report\">the 2022 World Cup final</a> between Argentina and France reached an average live audience of 571 million viewers globally, according to Fifa.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">Continue reading...</a>"
+          "title": "World Cup 2026: Scotland on brink after Brazil defeat, South Africa advance, and more – live",
+          "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Knockout permutations</a><br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Mauricio Pochettino’s US team are having a great time at home</strong> – but the last couple years haven’t been all that easy, writes Jeff Rueter.</p><p><strong>For more permutations chat, click below:</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live\">Continue reading...</a>"
         }
       }
     },
