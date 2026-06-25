@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-25T21:12:15.844Z",
+  "syncedAt": "2026-06-25T22:48:13.373Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1632,10 +1632,10 @@
       "home": "Curaçao",
       "away": "Ivory Coast",
       "homeScore": 0,
-      "awayScore": 1,
-      "score": "0 - 1",
-      "status": "live",
-      "finished": false,
+      "awayScore": 2,
+      "score": "0 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "10",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1650,11 +1650,11 @@
       "time": "16:00",
       "home": "Ecuador",
       "away": "Germany",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
-      "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "score": "2 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
