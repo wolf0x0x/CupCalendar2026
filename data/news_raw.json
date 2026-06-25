@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T22:22:44.435Z",
+  "fetchedAt": "2026-06-25T04:06:05.749Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-24",
+      "time": "2026-06-25",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -29,16 +29,6 @@
       "titleHash": "495c660f206bd5b424e3a1e662ca2986"
     },
     {
-      "id": "c5f495c75b35d19a122113216cffa582",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Colombia qualify for last 32 with win over DR Congo",
-      "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20ypnr52k3o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "867e88037d9dd8aa67971c0d6231d35f"
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -49,24 +39,14 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "180fa9e1078c0843d1b8779834fe1833",
+      "id": "c5f495c75b35d19a122113216cffa582",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Tuchel credits 'committed' Ghana defending after England draw",
-      "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-23",
-      "titleHash": "1dad5cf9f3a14d5104301978cae6392a"
-    },
-    {
-      "id": "a0d800f36c9c24e5c62264837a4bfe89",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Mendes scores 'brilliant' second goal for Portugal",
-      "summary": "Nuno Mendes and Cristiano Ronaldo trick the entire stadium to score a second goal for Portugal against Uzbekistan in their Group K match in the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crkvjekjngno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-23",
-      "titleHash": "6ee34d19c83e9012f5f8fffa502e8f77"
+      "title": "Colombia qualify for last 32 with win over DR Congo",
+      "summary": "Daniel Munoz's deflected strike is enough for Colombia to beat DR Congo and secure their place in the 2026 World Cup knockout stage.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20ypnr52k3o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "867e88037d9dd8aa67971c0d6231d35f"
     },
     {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
@@ -109,33 +89,13 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "d32aafee9d3851e869d0c6d13cf4468f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Scotland v Brazil: World Cup 2026 – live",
-      "summary": "<p>⚽ Kick-off: 11pm BST/6pm EDT/8am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>The BBC have flashed up a graphic of Scotland’s chances of reaching the knockout stage.</strong> It shows that if they win tonight, they’re 100 percent sure of getting through. A draw puts them on 99.99%. A defeat by one goal still gives them an 84.7% chance, while a two-goal loss drops the number down to 66.8%. All fairly promising, but then diminishing returns set in: a three-goal loss reduces the chance of progress to 49.2%, a four-goal defeat and it’s 38.7%, a five-goal stuffing and it’s just 31.3% and … well, if it gets much worse it’d probably be for the best to pack up and pop back over the briny. But there’s a big reminder that all hope is not lost should things go awry tonight.</p><p><strong>The first setback for Scotland tonight comes early.</strong> Bosnia and Herzegovina have already seen off Italy in the qualifiers, and now they’ve done for Qatar in Group B with a 3-1 win. Bosnia and Herzegovina therefore finish third in the group, and their four-point haul means one less potential lifeline for Scotland, who have three points in Group C, should they lose tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/scotland-v-brazil-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/scotland-v-brazil-world-cup-2026-live",
-      "time": "2026-06-24",
-      "titleHash": "a2e36ac1743178add54226543e93ea8a"
-    },
-    {
-      "id": "4378215457ec0023917267af444c9fdc",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Morocco v Haiti: World Cup 2026 – live",
-      "summary": "<p>⚽ Match kicks off at 6pm ET/11pm BST/8am AEST</p><p>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>No region benefited as much from the expansion of the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> as Africa. Earlier this week, Jonathan Wilson took a look at how the continent’s 10 teams – including Morocco – are doing:</p><p>Thiago Alcântara, in an appearance on Fox’s US prematch show, highlights how Morocco will be looking to remedy some of their recent scoring concerns in this matchup. Across the two games, the Atlas Lions have 26 shots, but just five on target and two goals to show.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/24/morocco-v-haiti-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/24/morocco-v-haiti-world-cup-2026-live",
-      "time": "2026-06-24",
-      "titleHash": "a9b0edf5e4a29735eec5e396de4f5fd7"
-    },
-    {
       "id": "3add915f4402ec792d2106155ee26020",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "World Cup 2026: third-place table, who has qualified and who needs what?",
-      "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; disciplinary points; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>",
+      "summary": "<p>With the group stage hurtling towards its end we look at who needs what to make the knockout phase</p><p>Teams level on points are separated, in order, by head-to-head points; head-to-head goal difference; head-to-head goals scored; overall goal difference; overall goals scored; team conduct score; Fifa ranking.</p> <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada",
-      "time": "2026-06-24",
+      "time": "2026-06-25",
       "titleHash": "7106b4fcad14cb67bd376fa5f41406f4"
     },
     {
@@ -157,16 +117,6 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-06-04",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
-    },
-    {
-      "id": "c54ded1c98c97394656d61015dd476ee",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "A history of World Cup red cards: high feet, lost heads and a covered mouth",
-      "summary": "<p>Miguel Almirón’s dismissal was unusual but there’s nothing new about players losing their cool on the biggest stage</p><p>After a fairly pedestrian first half of the <a href=\"https://www.theguardian.com/football/2026/jun/11/mexico-south-africa-world-cup-2026-group-a-match-report\">opening match of the 2026 World Cup</a>, the game burst into life in the second period. South Africa midfielder Sphephelo Sithole, who had been at fault for Mexico’s opening goal, compounded his error by being sent off in the 49th minute for denying a goalscoring opportunity. When Themba Zwane was dismissed, South Africa became the 15th team to have two players sent off in the same World Cup match.</p><p>There was time for one more red card before full-time, the Mexico centre-back César Montes seeing red in stoppage time and following in the footsteps of his manager, Javier Aguirre, who was sent off while playing for Mexico in the 1986 quarter-final against West Germany in Monterrey.</p> <a href=\"https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/22/world-cup-red-cards-history",
-      "time": "2026-06-22",
-      "titleHash": "14e860f95586a71d124eb0565dd87661"
     }
   ]
 }
