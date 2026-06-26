@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T19:58:44.212Z",
+  "fetchedAt": "2026-06-26T22:18:25.568Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,16 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "b5947836b0ecf4069b545c9bc8d1c75a",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
+      "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crel3jzn5j0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "9dbade14f46b7c37d24d01457dbabf45"
+    },
+    {
       "id": "1d4b9e946bfe50b8f3da0f43bf300156",
       "source": "BBC",
       "tag": "RSS",
@@ -27,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "b2a8f361a3fbb675533ed30832995f5e"
+    },
+    {
+      "id": "a20417f6aebfd4480ea9bff331e3aa67",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+      "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "77b48eeaf01d6931adb1dbdf576d7336"
     },
     {
       "id": "6e8ca6e0a8168c3336ae022d652691a6",
@@ -109,24 +129,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "1188be4fd18c05f76685fdd9d001578d",
+      "id": "408dc3fba9899570bda5d6e8abfdf67b",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Norway v France: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates",
+      "title": "Uruguay v Spain: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live",
       "time": "2026-06-26",
-      "titleHash": "0958a2b01307ab752107778619cb23e0"
+      "titleHash": "9828a80ddafe5c10cd08133657dbb730"
     },
     {
-      "id": "dd502bcca15bad211786dae1b14c725a",
+      "id": "a8002c7b266e9fd0dad9073c99a538cd",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Senegal v Iraq: World Cup 2026 – live",
-      "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates",
+      "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live",
       "time": "2026-06-26",
-      "titleHash": "f65c17403fd90ba42c0f1d7fae555fcf"
+      "titleHash": "995d624afb0a1e5700b618d967ffb096"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
