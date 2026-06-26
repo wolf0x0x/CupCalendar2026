@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-26T21:20:02.314Z",
+  "syncedAt": "2026-06-26T22:45:32.317Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -432,49 +432,49 @@
         {
           "team": "France",
           "code": "FRA",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "gf": 6,
-          "ga": 1,
-          "gd": 5,
-          "points": 6
+          "gf": 10,
+          "ga": 2,
+          "gd": 8,
+          "points": 9
         },
         {
           "team": "Norway",
           "code": "NOR",
-          "played": 2,
+          "played": 3,
           "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "gf": 7,
-          "ga": 3,
-          "gd": 4,
+          "lost": 1,
+          "gf": 8,
+          "ga": 7,
+          "gd": 1,
           "points": 6
         },
         {
           "team": "Senegal",
           "code": "SEN",
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 3,
+          "gf": 8,
           "ga": 6,
-          "gd": -3,
-          "points": 0
+          "gd": 2,
+          "points": 3
         },
         {
           "team": "Iraq",
           "code": "IRQ",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "gf": 1,
-          "ga": 7,
-          "gd": -6,
+          "ga": 12,
+          "gd": -11,
           "points": 0
         }
       ]

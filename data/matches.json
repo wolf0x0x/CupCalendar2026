@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-26T21:20:02.314Z",
+  "syncedAt": "2026-06-26T22:45:32.317Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -377,11 +377,11 @@
       "time": "15:00",
       "home": "Senegal",
       "away": "Iraq",
-      "homeScore": 1,
+      "homeScore": 5,
       "awayScore": 0,
-      "score": "1 - 0",
-      "status": "live",
-      "finished": false,
+      "score": "5 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "12",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -891,10 +891,10 @@
       "home": "Norway",
       "away": "France",
       "homeScore": 1,
-      "awayScore": 3,
-      "score": "1 - 3",
-      "status": "live",
-      "finished": false,
+      "awayScore": 4,
+      "score": "1 - 4",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "9",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1280,14 +1280,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-77",
+      "id": "france-tbd-77",
       "sourceId": "77",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-30",
       "time": "17:00",
-      "home": "TBD",
+      "home": "France",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
@@ -1869,7 +1869,7 @@
       "validation": "primary"
     },
     {
-      "id": "ivory-coast-tbd-78",
+      "id": "ivory-coast-norway-78",
       "sourceId": "78",
       "type": "r32",
       "group": "R32",
@@ -1877,7 +1877,7 @@
       "date": "2026-06-30",
       "time": "12:00",
       "home": "Ivory Coast",
-      "away": "TBD",
+      "away": "Norway",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
