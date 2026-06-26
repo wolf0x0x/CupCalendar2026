@@ -36,114 +36,6 @@
     }
   },
   {
-    "id": "8c3045e128422bfb5f2d5b9d04548663",
-    "source": "ESPN",
-    "tag": "RSS",
-    "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-    "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage.",
-    "url": "https://www.espn.com/soccer/story/_/id/49182645/world-cup-daily-yamal-gets-wwe-belt-france-norway-action-heavyweight-group-decider",
-    "time": "2026-06-26",
-    "titleHash": "f8ea83d97fbd098290f44d36c9671964",
-    "translations": {
-      "es": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      },
-      "pt": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      },
-      "fr": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      },
-      "de": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      },
-      "ja": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      },
-      "zh": {
-        "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
-        "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage."
-      }
-    }
-  },
-  {
-    "id": "5cb3afc9ce89b3e509796d6d60bb87fd",
-    "source": "ESPN",
-    "tag": "RSS",
-    "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-    "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever.",
-    "url": "https://www.espn.com/soccer/story/_/id/49154542/why-algeria-austria-2026-world-cup-biggest-grudge-match-west-germany-1982-disgrace-gijon",
-    "time": "2026-06-26",
-    "titleHash": "6096a612ab59432893af1a3fd1015a18",
-    "translations": {
-      "es": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      },
-      "pt": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      },
-      "fr": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      },
-      "de": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      },
-      "ja": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      },
-      "zh": {
-        "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-        "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-      }
-    }
-  },
-  {
-    "id": "45f9b7c7c31dc4c6585dbfc91c3cc6cf",
-    "source": "ESPN",
-    "tag": "RSS",
-    "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-    "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-    "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-    "time": "2026-06-26",
-    "titleHash": "60773963f17d2d2c7e5fe2447639bb8a",
-    "translations": {
-      "es": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      },
-      "pt": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      },
-      "fr": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      },
-      "de": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      },
-      "ja": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      },
-      "zh": {
-        "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-        "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-      }
-    }
-  },
-  {
     "id": "1d4b9e946bfe50b8f3da0f43bf300156",
     "source": "BBC",
     "tag": "RSS",
@@ -252,42 +144,6 @@
     }
   },
   {
-    "id": "4f3bc52fb379a36703a97f058667014a",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "How are the TV picks decided for the World Cup's round of 32?",
-    "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-26",
-    "titleHash": "ba67ebac0def879c14c0e183859ea7d2",
-    "translations": {
-      "es": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      },
-      "pt": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      },
-      "fr": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      },
-      "de": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      },
-      "ja": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      },
-      "zh": {
-        "title": "How are the TV picks decided for the World Cup's round of 32?",
-        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-      }
-    }
-  },
-  {
     "id": "d84064d2097e399459c3d126cdf45a51",
     "source": "BBC",
     "tag": "RSS",
@@ -356,6 +212,42 @@
       "zh": {
         "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
         "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
+      }
+    }
+  },
+  {
+    "id": "4f3bc52fb379a36703a97f058667014a",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "How are the TV picks decided for the World Cup's round of 32?",
+    "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-26",
+    "titleHash": "ba67ebac0def879c14c0e183859ea7d2",
+    "translations": {
+      "es": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+      },
+      "pt": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+      },
+      "fr": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+      },
+      "de": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+      },
+      "ja": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+      },
+      "zh": {
+        "title": "How are the TV picks decided for the World Cup's round of 32?",
+        "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
       }
     }
   },
@@ -468,38 +360,74 @@
     }
   },
   {
-    "id": "f7e162750de7a0e2c09ab38fbafefda9",
+    "id": "1188be4fd18c05f76685fdd9d001578d",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-    "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live",
+    "title": "Norway v France: World Cup 2026 – live",
+    "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates",
     "time": "2026-06-26",
-    "titleHash": "24e2f68cfca4aeebc2283ba3767cda67",
+    "titleHash": "0958a2b01307ab752107778619cb23e0",
     "translations": {
       "es": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
       },
       "pt": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
       },
       "fr": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
       },
       "de": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
       },
       "ja": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
       },
       "zh": {
-        "title": "World Cup 2026: James set to miss Panama match; Schweinsteiger defends Côte d’Ivoire comments – live",
-        "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:John.Brewin@theguardian.com\">Mail John</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>"
+        "title": "Norway v France: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Senegal v Iraq – live updates from the group’s other game</a></p><p><strong>Pre-match postbag.</strong> “Off to our local village salle des fêtes shortly for what’s known in this part of France as an auberge espagnol - you all bring a couple of dishes and share them communally. Then the match shown on a big screen. Loyalty to my country of residence means I shall have to support France, but Norway do have two Fulham players in the squad, so a little part of me …” – Richard Hirst</p><p>“Been traveling and I am now going to settle down in the hotel bar in front of their giant screen for the match, but the point is, if this WC were to be played in Europe today, we would need six hydration breaks. The weather is TERRIBLE” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "dd502bcca15bad211786dae1b14c725a",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Senegal v Iraq: World Cup 2026 – live",
+    "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates",
+    "time": "2026-06-26",
+    "titleHash": "f65c17403fd90ba42c0f1d7fae555fcf",
+    "translations": {
+      "es": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Senegal v Iraq: World Cup 2026 – live",
+        "summary": "<p>⚽️ World Cup kick-off time: 3pm EDT/8pm BST/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/norway-v-france-world-cup-2026-live-updates\">Norway v France – live updates elsewhere in the group</a></p><p><strong>Norway have rested Haaland and have made 10 changes for the France game!</strong></p><p>Clearly this match here is the one to watch tonight.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/senegal-v-iraq-world-cup-2026-live-updates\">Continue reading...</a>"
       }
     }
   },
