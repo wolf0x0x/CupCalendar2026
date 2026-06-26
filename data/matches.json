@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-26T13:29:06.287Z",
+  "syncedAt": "2026-06-26T15:53:35.126Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -444,14 +444,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-88",
+      "id": "australia-tbd-88",
       "sourceId": "88",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-07-03",
       "time": "13:00",
-      "home": "TBD",
+      "home": "Australia",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
@@ -976,7 +976,7 @@
       "validation": "primary"
     },
     {
-      "id": "brazil-tbd-76",
+      "id": "brazil-japan-76",
       "sourceId": "76",
       "type": "r32",
       "group": "R32",
@@ -984,7 +984,7 @@
       "date": "2026-06-29",
       "time": "12:00",
       "home": "Brazil",
-      "away": "TBD",
+      "away": "Japan",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
@@ -1717,7 +1717,7 @@
       "validation": "primary"
     },
     {
-      "id": "united-states-tbd-81",
+      "id": "united-states-bosnia-and-herzegovina-81",
       "sourceId": "81",
       "type": "r32",
       "group": "R32",
@@ -1725,7 +1725,7 @@
       "date": "2026-07-01",
       "time": "17:00",
       "home": "United States",
-      "away": "TBD",
+      "away": "Bosnia and Herzegovina",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
@@ -1850,14 +1850,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-morocco-75",
+      "id": "netherlands-morocco-75",
       "sourceId": "75",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-29",
       "time": "19:00",
-      "home": "TBD",
+      "home": "Netherlands",
       "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
@@ -1869,14 +1869,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-78",
+      "id": "ivory-coast-tbd-78",
       "sourceId": "78",
       "type": "r32",
       "group": "R32",
       "matchday": "Matchday 4",
       "date": "2026-06-30",
       "time": "12:00",
-      "home": "TBD",
+      "home": "Ivory Coast",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
