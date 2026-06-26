@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T09:38:31.862Z",
+  "fetchedAt": "2026-06-26T14:36:40.068Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,56 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "8c3045e128422bfb5f2d5b9d04548663",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup daily LIVE: Yamal gets WWE belt, Mbappé ...",
+      "summary": "We continue with the final days of the 2026 FIFA World Cup group stage as we figure out who will qualify for the knockout stage.",
+      "url": "https://www.espn.com/soccer/story/_/id/49182645/world-cup-daily-yamal-gets-wwe-belt-france-norway-action-heavyweight-group-decider",
+      "time": "2026-06-26",
+      "titleHash": "f8ea83d97fbd098290f44d36c9671964"
+    },
+    {
+      "id": "5cb3afc9ce89b3e509796d6d60bb87fd",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+      "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever.",
+      "url": "https://www.espn.com/soccer/story/_/id/49154542/why-algeria-austria-2026-world-cup-biggest-grudge-match-west-germany-1982-disgrace-gijon",
+      "time": "2026-06-26",
+      "titleHash": "6096a612ab59432893af1a3fd1015a18"
+    },
+    {
+      "id": "45f9b7c7c31dc4c6585dbfc91c3cc6cf",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-26",
+      "titleHash": "60773963f17d2d2c7e5fe2447639bb8a"
+    },
+    {
+      "id": "1d4b9e946bfe50b8f3da0f43bf300156",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
+      "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "b2a8f361a3fbb675533ed30832995f5e"
+    },
+    {
+      "id": "6e8ca6e0a8168c3336ae022d652691a6",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "495c660f206bd5b424e3a1e662ca2986"
+    },
+    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -27,6 +77,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-25",
       "titleHash": "52040334b53d4ca6614391fbba85b301"
+    },
+    {
+      "id": "4f3bc52fb379a36703a97f058667014a",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How are the TV picks decided for the World Cup's round of 32?",
+      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
       "id": "d84064d2097e399459c3d126cdf45a51",
@@ -47,16 +107,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-25",
       "titleHash": "3164c363bbac0d8e57396cae6d37f437"
-    },
-    {
-      "id": "6e8ca6e0a8168c3336ae022d652691a6",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "495c660f206bd5b424e3a1e662ca2986"
     },
     {
       "id": "44fb5d41b40557aeb2fa32b75fc8502f",
@@ -93,7 +143,7 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "World Cup 2026: Haaland v Mbappé; Schweinsteiger’s ‘African football’ comments criticised; Ecuador’s national holiday – live",
-      "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">Mail us</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>",
+      "summary": "<p>⚽ Latest news from day 15 | <a href=\"https://www.theguardian.com/football/2026/jun/25/erling-haaland-v-kylian-mbappe-how-the-norway-and-france-hitmen-match-up\">Haaland v Mbappé in data</a><br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>Kylian Mbappé and Erling Haaland </strong>will go head-to-head later on as France take on Norway and they have both scored the same amount of goals so far this tournament with four. They could go top of the Golden Boot standings this evening but who is currently there? Have a look:</p><p><strong>Ecuador fans’ nerves will be eased for now</strong> but that is not the case for all the nations yet as all of the knockout spots have not been allocated. Here is how the third-place spots are shaking out:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/26/world-cup-2026-norway-france-senegal-iraq-cape-verde-saudi-arabia-uruguay-spain-egypt-iran-new-zealand-belgium-live",
       "time": "2026-06-26",
       "titleHash": "41c02b17ef29a43b518c5a549ae9a4e4"
