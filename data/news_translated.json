@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T22:24:29.683Z",
+  "fetchedAt": "2026-06-26T04:13:05.038Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-25",
+      "time": "2026-06-26",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -38,110 +38,38 @@
       }
     },
     {
-      "id": "55885350150e8b7a64da8a6982cbc582",
-      "source": "ESPN",
+      "id": "d84064d2097e399459c3d126cdf45a51",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-      "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action.",
-      "url": "https://www.espn.com/soccer/story/_/id/49172255/world-cup-daily-live-neymar-inspired-lewis-hamilton-brazil-return-usmnt-action",
-      "time": "2026-06-25",
-      "titleHash": "6ae53073cd0a7c939f70edc5d8c4d219",
+      "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+      "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c7vy8mg3mr0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "21c58f8d69ff45597353c1b28599f9ad",
       "translations": {
         "es": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         },
         "pt": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         },
         "fr": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         },
         "de": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         },
         "ja": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         },
         "zh": {
-          "title": "World Cup Daily LIVE: Ecuador save their tournamen...",
-          "summary": "We continue the final round of group stage matches at the 2026 FIFA World Cup, with the USMNT and Germany among the teams in action."
-        }
-      }
-    },
-    {
-      "id": "febf5ad6f6bfee015849da374b50efde",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-      "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California.",
-      "url": "https://www.espn.com/soccer/story/_/id/49171253/christian-pulisic-weston-mckennie-zendejas-pizza-usmnt-world-cup-golf-carts",
-      "time": "2026-06-25",
-      "titleHash": "ffef61968ce40bbbd18c6a3917ba5d6e",
-      "translations": {
-        "es": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        },
-        "pt": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        },
-        "fr": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        },
-        "de": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        },
-        "ja": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        },
-        "zh": {
-          "title": "The story of Christian Pulisic, U.S. stars, a trip...",
-          "summary": "When the story of the U.S. men's team at the 2026 World Cup is finally told, there might well be a chapter for Cole Schamber, owner of a golf cart dealership in Dana Point, California."
-        }
-      }
-    },
-    {
-      "id": "45f9b7c7c31dc4c6585dbfc91c3cc6cf",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-25",
-      "titleHash": "60773963f17d2d2c7e5fe2447639bb8a",
-      "translations": {
-        "es": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "pt": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "fr": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "de": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "ja": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "zh": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
+          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
         }
       }
     },
@@ -188,7 +116,7 @@
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-06",
+      "time": "2026-06-25",
       "titleHash": "52040334b53d4ca6614391fbba85b301",
       "translations": {
         "es": {
@@ -362,146 +290,110 @@
       }
     },
     {
-      "id": "b746689e2dfe4f2fc22cbe70c0d6e628",
+      "id": "34e8e11aa11b08cd4af617eeef068440",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-      "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live",
-      "time": "2026-06-25",
-      "titleHash": "fbc6673d9708d46ec4f94f36ad660ed0",
+      "title": "Turkey 3-2 USA: World Cup 2026 – live",
+      "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live",
+      "time": "2026-06-26",
+      "titleHash": "eab2e498f639981a1cd0f2a24fca875a",
       "translations": {
         "es": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Ecuador 2-1 Germany: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:scott.murray.casual@theguardian.com\">email Scott</a></p><p><strong>Pre-match postbag.</strong> “Writing from Ecuador, I can say people are understandably disappointed with how the World Cup has gone so far. After finishing second in qualifying, there was a feeling that this group could achieve something, but we were ignoring the unequal distribution of talent in the team: in the back, you have Pacho, who has won two Champions League titles, and Hincapie, who won the Bundesliga and the Premier League, and in the middle, you have Moises Caicedo. Up front, we still have 36-year-old Enner Valencia, who couldn’t really do it at Everton 10 years ago. There’s an exciting generation of Ecuadorian strikers, including the 16-year-old twins currently at Arsenal, but they’re not yet ready. The country was hoping Germany would field their second string of players for this match; turns out they didn’t. On another note, many attribute Ecuador’s success in qualifying to Quito’s altitude, but this overlooks the fact that most of Ecuador’s players come from abroad, so they also have to adjust to the altitude. Also, under the current coach, Ecuador started playing home games in Guayaquil, which is at sea level” – Matthew Carpenter-Arevalo</p><p>“As well as some underdogs have performed this World Cup there hasn’t really been a big upset victory. Maybe today will be the day for that and if it happens, there would be no better occasion than Ecuador in front of a crowd which is likely to be majority Ecuadorean due to the huge population living in New York and surrounding region” – John in New York</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Turkey 3-2 USA: World Cup 2026 – live",
+          "summary": "<p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> |</p><p><strong>Questions for readers:</strong></p><p>1. Who’s your favorite all-time Turkey player? <em>Mine: Hakan Şükür, “the Bull of the Bosphorus.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "d4eadc41382b004bc4636c4da9d73e73",
+      "id": "91d3e9cb4698b46f41c8448291f7532e",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-      "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live",
-      "time": "2026-06-25",
-      "titleHash": "9acfd1e1353d139a4aa50345cb2b0bd0",
+      "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+      "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest",
+      "time": "2026-06-26",
+      "titleHash": "fd3dc1e3d1bc74c153a912dddb79d520",
       "translations": {
         "es": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         },
         "de": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Curaçao 0-2 Côte d’Ivoire: World Cup 2026 – live reaction",
-          "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:sarah.rendell.casual@guardian.co.uk\">email Sarah</a></p><p><strong>This will be the guide</strong> to keep your eye on as the games continue:</p><p><strong>What has been your best moment of the tournament so far?</strong> All of the shock results and historic moments are moments I enjoy, including Curaçao’s first World Cup point. Email me and let me know yours.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Paraguay 0-0 Australia: World Cup 2026 – live reaction",
+          "summary": "<p>⚽️ Kick-off time: 7pm local/12pm AEST/3am BST/10pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail Jonathan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/26/turkey-v-usa-world-cup-2026-live\">Follow live coverage of Turkey v USA as it happens</a></p><p><strong>Jonathan Liew considers the impact of this World Cup being the most individual > collective in tournament history.</strong></p><p>… something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. <a href=\"https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report\">France do not beat Iraq</a>; instead Kylian Mbappé <em>throws down the gauntlet</em> to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (<em>Can Lionel Messi lift the one trophy he hasn’t won yet?</em>)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/fifa-world-cup-2026-live-paraguay-v-australia-socceroos-updates-par-vs-aus-group-d-match-score-latest\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "99cfed5d2e999d698fdcb06d705868ee",
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Tunisia v Netherlands: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live",
-      "time": "2026-06-25",
-      "titleHash": "c7d7b589cba1d6a822c954e8262bd56e",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-06-04",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4",
       "translations": {
         "es": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         },
         "de": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Tunisia v Netherlands: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail us</a></p><p>There are the final whistles!</p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live\">Ecuador 2-1 Germany</a></p><p><a href=\"https://www.theguardian.com/football/live/2026/jun/25/curacao-v-cote-divoire-world-cup-2026-live\">Curacao 0-2 Cote d’Ivoire</a></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/tunisia-v-netherlands-world-cup-2026-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "f8e6e2f121105f4b3444fd88657c0331",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Japan v Sweden: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live",
-      "time": "2026-06-25",
-      "titleHash": "4eb489476b06e0f93b3dc5228ee7db38",
-      "translations": {
-        "es": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Japan v Sweden: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/7pm EDT/12am BST/9am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Tables</a></p><p>Ecuador 2-1 Germany</p><p>Curacao 0-2 Cote d’Ivoire</p><p>Ecuador have qualified as one of the best third-place teams and will face either Mexico, Portugal or Colombia in the last 32. For some reason I thought there was a chance of them playing England, but I appear to have pulled that from an unreliable fundament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/25/japan-v-sweden-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
         }
       }
     },
