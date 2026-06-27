@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-27T21:04:57.592Z",
+  "syncedAt": "2026-06-27T22:15:54.623Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1669,9 +1669,9 @@
       "time": "17:00",
       "home": "Croatia",
       "away": "Ghana",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "score": "0 - 0",
+      "score": "1 - 0",
       "status": "live",
       "finished": false,
       "stadiumId": "10",

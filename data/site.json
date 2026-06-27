@@ -1480,7 +1480,7 @@
       "away": "Ghana",
       "homeCode": "CRO",
       "awayCode": "GHA",
-      "score": "0 - 0",
+      "score": "1 - 0",
       "status": "live",
       "network": "FS1",
       "prediction": "TV: FS1",
@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-06-27T21:05:02.482Z",
+    "fetchedAt": "2026-06-27T22:16:00.211Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
