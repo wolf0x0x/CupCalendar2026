@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T11:00:20.110Z",
+  "fetchedAt": "2026-06-27T13:55:34.074Z",
   "errors": [
     {
       "source": "FIFA",
@@ -39,16 +39,6 @@
       "titleHash": "c49c7e7f0ea85393fd76c5438ff3614b"
     },
     {
-      "id": "35a099d3c04859c74355ef0ba437a7b3",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-      "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v2jyl8ry1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-27",
-      "titleHash": "407f109e80d7dbacd9eedc6de4d4176c"
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -59,16 +49,6 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "a083ab21e769e11100f4787e01f07921",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "titleHash": "37f9da54484fc089fdd593328d045139"
-    },
-    {
       "id": "a20417f6aebfd4480ea9bff331e3aa67",
       "source": "BBC",
       "tag": "RSS",
@@ -77,6 +57,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "77b48eeaf01d6931adb1dbdf576d7336"
+    },
+    {
+      "id": "a083ab21e769e11100f4787e01f07921",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "titleHash": "37f9da54484fc089fdd593328d045139"
     },
     {
       "id": "4f3bc52fb379a36703a97f058667014a",
@@ -123,7 +113,7 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "World Cup 2026: England through, Scotland wait goes on and joy for Cape Verde – live",
-      "summary": "<p>⚽ Latest news from the 16th and final day of the groups <br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@guardian.co.uk\">Mail Taha</a></p><p><strong>Amid all the joy, there’s the treatment of Iran.</strong> They were denied permission to stay in Seattle after their draw against Egypt, reports Ben Fisher.</p><p><strong>We’ve got to have another look at Cape Verde’s celebrations.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live\">Continue reading...</a>",
+      "summary": "<p>⚽ Latest news from the 16th and final day of the groups <br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Amid all the joy, there’s the treatment of Iran.</strong> They were denied permission to stay in Seattle after their draw against Egypt, reports Ben Fisher.</p><p><strong>We’ve got to have another look at Cape Verde’s celebrations.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live",
       "time": "2026-06-27",
       "titleHash": "5aa8b2893c096fe7de7f12a58783f57c"

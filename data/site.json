@@ -6016,40 +6016,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-      "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9v2jyl8ry1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-27",
-      "translations": {
-        "es": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        },
-        "pt": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        },
-        "fr": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        },
-        "de": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        },
-        "ja": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        },
-        "zh": {
-          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
-          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6084,40 +6050,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
-      "translations": {
-        "es": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
       "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
@@ -6146,6 +6078,40 @@
         "zh": {
           "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
           "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "translations": {
+        "es": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
         }
       }
     },
@@ -6250,6 +6216,40 @@
           "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why are footballers wearing pink boots at the World Cup?",
+      "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "pt": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "fr": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "de": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "ja": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        },
+        "zh": {
+          "title": "Why are footballers wearing pink boots at the World Cup?",
+          "summary": "The opening match of the 2026 World Cup was dominated by players wearing pink boots - but why is the colour so prevalent in football at the moment?"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-27T11:00:20.110Z",
-    "newsItems": 16,
-    "translationQueue": 12,
+    "fetchedAt": "2026-06-27T13:55:34.074Z",
+    "newsItems": 15,
+    "translationQueue": 6,
     "errors": [
       {
         "source": "FIFA",
