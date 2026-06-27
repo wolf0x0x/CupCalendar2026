@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-06-27T00:09:10.720Z",
-  "syncedAt": "2026-06-27T00:09:10.720Z",
+  "checkedAt": "2026-06-27T04:16:27.834Z",
+  "syncedAt": "2026-06-27T04:16:27.834Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -13,7 +13,7 @@
     "lastSync": "data/last_sync.json"
   },
   "siteUpdate": {
-    "updatedMatches": 8,
+    "updatedMatches": 0,
     "standingsGroups": 12,
     "note": "data/site.json is updated because the static site build reads this file directly."
   },
@@ -56,7 +56,7 @@
       "priority": 1,
       "ok": true,
       "source": "https://worldcup26.ir/get/games",
-      "fetchedAt": "2026-06-27T00:09:12.066Z",
+      "fetchedAt": "2026-06-27T00:08:14.222Z",
       "fetched": 104,
       "finishedMatches": 62,
       "finishedGroups": [
@@ -74,7 +74,8 @@
         "Group L"
       ],
       "latestFinishedDate": "2026-06-26",
-      "usedCachedSnapshot": false
+      "usedCachedSnapshot": true,
+      "warning": "Using cached worldcup26 snapshot from 2026-06-27T00:08:14.222Z: fetch failed"
     },
     {
       "name": "football-data.org",
