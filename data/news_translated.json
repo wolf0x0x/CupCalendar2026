@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-26T22:18:25.568Z",
+  "fetchedAt": "2026-06-27T03:59:09.664Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-26",
+      "time": "2026-06-27",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -38,74 +38,182 @@
       }
     },
     {
-      "id": "b5947836b0ecf4069b545c9bc8d1c75a",
-      "source": "BBC",
+      "id": "fdf07be57c6e25d1d019e2458d9d385e",
+      "source": "ESPN",
       "tag": "RSS",
-      "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-      "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crel3jzn5j0o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "titleHash": "9dbade14f46b7c37d24d01457dbabf45",
+      "title": "Uruguay yank keeper at HT after howler vs. Spain",
+      "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday.",
+      "url": "https://www.espn.com/soccer/story/_/id/49192407/uruguay-yank-keeper-muslera-howler-spain",
+      "time": "2026-06-27",
+      "titleHash": "7cff6ac7c3848ed4d9e33331feff8180",
       "translations": {
         "es": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         },
         "pt": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         },
         "fr": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         },
         "de": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         },
         "ja": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         },
         "zh": {
-          "title": "Senegal thrash ten-man Iraq to boost hopes of reaching last 32",
-          "summary": "Ilimand Ndiaye and Ismaila Sarr produce a goal and an assist each as Senegal dismantle ten-man Iraq 5-0 in their final FIFA World Cup Group I match at Toronto Stadium, to put themselves in contention of qualifying for the round of 32 as one of the top eight third-placed teams."
+          "title": "Uruguay yank keeper at HT after howler vs. Spain",
+          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
         }
       }
     },
     {
-      "id": "1d4b9e946bfe50b8f3da0f43bf300156",
-      "source": "BBC",
+      "id": "f2937b9a7cb6ea814ef953e6cd2c5a79",
+      "source": "ESPN",
       "tag": "RSS",
-      "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-      "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "title": "Dembélé first-half hat trick sees France win group",
+      "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday.",
+      "url": "https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france",
       "time": "2026-06-26",
-      "titleHash": "b2a8f361a3fbb675533ed30832995f5e",
+      "titleHash": "c9824cde51241039330a4e69c7daf890",
       "translations": {
         "es": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
         },
         "pt": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
         },
         "fr": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
         },
         "de": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
         },
         "ja": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
         },
         "zh": {
-          "title": "Where has it gone wrong for Bielsa's struggling Uruguay?",
-          "summary": "With Uruguay possibly on the brink of elimination from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+          "title": "Dembélé first-half hat trick sees France win group",
+          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
+        }
+      }
+    },
+    {
+      "id": "3afc77cc2578c4d75fa1db426732825f",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+      "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
+      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
+      "time": "2026-06-26",
+      "titleHash": "0f5fb881830b4b812f758054a9749395",
+      "translations": {
+        "es": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        },
+        "pt": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        },
+        "fr": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        },
+        "de": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        },
+        "ja": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        },
+        "zh": {
+          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
+          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
+        }
+      }
+    },
+    {
+      "id": "5cb3afc9ce89b3e509796d6d60bb87fd",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+      "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever.",
+      "url": "https://www.espn.com/soccer/story/_/id/49154542/why-algeria-austria-2026-world-cup-biggest-grudge-match-west-germany-1982-disgrace-gijon",
+      "time": "2026-06-26",
+      "titleHash": "6096a612ab59432893af1a3fd1015a18",
+      "translations": {
+        "es": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        },
+        "pt": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        },
+        "fr": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        },
+        "de": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        },
+        "ja": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        },
+        "zh": {
+          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
+          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
+        }
+      }
+    },
+    {
+      "id": "45f9b7c7c31dc4c6585dbfc91c3cc6cf",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-06-26",
+      "titleHash": "60773963f17d2d2c7e5fe2447639bb8a",
+      "translations": {
+        "es": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "pt": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "fr": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "de": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "ja": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+        },
+        "zh": {
+          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
+          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
         }
       }
     },
@@ -214,78 +322,6 @@
         "zh": {
           "title": "Where to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup group games."
-        }
-      }
-    },
-    {
-      "id": "d84064d2097e399459c3d126cdf45a51",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-      "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c7vy8mg3mr0o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "titleHash": "21c58f8d69ff45597353c1b28599f9ad",
-      "translations": {
-        "es": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        },
-        "pt": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        },
-        "fr": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        },
-        "de": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        },
-        "ja": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        },
-        "zh": {
-          "title": "'Oh my word!' - Elanga 'stunner' draws Sweden level",
-          "summary": "Anthony Elanga scores a brilliant curling effort from the edge of the area to draw Sweden level with Japan in their FIFA World Cup Group F match at Dallas Stadium."
-        }
-      }
-    },
-    {
-      "id": "919bb26343391c395e90b7c3c77e6e15",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-      "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpd322zzv90o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-25",
-      "titleHash": "3164c363bbac0d8e57396cae6d37f437",
-      "translations": {
-        "es": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
-        },
-        "pt": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
-        },
-        "fr": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
-        },
-        "de": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
-        },
-        "ja": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
-        },
-        "zh": {
-          "title": "Plata's 'touch of gold' gives Ecuador lead against Germany",
-          "summary": "Gonzalo Plata reacts quickest to direct Kevin Rodriuguez' flick on over Manuel Neuer, to give Ecuador a 2-1 lead over Germany in their FIFA World Cup Group E match at the New York New Jersey Stadium."
         }
       }
     },
@@ -434,74 +470,74 @@
       }
     },
     {
-      "id": "408dc3fba9899570bda5d6e8abfdf67b",
+      "id": "d2adb8c809455ce30b4b0b5424b34acb",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Uruguay v Spain: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live",
-      "time": "2026-06-26",
-      "titleHash": "9828a80ddafe5c10cd08133657dbb730",
+      "title": "Egypt v Iran: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest",
+      "time": "2026-06-27",
+      "titleHash": "13bcf94fc0ab30cb6d2d962e8175ceb3",
       "translations": {
         "es": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         },
         "de": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Uruguay v Spain: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>This World Cup has suffered a little from its expanded format - there have been few heavyweight clashes but I guess two former champions battling for first place in the group counts. Here’s what’s at stake tonight in Guadalajara (and the rest of Group G):</p><p>Spain will guarantee qualification with a draw or win against Uruguay.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/uruguay-v-spain-world-cup-2026-live\">Continue reading...</a>"
+          "title": "Egypt v Iran: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:jonathan.howcroft.freelance@theguardian.com\">Mail us</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">New Zealand v Belgium – follow live with Sam Lewis</a></p><p><strong>So that means Cape Verde are through to face Argentina in the round of 32,</strong> in what is shaping as a kind bracket for the defending champions.</p><p><strong>Tiny Cape Verde are into the round of 32!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "a8002c7b266e9fd0dad9073c99a538cd",
+      "id": "f5b6ef2cc0a5b5bff038d9c653124f5e",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-      "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live",
-      "time": "2026-06-26",
-      "titleHash": "995d624afb0a1e5700b618d967ffb096",
+      "title": "New Zealand v Belgium: World Cup 2026 – live",
+      "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest",
+      "time": "2026-06-27",
+      "titleHash": "49b8c34cae9e3d4e6d0f938440843aa9",
       "translations": {
         "es": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         },
         "de": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Cape Verde v Saudi Arabia: World Cup 2026 – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p><em>Beau will be here shortly. In the meantime, here’s your initial briefing on this matchup, courtesy of Graham Ruthven’s <a href=\"https://www.theguardian.com/football/2026/jun/26/how-to-watch-world-cup-france-norway\">daily watch guide</a>:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/26/cape-verde-v-saudi-arabia-world-cup-2026-live\">Continue reading...</a>"
+          "title": "New Zealand v Belgium: World Cup 2026 – live",
+          "summary": "<p>⚽️ Kick-off time: 8pm local/1pm AEST/4am BST/11pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:samantha.lewis.freelance@theguardian.com\">Mail Sam</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-egypt-v-iran-updates-egy-vs-irn-group-g-match-score-latest\">Egypt v Iran – follow live with Jonathan Howcroft</a></p><p><strong>New Zealand, meanwhile, will be kicking themselves for not taking more from their <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">ultimate 3-1 loss against Egypt</a>. </strong>An excellent headed goal to Finn Surman in the 15th minute epitomised the All Whites’ dominant first-half display, staying compact and disciplined in defence and charging forward with direct long balls and overlaps in attack.</p><p>But Egypt, led by their talismanic captain Mohamed Salah, came roaring back in the second half, coming from behind to score three unanswered goals and rocket to the top of the group as a result.</p><p>“It’s frustrating,” <a href=\"https://www.theguardian.com/football/2026/jun/22/new-zealand-egypt-world-cup-group-g-match-report\">Bazeley said after the Egypt match</a>. “We played so well in the first half. We scored ‌a great goal, created lots ‌of chances, felt like we were dominating possession a lot of the time in the first half, and ‌we were comfortable. We weren’t really getting hurt.</p><p>“We talked well at half-time, looked at some things we can do a little bit better, we went out second half and we just weren’t able to recreate the tempo and quality that we showed in the first half.”</p><p>Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.</p><p>Sometimes when you have to win, sometimes that’s the best situation. Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/fifa-world-cup-2026-live-new-zealand-v-belgium-updates-nzl-vs-bel-group-g-match-score-latest\">Continue reading...</a>"
         }
       }
     },
