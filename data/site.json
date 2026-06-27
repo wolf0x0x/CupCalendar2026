@@ -5946,240 +5946,104 @@
       }
     },
     {
-      "source": "ESPN",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Uruguay yank keeper at HT after howler vs. Spain",
-      "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49192407/uruguay-yank-keeper-muslera-howler-spain",
+      "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+      "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-27",
       "translations": {
         "es": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         },
         "pt": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         },
         "fr": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         },
         "de": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         },
         "ja": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         },
         "zh": {
-          "title": "Uruguay yank keeper at HT after howler vs. Spain",
-          "summary": "Uruguay pulled goalkeeper Fernando Muslera at halftime of their FIFA World Cup group stage final after his blunder in the first half gifted Spain the lead at Estadio Akron on Friday."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Dembélé first-half hat trick sees France win group",
-      "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49189907/ousmane-dembele-first-half-hat-trick-france",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        },
-        "pt": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        },
-        "fr": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        },
-        "de": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        },
-        "ja": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        },
-        "zh": {
-          "title": "Dembélé first-half hat trick sees France win group",
-          "summary": "France forward Ousmane Dembélé scored a first-half hat trick, including one off an assist from Kylian Mbappé, to help his team to a 4-1 win over Norway at the FIFA World Cup on Friday."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-      "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't.",
-      "url": "https://www.espn.com/soccer/story/_/id/49118437/fifa-world-cup-predictions-analysis-projections-usa-mexico-spain-brazil-england-argentina-germany-france",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        },
-        "pt": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        },
-        "fr": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        },
-        "de": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        },
-        "ja": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        },
-        "zh": {
-          "title": "From Brazil to U.S., Spain: Why every round-of-32 ...",
-          "summary": "Then there were 32. Or we're getting there, anyway. So, let's review why each team still alive at the 2026 World Cup could win the whole thing -- and why each probably won't."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-      "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever.",
-      "url": "https://www.espn.com/soccer/story/_/id/49154542/why-algeria-austria-2026-world-cup-biggest-grudge-match-west-germany-1982-disgrace-gijon",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        },
-        "pt": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        },
-        "fr": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        },
-        "de": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        },
-        "ja": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        },
-        "zh": {
-          "title": "Why Algeria vs. Austria is the 2026 World Cup's bi...",
-          "summary": "It's been 44 years in the making: Algeria have a shot at revenge on Austria for the \"Disgrace of Gijón,\" the match that changed the World Cup forever."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
-      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "pt": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "fr": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "de": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "ja": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
-        },
-        "zh": {
-          "title": "Marshawn Lynch, Alex Morgan top celebrities at 202...",
-          "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America."
+          "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+          "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-      "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
+      "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+      "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cx2vlxjnxrro?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-27",
       "translations": {
         "es": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         },
         "pt": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         },
         "fr": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         },
         "de": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         },
         "ja": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         },
         "zh": {
-          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+          "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
+          "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-24",
+      "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+      "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9v2jyl8ry1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-27",
       "translations": {
         "es": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         },
         "pt": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         },
         "fr": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         },
         "de": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         },
         "ja": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         },
         "zh": {
-          "title": "Belgium going out? Sutton's World Cup 2026 score predictions - final group games",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+          "title": "'Brilliant!' - De Bruyne gets off the mark with trademark strike",
+          "summary": "Kevin De Bruyne scores his first goal in the 2026 World Cup as Belgium beat New Zealand to finish top of Group G."
         }
       }
     },
@@ -6220,6 +6084,74 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-24",
+      "translations": {
+        "es": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+      "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "translations": {
+        "es": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        },
+        "pt": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        },
+        "fr": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        },
+        "de": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        },
+        "ja": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        },
+        "zh": {
+          "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
+          "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "How are the TV picks decided for the World Cup's round of 32?",
       "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
@@ -6250,6 +6182,74 @@
           "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "What is BBC's 3D Live Match Experience and how does it work?",
+      "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC",
+      "url": "https://www.bbc.co.uk/sport/articles/ckg5lx6d5pxo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-22",
+      "translations": {
+        "es": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        },
+        "pt": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        },
+        "fr": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        },
+        "de": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        },
+        "ja": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        },
+        "zh": {
+          "title": "What is BBC's 3D Live Match Experience and how does it work?",
+          "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How to watch highlights of World Cup matches",
+      "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c992xx351d0o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-11",
+      "translations": {
+        "es": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "pt": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "fr": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "de": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "ja": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        },
+        "zh": {
+          "title": "How to watch highlights of World Cup matches",
+          "summary": "BBC Sport's Ask Me Anything team explains how you can watch match highlights and full match replays during the 2026 Fifa World Cup"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-27T03:59:09.664Z",
-    "newsItems": 16,
-    "translationQueue": 54,
+    "fetchedAt": "2026-06-27T08:43:59.408Z",
+    "newsItems": 15,
+    "translationQueue": 66,
     "errors": [
       {
         "source": "FIFA",
