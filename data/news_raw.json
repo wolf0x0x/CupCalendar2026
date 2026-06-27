@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T16:10:27.237Z",
+  "fetchedAt": "2026-06-27T19:37:02.993Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "53b98fdd1866a9c392b7dcef88564fc0",
+      "id": "1038c6ffa5ff31dea14aa5e81c7e7e43",
       "source": "BBC",
       "tag": "RSS",
-      "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-      "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "title": "Where does Scotland's World Cup campaign leave Clarke?",
+      "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-27",
-      "titleHash": "1c9f29b023adee0432d2bda56bdd3608"
+      "titleHash": "2d02e1e4b49cbc2119afc1420002265d"
     },
     {
       "id": "6cb03dd56912fdd737a398ad2ebdaebe",
@@ -37,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cx2vlxjnxrro?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-27",
       "titleHash": "c49c7e7f0ea85393fd76c5438ff3614b"
+    },
+    {
+      "id": "53b98fdd1866a9c392b7dcef88564fc0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+      "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-27",
+      "titleHash": "1c9f29b023adee0432d2bda56bdd3608"
     },
     {
       "id": "13a4242127992e2639ad37b45c9311b8",
@@ -109,14 +119,24 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "4e380ec3c70ff489e73d78b9c7a76509",
+      "id": "b248f15e68e5788a9d525630f943156b",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: England through, Scotland wait goes on and joy for Cape Verde – live",
-      "summary": "<p>⚽ Latest news from the 16th and final day of the groups <br>⚽ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:john.brewin.casual@theguardian.com\">Mail us</a></p><p><strong>Amid all the joy, there’s the treatment of Iran.</strong> They were denied permission to stay in Seattle after their draw against Egypt, reports Ben Fisher.</p><p><strong>We’ve got to have another look at Cape Verde’s celebrations.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/27/world-cup-2026-news-live-england-panama-croatia-ghana-colombia-portugal-dr-congo-uzbekistan-live",
+      "title": "Panama v England: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As for England …</strong> well, small sample, but the ups have been more pronounced than the downs, to be fair. A win and a draw, enough to guarantee qualification for the knockouts after Spain’s victory over Uruguay last night. The first, albeit lowest, hurdle already cleared without too much undue fuss.</p><p><strong>Here’s how Panama have done so far.</strong> If you’re going to lose both matches and not erode confidence, two gutsy displays against fancied opposition is the only way to do it.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates",
       "time": "2026-06-27",
-      "titleHash": "5aa8b2893c096fe7de7f12a58783f57c"
+      "titleHash": "5ea07d357f85cd0cef8df361bf4311e0"
+    },
+    {
+      "id": "a4d5183f1512dc75e6ca72c0a9d546b8",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Croatia v Ghana: World Cup 2026 – live",
+      "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>Croatia probably need a draw against Ghana to secure a spot in the last 32, but attacker ⁠Ivan Perisic is confident in his side’s record against African opposition.</strong></p><p>The 2018 runners-up and 2022 third-place finishers have three wins and a draw against ⁠African World Cup ⁠foes since 2014, ​including their third-place victory over Morocco.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live",
+      "time": "2026-06-27",
+      "titleHash": "7214350fa99043fc846e0410270ec4b7"
     },
     {
       "id": "12a3bd58bca1f2484baa5e4bc6a2dd6f",
@@ -127,16 +147,6 @@
       "url": "https://www.theguardian.com/football/2026/jun/27/world-cup-usmnt-migration-nationalism-dhs-opinion",
       "time": "2026-06-27",
       "titleHash": "ef427499070d836c12704ecbf775feee"
-    },
-    {
-      "id": "f31e1d21227704adc12083cf57d5beb1",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Cold War Steve on … England’s haunted team-building barbecue",
-      "summary": "<p>The third in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jun/27/cold-war-steve-on-england-haunted-team-building-barbecue\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/picture/2026/jun/27/cold-war-steve-on-england-haunted-team-building-barbecue",
-      "time": "2026-06-27",
-      "titleHash": "2344a079346a2f861b89c63a909278bc"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
