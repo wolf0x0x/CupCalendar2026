@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-28T20:14:32.853Z",
+  "syncedAt": "2026-06-28T21:31:32.224Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1271,10 +1271,10 @@
       "home": "South Africa",
       "away": "Canada",
       "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "16",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
