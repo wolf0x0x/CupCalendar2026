@@ -5,7 +5,7 @@
     "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
     "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-    "time": "2026-06-27",
+    "time": "2026-06-28",
     "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
     "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
     "translations": {
@@ -36,110 +36,38 @@
     }
   },
   {
-    "id": "1038c6ffa5ff31dea14aa5e81c7e7e43",
+    "id": "ee58f2a2c68aa75bd4b074aa198b8e6e",
     "source": "BBC",
     "tag": "RSS",
-    "title": "Where does Scotland's World Cup campaign leave Clarke?",
-    "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4d3w9p4zo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-27",
-    "titleHash": "2d02e1e4b49cbc2119afc1420002265d",
+    "title": "Maestro Messi scores again and breaks another record in the process",
+    "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-28",
+    "titleHash": "01bacb128e09bc55aedc7b3f42f1f495",
     "translations": {
       "es": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       },
       "pt": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       },
       "fr": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       },
       "de": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       },
       "ja": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       },
       "zh": {
-        "title": "Where does Scotland's World Cup campaign leave Clarke?",
-        "summary": "Did Steve Clarke get the best out of his Scotland squad at the 2026 World Cup as they face group-stage exit?"
-      }
-    }
-  },
-  {
-    "id": "6cb03dd56912fdd737a398ad2ebdaebe",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-    "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx2vlxjnxrro?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-27",
-    "titleHash": "c49c7e7f0ea85393fd76c5438ff3614b",
-    "translations": {
-      "es": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      },
-      "pt": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      },
-      "fr": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      },
-      "de": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      },
-      "ja": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      },
-      "zh": {
-        "title": "Egypt through but late drama denies Iran guaranteed last 32 spot",
-        "summary": "Iran have a goal ruled out for offside and hit the crossbar in the final moments of a thrilling 1-1 draw against Egypt in Seattle, leaving them hoping to secure qualification to the FIFA World Cup knockout stages by being one of the top eight third-placed teams."
-      }
-    }
-  },
-  {
-    "id": "53b98fdd1866a9c392b7dcef88564fc0",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-    "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-27",
-    "titleHash": "1c9f29b023adee0432d2bda56bdd3608",
-    "translations": {
-      "es": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-      },
-      "pt": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-      },
-      "fr": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-      },
-      "de": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-      },
-      "ja": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-      },
-      "zh": {
-        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+        "title": "Maestro Messi scores again and breaks another record in the process",
+        "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
       }
     }
   },
@@ -180,74 +108,146 @@
     }
   },
   {
-    "id": "a20417f6aebfd4480ea9bff331e3aa67",
+    "id": "fbc2c42a9bf97b35c4635c5ab4b05198",
     "source": "BBC",
     "tag": "RSS",
-    "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-    "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cr47dxpkxnzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-26",
-    "titleHash": "77b48eeaf01d6931adb1dbdf576d7336",
+    "title": "Scotland's elimination from World Cup confirmed",
+    "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-27",
+    "titleHash": "658bdd3422a17919e9392d608d70a716",
     "translations": {
       "es": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       },
       "pt": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       },
       "fr": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       },
       "de": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       },
       "ja": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       },
       "zh": {
-        "title": "17 passes, all 11 players - Dembele scores 'magic' goal for France",
-        "summary": "Every member of France's starting XI gets involved as a 17-pass move is put away by Ousmane Dembele to seal his hat-trick in France's 4-1 win over Norway in their final FIFA World Cup Group I match at Boston Stadium."
+        "title": "Scotland's elimination from World Cup confirmed",
+        "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
       }
     }
   },
   {
-    "id": "a083ab21e769e11100f4787e01f07921",
+    "id": "f92ea868f115e152e579ebd3417eb6a9",
     "source": "BBC",
     "tag": "RSS",
-    "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-    "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cg74z733xmko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-24",
-    "titleHash": "37f9da54484fc089fdd593328d045139",
+    "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+    "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckg0kp27rw4o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-28",
+    "titleHash": "44e9e30244c46e23709bcb6dcb206682",
     "translations": {
       "es": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
       },
       "pt": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
       },
       "fr": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
       },
       "de": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
       },
       "ja": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
       },
       "zh": {
-        "title": "Ronaldo to score double? Sutton's World Cup 2026 score predictions - final group games",
-        "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the scores of the final set of group games at the 2026 World Cup."
+        "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+        "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "75c0aaaa75176e595de71071f06ebe23",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Kane hails 'very versatile' Bellingham after Panama win",
+    "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/czrxk23me65o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-27",
+    "titleHash": "1db3825f50037a743d2b47b8958570f9",
+    "translations": {
+      "es": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      },
+      "pt": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      },
+      "fr": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      },
+      "de": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      },
+      "ja": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      },
+      "zh": {
+        "title": "Kane hails 'very versatile' Bellingham after Panama win",
+        "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
+      }
+    }
+  },
+  {
+    "id": "53b98fdd1866a9c392b7dcef88564fc0",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+    "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-27",
+    "titleHash": "1c9f29b023adee0432d2bda56bdd3608",
+    "translations": {
+      "es": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+      },
+      "pt": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+      },
+      "fr": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+      },
+      "de": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+      },
+      "ja": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
+      },
+      "zh": {
+        "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+        "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
       }
     }
   },
@@ -396,146 +396,110 @@
     }
   },
   {
-    "id": "b248f15e68e5788a9d525630f943156b",
+    "id": "ce2f97f18a0762ebaea1eaeaf26048b2",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Panama v England: World Cup 2026 – live",
-    "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates",
-    "time": "2026-06-27",
-    "titleHash": "5ea07d357f85cd0cef8df361bf4311e0",
+    "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+    "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest",
+    "time": "2026-06-28",
+    "titleHash": "903625ed796993c28eda85319a3e0ad7",
     "translations": {
       "es": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       },
       "de": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Panama v England: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Croatia v Ghana – live news from the group’s other game</a></p><p><strong>As expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week.</strong> Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.</p><p><strong>Panama:</strong> Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.<br><em>Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller.</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Continue reading...</a>"
+        "title": "Algeria 3-3 Austria: World Cup 2026 – live",
+        "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
       }
     }
   },
   {
-    "id": "a4d5183f1512dc75e6ca72c0a9d546b8",
+    "id": "bc4e95e08a8b108b2a429354b122c879",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Croatia v Ghana: World Cup 2026 – live",
-    "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live",
-    "time": "2026-06-27",
-    "titleHash": "7214350fa99043fc846e0410270ec4b7",
+    "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+    "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest",
+    "time": "2026-06-28",
+    "titleHash": "a1e720a218f4d450ad0c329037e1aaa6",
     "translations": {
       "es": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       },
       "de": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Croatia v Ghana: World Cup 2026 – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates\">Panama v England – live news from group’s other game</a></p><p><strong>It’s a touch damp.</strong></p><p><strong>The players have arrived!</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/croatia-v-ghana-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
+        "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
       }
     }
   },
   {
-    "id": "6709984a4d7bde284907eaca78ad7b87",
+    "id": "a308d5a45f446409bf10647b43200a97",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Colombia v Portugal: World Cup 2026 – live",
-    "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live",
+    "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+    "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026",
     "time": "2026-06-27",
-    "titleHash": "8673dfbc9453fe74fd88fe969ada10f1",
+    "titleHash": "035b23460802d6dfbdf785132c51d553",
     "translations": {
       "es": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       },
       "de": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Colombia v Portugal: World Cup 2026 – live",
-        "summary": "<p><strong>⚽️ </strong>Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<strong><br>⚽️ </strong><a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:beau.dure@guardian.co.uk\">Mail Beau</a><br><strong>⚽️ </strong><a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">DR Congo v Uzbekistan – live updates from Group K</a></p><p>Let’s begin with the tangible stakes ...</p><p>If Portugal win this game, they win Group K, and Colombia will be second, resulting in these matchups:</p><p>Portugal: July 3 in Kansas City vs. the third-place team in Group L, if that team qualifies. Should the Group L team fall short, they’ll face the third-place team in Group I, which is Senegal.</p><p>Colombia: July 2 in Toronto vs. the runner-up in Group L (England, Ghana or Croatia).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Continue reading...</a>"
-      }
-    }
-  },
-  {
-    "id": "540cde224f776c3edfa53fa2e41b1cff",
-    "source": "The Guardian",
-    "tag": "RSS",
-    "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-    "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live",
-    "time": "2026-06-27",
-    "titleHash": "d22314f24995924f2f492d0f5750605f",
-    "translations": {
-      "es": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
-      },
-      "pt": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
-      },
-      "fr": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
-      },
-      "de": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
-      },
-      "ja": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
-      },
-      "zh": {
-        "title": "DR Congo v Uzbekistan: World Cup 2026 – live",
-        "summary": "<p>⚽️ Kick-off time: 7.30pm EDT/12.30am BST/9.30am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/24/world-cup-groups-permutations-round-of-32-usa-mexico-canada\">Third-place table</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/table\">Group tables</a> | <a href=\"mailto:bryan.graham@theguardian.com\">Mail Bryan</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/jun/27/colombia-v-portugal-world-cup-2026-live\">Colombia v Portugal – live updates also in Group K</a></p><p><em>Bryan will be here shortly. In the meantime, here’s at look at who needs what as the group stage tilts toward its conclusion:</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jun/27/dr-congo-v-uzbekistan-world-cup-2026-live\">Continue reading...</a>"
+        "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
+        "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
       }
     }
   },
