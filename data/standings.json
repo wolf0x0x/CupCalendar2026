@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-28T01:52:35.370Z",
+  "syncedAt": "2026-06-28T06:19:51.864Z",
   "source": "computed from data/matches.json",
   "groups": [
     {
@@ -485,49 +485,49 @@
         {
           "team": "Argentina",
           "code": "ARG",
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "gf": 5,
-          "ga": 0,
-          "gd": 5,
-          "points": 6
+          "gf": 8,
+          "ga": 1,
+          "gd": 7,
+          "points": 9
         },
         {
           "team": "Austria",
           "code": "AUT",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 3,
-          "ga": 3,
+          "gf": 6,
+          "ga": 6,
           "gd": 0,
-          "points": 3
+          "points": 4
         },
         {
           "team": "Algeria",
           "code": "ALG",
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "gf": 2,
-          "ga": 4,
+          "gf": 5,
+          "ga": 7,
           "gd": -2,
-          "points": 3
+          "points": 4
         },
         {
           "team": "Jordan",
           "code": "JOR",
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "gf": 2,
-          "ga": 5,
-          "gd": -3,
+          "lost": 3,
+          "gf": 3,
+          "ga": 8,
+          "gd": -5,
           "points": 0
         }
       ]
