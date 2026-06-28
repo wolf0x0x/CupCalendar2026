@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T04:21:17.459Z",
+  "fetchedAt": "2026-06-28T09:19:36.620Z",
   "items": [
     {
       "source": "FIFA",
@@ -74,74 +74,110 @@
       }
     },
     {
-      "id": "13a4242127992e2639ad37b45c9311b8",
+      "id": "8db220f8f4968e9570c8973147ff87c9",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Where to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup group games.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-25",
-      "titleHash": "52040334b53d4ca6614391fbba85b301",
+      "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+      "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "275edb5f6747cc1ae9e88b85d0813714",
       "translations": {
         "es": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         },
         "pt": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         },
         "fr": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         },
         "de": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         },
         "ja": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         },
         "zh": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup group games."
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         }
       }
     },
     {
-      "id": "fbc2c42a9bf97b35c4635c5ab4b05198",
+      "id": "e630b8a604ffacf12a163989e2cc737b",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Scotland's elimination from World Cup confirmed",
-      "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cddl508zgp5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-27",
-      "titleHash": "658bdd3422a17919e9392d608d70a716",
+      "title": "Messi comes off the bench to score as Argentina beat Jordan",
+      "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy49de3rp12o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "13d6e1ca763797570a3ae8b6c666557f",
       "translations": {
         "es": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         },
         "pt": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         },
         "fr": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         },
         "de": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         },
         "ja": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         },
         "zh": {
-          "title": "Scotland's elimination from World Cup confirmed",
-          "summary": "Scotland are out of the 2026 World Cup as they are unable to finish the group stage as one of the eight best third-placed teams."
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        }
+      }
+    },
+    {
+      "id": "13a4242127992e2639ad37b45c9311b8",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Where to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "52040334b53d4ca6614391fbba85b301",
+      "translations": {
+        "es": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        },
+        "pt": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        },
+        "fr": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        },
+        "de": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        },
+        "ja": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        },
+        "zh": {
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         }
       }
     },
@@ -182,42 +218,6 @@
       }
     },
     {
-      "id": "75c0aaaa75176e595de71071f06ebe23",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Kane hails 'very versatile' Bellingham after Panama win",
-      "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czrxk23me65o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-27",
-      "titleHash": "1db3825f50037a743d2b47b8958570f9",
-      "translations": {
-        "es": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        },
-        "pt": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        },
-        "fr": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        },
-        "de": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        },
-        "ja": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        },
-        "zh": {
-          "title": "Kane hails 'very versatile' Bellingham after Panama win",
-          "summary": "Harry Kane praises Jude Bellingham's ability to thrive when he has the freedom to \"attack the game\" after the midfielder set up a goal for the England captain, and scored one himself, in the 2-0 win over Panama to win Group L at the FIFA World Cup."
-        }
-      }
-    },
-    {
       "id": "53b98fdd1866a9c392b7dcef88564fc0",
       "source": "BBC",
       "tag": "RSS",
@@ -250,42 +250,6 @@
         "zh": {
           "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
           "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
-        }
-      }
-    },
-    {
-      "id": "4f3bc52fb379a36703a97f058667014a",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How are the TV picks decided for the World Cup's round of 32?",
-      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "titleHash": "ba67ebac0def879c14c0e183859ea7d2",
-      "translations": {
-        "es": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "pt": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "fr": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "de": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "ja": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "zh": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
         }
       }
     },
@@ -398,110 +362,74 @@
       }
     },
     {
-      "id": "ce2f97f18a0762ebaea1eaeaf26048b2",
+      "id": "32c13f09911729d6db64619cfb17b02b",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-      "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest",
+      "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+      "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live",
       "time": "2026-06-28",
-      "titleHash": "903625ed796993c28eda85319a3e0ad7",
+      "titleHash": "c974792a18d0487da6a38ceb1755992d",
       "translations": {
         "es": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Algeria 3-3 Austria: World Cup 2026 – live",
-          "summary": "<p>Both teams go through in remarkable fashion as Sasa Kalajdzic scores dramatic equaliser that knocks out Iran</p><p>Today’s match takes place at <strong>Kansas City Stadium</strong>, home to the Kansas City Chiefs in the NFL.</p><p>A fun trivia fact: in 2013, in an NFL match between the Chiefs and Oakland Raiders, the crowd at the stadium set a Guinness World Record for the loudest recorded noise at 137.5 decibels.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-algeria-v-austria-updates-alg-vs-aut-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+          "summary": "<p>⚽ All the latest news from as we reach the knockouts<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Power rankings</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>England reaction from our writers in New York/New Jersey.</strong></p><p>Bellingham can be dismissed a little by some as a player of moments. Is that bad? Moments win games. Bellingham is 22 and still finding his final form. He promises to do these things, walks and talks like he might do them. But then he also does them, which seems important. With England paddling here, he had the will and the craft to take out the spoons and rattle something off on his knee just when they needed it most.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live\">Continue reading...</a>"
         }
       }
     },
     {
-      "id": "bc4e95e08a8b108b2a429354b122c879",
+      "id": "604e2b604465db20bdf4f9b81f5642ff",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-      "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest",
+      "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+      "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland",
       "time": "2026-06-28",
-      "titleHash": "a1e720a218f4d450ad0c329037e1aaa6",
+      "titleHash": "87c22d0124de997457a997733b37d056",
       "translations": {
         "es": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         },
         "de": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Jordan 1-3 Argentina: World Cup 2026 – reaction",
-          "summary": "<p>Lionel Messi came off the bench to score his sixth goal of the World Cup as a much-changed Argentina strolled to victory</p><p><strong>3 min </strong>It’s like a home game for Argentina when they play in Dallas, and both players and fans are quickly into their work.</p><p><strong>1 min </strong>Jordan kick off from left to right as we watch.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/fifa-world-cup-2026-live-jordan-v-argentina-updates-jor-vs-arg-group-j-match-score-latest\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "a308d5a45f446409bf10647b43200a97",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-      "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026",
-      "time": "2026-06-27",
-      "titleHash": "035b23460802d6dfbdf785132c51d553",
-      "translations": {
-        "es": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Steve Clarke resigns as Scotland head coach after elimination from World Cup 2026",
-          "summary": "<ul><li><p>Clarke goes weeks after signing new four-year contract</p></li><li><p>‘Thanks for having me and good luck to my successor’</p></li></ul><p>Steve Clarke has resigned as Scotland’s head coach, with the decision announced within an hour of confirmation the country had been <a href=\"https://www.theguardian.com/football/2026/jun/28/scotland-eliminated-from-world-cup\">eliminated from the World Cup</a>. Clarke, who had been in post since 2019, signed a <a href=\"https://www.theguardian.com/football/2026/may/28/steve-clarke-scotland-coach-new-contract-2030\">four-year contract extension</a> shortly before the tournament. The manner of Scotland’s exit has led to a sharp rethink from the 62-year-old.</p><p>History will treat Clarke very favourably as a Scotland manager. After an absence from major tournaments stretching back to 1998, the team reached the 2021 and 2024 European Championships under him. This World Cup was a first for Scotland in 28 years.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/steve-clarke-resigns-scotland-manager-after-elimination-from-world-cup-2026\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
+          "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>"
         }
       }
     },
@@ -538,42 +466,6 @@
         "zh": {
           "title": "World Cup 2026: guide to all 1,248 players",
           "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Golden Boot: World Cup 2026 top goalscorers",
-      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
-      "time": "2026-06-18",
-      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2",
-      "translations": {
-        "es": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Golden Boot: World Cup 2026 top goalscorers",
-          "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>"
         }
       }
     }
