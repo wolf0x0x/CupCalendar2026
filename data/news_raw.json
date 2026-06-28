@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T16:16:47.317Z",
+  "fetchedAt": "2026-06-28T19:38:40.926Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,36 @@
       "time": "2026-06-28",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "2f6f7fc6a9436f1f03857b50bb50f7a2",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+      "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?",
+      "url": "https://www.espn.com/soccer/story/_/id/49196824/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "time": "2026-06-28",
+      "titleHash": "dd1f5ae89c89864eb374a4821bfc3cde"
+    },
+    {
+      "id": "688c291615ee213d42e1dd59ce4adb2b",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Odds to win the World Cup: France and Argentina fa...",
+      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-28",
+      "titleHash": "d30c8844317c266e661d205512f584db"
+    },
+    {
+      "id": "9cb450fda129bd47a9c721e44351eb74",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "21a411058ca53216213fd70ec4114221"
     },
     {
       "id": "ee58f2a2c68aa75bd4b074aa198b8e6e",
@@ -69,16 +99,6 @@
       "titleHash": "44e9e30244c46e23709bcb6dcb206682"
     },
     {
-      "id": "53b98fdd1866a9c392b7dcef88564fc0",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
-      "summary": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-27",
-      "titleHash": "1c9f29b023adee0432d2bda56bdd3608"
-    },
-    {
       "id": "44fb5d41b40557aeb2fa32b75fc8502f",
       "source": "BBC",
       "tag": "RSS",
@@ -107,6 +127,26 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ryn5wqywgo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-11",
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
+    },
+    {
+      "id": "9911752b9512080069da1ffffa8a15c1",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "South Africa v Canada: World Cup 2026 last 32 – live",
+      "summary": "<p>⚽️ Kick-off: 8pm BST/3pm EDT/5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">Mail Daniel</a></p><p><strong>Oh man,</strong> my eyeballs are sweating and we’re 45 minutes away from watching the teams come out. Can Stokes play football?</p><p><strong>Oh my goodness.</strong> Nothing to do with football, but everything to do with humanity: Ben Stokes, what a man. If you’re near a telly with Sky, get it on – it’s montage time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/28/south-africa-v-canada-world-cup-2026-last-32-live",
+      "time": "2026-06-28",
+      "titleHash": "837f7a6bd149beeaacef360ffddd82af"
+    },
+    {
+      "id": "53a56ee5d407c39e9c601a2c96cab5e4",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
+      "summary": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under-17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
+      "time": "2026-06-28",
+      "titleHash": "6c43a402d2290a3a26efc5f1d4aa7fbb"
     },
     {
       "id": "604e2b604465db20bdf4f9b81f5642ff",
