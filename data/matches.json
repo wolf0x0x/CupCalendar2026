@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-29T04:03:28.718Z",
+  "syncedAt": "2026-06-29T09:08:16.541Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1318,14 +1318,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-90",
+      "id": "canada-tbd-90",
       "sourceId": "90",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-04",
       "time": "12:00",
-      "home": "TBD",
+      "home": "Canada",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
