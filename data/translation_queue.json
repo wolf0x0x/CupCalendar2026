@@ -1,128 +1,212 @@
 [
   {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
     "lang": "es",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "51a9481906bef8123acc068ce6604c47",
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
+    "lang": "pt",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
+    "lang": "fr",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
+    "lang": "de",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
+    "lang": "ja",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "e5addcf1410c8ae79d6953dd829f10c2",
+    "lang": "zh",
+    "source": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "27272517880633f422c21172e807ef40",
     "lang": "es",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
-    "lang": "pt",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "51a9481906bef8123acc068ce6604c47",
-    "lang": "pt",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
-    "lang": "fr",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "51a9481906bef8123acc068ce6604c47",
-    "lang": "fr",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
-    "lang": "de",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "51a9481906bef8123acc068ce6604c47",
-    "lang": "de",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
-    "lang": "ja",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "51a9481906bef8123acc068ce6604c47",
-    "lang": "ja",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "da3a7008393ec06ea1e9053e3b6bf3ad",
-    "lang": "zh",
-    "source": "Eustaquio scores in injury-time to take Canada through to the last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "51a9481906bef8123acc068ce6604c47",
-    "lang": "zh",
-    "source": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
-  },
-  {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
+    "hash": "da267ac943664c65cd00920cf21327cd",
     "lang": "es",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
+    "hash": "27272517880633f422c21172e807ef40",
     "lang": "pt",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
+    "hash": "da267ac943664c65cd00920cf21327cd",
+    "lang": "pt",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "27272517880633f422c21172e807ef40",
     "lang": "fr",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
+    "hash": "da267ac943664c65cd00920cf21327cd",
+    "lang": "fr",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "27272517880633f422c21172e807ef40",
     "lang": "de",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
+    "hash": "da267ac943664c65cd00920cf21327cd",
+    "lang": "de",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "27272517880633f422c21172e807ef40",
     "lang": "ja",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
   },
   {
-    "hash": "6f8a7d5c3da8f7f0b5cacdb76deef4f6",
-    "lang": "zh",
-    "source": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
+    "hash": "da267ac943664c65cd00920cf21327cd",
+    "lang": "ja",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-28T22:06:01.216Z"
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "27272517880633f422c21172e807ef40",
+    "lang": "zh",
+    "source": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "da267ac943664c65cd00920cf21327cd",
+    "lang": "zh",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "es",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "es",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "pt",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "pt",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "fr",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "fr",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "de",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "de",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "ja",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "ja",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "589577b5a1c1cdbfd0f3096f697ef143",
+    "lang": "zh",
+    "source": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
+  },
+  {
+    "hash": "64e71122716e6daf05358a47aa35ec04",
+    "lang": "zh",
+    "source": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-29T11:11:31.435Z"
   }
 ]

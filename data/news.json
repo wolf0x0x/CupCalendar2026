@@ -36,37 +36,37 @@
     }
   },
   {
-    "id": "9cb450fda129bd47a9c721e44351eb74",
+    "id": "8a6d7dc40ab7f7c3bf3a19014b0081f8",
     "source": "BBC",
     "tag": "RSS",
-    "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+    "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
     "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
     "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
     "time": "2026-06-28",
-    "titleHash": "21a411058ca53216213fd70ec4114221",
+    "titleHash": "403b5402db9889f5511b449d35d7a767",
     "translations": {
       "es": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       },
       "pt": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       },
       "fr": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       },
       "de": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       },
       "ja": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       },
       "zh": {
-        "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+        "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
       }
     }
@@ -144,42 +144,6 @@
     }
   },
   {
-    "id": "8db220f8f4968e9570c8973147ff87c9",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-    "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-28",
-    "titleHash": "275edb5f6747cc1ae9e88b85d0813714",
-    "translations": {
-      "es": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      },
-      "pt": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      },
-      "fr": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      },
-      "de": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      },
-      "ja": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      },
-      "zh": {
-        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-      }
-    }
-  },
-  {
     "id": "13a4242127992e2639ad37b45c9311b8",
     "source": "BBC",
     "tag": "RSS",
@@ -212,6 +176,42 @@
       "zh": {
         "title": "Where to watch the World Cup on the BBC and ITV",
         "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+      }
+    }
+  },
+  {
+    "id": "8db220f8f4968e9570c8973147ff87c9",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+    "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-28",
+    "titleHash": "275edb5f6747cc1ae9e88b85d0813714",
+    "translations": {
+      "es": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+      },
+      "pt": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+      },
+      "fr": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+      },
+      "de": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+      },
+      "ja": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+      },
+      "zh": {
+        "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+        "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
       }
     }
   },
@@ -324,6 +324,42 @@
     }
   },
   {
+    "id": "ca8e58c9f60806471f4482705d93b9e5",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+    "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live",
+    "time": "2026-06-29",
+    "titleHash": "e2ce2ec00af61007d382bdf076de189a",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
+      }
+    }
+  },
+  {
     "id": "80753ae27e18b680eb6e2a2fa8baec91",
     "source": "The Guardian",
     "tag": "RSS",
@@ -356,6 +392,42 @@
       "zh": {
         "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
         "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "5fe14400415a32f57df576ad1fe62d1c",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+    "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup",
+    "time": "2026-06-29",
+    "titleHash": "48ede46457fd166f338de7be5e86e512",
+    "translations": {
+      "es": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
+        "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>"
       }
     }
   }

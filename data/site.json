@@ -5996,33 +5996,33 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
       "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-28",
       "translations": {
         "es": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         },
         "pt": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         },
         "fr": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         },
         "de": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         },
         "ja": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         },
         "zh": {
-          "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
           "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         }
       }
@@ -6098,40 +6098,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-      "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "translations": {
-        "es": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        },
-        "pt": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        },
-        "fr": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        },
-        "de": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        },
-        "ja": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        },
-        "zh": {
-          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6160,6 +6126,40 @@
         "zh": {
           "title": "Where to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+      "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "translations": {
+        "es": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        },
+        "pt": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        },
+        "fr": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        },
+        "de": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        },
+        "ja": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        },
+        "zh": {
+          "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
+          "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
         }
       }
     },
@@ -6268,34 +6268,34 @@
     {
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-      "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery",
-      "time": "2026-06-28",
+      "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+      "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live",
+      "time": "2026-06-29",
       "translations": {
         "es": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-          "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>"
+          "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>"
         }
       }
     }
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-29T04:40:43.238Z",
-    "newsItems": 10,
-    "translationQueue": 18,
+    "fetchedAt": "2026-06-29T11:11:31.435Z",
+    "newsItems": 12,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
