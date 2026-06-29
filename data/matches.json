@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-29T20:56:31.808Z",
+  "syncedAt": "2026-06-29T22:12:30.274Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1707,9 +1707,9 @@
       "time": "16:30",
       "home": "Germany",
       "away": "Paraguay",
-      "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": "1 - 1",
       "status": "live",
       "finished": false,
       "stadiumId": "9",
