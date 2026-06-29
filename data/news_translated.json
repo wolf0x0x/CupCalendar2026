@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T15:56:52.660Z",
+  "fetchedAt": "2026-06-29T20:06:55.725Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,6 +38,186 @@
       }
     },
     {
+      "id": "c7ed1969f9e696ed9bddf8137ac7c92b",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From Messi to Haaland: Which World Cup frontrunner...",
+      "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?",
+      "url": "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
+      "time": "2026-06-29",
+      "titleHash": "9fcda4c600ffd758e2ce89da7855f6aa",
+      "translations": {
+        "es": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "pt": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "fr": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "de": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "ja": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "zh": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        }
+      }
+    },
+    {
+      "id": "2f6f7fc6a9436f1f03857b50bb50f7a2",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+      "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?",
+      "url": "https://www.espn.com/soccer/story/_/id/49196824/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+      "time": "2026-06-28",
+      "titleHash": "dd1f5ae89c89864eb374a4821bfc3cde",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        },
+        "pt": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        },
+        "fr": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        },
+        "de": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        },
+        "ja": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        },
+        "zh": {
+          "title": "World Cup 2026 Power Rankings after group stage: France still No. 1?",
+          "summary": "And then there were 32. We're done with the group stage, but what do our writers and experts think the field of favorites looks like as we enter the win-or-go-home phase?"
+        }
+      }
+    },
+    {
+      "id": "6f8a3e6d5a9031ccbb38d11083f898aa",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Why outsiders believe the USMNT can make a deep Wo...",
+      "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49213271/why-outsiders-believe-usmnt-make-deep-world-cup-run",
+      "time": "2026-06-29",
+      "titleHash": "143d8a86ebed09c422a0ca44b906f7e4",
+      "translations": {
+        "es": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        },
+        "pt": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        },
+        "fr": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        },
+        "de": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        },
+        "ja": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        },
+        "zh": {
+          "title": "Why outsiders believe the USMNT can make a deep Wo...",
+          "summary": "After an impressive group stage, ESPN has assembled a panel of coaches and analysts to assess whether the United States has what it takes to become the surprise package of the 2026 FIFA World Cup."
+        }
+      }
+    },
+    {
+      "id": "4b2f6483c548475e3c783f86c2d059b6",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Balogun leads Nigeria-descent players in World Cup...",
+      "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora.",
+      "url": "https://www.espn.com/espn/story/_/id/49214622/folarin-balogun-leads-nigeria-descent-performers-world-cup-enters-business-end",
+      "time": "2026-06-29",
+      "titleHash": "c1b89409f970ac3be09cf05004728a45",
+      "translations": {
+        "es": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        },
+        "pt": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        },
+        "fr": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        },
+        "de": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        },
+        "ja": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        },
+        "zh": {
+          "title": "Balogun leads Nigeria-descent players in World Cup...",
+          "summary": "Nigeria failed to qualify for the 2026 FIFA World Cup, the first 48-team World Cup, which featured a record 10 African countries. But the nations is being represented by many players from the diaspora."
+        }
+      }
+    },
+    {
+      "id": "688c291615ee213d42e1dd59ce4adb2b",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Odds to win the World Cup: France and Argentina fa...",
+      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
+      "time": "2026-06-29",
+      "titleHash": "d30c8844317c266e661d205512f584db",
+      "translations": {
+        "es": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        },
+        "de": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Odds to win the World Cup: France and Argentina fa...",
+          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+        }
+      }
+    },
+    {
       "id": "ae50b0388ae3918761b6a276cf59c76f",
       "source": "BBC",
       "tag": "RSS",
@@ -70,78 +250,6 @@
         "zh": {
           "title": "Africa's World Cup success leaves Asia looking for answers",
           "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure."
-        }
-      }
-    },
-    {
-      "id": "6e87097896283ba72983d2652b07ef99",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "d36ab8c68745d7ceacf0fd397fa91242",
-      "translations": {
-        "es": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "ee58f2a2c68aa75bd4b074aa198b8e6e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Maestro Messi scores again and breaks another record in the process",
-      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "01bacb128e09bc55aedc7b3f42f1f495",
-      "translations": {
-        "es": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
-        },
-        "pt": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
-        },
-        "fr": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
-        },
-        "de": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
-        },
-        "ja": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
-        },
-        "zh": {
-          "title": "Maestro Messi scores again and breaks another record in the process",
-          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
         }
       }
     },
@@ -218,6 +326,78 @@
       }
     },
     {
+      "id": "6e87097896283ba72983d2652b07ef99",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "d36ab8c68745d7ceacf0fd397fa91242",
+      "translations": {
+        "es": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        },
+        "de": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "ee58f2a2c68aa75bd4b074aa198b8e6e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Maestro Messi scores again and breaks another record in the process",
+      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "01bacb128e09bc55aedc7b3f42f1f495",
+      "translations": {
+        "es": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        },
+        "pt": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        },
+        "fr": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        },
+        "de": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        },
+        "ja": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        },
+        "zh": {
+          "title": "Maestro Messi scores again and breaks another record in the process",
+          "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
+        }
+      }
+    },
+    {
       "id": "8db220f8f4968e9570c8973147ff87c9",
       "source": "BBC",
       "tag": "RSS",
@@ -250,6 +430,42 @@
         "zh": {
           "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
           "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+        }
+      }
+    },
+    {
+      "id": "e630b8a604ffacf12a163989e2cc737b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Messi comes off the bench to score as Argentina beat Jordan",
+      "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cy49de3rp12o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "13d6e1ca763797570a3ae8b6c666557f",
+      "translations": {
+        "es": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        },
+        "pt": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        },
+        "fr": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        },
+        "de": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        },
+        "ja": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+        },
+        "zh": {
+          "title": "Messi comes off the bench to score as Argentina beat Jordan",
+          "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
         }
       }
     },
@@ -362,38 +578,38 @@
       }
     },
     {
-      "id": "3d9d5e1dd19c021085eb626f6d2db84e",
+      "id": "e23d3c20bdd57c41a38c8dce6300319f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live",
+      "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+      "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live",
       "time": "2026-06-29",
-      "titleHash": "a1b550cd2728802ddda7d34773c0ff7d",
+      "titleHash": "c1778a575b2670700dca773feb95ba58",
       "translations": {
         "es": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Brazil v Japan: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>“Anyone who was around in 2002</strong> will remember that year’s Germany-Paraguay as probably the worst match of that tournament,” says Peter Goldstein. “I think this one will be better, if only because Germany have more good attackers at their disposal this time. But I’ll be very surprised if Paraguay add much to the match excitement-wise.”</p><p>In fairness, the winning goal was a beauty, and not only because it saved us all from extra-time.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>"
         }
       }
     }
