@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T11:11:31.435Z",
+  "fetchedAt": "2026-06-29T15:56:52.660Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "8a6d7dc40ab7f7c3bf3a19014b0081f8",
+      "id": "ae50b0388ae3918761b6a276cf59c76f",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "403b5402db9889f5511b449d35d7a767"
+      "title": "Africa's World Cup success leaves Asia looking for answers",
+      "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-29",
+      "titleHash": "7534e0a079c4ab7831db2914e5b9088a"
     },
     {
       "id": "6e87097896283ba72983d2652b07ef99",
@@ -47,6 +47,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-28",
       "titleHash": "01bacb128e09bc55aedc7b3f42f1f495"
+    },
+    {
+      "id": "8a6d7dc40ab7f7c3bf3a19014b0081f8",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "403b5402db9889f5511b449d35d7a767"
     },
     {
       "id": "13a4242127992e2639ad37b45c9311b8",
@@ -99,34 +109,14 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "ca8e58c9f60806471f4482705d93b9e5",
+      "id": "3d9d5e1dd19c021085eb626f6d2db84e",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Clarke says ‘right time to step away’ from Scotland job, plus Brazil v Japan buildup – live",
-      "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/south-africa-canada-world-cup-last-32-match-report\">Canada reach last 16 with win over South Africa</a></p></li><li><p><a href=\"https://www.theguardian.com/football/2026/jun/28/kane-and-bellingham-produce-the-goods-but-england-need-others-to-step-up\">England’s dynamic duo need others to step up</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Let’s turn our attention</strong> to Germany. Jonathan Liew content incoming.</p><p>Brazil v Japan (1pm EST, 6pm BST)<br> Germany v Paraguay: (4.30pm EST, 9.30pm BST)<br> Netherlands v Morocco (9pm EST, 2am Tue BST)</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/world-cup-2026-reaction-canada-brazil-japan-germany-paraguay-live",
+      "title": "Brazil v Japan: World Cup 2026 last 32 – live",
+      "summary": "<p>⚽ Kick-off time: 12pm local/1pm EDT/6pm BST/3am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Email Tim</a></p><p><strong>And now we have an email from Brazil.</strong> “Love the minute-by-minute reports,” says Tiago Maranhao. Thanks! “I’m writing from Ponta Grossa just to let you know that here in Brazil a knockout stage is called a ‘mata-mata’ stage (‘mata-mata’ would translate as ‘kill-kill’).</p><p>“Also, that 3-2 was the first (and only) time we lost a match after leading 2–0. By the way, here’s another bit of Brazilian football slang: when a team loses a match after scoring the opening goal, we call it a ‘virada’ (a turnaround).</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/brazil-v-japan-world-cup-2026-last-32-live",
       "time": "2026-06-29",
-      "titleHash": "e2ce2ec00af61007d382bdf076de189a"
-    },
-    {
-      "id": "80753ae27e18b680eb6e2a2fa8baec91",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
-      "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery",
-      "time": "2026-06-28",
-      "titleHash": "64d2d534299db9f88c901dcbd74e27f6"
-    },
-    {
-      "id": "5fe14400415a32f57df576ad1fe62d1c",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Alphonso Davies’ return brightens Canada’s landmark World Cup moment",
-      "summary": "<p>The Bayern Munich star changed the game when he came on, opening the space for Stephen Eustáquio to shoot from for the match-winner</p><p>For 75 minutes, Canada and South Africa struggled to find a way to break through in the World Cup’s inaugural round of 32 clash. Neither team ceded an inch. Canada couldn’t be baited into intensifying its press as South Africa dawdled playing out from the back. South Africa worked to advance upfield but struggled to find dangerous avenues into the box.</p><p>Then, at long last, 345 minutes into Canada’s tournament, Alphonso Davies crossed the touchline for his first involvement at World Cup 2026. The game, for Canada and neutrals alike, greatly benefitted.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/alphonso-davies-canada-south-africa-world-cup",
-      "time": "2026-06-29",
-      "titleHash": "48ede46457fd166f338de7be5e86e512"
+      "titleHash": "a1b550cd2728802ddda7d34773c0ff7d"
     }
   ]
 }
