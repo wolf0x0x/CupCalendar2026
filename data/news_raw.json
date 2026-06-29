@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T22:06:01.216Z",
+  "fetchedAt": "2026-06-29T04:40:43.238Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-28",
+      "time": "2026-06-29",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -99,24 +99,14 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "53a56ee5d407c39e9c601a2c96cab5e4",
+      "id": "80753ae27e18b680eb6e2a2fa8baec91",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
-      "summary": "<p>Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties</p><p>Jordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under‑17 edition in Mexico two years later, the 32-year-old has more than made up for it.</p><p>The <a href=\"https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report\">2-0 victory against Panama</a> on Saturday was the 29th major tournament England game in a row to feature Pickford, as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of the Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
+      "title": "World Cup 2026 colour chart: fans of all 48 teams join the party – in pictures",
+      "summary": "<p>We take a look at the creativity and emotion shown by fans of each nation during the group stage of the World Cup</p><p>The 2026 World Cup has set a new all-time attendance record for the men’s tournament, surpassing the previous record of 3,587,538 set during the 1994 World Cup – and the group stages have only just ended.</p><p>As ever, fans have brought colour and fun to the tournament – from Mexico’s duck mascot to Norway’s Viking rowers, with plenty more in between. Here are a selection of our favourite images of fans at the matches and at <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/24/world-cup-2026-viewing-parties-around-the-globe-in-pictures\">watch parties across the globe.</a></p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-colour-chart-fans-all-teams-gallery",
       "time": "2026-06-28",
-      "titleHash": "6c43a402d2290a3a26efc5f1d4aa7fbb"
-    },
-    {
-      "id": "604e2b604465db20bdf4f9b81f5642ff",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026 power rankings: France still kings but who has climbed 26 places?",
-      "summary": "<p>From Algeria to Uzbekistan, we assess the standing of the 48 nations after the group stage of the tournament</p><p>It took a little over an hour for Kylian Mbappé to find his groove. Irked by a poor refereeing decision, he <a href=\"https://www.theguardian.com/football/2026/jun/16/france-senegal-world-cup-group-i-match-report\">scored twice in France’s opener</a> against Senegal. Ably supported by a stunning cast, Mbappé will already have his sights on winning the competition. Michael Olise <a href=\"https://www.theguardian.com/football/2026/jun/20/michael-olise-france-world-cup-didier-deschamps\">has shown his class throughout</a>, while Ousmane Dembélé <a href=\"https://www.theguardian.com/football/2026/jun/26/france-norway-world-cup-group-i-match-report\">dazzled with a hat-trick against Norway</a>. We’ll see if anyone can stop Didier Deschamps’ team.</p> <a href=\"https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/28/world-cup-2026-power-rankings-france-argentina-england-scotland",
-      "time": "2026-06-28",
-      "titleHash": "87c22d0124de997457a997733b37d056"
+      "titleHash": "64d2d534299db9f88c901dcbd74e27f6"
     }
   ]
 }
