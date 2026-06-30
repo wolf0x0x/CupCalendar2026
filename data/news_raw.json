@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T22:13:21.338Z",
+  "fetchedAt": "2026-06-30T04:07:49.045Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,9 +14,39 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-29",
+      "time": "2026-06-30",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "cfac2a64ae91418980dc357dcdff3caa",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Germany beaten on penalties as Paraguay reach last 16",
+      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "d81afe4d24f5474dfd050bb4dca4600b"
+    },
+    {
+      "id": "9b3d22373a6123e37881a9b0ef38e380",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "00ace04646305ba3a503f11099bbe3eb"
+    },
+    {
+      "id": "4c97289f77405b5fbb60f29d7c54591c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+      "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "17326a953bafb1f5fadbf49ef4e9eefc"
     },
     {
       "id": "ae50b0388ae3918761b6a276cf59c76f",
@@ -39,34 +69,14 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "ee58f2a2c68aa75bd4b074aa198b8e6e",
+      "id": "6e87097896283ba72983d2652b07ef99",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Maestro Messi scores again and breaks another record in the process",
-      "summary": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss",
+      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
+      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-28",
-      "titleHash": "01bacb128e09bc55aedc7b3f42f1f495"
-    },
-    {
-      "id": "8db220f8f4968e9570c8973147ff87c9",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals",
-      "summary": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "275edb5f6747cc1ae9e88b85d0813714"
-    },
-    {
-      "id": "e630b8a604ffacf12a163989e2cc737b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Messi comes off the bench to score as Argentina beat Jordan",
-      "summary": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cy49de3rp12o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "13d6e1ca763797570a3ae8b6c666557f"
+      "titleHash": "d36ab8c68745d7ceacf0fd397fa91242"
     },
     {
       "id": "3024051182307a83dc866e50e5604f8e",
@@ -109,14 +119,14 @@
       "titleHash": "d02141a3aefcfe9071ceb8a004296aff"
     },
     {
-      "id": "e23d3c20bdd57c41a38c8dce6300319f",
+      "id": "d2ecdd62a9ab21dc29503f4a18003850",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Germany v Paraguay: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot standings</a></p><p><strong>Match report: Brazil 2-1 Japan</strong></p><p>Not for the first time in this tournament, there were long periods when <a href=\"https://www.theguardian.com/football/brazil\">Brazil</a> did not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the Carlo Ancelotti method that worked at Real Madrid is working again: stay in games and eventually either opponents will make a mistake or brilliant players will do something brilliant.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live",
-      "time": "2026-06-29",
-      "titleHash": "c1778a575b2670700dca773feb95ba58"
+      "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
+      "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live",
+      "time": "2026-06-30",
+      "titleHash": "993305b59665e34bf24eab5e90c09054"
     }
   ]
 }
