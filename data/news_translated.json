@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T17:08:52.151Z",
+  "fetchedAt": "2026-06-30T20:05:54.863Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,114 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "6acd5240675cd02d7c8c9fe12fd817d0",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Four reasons why we think 'it's coming home' for E...",
+      "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer.",
+      "url": "https://www.espn.com/soccer/story/_/id/49224477/fifa-world-cup-england-coming-home-jude-bellingham-harry-kane-thomas-tuchel",
+      "time": "2026-06-30",
+      "titleHash": "344c4de6d2261b8a886af19f50d2de48",
+      "translations": {
+        "es": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        },
+        "pt": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        },
+        "fr": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        },
+        "de": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        },
+        "ja": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        },
+        "zh": {
+          "title": "Four reasons why we think 'it's coming home' for E...",
+          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
+        }
+      }
+    },
+    {
+      "id": "c7ed1969f9e696ed9bddf8137ac7c92b",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "From Messi to Haaland: Which World Cup frontrunner...",
+      "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?",
+      "url": "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
+      "time": "2026-06-30",
+      "titleHash": "9fcda4c600ffd758e2ce89da7855f6aa",
+      "translations": {
+        "es": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "pt": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "fr": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "de": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "ja": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        },
+        "zh": {
+          "title": "From Messi to Haaland: Which World Cup frontrunner...",
+          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
+        }
+      }
+    },
+    {
+      "id": "8ac0211015a500245fe0105dd85b5c3f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+      "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "9e78e914e8f030b82ccb0af0fedea6b0",
+      "translations": {
+        "es": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
+          "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
         }
       }
     },
@@ -110,42 +218,6 @@
       }
     },
     {
-      "id": "9b3d22373a6123e37881a9b0ef38e380",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "00ace04646305ba3a503f11099bbe3eb",
-      "translations": {
-        "es": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        },
-        "pt": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        },
-        "fr": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        },
-        "de": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        },
-        "ja": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        },
-        "zh": {
-          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-        }
-      }
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -218,38 +290,74 @@
       }
     },
     {
-      "id": "6e87097896283ba72983d2652b07ef99",
+      "id": "9b3d22373a6123e37881a9b0ef38e380",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-      "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "d36ab8c68745d7ceacf0fd397fa91242",
+      "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+      "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "00ace04646305ba3a503f11099bbe3eb",
       "translations": {
         "es": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
         },
         "pt": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
         },
         "fr": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
         },
         "de": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
         },
         "ja": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
         },
         "zh": {
-          "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
-          "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
+          "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
+          "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
+        }
+      }
+    },
+    {
+      "id": "4c97289f77405b5fbb60f29d7c54591c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+      "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "17326a953bafb1f5fadbf49ef4e9eefc",
+      "translations": {
+        "es": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+        },
+        "de": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
+          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
         }
       }
     },
@@ -434,74 +542,38 @@
       }
     },
     {
-      "id": "97af603627b359283f4988dd10a24d71",
+      "id": "c14de141d97d674935fe47f522312f95",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-      "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live",
+      "title": "France v Sweden: World Cup 2026 last 32 – live",
+      "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
       "time": "2026-06-30",
-      "titleHash": "c99bc878c60d238f8c66f1517ba3072d",
+      "titleHash": "1a6f351f13aa6914f1ac430084c89787",
       "translations": {
         "es": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
-          "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "15cae82436cf6f0a05ca272d7472dbd6",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-      "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
-      "time": "2026-06-30",
-      "titleHash": "5d1c84cae18eb54ac28745079f922634",
-      "translations": {
-        "es": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+          "title": "France v Sweden: World Cup 2026 last 32 – live",
+          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         }
       }
     },
@@ -538,6 +610,42 @@
         "zh": {
           "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
           "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "15cae82436cf6f0a05ca272d7472dbd6",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+      "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
+      "time": "2026-06-30",
+      "titleHash": "5d1c84cae18eb54ac28745079f922634",
+      "translations": {
+        "es": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+          "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>"
         }
       }
     }
