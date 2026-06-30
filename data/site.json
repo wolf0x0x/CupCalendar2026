@@ -6132,6 +6132,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "translations": {
+        "es": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "pt": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "fr": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "de": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "ja": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "zh": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Eustaquio scores in injury-time to take Canada through to the last 16",
       "summary": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss",
@@ -6194,40 +6228,6 @@
         "zh": {
           "title": "Africa's World Cup success leaves Asia looking for answers",
           "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "translations": {
-        "es": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "pt": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "fr": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "de": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "ja": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "zh": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         }
       }
     },
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-30T14:31:02.578Z",
-    "newsItems": 14,
-    "translationQueue": 42,
+    "fetchedAt": "2026-06-30T17:08:52.151Z",
+    "newsItems": 15,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",

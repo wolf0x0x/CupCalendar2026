@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T14:31:02.578Z",
+  "fetchedAt": "2026-06-30T17:08:52.151Z",
   "errors": [
     {
       "source": "FIFA",
@@ -59,6 +59,16 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
+      "id": "3024051182307a83dc866e50e5604f8e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "09e27599341d1abfdf98f5893598046f"
+    },
+    {
       "id": "6e87097896283ba72983d2652b07ef99",
       "source": "BBC",
       "tag": "RSS",
@@ -77,16 +87,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-29",
       "titleHash": "7534e0a079c4ab7831db2914e5b9088a"
-    },
-    {
-      "id": "3024051182307a83dc866e50e5604f8e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "09e27599341d1abfdf98f5893598046f"
     },
     {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
@@ -129,24 +129,34 @@
       "titleHash": "dffd9b1eb57183cd9d0867868ad75826"
     },
     {
-      "id": "e9c7afba458a27f6795bc749c4a95bd6",
+      "id": "97af603627b359283f4988dd10a24d71",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
-      "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live",
+      "title": "Côte d’Ivoire v Norway: World Cup 2026 last 32 – live",
+      "summary": "<p><strong>⚽️ </strong>Kick-off time: 12pm local/1pm EDT/6pm BST/3am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p></p><p><strong>Pre-match postbag.</strong> “This one is an interesting game. Ivory Coast are a team who when I looked at squad before the tournament, I was surprised at the number of good players they have and they’ve done well so far beating Ecuador and almost holding Germany (although yesterday might be putting that result in perspective). Norway are favourites but I’ve got to think the resting of so many players against France and basically throwing that game has put them under enormous pressure today. Lose today and that decision will come under enormous scrutiny. I heard the great Phillipe Auclair on World Cup Daily mention a lot of Norwegian fans were not happy with that and something like that can puncture the feel-good mood around a team. Despite all that, I’m going for Norway to win 3-1 with Haaland getting at least two goals” – John</p><p>“Will be an engaging match and both teams are quite physical and pressing in their game. But can anyone stop Haaland when he is in his groove?” – krishnamoorthy v</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/30/cote-divoire-v-norway-world-cup-2026-last-32-live",
       "time": "2026-06-30",
-      "titleHash": "f739d008dac6e4392613ab36d8aaf5db"
+      "titleHash": "c99bc878c60d238f8c66f1517ba3072d"
     },
     {
       "id": "15cae82436cf6f0a05ca272d7472dbd6",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
-      "summary": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+      "summary": "<p>From the hairstyles to the stadiums, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde mop.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now",
       "time": "2026-06-30",
       "titleHash": "5d1c84cae18eb54ac28745079f922634"
+    },
+    {
+      "id": "1ac6e29cf4eaf65057167124e0bbf0e3",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
+      "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
+      "time": "2026-06-30",
+      "titleHash": "4197c2d7950cf782dfe960771b07ba99"
     }
   ]
 }
