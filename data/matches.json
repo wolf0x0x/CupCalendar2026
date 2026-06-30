@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-30T01:30:16.141Z",
+  "syncedAt": "2026-06-30T05:56:24.419Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1318,7 +1318,7 @@
       "validation": "primary"
     },
     {
-      "id": "canada-tbd-90",
+      "id": "canada-morocco-90",
       "sourceId": "90",
       "type": "r16",
       "group": "R16",
@@ -1326,7 +1326,7 @@
       "date": "2026-07-04",
       "time": "12:00",
       "home": "Canada",
-      "away": "TBD",
+      "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
@@ -1859,11 +1859,11 @@
       "time": "19:00",
       "home": "Netherlands",
       "away": "Morocco",
-      "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "homeScore": 1,
+      "awayScore": 1,
+      "score": "1 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "3",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
