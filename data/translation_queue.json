@@ -1,170 +1,296 @@
 [
   {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
+    "hash": "79653634e2efa7caee9e1df044431729",
     "lang": "es",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
+    "hash": "79653634e2efa7caee9e1df044431729",
+    "lang": "pt",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "79653634e2efa7caee9e1df044431729",
+    "lang": "fr",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "79653634e2efa7caee9e1df044431729",
+    "lang": "de",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "79653634e2efa7caee9e1df044431729",
+    "lang": "ja",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "79653634e2efa7caee9e1df044431729",
+    "lang": "zh",
+    "source": "Netherlands crumble in penalty shootout as Morocco progress",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
     "lang": "es",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
+    "source": "What is the World Cup prize money?",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
-    "lang": "pt",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
-    "lang": "pt",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
-    "lang": "fr",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
-    "lang": "fr",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
-    "lang": "de",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
-    "lang": "de",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
-    "lang": "ja",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
-    "lang": "ja",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "19316dd97760daa36e6d7eaed9a17699",
-    "lang": "zh",
-    "source": "Netherlands crumble in penalty shootout as Morocco reach last 16",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "695094191f2b1cf03f9448cb2607a32a",
-    "lang": "zh",
-    "source": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
-  },
-  {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
     "lang": "es",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
+    "lang": "pt",
+    "source": "What is the World Cup prize money?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
+    "lang": "pt",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
+    "lang": "fr",
+    "source": "What is the World Cup prize money?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
+    "lang": "fr",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
+    "lang": "de",
+    "source": "What is the World Cup prize money?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
+    "lang": "de",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
+    "lang": "ja",
+    "source": "What is the World Cup prize money?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
+    "lang": "ja",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "61f744dd88f097e2d37c0c0865f3c7f0",
+    "lang": "zh",
+    "source": "What is the World Cup prize money?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "38a7bd1b04b134c627049b1afe7d72c6",
+    "lang": "zh",
+    "source": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "es",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
+    "lang": "es",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "pt",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
     "lang": "pt",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "fr",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
     "lang": "fr",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "de",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
     "lang": "de",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "ja",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
     "lang": "ja",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "471cf0fddb77db37207b318409d7dd39",
+    "hash": "8cb10905e4f8df79d530f5f865e9996a",
     "lang": "zh",
-    "source": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+    "source": "World Cup 2026: Klopp plays down Germany job links; Livramento has surgery – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
   },
   {
-    "hash": "bbc72a1f1590085b9c5ea7f09952cf20",
+    "hash": "756a264ec1a8973a64acc9690404faa3",
     "lang": "zh",
-    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+    "source": "<ul><li><p><a href=\"https://www.theguardian.com/football/picture/2026/jun/30/david-squires-on-world-cup-penalty-pain-germany-netherlands\">David Squires on … penalty pain for Dutch and Germany</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-06-30T09:51:20.048Z"
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "es",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "es",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "pt",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "pt",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "fr",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "fr",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "de",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "de",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "ja",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "ja",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "d6236df16b555be3c5b95926410e102d",
+    "lang": "zh",
+    "source": "Who did it best? USA 1994 versus World Cup 2026 – then and now",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
+  },
+  {
+    "hash": "86822c6d7e39aad72a1cb2492121e75e",
+    "lang": "zh",
+    "source": "<p>From the hairstyles to the stadia, the kits to the celebrations, we take a look at the changing face of the game.</p><p><em><strong>Tap on the images below to fade between the visuals</strong></em></p><p>It’s 32 years since Diego Maradona went berserk down the barrel of a TV camera after scoring for Argentina; since Bebeto rocked an imaginary baby to sleep; since Roberto Baggio blazed his spot-kick into orbit (the tournament’s second worst penalty after Diana Ross’s blooper during the opening ceremony); since Carlos Valderrama wowed the world with his luscious blonde afro.</p><p>The visuals from the World Cup in 1994 were rich and cinematic, but does the beautiful game look that different on its return to the United States? Has football lost its style and soul? Or will this year’s tournament live just as long in the memory as its predecessor?</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/30/who-did-it-best-usa-1994-versus-world-cup-2026-then-and-now\">Continue reading...</a>",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-06-30T14:31:02.578Z"
   }
 ]
