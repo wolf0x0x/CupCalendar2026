@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T04:07:49.045Z",
+  "fetchedAt": "2026-06-30T09:51:20.048Z",
   "items": [
     {
       "source": "FIFA",
@@ -74,6 +74,42 @@
       }
     },
     {
+      "id": "1c98b1f8b56630664051faceb507f336",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "f056b7a162e47651dd650c611b6deebc",
+      "translations": {
+        "es": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "de": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Netherlands crumble in penalty shootout as Morocco reach last 16",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        }
+      }
+    },
+    {
       "id": "9b3d22373a6123e37881a9b0ef38e380",
       "source": "BBC",
       "tag": "RSS",
@@ -110,38 +146,38 @@
       }
     },
     {
-      "id": "4c97289f77405b5fbb60f29d7c54591c",
+      "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-      "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "17326a953bafb1f5fadbf49ef4e9eefc",
+      "title": "Where to watch the World Cup on the BBC and ITV",
+      "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "52040334b53d4ca6614391fbba85b301",
       "translations": {
         "es": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         },
         "pt": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         },
         "fr": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         },
         "de": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         },
         "ja": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         },
         "zh": {
-          "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-          "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
+          "title": "Where to watch the World Cup on the BBC and ITV",
+          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         }
       }
     },
@@ -178,42 +214,6 @@
         "zh": {
           "title": "Africa's World Cup success leaves Asia looking for answers",
           "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure."
-        }
-      }
-    },
-    {
-      "id": "13a4242127992e2639ad37b45c9311b8",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Where to watch the World Cup on the BBC and ITV",
-      "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "52040334b53d4ca6614391fbba85b301",
-      "translations": {
-        "es": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        },
-        "pt": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        },
-        "fr": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        },
-        "de": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        },
-        "ja": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        },
-        "zh": {
-          "title": "Where to watch the World Cup on the BBC and ITV",
-          "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
         }
       }
     },
@@ -398,38 +398,38 @@
       }
     },
     {
-      "id": "d2ecdd62a9ab21dc29503f4a18003850",
+      "id": "4bb0ee12b3c0a522b504f0566c982288",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-      "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live",
+      "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+      "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live",
       "time": "2026-06-30",
-      "titleHash": "993305b59665e34bf24eab5e90c09054",
+      "titleHash": "845334a25c9dd8d8bf9e06d6ab03b576",
       "translations": {
         "es": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "Netherlands v Morocco: World Cup 2026 last 32 goes to penalties – live",
-          "summary": "<p>⚽️ Kick-off time: 7pm local/9pm EDT/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>Mary Waltz writes in on the back of that Germany v Paraguay shootout: <em>“</em>All England fans admit it. Germany losing by penalties is the ultimate of Schadenfreud.”</p><p>The lack of a clinical goalscorer has hampered the Dutch team in recent years, but Brian Brobbey has been the solution at this World Cup. The Sunderland striker didn’t initially project as a starter; Memphis Depay was their leading scorer up top through qualifying, but he was nursing a thigh injury in the run-up to the tournament.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/29/netherlands-v-morocco-world-cup-2026-live\">Continue reading...</a>"
+          "title": "World Cup 2026: Dutch despair, Klopp plays down Germany job links after exit – live",
+          "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay stun Germany</a>, <a href=\"https://www.theguardian.com/football/2026/jun/30/netherlands-morocco-world-cup-2026-last-32-match-report\">Morocco send Dutch home</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/video/2026/jun/30/germany-paraguay-netherlands-morocco-brazil-japan-world-cup-daily-podcast\">World Cup Daily</a></p></li></ul><p><strong>Tuesday’s World Cup Daily podcast has dropped</strong>. Max, Barry, Archie and Nicky chew over last night’s drama:</p><p><strong>A couple of videos for your delectation now</strong>. Photographer Shaun Botterill has a World Cup portfolio spanning 40 years – here he talks about the moments that made those memorable images:</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/world-cup-2026-netherlands-and-germany-crash-out-plus-cote-divoire-v-norway-buildup-live\">Continue reading...</a>"
         }
       }
     }
