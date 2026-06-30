@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-30T21:01:28.916Z",
+  "syncedAt": "2026-06-30T22:40:16.263Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1289,10 +1289,10 @@
       "time": "17:00",
       "home": "France",
       "away": "Sweden",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 3,
+      "awayScore": 0,
+      "score": "3 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
