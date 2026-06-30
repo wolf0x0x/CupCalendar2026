@@ -5994,74 +5994,6 @@
       }
     },
     {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Four reasons why we think 'it's coming home' for E...",
-      "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer.",
-      "url": "https://www.espn.com/soccer/story/_/id/49224477/fifa-world-cup-england-coming-home-jude-bellingham-harry-kane-thomas-tuchel",
-      "time": "2026-06-30",
-      "translations": {
-        "es": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        },
-        "pt": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        },
-        "fr": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        },
-        "de": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        },
-        "ja": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        },
-        "zh": {
-          "title": "Four reasons why we think 'it's coming home' for E...",
-          "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "From Messi to Haaland: Which World Cup frontrunner...",
-      "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?",
-      "url": "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
-      "time": "2026-06-30",
-      "translations": {
-        "es": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        },
-        "pt": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        },
-        "fr": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        },
-        "de": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        },
-        "ja": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        },
-        "zh": {
-          "title": "From Messi to Haaland: Which World Cup frontrunner...",
-          "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?"
-        }
-      }
-    },
-    {
       "source": "BBC",
       "tag": "RSS",
       "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
@@ -6166,6 +6098,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "translations": {
+        "es": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "pt": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "fr": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "de": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "ja": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "zh": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6194,40 +6160,6 @@
         "zh": {
           "title": "Where to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "translations": {
-        "es": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "pt": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "fr": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "de": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "ja": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
-        },
-        "zh": {
-          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
         }
       }
     },
@@ -6298,6 +6230,74 @@
           "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "translations": {
+        "es": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "pt": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "fr": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "de": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "ja": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        },
+        "zh": {
+          "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "translations": {
+        "es": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "pt": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "fr": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "de": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "ja": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "zh": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-30T20:05:54.863Z",
-    "newsItems": 18,
-    "translationQueue": 36,
+    "fetchedAt": "2026-06-30T22:18:20.312Z",
+    "newsItems": 15,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",

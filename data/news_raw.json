@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T20:05:54.863Z",
+  "fetchedAt": "2026-06-30T22:18:20.312Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,26 +17,6 @@
       "time": "2026-06-30",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "6acd5240675cd02d7c8c9fe12fd817d0",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Four reasons why we think 'it's coming home' for E...",
-      "summary": "Despite not looking brilliant during the group stage, England are among the betting favorites to win the 2026 World Cup and ... well ... Bill Connelly is a believer.",
-      "url": "https://www.espn.com/soccer/story/_/id/49224477/fifa-world-cup-england-coming-home-jude-bellingham-harry-kane-thomas-tuchel",
-      "time": "2026-06-30",
-      "titleHash": "344c4de6d2261b8a886af19f50d2de48"
-    },
-    {
-      "id": "c7ed1969f9e696ed9bddf8137ac7c92b",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "From Messi to Haaland: Which World Cup frontrunner...",
-      "summary": "The superstars have shown up at the 2026 World Cup, but which team is most reliant on its talisman to keep moving through the competition?",
-      "url": "https://www.espn.com/soccer/story/_/id/49209852/world-cup-superstars-lionel-messi-cristiano-ronaldo-kylian-mbappe-vinicius-erling-haaland-dependency",
-      "time": "2026-06-30",
-      "titleHash": "9fcda4c600ffd758e2ce89da7855f6aa"
     },
     {
       "id": "8ac0211015a500245fe0105dd85b5c3f",
@@ -69,6 +49,16 @@
       "titleHash": "7dcc797c399a2f8653fa5c1a48dc9ae8"
     },
     {
+      "id": "deecf34e10927ced74e45c4882bb9861",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "e0996440f96e61744cf2bcacd6e7400b"
+    },
+    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -77,16 +67,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-28",
       "titleHash": "52040334b53d4ca6614391fbba85b301"
-    },
-    {
-      "id": "3024051182307a83dc866e50e5604f8e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-28",
-      "titleHash": "09e27599341d1abfdf98f5893598046f"
     },
     {
       "id": "9b3d22373a6123e37881a9b0ef38e380",
@@ -109,14 +89,14 @@
       "titleHash": "17326a953bafb1f5fadbf49ef4e9eefc"
     },
     {
-      "id": "ae50b0388ae3918761b6a276cf59c76f",
+      "id": "3024051182307a83dc866e50e5604f8e",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Africa's World Cup success leaves Asia looking for answers",
-      "summary": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-29",
-      "titleHash": "7534e0a079c4ab7831db2914e5b9088a"
+      "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-28",
+      "titleHash": "09e27599341d1abfdf98f5893598046f"
     },
     {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
@@ -163,20 +143,10 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "France v Sweden: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba; Digne; Tchouameni, Rabiot; Dembele, Barcola, Olies; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
       "time": "2026-06-30",
       "titleHash": "1a6f351f13aa6914f1ac430084c89787"
-    },
-    {
-      "id": "1ac6e29cf4eaf65057167124e0bbf0e3",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-      "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
-      "time": "2026-06-30",
-      "titleHash": "4197c2d7950cf782dfe960771b07ba99"
     },
     {
       "id": "15cae82436cf6f0a05ca272d7472dbd6",
