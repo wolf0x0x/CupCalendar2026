@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-06-30T22:40:16.263Z",
-  "syncedAt": "2026-06-30T22:40:16.263Z",
+  "checkedAt": "2026-06-30T23:50:25.749Z",
+  "syncedAt": "2026-06-30T23:50:25.749Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -18,7 +18,7 @@
     "note": "data/site.json is updated because the static site build reads this file directly."
   },
   "dataFreshness": {
-    "primaryFinishedMatches": 77,
+    "primaryFinishedMatches": 78,
     "primaryFinishedGroups": [
       "Group A",
       "Group B",
@@ -57,9 +57,9 @@
       "priority": 1,
       "ok": true,
       "source": "https://worldcup26.ir/get/games",
-      "fetchedAt": "2026-06-30T22:40:20.570Z",
+      "fetchedAt": "2026-06-30T23:50:27.036Z",
       "fetched": 104,
-      "finishedMatches": 77,
+      "finishedMatches": 78,
       "finishedGroups": [
         "Group A",
         "Group B",

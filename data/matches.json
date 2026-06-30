@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-30T22:40:16.263Z",
+  "syncedAt": "2026-06-30T23:50:25.749Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1292,8 +1292,8 @@
       "homeScore": 3,
       "awayScore": 0,
       "score": "3 - 0",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1945,7 +1945,7 @@
       "validation": "primary"
     },
     {
-      "id": "paraguay-tbd-89",
+      "id": "paraguay-france-89",
       "sourceId": "89",
       "type": "r16",
       "group": "R16",
@@ -1953,7 +1953,7 @@
       "date": "2026-07-04",
       "time": "17:00",
       "home": "Paraguay",
-      "away": "TBD",
+      "away": "France",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
