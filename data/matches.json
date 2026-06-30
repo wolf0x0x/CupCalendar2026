@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-30T16:55:57.311Z",
+  "syncedAt": "2026-06-30T18:58:22.070Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1878,10 +1878,10 @@
       "time": "12:00",
       "home": "Ivory Coast",
       "away": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": "1 - 2",
+      "status": "live",
       "finished": false,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
