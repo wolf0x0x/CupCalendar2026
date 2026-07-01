@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-01T22:04:06.550Z",
+  "syncedAt": "2026-07-01T23:43:34.252Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1555,11 +1555,11 @@
       "time": "13:00",
       "home": "Belgium",
       "away": "Senegal",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 2,
-      "score": "2 - 2",
-      "status": "live",
-      "finished": false,
+      "score": "3 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "14",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1774,7 +1774,7 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-94",
+      "id": "tbd-belgium-94",
       "sourceId": "94",
       "type": "r16",
       "group": "R16",
@@ -1782,7 +1782,7 @@
       "date": "2026-07-06",
       "time": "17:00",
       "home": "TBD",
-      "away": "TBD",
+      "away": "Belgium",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
