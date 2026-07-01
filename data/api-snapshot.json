@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-07-01T03:57:18.079Z",
+  "fetchedAt": "2026-07-01T08:17:45.708Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e006",
@@ -1557,7 +1557,7 @@
     {
       "_id": "679c9c8a5749c4077500e086",
       "id": "92",
-      "home_team_id": "0",
+      "home_team_id": "1",
       "away_team_id": "0",
       "home_score": "0",
       "away_score": "0",
@@ -1572,7 +1572,9 @@
       "time_elapsed": "notstarted",
       "type": "r16",
       "home_team_label": "Winner Match 79",
-      "away_team_label": "Winner Match 80"
+      "away_team_label": "Winner Match 80",
+      "home_team_name_en": "Mexico",
+      "home_team_name_fa": "مکزیک"
     },
     {
       "_id": "679c9c8a5749c4077500e088",
@@ -2224,8 +2226,8 @@
       "local_date": "06/30/2026 19:00",
       "persian_date": "1405-04-09 19:00",
       "stadium_id": "1",
-      "finished": "FALSE",
-      "time_elapsed": "live",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "r32",
       "home_team_label": "Winner Group A",
       "away_team_label": "3rd Group C/E/F/H/I",
