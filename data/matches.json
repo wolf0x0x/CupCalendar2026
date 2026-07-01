@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-01T04:01:30.674Z",
+  "syncedAt": "2026-07-01T08:31:50.037Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1337,14 +1337,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-92",
+      "id": "mexico-tbd-92",
       "sourceId": "92",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-05",
       "time": "18:00",
-      "home": "TBD",
+      "home": "Mexico",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
@@ -1900,8 +1900,8 @@
       "homeScore": 2,
       "awayScore": 0,
       "score": "2 - 0",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "1",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
