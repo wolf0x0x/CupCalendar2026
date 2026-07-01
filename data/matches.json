@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-01T16:28:24.185Z",
+  "syncedAt": "2026-07-01T18:27:23.803Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1517,11 +1517,11 @@
       "time": "12:00",
       "home": "England",
       "away": "DR Congo",
-      "homeScore": 0,
+      "homeScore": 2,
       "awayScore": 1,
-      "score": "0 - 1",
-      "status": "live",
-      "finished": false,
+      "score": "2 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1736,7 +1736,7 @@
       "validation": "primary"
     },
     {
-      "id": "mexico-tbd-92",
+      "id": "mexico-england-92",
       "sourceId": "92",
       "type": "r16",
       "group": "R16",
@@ -1744,7 +1744,7 @@
       "date": "2026-07-05",
       "time": "18:00",
       "home": "Mexico",
-      "away": "TBD",
+      "away": "England",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
