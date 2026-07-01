@@ -6016,40 +6016,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "translations": {
-        "es": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "pt": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "fr": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "de": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "ja": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "zh": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Germany beaten on penalties as Paraguay reach last 16",
       "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
@@ -6118,6 +6084,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "translations": {
+        "es": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "pt": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "fr": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "de": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "ja": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "zh": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "BBC Sport expert Sutton predicts World Cup's last-32 matches",
       "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
@@ -6155,7 +6155,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
+      "time": "2026-07-01",
       "translations": {
         "es": {
           "title": "Who has been eliminated from the World Cup?",
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-01T10:00:22.588Z",
+    "fetchedAt": "2026-07-01T14:48:34.900Z",
     "newsItems": 14,
-    "translationQueue": 24,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",

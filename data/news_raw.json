@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T10:00:22.588Z",
+  "fetchedAt": "2026-07-01T14:48:34.900Z",
   "errors": [
     {
       "source": "FIFA",
@@ -39,16 +39,6 @@
       "titleHash": "52040334b53d4ca6614391fbba85b301"
     },
     {
-      "id": "deecf34e10927ced74e45c4882bb9861",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "e0996440f96e61744cf2bcacd6e7400b"
-    },
-    {
       "id": "cfac2a64ae91418980dc357dcdff3caa",
       "source": "BBC",
       "tag": "RSS",
@@ -69,6 +59,16 @@
       "titleHash": "7dcc797c399a2f8653fa5c1a48dc9ae8"
     },
     {
+      "id": "deecf34e10927ced74e45c4882bb9861",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "e0996440f96e61744cf2bcacd6e7400b"
+    },
+    {
       "id": "3024051182307a83dc866e50e5604f8e",
       "source": "BBC",
       "tag": "RSS",
@@ -85,7 +85,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
+      "time": "2026-07-01",
       "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
     },
     {
@@ -119,14 +119,14 @@
       "titleHash": "dffd9b1eb57183cd9d0867868ad75826"
     },
     {
-      "id": "ef3f1ef21328062eeeaaa0f11e3808b4",
+      "id": "d050d5bdda82bc535234211166495c22",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
-      "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live",
+      "title": "England v DR Congo: World Cup 2026 last 32 – live",
+      "summary": "<p>⚽️ Kick-off time: 12pm local/1pm EDT/5pm BST/1am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>It would be remiss of us not to mention the hopes and dreams of the DRC’s opponents England as well.</strong> You want triple-leonine-infused copy? We got triple-leonine-infused copy!</p><p><strong>The Democratic Republic of the Congo (DRC) are competing in their second World Cup.</strong> It’s been a much more successful campaign than the first, which they competed as Zaire in 1974: four points and a positive goal difference, compared to zero points, no goals scored and 14 conceded. No wonder, then, that belief in the DRC squad ahead of the biggest match in their history is high.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live",
       "time": "2026-07-01",
-      "titleHash": "7de369925fe870d2580fba37e8ac3c3a"
+      "titleHash": "8572dc8c64db22105e81a3a0ec05d669"
     },
     {
       "id": "f9d2727341dd6bc2cdf1eda2f2cc5449",
