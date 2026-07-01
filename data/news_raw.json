@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-01T14:48:34.900Z",
+  "fetchedAt": "2026-07-01T17:20:34.851Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-07-01",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "244f30a61c2d246029e91e7bee00185c",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "⭐ Warner, Rodrigo top celebrities at World Cup",
+      "summary": "Celebrities aren't hard to find at the 2026 FIFA World Cup in North America.",
+      "url": "https://www.espn.com/soccer/story/_/id/49089105/2026-fifa-world-cup-usa-mexico-canada-celebrities",
+      "time": "2026-07-01",
+      "titleHash": "4463f2b9a6df36c5b4c9925dcf6de922"
     },
     {
       "id": "8ac0211015a500245fe0105dd85b5c3f",
@@ -47,26 +57,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-30",
       "titleHash": "d81afe4d24f5474dfd050bb4dca4600b"
-    },
-    {
-      "id": "9d9129afc1d89c5662e6020a174f3e7f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Netherlands crumble in penalty shootout as Morocco progress",
-      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "7dcc797c399a2f8653fa5c1a48dc9ae8"
-    },
-    {
-      "id": "deecf34e10927ced74e45c4882bb9861",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "e0996440f96e61744cf2bcacd6e7400b"
     },
     {
       "id": "3024051182307a83dc866e50e5604f8e",
@@ -123,7 +113,7 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "England v DR Congo: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽️ Kick-off time: 12pm local/1pm EDT/5pm BST/1am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>It would be remiss of us not to mention the hopes and dreams of the DRC’s opponents England as well.</strong> You want triple-leonine-infused copy? We got triple-leonine-infused copy!</p><p><strong>The Democratic Republic of the Congo (DRC) are competing in their second World Cup.</strong> It’s been a much more successful campaign than the first, which they competed as Zaire in 1974: four points and a positive goal difference, compared to zero points, no goals scored and 14 conceded. No wonder, then, that belief in the DRC squad ahead of the biggest match in their history is high.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 12pm local/5pm BST/1am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>The DRC make one change following the 3-1 win over Uzbekistan.</strong> Striker Cédric Bakambu makes way for an extra midfielder in Ngal’ayel Mukau. There are plenty of stars familiar to fans of British football in the team: Aaron Wan-Bissaka (West Ham), Axel Tuanzebe (Burnley), Noah Sadiki (Sunderland) and Yoane Wissa (Newcastle) start, while Aaron Tshibola (Kilmarnock) and Edo Kayembe (Watford) are on the bench.</p><p><strong>No surprises in the England starting XI.</strong> Especially if you’ve just read that communiqué from Jacob Steinberg. Thomas Tuchel makes three changes to his starting XI after the 2-0 win over Panama. Djed Spence replaces the injured Jarell Quansah at the problem position of right-back. Declan Rice returns at the expense of Morgan Rogers. And Noni Madueke starts on the right wing again, displacing his Arsenal colleague Bukayo Saka.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live",
       "time": "2026-07-01",
       "titleHash": "8572dc8c64db22105e81a3a0ec05d669"
