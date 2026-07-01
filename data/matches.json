@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-30T23:50:25.749Z",
+  "syncedAt": "2026-07-01T04:01:30.674Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1897,10 +1897,10 @@
       "time": "19:00",
       "home": "Mexico",
       "away": "Ecuador",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 2,
+      "awayScore": 0,
+      "score": "2 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "1",
       "dataSource": "worldcup26.ir",
