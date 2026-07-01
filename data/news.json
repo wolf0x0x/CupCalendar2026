@@ -36,42 +36,6 @@
     }
   },
   {
-    "id": "deecf34e10927ced74e45c4882bb9861",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-    "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-30",
-    "titleHash": "e0996440f96e61744cf2bcacd6e7400b",
-    "translations": {
-      "es": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      },
-      "pt": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      },
-      "fr": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      },
-      "de": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      },
-      "ja": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      },
-      "zh": {
-        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-      }
-    }
-  },
-  {
     "id": "8ac0211015a500245fe0105dd85b5c3f",
     "source": "BBC",
     "tag": "RSS",
@@ -104,42 +68,6 @@
       "zh": {
         "title": "Haaland the late hero as Norway knock out resilient Ivory Coast",
         "summary": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "cfac2a64ae91418980dc357dcdff3caa",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Germany beaten on penalties as Paraguay reach last 16",
-    "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-30",
-    "titleHash": "d81afe4d24f5474dfd050bb4dca4600b",
-    "translations": {
-      "es": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
-      },
-      "pt": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
-      },
-      "fr": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
-      },
-      "de": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
-      },
-      "ja": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
-      },
-      "zh": {
-        "title": "Germany beaten on penalties as Paraguay reach last 16",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
       }
     }
   },
@@ -180,6 +108,78 @@
     }
   },
   {
+    "id": "deecf34e10927ced74e45c4882bb9861",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+    "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-30",
+    "titleHash": "e0996440f96e61744cf2bcacd6e7400b",
+    "translations": {
+      "es": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      },
+      "pt": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      },
+      "fr": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      },
+      "de": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      },
+      "ja": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      },
+      "zh": {
+        "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+        "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+      }
+    }
+  },
+  {
+    "id": "cfac2a64ae91418980dc357dcdff3caa",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Germany beaten on penalties as Paraguay reach last 16",
+    "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm20j4m2k3xo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-06-30",
+    "titleHash": "d81afe4d24f5474dfd050bb4dca4600b",
+    "translations": {
+      "es": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      },
+      "pt": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      },
+      "fr": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      },
+      "de": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      },
+      "ja": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      },
+      "zh": {
+        "title": "Germany beaten on penalties as Paraguay reach last 16",
+        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup, losing to Paraguay 4-3 on penalties, following a 1-1 draw after extra time."
+      }
+    }
+  },
+  {
     "id": "9d9129afc1d89c5662e6020a174f3e7f",
     "source": "BBC",
     "tag": "RSS",
@@ -212,78 +212,6 @@
       "zh": {
         "title": "Netherlands crumble in penalty shootout as Morocco progress",
         "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "9b3d22373a6123e37881a9b0ef38e380",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-    "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-30",
-    "titleHash": "00ace04646305ba3a503f11099bbe3eb",
-    "translations": {
-      "es": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      },
-      "pt": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      },
-      "fr": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      },
-      "de": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      },
-      "ja": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      },
-      "zh": {
-        "title": "Canale scores winning penalty after Tah blazes over as Germany knocked out",
-        "summary": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
-      }
-    }
-  },
-  {
-    "id": "4c97289f77405b5fbb60f29d7c54591c",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-    "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-06-30",
-    "titleHash": "17326a953bafb1f5fadbf49ef4e9eefc",
-    "translations": {
-      "es": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
-      },
-      "de": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Relive thrilling penalty shootout between Germany and Paraguay",
-        "summary": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup."
       }
     }
   },
@@ -464,6 +392,78 @@
       "zh": {
         "title": "What is BBC's 3D Live Match Experience and how does it work?",
         "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
+      }
+    }
+  },
+  {
+    "id": "ef3f1ef21328062eeeaaa0f11e3808b4",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+    "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live",
+    "time": "2026-07-01",
+    "titleHash": "7de369925fe870d2580fba37e8ac3c3a",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: France dazzle, Mexico swagger through, England v DR Congo buildup, and more – live",
+        "summary": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-warns-england-dr-congo-world-cup-2026-last-32\">‘Don’t start to doubt’: Tuchel wants patience</a></p></li><li><p><a href=\"mailto:matchday.live@theguardian.com\">Email us</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/audio/2026/jul/01/are-france-unstoppable-world-cup-daily\">World Cup Daily</a></p></li></ul><p><strong>The view from England now</strong>, and Jacob Steinberg’s preview of today’s game:</p><p>The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when <a href=\"https://www.theguardian.com/football/england\">England</a> face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "f9d2727341dd6bc2cdf1eda2f2cc5449",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+    "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele",
+    "time": "2026-07-01",
+    "titleHash": "60b8422cb2c3adf521b283c3b9aacb59",
+    "translations": {
+      "es": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever",
+        "summary": "<p>Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefit</p><p>When a cat has cornered a mouse and appears to be toying with its prey, it isn’t actually being cruel so much as it is planning and practicing all the ways in which it may finally kill it off.</p><p>We are, it almost goes without saying, speaking about France at the 2026 World Cup here. <em>Les </em><em>Bleus </em>have scored at least three goals in their last four games and, each time, looked an awful lot like they might have run the score up further, if only they hadn’t run out of time, energy or interest.</p> <a href=\"https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele\">Continue reading...</a>"
       }
     }
   },
