@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-01T20:26:18.890Z",
+  "syncedAt": "2026-07-01T22:04:06.550Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1555,9 +1555,9 @@
       "time": "13:00",
       "home": "Belgium",
       "away": "Senegal",
-      "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
+      "homeScore": 2,
+      "awayScore": 2,
+      "score": "2 - 2",
       "status": "live",
       "finished": false,
       "stadiumId": "14",
