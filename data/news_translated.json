@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T22:18:20.312Z",
+  "fetchedAt": "2026-07-01T04:23:38.202Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-30",
+      "time": "2026-07-01",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "deecf34e10927ced74e45c4882bb9861",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "e0996440f96e61744cf2bcacd6e7400b",
+      "translations": {
+        "es": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "pt": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "fr": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "de": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "ja": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "zh": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
         }
       }
     },
@@ -110,78 +146,6 @@
       }
     },
     {
-      "id": "9d9129afc1d89c5662e6020a174f3e7f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Netherlands crumble in penalty shootout as Morocco progress",
-      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "7dcc797c399a2f8653fa5c1a48dc9ae8",
-      "translations": {
-        "es": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "deecf34e10927ced74e45c4882bb9861",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "titleHash": "e0996440f96e61744cf2bcacd6e7400b",
-      "translations": {
-        "es": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "pt": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "fr": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "de": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "ja": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "zh": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        }
-      }
-    },
-    {
       "id": "13a4242127992e2639ad37b45c9311b8",
       "source": "BBC",
       "tag": "RSS",
@@ -214,6 +178,42 @@
         "zh": {
           "title": "Where to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        }
+      }
+    },
+    {
+      "id": "9d9129afc1d89c5662e6020a174f3e7f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Netherlands crumble in penalty shootout as Morocco progress",
+      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "titleHash": "7dcc797c399a2f8653fa5c1a48dc9ae8",
+      "translations": {
+        "es": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "de": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
         }
       }
     },
@@ -466,42 +466,6 @@
         "zh": {
           "title": "What is BBC's 3D Live Match Experience and how does it work?",
           "summary": "BBC Sport's Ask Me Anything team explains the unique way of following matches during the 2026 World Cup via the BBC"
-        }
-      }
-    },
-    {
-      "id": "c14de141d97d674935fe47f522312f95",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "France v Sweden: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live",
-      "time": "2026-06-30",
-      "titleHash": "1a6f351f13aa6914f1ac430084c89787",
-      "translations": {
-        "es": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "France v Sweden: World Cup 2026 last 32 – live",
-          "summary": "<p>⚽️ Kick-off time: 5pm local/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:will.unwin.freelancer@theguardian.com\">Mail Will</a></p><p><strong>Wrap your eyeballs around Football Daily.</strong></p><p><strong>France (4-2-3-1): </strong>Maignan; Kounde, Upamecano, Saliba, Digne; Tchouameni, Rabiot; Dembele, Olise, Barcola; Mbappe</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live\">Continue reading...</a>"
         }
       }
     },

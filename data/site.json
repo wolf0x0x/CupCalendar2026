@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-06-30",
+      "time": "2026-07-01",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5990,6 +5990,40 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "translations": {
+        "es": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "pt": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "fr": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "de": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "ja": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
+        },
+        "zh": {
+          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
         }
       }
     },
@@ -6064,74 +6098,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Netherlands crumble in penalty shootout as Morocco progress",
-      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "translations": {
-        "es": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Netherlands crumble in penalty shootout as Morocco progress",
-          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-      "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-30",
-      "translations": {
-        "es": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "pt": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "fr": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "de": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "ja": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        },
-        "zh": {
-          "title": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
-          "summary": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Where to watch the World Cup on the BBC and ITV",
       "summary": "All the TV and radio details for each of the 2026 World Cup knockout games.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss",
@@ -6160,6 +6126,40 @@
         "zh": {
           "title": "Where to watch the World Cup on the BBC and ITV",
           "summary": "All the TV and radio details for each of the 2026 World Cup knockout games."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Netherlands crumble in penalty shootout as Morocco progress",
+      "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-30",
+      "translations": {
+        "es": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "de": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Netherlands crumble in penalty shootout as Morocco progress",
+          "summary": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
         }
       }
     },
@@ -6313,8 +6313,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-06-30T22:18:20.312Z",
-    "newsItems": 15,
+    "fetchedAt": "2026-07-01T04:23:38.202Z",
+    "newsItems": 14,
     "translationQueue": 18,
     "errors": [
       {
