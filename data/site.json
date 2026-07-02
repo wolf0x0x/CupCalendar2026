@@ -5994,36 +5994,36 @@
       }
     },
     {
-      "source": "ESPN",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-      "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
-      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+      "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-02",
       "translations": {
         "es": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         },
         "pt": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         },
         "fr": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         },
         "de": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         },
         "ja": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         },
         "zh": {
-          "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-          "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues."
+          "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+          "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup."
         }
       }
     },
@@ -6067,7 +6067,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-01",
+      "time": "2026-07-02",
       "translations": {
         "es": {
           "title": "Who has been eliminated from the World Cup?",
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-02T09:23:11.491Z",
+    "fetchedAt": "2026-07-02T14:22:10.059Z",
     "newsItems": 10,
-    "translationQueue": 24,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",

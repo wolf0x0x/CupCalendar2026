@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-02T09:23:11.491Z",
+  "fetchedAt": "2026-07-02T14:22:10.059Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "9cec4ff8bf1d865c590657bfe5b98844",
-      "source": "ESPN",
+      "id": "e185fcd1365c12ee60bed7fbba5b2b41",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "World Cup daily: Balogun celly in USMNT win gets L...",
-      "summary": "Follow live for the latest analysis, reaction and news as the FIFA World Cup round of 32 continues.",
-      "url": "https://www.espn.com/soccer/story/_/id/49244994/world-cup-daily-spain-portugal-action-round-32-continues",
+      "title": "'We want to win World Cup for him' - Portugal carry Jota's memory",
+      "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-02",
-      "titleHash": "34bf106cc908495afd394024127a2afd"
+      "titleHash": "4717dfdd66a32fdb55f155aad57965a4"
     },
     {
       "id": "13a4242127992e2639ad37b45c9311b8",
@@ -45,7 +45,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-01",
+      "time": "2026-07-02",
       "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
     },
     {
