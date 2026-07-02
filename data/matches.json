@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-02T01:51:02.048Z",
+  "syncedAt": "2026-07-02T06:00:47.264Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1539,8 +1539,8 @@
       "homeScore": 2,
       "awayScore": 0,
       "score": "2 - 0",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "15",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1774,14 +1774,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-belgium-94",
+      "id": "united-states-belgium-94",
       "sourceId": "94",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-06",
       "time": "17:00",
-      "home": "TBD",
+      "home": "United States",
       "away": "Belgium",
       "homeScore": null,
       "awayScore": null,
