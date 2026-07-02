@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-01T23:43:34.252Z",
+  "syncedAt": "2026-07-02T01:51:02.048Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1536,10 +1536,10 @@
       "time": "17:00",
       "home": "United States",
       "away": "Bosnia and Herzegovina",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 2,
+      "awayScore": 0,
+      "score": "2 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "15",
       "dataSource": "worldcup26.ir",
