@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-02T19:55:10.305Z",
+  "syncedAt": "2026-07-02T21:09:04.523Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1593,11 +1593,11 @@
       "time": "12:00",
       "home": "Spain",
       "away": "Austria",
-      "homeScore": 1,
+      "homeScore": 3,
       "awayScore": 0,
-      "score": "1 - 0",
-      "status": "live",
-      "finished": false,
+      "score": "3 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "16",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1755,7 +1755,7 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-93",
+      "id": "tbd-spain-93",
       "sourceId": "93",
       "type": "r16",
       "group": "R16",
@@ -1763,7 +1763,7 @@
       "date": "2026-07-06",
       "time": "14:00",
       "home": "TBD",
-      "away": "TBD",
+      "away": "Spain",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
