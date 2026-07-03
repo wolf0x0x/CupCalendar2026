@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-03T01:17:38.881Z",
+  "syncedAt": "2026-07-03T05:27:08.140Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1612,11 +1612,11 @@
       "time": "20:00",
       "home": "Switzerland",
       "away": "Algeria",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 2,
+      "awayScore": 0,
+      "score": "2 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "13",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1812,14 +1812,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-96",
+      "id": "switzerland-tbd-96",
       "sourceId": "96",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-07",
       "time": "13:00",
-      "home": "TBD",
+      "home": "Switzerland",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
