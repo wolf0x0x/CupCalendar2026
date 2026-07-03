@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-03T20:03:21.771Z",
+  "syncedAt": "2026-07-03T21:31:48.292Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1672,8 +1672,8 @@
       "homeScore": 1,
       "awayScore": 1,
       "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "status": "Final",
+      "finished": true,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1793,7 +1793,7 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-95",
+      "id": "tbd-egypt-95",
       "sourceId": "95",
       "type": "r16",
       "group": "R16",
@@ -1801,7 +1801,7 @@
       "date": "2026-07-07",
       "time": "12:00",
       "home": "TBD",
-      "away": "TBD",
+      "away": "Egypt",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
