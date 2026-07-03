@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-02T22:19:05.994Z",
+  "syncedAt": "2026-07-03T01:17:38.881Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1574,11 +1574,11 @@
       "time": "19:00",
       "home": "Portugal",
       "away": "Croatia",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 2,
+      "awayScore": 1,
+      "score": "2 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "12",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1755,14 +1755,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-spain-93",
+      "id": "portugal-spain-93",
       "sourceId": "93",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-06",
       "time": "14:00",
-      "home": "TBD",
+      "home": "Portugal",
       "away": "Spain",
       "homeScore": null,
       "awayScore": null,
