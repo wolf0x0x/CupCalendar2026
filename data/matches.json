@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-03T17:03:54.228Z",
+  "syncedAt": "2026-07-03T18:39:22.064Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1669,10 +1669,10 @@
       "time": "13:00",
       "home": "Australia",
       "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "live",
       "finished": false,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
