@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-03T22:42:02.842Z",
+  "syncedAt": "2026-07-03T23:44:52.394Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1632,8 +1632,8 @@
       "home": "Argentina",
       "away": "Cabo Verde",
       "homeScore": 1,
-      "awayScore": 0,
-      "score": "1 - 0",
+      "awayScore": 1,
+      "score": "1 - 1",
       "status": "live",
       "finished": false,
       "stadiumId": "8",
