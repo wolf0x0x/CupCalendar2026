@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-04T01:19:55.932Z",
+  "syncedAt": "2026-07-04T05:10:01.706Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1650,11 +1650,11 @@
       "time": "20:30",
       "home": "Colombia",
       "away": "Ghana",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 1,
+      "awayScore": 0,
+      "score": "1 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "6",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1812,7 +1812,7 @@
       "validation": "primary"
     },
     {
-      "id": "switzerland-tbd-96",
+      "id": "switzerland-colombia-96",
       "sourceId": "96",
       "type": "r16",
       "group": "R16",
@@ -1820,7 +1820,7 @@
       "date": "2026-07-07",
       "time": "13:00",
       "home": "Switzerland",
-      "away": "TBD",
+      "away": "Colombia",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
