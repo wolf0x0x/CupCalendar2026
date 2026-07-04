@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T10:56:47.031Z",
+  "fetchedAt": "2026-07-04T13:46:24.222Z",
   "errors": [
     {
       "source": "FIFA",
@@ -67,16 +67,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-03",
       "titleHash": "9341658ebf7ace66f7cdb825772d3e93"
-    },
-    {
-      "id": "1bbcfa05fd1c305f68e05030448670c4",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Victorious Portugal pay emotional tribute to Jota",
-      "summary": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-03",
-      "titleHash": "7a7f0570ad34a34c1fdc8250f5d62497"
     },
     {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
