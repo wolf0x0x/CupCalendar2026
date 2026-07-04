@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T22:09:08.953Z",
+  "fetchedAt": "2026-07-04T03:40:32.296Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-03",
+      "time": "2026-07-04",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -27,6 +27,26 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-03",
       "titleHash": "88996a69b0185492b3e02a5c1d04bf68"
+    },
+    {
+      "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-03",
+      "titleHash": "170b1334f58094a56c4e448034ef509d"
+    },
+    {
+      "id": "d87c3640c49187d8a20ec8f45f1d4e88",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Martinez restores Argentina's lead against Cape Verde",
+      "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c4gy8exgyd3o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "titleHash": "a3356ba12747198b9fce466ca48849a8"
     },
     {
       "id": "faaed23f5733568ded9621a52890be05",
@@ -79,14 +99,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "61d5168fbd7945a7ae417759d2c9e3fb",
+      "id": "86bef40bce5c2573066946a3e73448e4",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/8am AEST/11pm BST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/03/australia-egypt-world-cup-2026-last-32-match-report\">Egypt edge Australia on penalties</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Lionel Messi will play in his 30th World Cup match tonight, extending his record for the most by a men’s player in their career. He’ll be joined by Lautaro Martinez in attack, while Julian Alvarez drops to the bench.</p><p>For Cape Verde, Cape Verde midfielder Telmo Arcanjo, who was struggling with a leg injury, starts on the bench. Sidny Lopes Cabral returns from suspension to start at left-back.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live",
-      "time": "2026-07-03",
-      "titleHash": "97435b5145f47f36d0e48139f721770f"
+      "title": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+      "summary": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live",
+      "time": "2026-07-04",
+      "titleHash": "16d18ed556193c80a6421a7f84339424"
     },
     {
       "id": "15cae82436cf6f0a05ca272d7472dbd6",
