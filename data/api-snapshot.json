@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-07-03T22:33:19.232Z",
+  "fetchedAt": "2026-07-04T00:04:23.718Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -1970,9 +1970,9 @@
       "home_team_id": "37",
       "away_team_id": "30",
       "home_score": "1",
-      "away_score": "0",
+      "away_score": "1",
       "home_scorers": "{\"Lionel Messi 29'\"}",
-      "away_scorers": "null",
+      "away_scorers": "{\"Drvi Dviart 59'\"}",
       "group": "R32",
       "matchday": "4",
       "local_date": "07/03/2026 18:00",
