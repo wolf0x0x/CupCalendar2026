@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-04T22:06:07.065Z",
+  "syncedAt": "2026-07-04T23:13:33.511Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1689,10 +1689,10 @@
       "home": "Paraguay",
       "away": "France",
       "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "10",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1831,15 +1831,15 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-97",
+      "id": "france-morocco-97",
       "sourceId": "97",
       "type": "qf",
       "group": "QF",
       "matchday": "Matchday 6",
       "date": "2026-07-09",
       "time": "16:00",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "France",
+      "away": "Morocco",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
