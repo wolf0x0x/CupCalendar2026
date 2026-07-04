@@ -5982,6 +5982,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+      "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "translations": {
+        "es": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        },
+        "pt": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        },
+        "fr": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        },
+        "de": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        },
+        "ja": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        },
+        "zh": {
+          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
+          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Ounahi gives Morocco the lead against Canada",
       "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
@@ -6216,40 +6250,6 @@
           "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What is the World Cup prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "de": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-04T19:22:51.446Z",
-    "newsItems": 15,
-    "translationQueue": 24,
+    "fetchedAt": "2026-07-04T22:02:46.310Z",
+    "newsItems": 13,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
