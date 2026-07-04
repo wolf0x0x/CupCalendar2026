@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-03T23:44:52.394Z",
+  "syncedAt": "2026-07-04T01:19:55.932Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1631,11 +1631,11 @@
       "time": "18:00",
       "home": "Argentina",
       "away": "Cabo Verde",
-      "homeScore": 1,
-      "awayScore": 1,
-      "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "score": "3 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "8",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1793,14 +1793,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-egypt-95",
+      "id": "argentina-egypt-95",
       "sourceId": "95",
       "type": "r16",
       "group": "R16",
       "matchday": "Matchday 5",
       "date": "2026-07-07",
       "time": "12:00",
-      "home": "TBD",
+      "home": "Argentina",
       "away": "Egypt",
       "homeScore": null,
       "awayScore": null,
