@@ -5994,36 +5994,36 @@
       }
     },
     {
-      "source": "ESPN",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Odds to win the World Cup: Spain odds shorten afte...",
-      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-07-03",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
       "translations": {
         "es": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "pt": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "fr": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "de": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "ja": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "zh": {
-          "title": "Odds to win the World Cup: Spain odds shorten afte...",
-          "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         }
       }
     },
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-04T08:45:09.531Z",
-    "newsItems": 14,
-    "translationQueue": 18,
+    "fetchedAt": "2026-07-04T10:56:47.031Z",
+    "newsItems": 15,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",

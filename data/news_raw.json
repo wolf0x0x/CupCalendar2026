@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T08:45:09.531Z",
+  "fetchedAt": "2026-07-04T10:56:47.031Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "f9e3d9c3c7924a1c3adac9c58c794438",
-      "source": "ESPN",
+      "id": "ff14d12139b561ac2fb7d17b3867afa8",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Odds to win the World Cup: Spain odds shorten afte...",
-      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-07-03",
-      "titleHash": "2e5dd43d11d9873739af867d287dee0b"
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "titleHash": "770efd940f492ad6fcf54393884a0ee0"
     },
     {
       "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
@@ -109,14 +109,24 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "7805f17631cf07fe5daa5be3286d2167",
+      "id": "64729cda53432f1f3f9f151fa262b78a",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
-      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
+      "title": "World Cup 2026: England get hostile reception in Mexico City as last 16 begins; Cape Verde give huge scare to Argentina – live",
+      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
       "time": "2026-07-04",
-      "titleHash": "8e741f7177c7c849b512a8a1a2bbfdf4"
+      "titleHash": "b75dd9fe43913a94a70d68c8018cdc38"
+    },
+    {
+      "id": "05a0a1195ee9085560da3de28d440024",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
+      "summary": "<p>We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins</p><p><em>Les Bleus</em> look unstoppable – all six of our judges ranked them No 1. Sweden did their best to cope with the French front four but were <a href=\"https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report\">blown away</a> by the slickest operation in town. Even when an opponent is feeling comfortable, Michael Olise or Kylian Mbappé can produce genius without notice, ripping apart the best-organised defences. “I did say that I wanted to enjoy this World Cup to the fullest,” Mbappé told reporters after the Sweden game. It is hard to imagine the fun stopping any time soon.</p> <a href=\"https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32",
+      "time": "2026-07-04",
+      "titleHash": "e23286d7735cbac2bf7812bc97e60e73"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
