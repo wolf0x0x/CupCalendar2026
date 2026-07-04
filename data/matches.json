@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-04T16:03:11.117Z",
+  "syncedAt": "2026-07-04T17:19:23.771Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1707,10 +1707,10 @@
       "time": "12:00",
       "home": "Canada",
       "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "5",
       "dataSource": "worldcup26.ir",
