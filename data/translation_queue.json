@@ -1,170 +1,128 @@
 [
   {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
+    "hash": "02ac6154af2051715fb00db781a75dd5",
     "lang": "es",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
+    "hash": "02ac6154af2051715fb00db781a75dd5",
+    "lang": "pt",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-04T08:45:09.531Z"
+  },
+  {
+    "hash": "02ac6154af2051715fb00db781a75dd5",
+    "lang": "fr",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-04T08:45:09.531Z"
+  },
+  {
+    "hash": "02ac6154af2051715fb00db781a75dd5",
+    "lang": "de",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-04T08:45:09.531Z"
+  },
+  {
+    "hash": "02ac6154af2051715fb00db781a75dd5",
+    "lang": "ja",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-04T08:45:09.531Z"
+  },
+  {
+    "hash": "02ac6154af2051715fb00db781a75dd5",
+    "lang": "zh",
+    "source": "Odds to win the World Cup: Spain odds shorten afte...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-04T08:45:09.531Z"
+  },
+  {
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "es",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
-    "lang": "pt",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
-    "lang": "pt",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
-    "lang": "fr",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
-    "lang": "fr",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
-    "lang": "de",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
-    "lang": "de",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
-    "lang": "ja",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
-    "lang": "ja",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f8af95b29d9db9e1bb94bdd552c036c2",
-    "lang": "zh",
-    "source": "Martinez restores Argentina's lead against Cape Verde",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "f1faeca38ab02d5ed2b8c7b0c86bf56b",
-    "lang": "zh",
-    "source": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "es",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
-    "lang": "es",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
-  },
-  {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "pt",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "pt",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "fr",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "fr",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "de",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "de",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "ja",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "ja",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "45130c9122cc5249c288fd977e287d51",
+    "hash": "88891c4aa02831b53ecbaeafaf350786",
     "lang": "zh",
-    "source": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
+    "source": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   },
   {
-    "hash": "e1b6f8a23dd5c87a45138aa745bfc917",
+    "hash": "620dcd2c072d61637da5e39555d30bd2",
     "lang": "zh",
-    "source": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
+    "source": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-04T03:40:32.296Z"
+    "queued_at": "2026-07-04T08:45:09.531Z"
   }
 ]

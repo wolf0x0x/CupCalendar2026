@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T03:40:32.296Z",
+  "fetchedAt": "2026-07-04T08:45:09.531Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,14 +19,14 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "2abfbf0d5f4d7b480c5e81f6536cae0c",
-      "source": "BBC",
+      "id": "f9e3d9c3c7924a1c3adac9c58c794438",
+      "source": "ESPN",
       "tag": "RSS",
-      "title": "'I decided last minute!' - Salah on Panenka penalty",
-      "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
+      "title": "Odds to win the World Cup: Spain odds shorten afte...",
+      "summary": "Odds for every team to advance through the knockout stage and to win the 2026 World Cup.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
       "time": "2026-07-03",
-      "titleHash": "88996a69b0185492b3e02a5c1d04bf68"
+      "titleHash": "2e5dd43d11d9873739af867d287dee0b"
     },
     {
       "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
@@ -37,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-03",
       "titleHash": "170b1334f58094a56c4e448034ef509d"
+    },
+    {
+      "id": "2abfbf0d5f4d7b480c5e81f6536cae0c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'I decided last minute!' - Salah on Panenka penalty",
+      "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-03",
+      "titleHash": "88996a69b0185492b3e02a5c1d04bf68"
     },
     {
       "id": "d87c3640c49187d8a20ec8f45f1d4e88",
@@ -99,14 +109,24 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "86bef40bce5c2573066946a3e73448e4",
+      "id": "7805f17631cf07fe5daa5be3286d2167",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Colombia 1-0 Ghana: World Cup 2026 last 32 – reaction",
-      "summary": "<p>Jhon Arias struck the only goal of the game in the first half as Colombia sealed a place in the last 16 where they will face Switzerland</p><p><strong>First email of the session, from someone just named “F”</strong></p><p>“Why recast at all? Have Vozinha play himself! The man’s a rockstar. I wonder who will play Vozinha’s mother, though.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/04/colombia-v-ghana-world-cup-2026-last-32-live",
+      "title": "World Cup 2026: Cape Verde give Argentina mighty scare; last 16 begins amid Mexico v England fixture chaos – live",
+      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:david.tindall.casual@theguardian.com\">Mail us</a></p><p><strong>Australia lost to Egypt on penalties in one of the more disastrous shootout cock ups.</strong> Changing goalkeepers is a bold move, especially when Mat Ryan made a right Shilton of himself.</p><p><strong>Jonathan Wilson was there.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/04/world-cup-2026-cape-verde-give-argentina-mighty-scare-last-16-mexico-v-england-fixture-chaos-morocco-canada-france-paraguay-live",
       "time": "2026-07-04",
-      "titleHash": "16d18ed556193c80a6421a7f84339424"
+      "titleHash": "8e741f7177c7c849b512a8a1a2bbfdf4"
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-07-02",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
       "id": "15cae82436cf6f0a05ca272d7472dbd6",
