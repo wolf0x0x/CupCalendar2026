@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T16:14:17.863Z",
+  "fetchedAt": "2026-07-05T19:26:07.079Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,110 +38,38 @@
       }
     },
     {
-      "id": "ad227770781fe81dbbe1581b9c84e1ff",
-      "source": "ESPN",
+      "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-      "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out.",
-      "url": "https://www.espn.com/soccer/story/_/id/49249888/world-cup-postcards-travel-usa-los-angeles-mexico-guadalajara-canada-vancouver",
+      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-05",
-      "titleHash": "7b2e15e2788c049a2c17158b26ea95d5",
+      "titleHash": "170b1334f58094a56c4e448034ef509d",
       "translations": {
         "es": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         },
         "pt": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         },
         "fr": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         },
         "de": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         },
         "ja": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         },
         "zh": {
-          "title": "Postcards from the World Cup: Seeing the U.S., Canada and Mexico play at home",
-          "summary": "The 2026 World Cup has been unique for being co-hosted by three countries, the U.S., Canada and Mexico. What has the tournament been like in each nation? Mark Ogden went to find out."
-        }
-      }
-    },
-    {
-      "id": "3cd69fe02b6d6be83a04459de107428b",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-      "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?",
-      "url": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-      "time": "2026-07-04",
-      "titleHash": "8aa89bdcd62fe9487e6d122540c48d58",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        },
-        "pt": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        },
-        "fr": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        },
-        "de": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        },
-        "ja": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        },
-        "zh": {
-          "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
-          "summary": "In the blink of an eye, we're down to the final 16 nations left competing for the 2026 World Cup. What do our writers and experts think the field looks like from worst to best of the teams remaining?"
-        }
-      }
-    },
-    {
-      "id": "6ffb6052cd9ac492b83f7c7c4508dcf1",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Copy of Best bets for the 2026 World Cup round of 16",
-      "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49247972/fifa-world-cup-betting-round-16-best-bets-picks-odds-props-futures-2026",
-      "time": "2026-07-04",
-      "titleHash": "539cf4c53de2d081bed49907d5216e1d",
-      "translations": {
-        "es": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
-        },
-        "pt": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
-        },
-        "fr": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
-        },
-        "de": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
-        },
-        "ja": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
-        },
-        "zh": {
-          "title": "Copy of Best bets for the 2026 World Cup round of 16",
-          "summary": "Looking to place some World Cup bets? Take a look at what our experts are considering ahead of the round of 16."
+          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
+          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         }
       }
     },
@@ -286,42 +214,6 @@
         "zh": {
           "title": "Ounahi gives Morocco the lead against Canada",
           "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-03",
-      "titleHash": "170b1334f58094a56c4e448034ef509d",
-      "translations": {
-        "es": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
-        },
-        "de": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
         }
       }
     },
@@ -506,38 +398,38 @@
       }
     },
     {
-      "id": "0ded82129711055ba352175fe09a32f1",
+      "id": "7ad72a385560efb25908ee236ed46b8d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
+      "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+      "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
       "time": "2026-07-05",
-      "titleHash": "1ad2d614529d1a6226691f2daf5e927b",
+      "titleHash": "6b2ef1c5953ef008e7ec087b178828cb",
       "translations": {
         "es": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: Mexico fans try to disturb England’s sleep, France and Morocco march on – live",
-          "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>"
+          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
         }
       }
     },
