@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-07-04T22:57:55.921Z",
+  "fetchedAt": "2026-07-05T00:07:58.924Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -2068,8 +2068,8 @@
       "local_date": "07/04/2026 17:00",
       "persian_date": "1405-04-13 17:00",
       "stadium_id": "10",
-      "finished": "FALSE",
-      "time_elapsed": "live",
+      "finished": "TRUE",
+      "time_elapsed": "finished",
       "type": "r16",
       "home_team_label": "Winner Match 74",
       "away_team_label": "Winner Match 77",
@@ -2261,7 +2261,7 @@
     {
       "_id": "679c9c8a5749c4077500e08b",
       "id": "97",
-      "home_team_id": "0",
+      "home_team_id": "33",
       "away_team_id": "10",
       "home_score": "0",
       "away_score": "0",
@@ -2277,6 +2277,8 @@
       "type": "qf",
       "home_team_label": "Winner Match 89",
       "away_team_label": "Winner Match 90",
+      "home_team_name_en": "France",
+      "home_team_name_fa": "فرانسه",
       "away_team_name_en": "Morocco",
       "away_team_name_fa": "مراکش"
     },
