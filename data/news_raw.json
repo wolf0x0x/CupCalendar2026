@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T09:13:46.579Z",
+  "fetchedAt": "2026-07-05T13:52:08.330Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-07-05",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "ff14d12139b561ac2fb7d17b3867afa8",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "770efd940f492ad6fcf54393884a0ee0"
     },
     {
       "id": "66b8866f5aea0a93c2bf410c12045069",
@@ -57,6 +47,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-04",
       "titleHash": "f4109073e3e0035ee1a817ed2235d289"
+    },
+    {
+      "id": "ff14d12139b561ac2fb7d17b3867afa8",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "titleHash": "770efd940f492ad6fcf54393884a0ee0"
     },
     {
       "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
@@ -123,7 +123,7 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
-      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>",
+      "summary": "<p>⚽ All the latest news and reaction from the World Cup<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Knockout draw</a> | <a href=\"mailto:David.Tindall.casual@theguardian.com\">Email us</a></p><p><strong>Kylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts.</strong> Both icons have seven after the Frenchman tucked away the winning penalty against Paraguay.</p><p>Erling Haaland (5), Harry Kane (5) and Vinícius Júnior (4) all have the chance to close the gap in the next 24 hours. And also look out for Spain’s Mikel Oyarzabal (4) creeping up on the rails.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay",
       "time": "2026-07-05",
       "titleHash": "8ecba02a0d4f34f3a78db36014d8ae14"

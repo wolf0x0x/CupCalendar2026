@@ -5996,40 +5996,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "translations": {
-        "es": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "pt": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "fr": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "de": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "ja": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "zh": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "'Disgusting' Paraguay went 'way too far' against France",
       "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
@@ -6126,6 +6092,40 @@
         "zh": {
           "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
           "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "translations": {
+        "es": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "pt": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "fr": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "de": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "ja": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "zh": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         }
       }
     },
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-05T09:13:46.579Z",
+    "fetchedAt": "2026-07-05T13:52:08.330Z",
     "newsItems": 14,
-    "translationQueue": 12,
+    "translationQueue": 6,
     "errors": [
       {
         "source": "FIFA",
