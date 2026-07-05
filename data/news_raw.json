@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T19:26:07.079Z",
+  "fetchedAt": "2026-07-05T22:07:04.863Z",
   "errors": [
     {
       "source": "FIFA",
@@ -123,10 +123,20 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-      "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Norway, by the way, have never lost to Brazil. In the four previous matches between these two teams, there have been two Norwegian wins and two draws. The teams have met once in the World Cup, when Norway beat Brazil 2-1 in 1998 (caveat: it was the final game of the group stage and Brazil had already qualified).</p><p>Norway coach Stale Solbakken played in that 1998 game and is sort of confident they can repeat that result. Maybe. Kind of. Perhaps.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>",
+      "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
       "time": "2026-07-05",
       "titleHash": "6b2ef1c5953ef008e7ec087b178828cb"
+    },
+    {
+      "id": "adaa317c5082295fb2173eb17ac9090b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
+      "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live",
+      "time": "2026-07-05",
+      "titleHash": "c3c3c669356299adfa94cf45da1ad394"
     },
     {
       "id": "05a0a1195ee9085560da3de28d440024",
