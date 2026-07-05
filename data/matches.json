@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-05T18:45:49.845Z",
+  "syncedAt": "2026-07-05T20:14:41.897Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1726,10 +1726,10 @@
       "time": "16:00",
       "home": "Brazil",
       "away": "Norway",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
