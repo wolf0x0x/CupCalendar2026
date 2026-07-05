@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-05T21:29:40.965Z",
+  "syncedAt": "2026-07-05T22:33:44.141Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1726,11 +1726,11 @@
       "time": "16:00",
       "home": "Brazil",
       "away": "Norway",
-      "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": "1 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1869,14 +1869,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-99",
+      "id": "norway-tbd-99",
       "sourceId": "99",
       "type": "qf",
       "group": "QF",
       "matchday": "Matchday 6",
       "date": "2026-07-11",
       "time": "17:00",
-      "home": "TBD",
+      "home": "Norway",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
