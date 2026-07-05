@@ -5,7 +5,7 @@
     "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
     "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-    "time": "2026-07-04",
+    "time": "2026-07-05",
     "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
     "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
     "translations": {
@@ -72,6 +72,78 @@
     }
   },
   {
+    "id": "66b8866f5aea0a93c2bf410c12045069",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'Disgusting' Paraguay went 'way too far' against France",
+    "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-04",
+    "titleHash": "e1889707380ff03ba32a619790def638",
+    "translations": {
+      "es": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      },
+      "pt": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      },
+      "fr": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      },
+      "de": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      },
+      "ja": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      },
+      "zh": {
+        "title": "'Disgusting' Paraguay went 'way too far' against France",
+        "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "f533e0aa9eec6230b47a1f4c1c53e12d",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Mbappe coolly fires France into lead from penalty spot",
+    "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-04",
+    "titleHash": "f4ff635dff7c881bdb44586c16ff4de7",
+    "translations": {
+      "es": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      },
+      "de": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Mbappe coolly fires France into lead from penalty spot",
+        "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
+      }
+    }
+  },
+  {
     "id": "06dd47d4de46d2a84a14f326d05f225e",
     "source": "BBC",
     "tag": "RSS",
@@ -104,42 +176,6 @@
       "zh": {
         "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
         "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
-      }
-    }
-  },
-  {
-    "id": "392ac861c45bf4fe471963d9eefad21f",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Ounahi gives Morocco the lead against Canada",
-    "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-04",
-    "titleHash": "e5caa3414f83ff12fa6c9079e101d2ad",
-    "translations": {
-      "es": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-      },
-      "de": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Ounahi gives Morocco the lead against Canada",
-        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
       }
     }
   },
@@ -180,6 +216,42 @@
     }
   },
   {
+    "id": "392ac861c45bf4fe471963d9eefad21f",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Ounahi gives Morocco the lead against Canada",
+    "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-04",
+    "titleHash": "e5caa3414f83ff12fa6c9079e101d2ad",
+    "translations": {
+      "es": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      },
+      "pt": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      },
+      "fr": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      },
+      "de": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      },
+      "ja": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      },
+      "zh": {
+        "title": "Ounahi gives Morocco the lead against Canada",
+        "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+      }
+    }
+  },
+  {
     "id": "2abfbf0d5f4d7b480c5e81f6536cae0c",
     "source": "BBC",
     "tag": "RSS",
@@ -212,78 +284,6 @@
       "zh": {
         "title": "'I decided last minute!' - Salah on Panenka penalty",
         "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "d87c3640c49187d8a20ec8f45f1d4e88",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Martinez restores Argentina's lead against Cape Verde",
-    "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c4gy8exgyd3o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-04",
-    "titleHash": "a3356ba12747198b9fce466ca48849a8",
-    "translations": {
-      "es": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      },
-      "pt": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      },
-      "fr": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      },
-      "de": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      },
-      "ja": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      },
-      "zh": {
-        "title": "Martinez restores Argentina's lead against Cape Verde",
-        "summary": "Lisandro Martinez restores Argentina's lead against Cape Verde in the knockout stage of the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "faaed23f5733568ded9621a52890be05",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Ashour heads Egypt into lead against Australia",
-    "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas.",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-03",
-    "titleHash": "9341658ebf7ace66f7cdb825772d3e93",
-    "translations": {
-      "es": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
-      },
-      "pt": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
-      },
-      "fr": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
-      },
-      "de": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
-      },
-      "ja": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
-      },
-      "zh": {
-        "title": "Ashour heads Egypt into lead against Australia",
-        "summary": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas."
       }
     }
   },
