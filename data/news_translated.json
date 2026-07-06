@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T04:06:01.756Z",
+  "fetchedAt": "2026-07-06T10:49:36.743Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,6 +38,42 @@
       }
     },
     {
+      "id": "f079324df20740f0ec70d2c2c06e3336",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Neymar says Brazil career over after Norway defeat",
+      "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-06",
+      "titleHash": "668864f4c6e88d24f7fb38112b7fd99f",
+      "translations": {
+        "es": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        },
+        "pt": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        },
+        "fr": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        },
+        "de": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        },
+        "ja": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        },
+        "zh": {
+          "title": "Neymar says Brazil career over after Norway defeat",
+          "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        }
+      }
+    },
+    {
       "id": "a97bad1f8b0072d5193fd1922143cc35",
       "source": "BBC",
       "tag": "RSS",
@@ -70,42 +106,6 @@
         "zh": {
           "title": "Haaland double fires Norway into World Cup quarter-finals",
           "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "ff14d12139b561ac2fb7d17b3867afa8",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "770efd940f492ad6fcf54393884a0ee0",
-      "translations": {
-        "es": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "pt": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "fr": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "de": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "ja": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "zh": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         }
       }
     },
@@ -182,74 +182,38 @@
       }
     },
     {
-      "id": "06dd47d4de46d2a84a14f326d05f225e",
+      "id": "ff14d12139b561ac2fb7d17b3867afa8",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-      "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-04",
-      "titleHash": "f4109073e3e0035ee1a817ed2235d289",
+      "titleHash": "770efd940f492ad6fcf54393884a0ee0",
       "translations": {
         "es": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "pt": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "fr": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "de": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "ja": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         },
         "zh": {
-          "title": "Morocco reach quarter-finals as co-hosts Canada knocked out",
-          "summary": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
-        }
-      }
-    },
-    {
-      "id": "392ac861c45bf4fe471963d9eefad21f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Ounahi gives Morocco the lead against Canada",
-      "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9q23dlgw72o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "e5caa3414f83ff12fa6c9079e101d2ad",
-      "translations": {
-        "es": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Ounahi gives Morocco the lead against Canada",
-          "summary": "Azzedine Ounahi scores the opener for Morocco against Canada in the last 32 of the 2026 World Cup."
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         }
       }
     },
@@ -260,7 +224,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-02",
+      "time": "2026-07-06",
       "titleHash": "cbba383f2fffc07126400b0ba02e3ac1",
       "translations": {
         "es": {
@@ -362,6 +326,78 @@
       }
     },
     {
+      "id": "9f935392edba99160f11182ee291ba07",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+      "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
+      "time": "2026-07-06",
+      "titleHash": "a51b20ad093fdd9f0b4266561ea0b707",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: England set up Norway quarter-final after Mexico thriller; Uefa says Fifa ‘crossed line’ over Balogun – live",
+          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-07-02",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: guide to all 1,248 players",
+          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+        }
+      }
+    },
+    {
       "id": "05a0a1195ee9085560da3de28d440024",
       "source": "The Guardian",
       "tag": "RSS",
@@ -394,6 +430,42 @@
         "zh": {
           "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
           "summary": "<p>We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins</p><p><em>Les Bleus</em> look unstoppable – all six of our judges ranked them No 1. Sweden did their best to cope with the French front four but were <a href=\"https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report\">blown away</a> by the slickest operation in town. Even when an opponent is feeling comfortable, Michael Olise or Kylian Mbappé can produce genius without notice, ripping apart the best-organised defences. “I did say that I wanted to enjoy this World Cup to the fullest,” Mbappé told reporters after the Sweden game. It is hard to imagine the fun stopping any time soon.</p> <a href=\"https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "e26020666042690afb03f174ba3656e3",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+      "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures",
+      "time": "2026-07-06",
+      "titleHash": "7c20dec5d3121f3db6b98c8f96a322c3",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
+          "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>"
         }
       }
     },
