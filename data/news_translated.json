@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T22:07:04.863Z",
+  "fetchedAt": "2026-07-06T04:06:01.756Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-05",
+      "time": "2026-07-06",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -38,38 +38,74 @@
       }
     },
     {
-      "id": "9822b1ec1c8800c9562a1e0ec4a9f6b4",
+      "id": "a97bad1f8b0072d5193fd1922143cc35",
       "source": "BBC",
       "tag": "RSS",
-      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-      "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
+      "title": "Haaland double fires Norway into World Cup quarter-finals",
+      "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwy00v2xk05o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-05",
-      "titleHash": "170b1334f58094a56c4e448034ef509d",
+      "titleHash": "3bfdcfb9ab4cac51a58f2a151896296e",
       "translations": {
         "es": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
         },
         "pt": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
         },
         "fr": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
         },
         "de": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
         },
         "ja": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
         },
         "zh": {
-          "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-          "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+          "title": "Haaland double fires Norway into World Cup quarter-finals",
+          "summary": "Erling Haaland scores twice as Norway knock out five-time champions Brazil, and progress to the quarter-finals of the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "ff14d12139b561ac2fb7d17b3867afa8",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "titleHash": "770efd940f492ad6fcf54393884a0ee0",
+      "translations": {
+        "es": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "pt": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "fr": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "de": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "ja": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
+        },
+        "zh": {
+          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
         }
       }
     },
@@ -218,78 +254,6 @@
       }
     },
     {
-      "id": "ff14d12139b561ac2fb7d17b3867afa8",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "770efd940f492ad6fcf54393884a0ee0",
-      "translations": {
-        "es": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "pt": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "fr": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "de": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "ja": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        },
-        "zh": {
-          "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-          "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
-        }
-      }
-    },
-    {
-      "id": "2abfbf0d5f4d7b480c5e81f6536cae0c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'I decided last minute!' - Salah on Panenka penalty",
-      "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-03",
-      "titleHash": "88996a69b0185492b3e02a5c1d04bf68",
-      "translations": {
-        "es": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        },
-        "de": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "'I decided last minute!' - Salah on Panenka penalty",
-          "summary": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup."
-        }
-      }
-    },
-    {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
       "source": "BBC",
       "tag": "RSS",
@@ -394,78 +358,6 @@
         "zh": {
           "title": "What is the World Cup prize money?",
           "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "7ad72a385560efb25908ee236ed46b8d",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-      "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live",
-      "time": "2026-07-05",
-      "titleHash": "6b2ef1c5953ef008e7ec087b178828cb",
-      "translations": {
-        "es": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Brazil v Norway: World Cup 2026 last 16 – live",
-          "summary": "<p>⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">Full bracket</a> | <a href=\"mailto:tom.lutz@theguardian.com\">Mail Tom</a></p><p>Scandinavian Solidarity Department:</p><p>“I will be rooting enthusiastically for our Norwegian neighbours while rowing in my armchair,” writes Lars Bøgegaard. “The Swedes has been to a World Cup-final and reached two semifinals, while we Danes got to the quarterfinals in 1998 losing narrowly 3-2 against … Brazil. Now it’s Norway’s turn to experience the sheer happiness, I hope.”</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/brazil-v-norway-world-cup-2026-last-16-live\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "adaa317c5082295fb2173eb17ac9090b",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-      "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live",
-      "time": "2026-07-05",
-      "titleHash": "c3c3c669356299adfa94cf45da1ad394",
-      "translations": {
-        "es": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Mexico v England: World Cup 2026 last 16 tie hit by thunderstorm in buildup – live",
-          "summary": "<p>⚽️ Kick-off time: 6pm local/8pm EDT/1am BST/10am AEST<br>⚽️ <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://preview.gutools.co.uk/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/world-cup-2026/overview\">World Cup draw</a> | <a href=\"mailto:tom.davies@theguardian.com\">Email Tom</a></p><p><strong>And another!</strong> Norway are heading through. There’s gonna be a lot of rowing routines on the floors of New York bars tonight.</p><p><strong>And there’s been a goal in New Jersey</strong>, and you’ll never guess who got it:</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/05/mexico-v-england-world-cup-2026-last-16-live\">Continue reading...</a>"
         }
       }
     },
