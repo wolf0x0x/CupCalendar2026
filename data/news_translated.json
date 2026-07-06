@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T15:46:25.208Z",
+  "fetchedAt": "2026-07-06T20:06:12.461Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,42 +38,6 @@
       }
     },
     {
-      "id": "f65088c192c0b053006343226f173b9c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "The numbers behind Spain defence chasing World Cup history",
-      "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-06",
-      "titleHash": "dcfbd23bea6393bf7676e5c13504d9ad",
-      "translations": {
-        "es": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "pt": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "fr": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "de": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "ja": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "zh": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        }
-      }
-    },
-    {
       "id": "f079324df20740f0ec70d2c2c06e3336",
       "source": "BBC",
       "tag": "RSS",
@@ -106,6 +70,42 @@
         "zh": {
           "title": "Neymar says Brazil career over after Norway defeat",
           "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        }
+      }
+    },
+    {
+      "id": "f65088c192c0b053006343226f173b9c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "The numbers behind Spain defence chasing World Cup history",
+      "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-06",
+      "titleHash": "dcfbd23bea6393bf7676e5c13504d9ad",
+      "translations": {
+        "es": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "pt": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "fr": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "de": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "ja": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "zh": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
         }
       }
     },
@@ -362,38 +362,38 @@
       }
     },
     {
-      "id": "e4ebea2179639e6464ac54c6944fcd44",
+      "id": "ed81cbba6742ab763d66bf57c4652255",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-      "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live",
+      "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+      "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live",
       "time": "2026-07-06",
-      "titleHash": "25ae47ba809ff6f0c50be295c7ea8e53",
+      "titleHash": "f98b18f45400be0d46029c9234d74f9c",
       "translations": {
         "es": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
-          "summary": "<p>⚽️ World Cup news and reaction as the last 16 continues<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/belgium-appeal-fifa-lifting-folarin-balogun-red-card-ban-last-16-us-world-cup\">Uefa accuses Fifa of ‘crossing red line’ over Balogun</a><br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">Mexico 2-3 England</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | And <a href=\"mailto:matchday.live@theguardian.com\">email us</a></p><p>We haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s <a href=\"https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup\">win over Bosnia and Herzegovina</a>. He is now free to play in the last-16 game against Belgium.</p><p>Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live\">Continue reading...</a>"
+          "title": "Portugal v Spain: World Cup 2026 last 16 – live",
+          "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>"
         }
       }
     },
@@ -434,42 +434,6 @@
       }
     },
     {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-07-02",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4",
-      "translations": {
-        "es": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "World Cup 2026: guide to all 1,248 players",
-          "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
-        }
-      }
-    },
-    {
       "id": "05a0a1195ee9085560da3de28d440024",
       "source": "The Guardian",
       "tag": "RSS",
@@ -502,42 +466,6 @@
         "zh": {
           "title": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall",
           "summary": "<p>We assess the standing of the nations who played in the tournament’s last 32 before the next round of games begins</p><p><em>Les Bleus</em> look unstoppable – all six of our judges ranked them No 1. Sweden did their best to cope with the French front four but were <a href=\"https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report\">blown away</a> by the slickest operation in town. Even when an opponent is feeling comfortable, Michael Olise or Kylian Mbappé can produce genius without notice, ripping apart the best-organised defences. “I did say that I wanted to enjoy this World Cup to the fullest,” Mbappé told reporters after the Sweden game. It is hard to imagine the fun stopping any time soon.</p> <a href=\"https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "1ac6e29cf4eaf65057167124e0bbf0e3",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-      "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026",
-      "time": "2026-06-30",
-      "titleHash": "4197c2d7950cf782dfe960771b07ba99",
-      "translations": {
-        "es": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Panenka to Paraguay: Germany’s 50-year penalty shootout streak is over",
-          "summary": "<p>Germany once scored 22 consecutive penalties in major tournament shootouts. They missed three as Paraguay won 4-3 from the spot</p><p>Germany were knocked out of the 2026 World Cup on penalties, an outcome that feels unbelievable to anyone who has watched international football over the past 50 years. <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">Paraguay beat them 4-3 in a shootout in Boston on Monday</a> after their last-32 tie ended 1-1 after extra time.</p><p><a href=\"https://www.theguardian.com/football/germany\">Germany</a> had won six consecutive shootouts in all competitions before this, their only previous defeat occurring in 1976. <a href=\"https://www.theguardian.com/football/2026/jun/20/antonin-panenka-penalty-50-years-on-czechoslovakia-west-germany-1976\">Antonín Panenka’s legendary spot-kick</a> condemned West Germany to a 5-3 shootout defeat in the semi-final of the European Championship.</p> <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-50-year-penalty-shootout-dominance-over-world-cup-2026\">Continue reading...</a>"
         }
       }
     }

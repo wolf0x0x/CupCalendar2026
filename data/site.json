@@ -5948,40 +5948,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "The numbers behind Spain defence chasing World Cup history",
-      "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-06",
-      "translations": {
-        "es": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "pt": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "fr": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "de": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "ja": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        },
-        "zh": {
-          "title": "The numbers behind Spain defence chasing World Cup history",
-          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Neymar says Brazil career over after Norway defeat",
       "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
@@ -6010,6 +5976,40 @@
         "zh": {
           "title": "Neymar says Brazil career over after Norway defeat",
           "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "The numbers behind Spain defence chasing World Cup history",
+      "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwy00jx3y91o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-06",
+      "translations": {
+        "es": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "pt": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "fr": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "de": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "ja": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
+        },
+        "zh": {
+          "title": "The numbers behind Spain defence chasing World Cup history",
+          "summary": "With Spain yet to concede at the 2026 World Cup and on the brink of another tournament record, BBC Sport examines the numbers behind the shutouts."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-06T15:46:25.208Z",
-    "newsItems": 15,
-    "translationQueue": 24,
+    "fetchedAt": "2026-07-06T20:06:12.461Z",
+    "newsItems": 13,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
