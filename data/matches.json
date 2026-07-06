@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-06T18:12:44.160Z",
+  "syncedAt": "2026-07-06T20:15:30.585Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1764,10 +1764,10 @@
       "time": "14:00",
       "home": "Portugal",
       "away": "Spain",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
