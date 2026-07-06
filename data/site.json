@@ -5948,6 +5948,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Super-sub Merino delivers 'killer goal' for Spain",
+      "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-06",
+      "translations": {
+        "es": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        },
+        "de": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Super-sub Merino delivers 'killer goal' for Spain",
+          "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Neymar says Brazil career over after Norway defeat",
       "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
       "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
@@ -6078,40 +6112,6 @@
         "zh": {
           "title": "'Disgusting' Paraguay went 'way too far' against France",
           "summary": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Mbappe coolly fires France into lead from penalty spot",
-      "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "translations": {
-        "es": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Mbappe coolly fires France into lead from penalty spot",
-          "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-06T20:06:12.461Z",
-    "newsItems": 13,
-    "translationQueue": 12,
+    "fetchedAt": "2026-07-06T22:18:47.945Z",
+    "newsItems": 14,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-06T20:06:12.461Z",
+  "fetchedAt": "2026-07-06T22:18:47.945Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-07-06",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "c25ef8956e92085c562824fd1df2177a",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Super-sub Merino delivers 'killer goal' for Spain",
+      "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-06",
+      "titleHash": "aa945643c7bbce6ec1f128dbc2b5c5c0"
     },
     {
       "id": "f079324df20740f0ec70d2c2c06e3336",
@@ -59,16 +69,6 @@
       "titleHash": "e1889707380ff03ba32a619790def638"
     },
     {
-      "id": "f533e0aa9eec6230b47a1f4c1c53e12d",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Mbappe coolly fires France into lead from penalty spot",
-      "summary": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "f4ff635dff7c881bdb44586c16ff4de7"
-    },
-    {
       "id": "ff14d12139b561ac2fb7d17b3867afa8",
       "source": "BBC",
       "tag": "RSS",
@@ -109,14 +109,24 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "ed81cbba6742ab763d66bf57c4652255",
+      "id": "2f60086eae02afc61845ac0153ea62c6",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Portugal v Spain: World Cup 2026 last 16 – live",
-      "summary": "<p>⚽️ Kick-off time: 2pm local, 3pm EDT, 8pm BST, 5am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Email Scott</a></p><p><strong>The great pennant showdown.</strong> Spain have managed to pull off a feat previously considered almost impossible, by producing a pennant with an <a href=\"https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live?page=with%3Ablock-6a4530d08f08f424eb4d03b3#block-6a4530d08f08f424eb4d03b3\">even more boring design than England’s</a>. Not sure what we’ll do should the two teams meet in the final. Maybe just quietly drop this feature. Probably for the best all round.</p><p>Portugal’s is rather nice, though! This isn’t the one Ronaldo will be handing over to Rodri today, they didn’t take a photo of that, but you get the gist. One of the great recognisable crests. A couple of points docked for lack of edge-cushioning tassels; a sudden gust of wind at the coin toss and you could have someone’s eye out with that.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/06/portugal-v-spain-world-cup-2026-last-16-live",
+      "title": "USA v Belgium: World Cup 2026 last 16 – live",
+      "summary": "<p>⚽️ Kick-off time: 5pm local/10am AEST/1am BST/8pm EDT<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:beau.dure@theguardian.com\">Mail Beau</a></p><p>Through four games, <a href=\"https://www.theguardian.com/football/belgium\">Belgium</a> have retained 57% of possession with a 65% field tilt – a possession metric weighing only final-third touches – but haven’t found a way to maximize that advantage.</p><p>While possession can be a noisy statistic, viewing it in stylistic terms can be informative. So far at this World Cup, Belgium have won the possession battle in all four of their games, with Senegal playing them closest in a 52-48 split. The United States have maintained a 58% share of the ball in their four games, neck-and-neck with Garcia’s Belgium. If Mauricio Pochettino’s side can keep the ball off Belgian feet more often than not, it could unsettle the Red Devils.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/06/usa-v-belgium-world-cup-2026-last-16-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/06/usa-v-belgium-world-cup-2026-last-16-live",
       "time": "2026-07-06",
-      "titleHash": "f98b18f45400be0d46029c9234d74f9c"
+      "titleHash": "9bd89d09559fd95e1a7ffedf6cf89c12"
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-07-02",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     },
     {
       "id": "e26020666042690afb03f174ba3656e3",
