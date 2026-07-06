@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-06T20:15:30.585Z",
+  "syncedAt": "2026-07-06T21:58:04.660Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1765,10 +1765,10 @@
       "home": "Portugal",
       "away": "Spain",
       "homeScore": 0,
-      "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "4",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1850,14 +1850,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-98",
+      "id": "spain-tbd-98",
       "sourceId": "98",
       "type": "qf",
       "group": "QF",
       "matchday": "Matchday 6",
       "date": "2026-07-10",
       "time": "12:00",
-      "home": "TBD",
+      "home": "Spain",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
