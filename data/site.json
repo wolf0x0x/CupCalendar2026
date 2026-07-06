@@ -6259,7 +6259,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-07-06T21:58:29.211Z",
+    "fetchedAt": "2026-07-06T23:16:07.194Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar stores the upstream snapshot and updates static scores plus standings during build-time sync."
   },
