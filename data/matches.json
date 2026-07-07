@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-07T01:17:13.442Z",
+  "syncedAt": "2026-07-07T05:39:15.675Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1784,10 +1784,10 @@
       "home": "United States",
       "away": "Belgium",
       "homeScore": 1,
-      "awayScore": 2,
-      "score": "1 - 2",
-      "status": "live",
-      "finished": false,
+      "awayScore": 4,
+      "score": "1 - 4",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "14",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1850,7 +1850,7 @@
       "validation": "primary"
     },
     {
-      "id": "spain-tbd-98",
+      "id": "spain-belgium-98",
       "sourceId": "98",
       "type": "qf",
       "group": "QF",
@@ -1858,7 +1858,7 @@
       "date": "2026-07-10",
       "time": "12:00",
       "home": "Spain",
-      "away": "TBD",
+      "away": "Belgium",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
