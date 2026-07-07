@@ -72,42 +72,6 @@
     }
   },
   {
-    "id": "f079324df20740f0ec70d2c2c06e3336",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Neymar says Brazil career over after Norway defeat",
-    "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-06",
-    "titleHash": "668864f4c6e88d24f7fb38112b7fd99f",
-    "translations": {
-      "es": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      },
-      "pt": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      },
-      "fr": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      },
-      "de": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      },
-      "ja": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      },
-      "zh": {
-        "title": "Neymar says Brazil career over after Norway defeat",
-        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
-      }
-    }
-  },
-  {
     "id": "a97bad1f8b0072d5193fd1922143cc35",
     "source": "BBC",
     "tag": "RSS",
@@ -144,37 +108,73 @@
     }
   },
   {
-    "id": "ff14d12139b561ac2fb7d17b3867afa8",
+    "id": "f079324df20740f0ec70d2c2c06e3336",
     "source": "BBC",
     "tag": "RSS",
-    "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+    "title": "Neymar says Brazil career over after Norway defeat",
+    "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-06",
+    "titleHash": "668864f4c6e88d24f7fb38112b7fd99f",
+    "translations": {
+      "es": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      },
+      "pt": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      },
+      "fr": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      },
+      "de": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      },
+      "ja": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      },
+      "zh": {
+        "title": "Neymar says Brazil career over after Norway defeat",
+        "summary": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway."
+      }
+    }
+  },
+  {
+    "id": "ae082612bcd4d8cc4c31fc6ab10450fe",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Chris Sutton predicts World Cup's last-16 matches",
     "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
     "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss",
     "time": "2026-07-04",
-    "titleHash": "770efd940f492ad6fcf54393884a0ee0",
+    "titleHash": "b65226ffc2c7dbb46776b27545573f46",
     "translations": {
       "es": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       },
       "pt": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       },
       "fr": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       },
       "de": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       },
       "ja": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       },
       "zh": {
-        "title": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
+        "title": "Chris Sutton predicts World Cup's last-16 matches",
         "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico."
       }
     }
@@ -186,7 +186,7 @@
     "title": "Who has been eliminated from the World Cup?",
     "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
     "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-06",
+    "time": "2026-07-07",
     "titleHash": "cbba383f2fffc07126400b0ba02e3ac1",
     "translations": {
       "es": {
@@ -284,6 +284,78 @@
       "zh": {
         "title": "What is the World Cup prize money?",
         "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "0bcedbd2028d5d86c2e6008f8dde2f46",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+    "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive",
+    "time": "2026-07-07",
+    "titleHash": "42e77531a800e49e193e2f98e94a7012",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+        "summary": "<p>⚽ News and previews before the final last-16 match-ups<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email Luke</a></p><p><strong>Let’s talk about everyone’s favourite subject:</strong> England!</p><p>What a <a href=\"https://www.theguardian.com/football/2026/jul/06/england-mexico-match-report-jude-bellingham-harry-kane-world-cup\">game that was against Mexico</a>, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive\">Continue reading...</a>"
+      }
+    }
+  },
+  {
+    "id": "80d4ed1e3c226afdeace08eab3d971a9",
+    "source": "The Guardian",
+    "tag": "RSS",
+    "title": "World Cup 2026: guide to all 1,248 players",
+    "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+    "time": "2026-07-02",
+    "titleHash": "c22e31d790da527970ff06a0695b67b4",
+    "translations": {
+      "es": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "pt": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "fr": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "de": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "ja": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
+      },
+      "zh": {
+        "title": "World Cup 2026: guide to all 1,248 players",
+        "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
       }
     }
   },
