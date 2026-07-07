@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-07T14:37:08.656Z",
+  "syncedAt": "2026-07-07T16:59:53.421Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1802,10 +1802,10 @@
       "time": "12:00",
       "home": "Argentina",
       "away": "Egypt",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 1,
+      "score": "0 - 1",
+      "status": "live",
       "finished": false,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
