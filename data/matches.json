@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-07T19:08:52.464Z",
+  "syncedAt": "2026-07-07T20:58:08.065Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1821,10 +1821,10 @@
       "time": "13:00",
       "home": "Switzerland",
       "away": "Colombia",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "13",
       "dataSource": "worldcup26.ir",
