@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-07T16:59:53.421Z",
+  "syncedAt": "2026-07-07T19:08:52.464Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1802,11 +1802,11 @@
       "time": "12:00",
       "home": "Argentina",
       "away": "Egypt",
-      "homeScore": 0,
-      "awayScore": 1,
-      "score": "0 - 1",
-      "status": "live",
-      "finished": false,
+      "homeScore": 3,
+      "awayScore": 2,
+      "score": "3 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1888,14 +1888,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-100",
+      "id": "argentina-tbd-100",
       "sourceId": "100",
       "type": "qf",
       "group": "QF",
       "matchday": "Matchday 6",
       "date": "2026-07-11",
       "time": "20:00",
-      "home": "TBD",
+      "home": "Argentina",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
