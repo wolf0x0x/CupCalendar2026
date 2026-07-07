@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-06T21:58:04.660Z",
+  "syncedAt": "2026-07-07T01:17:13.442Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1783,10 +1783,10 @@
       "time": "17:00",
       "home": "United States",
       "away": "Belgium",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 1,
+      "awayScore": 2,
+      "score": "1 - 2",
+      "status": "live",
       "finished": false,
       "stadiumId": "14",
       "dataSource": "worldcup26.ir",
