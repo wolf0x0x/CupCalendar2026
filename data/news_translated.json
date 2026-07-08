@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T03:23:06.934Z",
+  "fetchedAt": "2026-07-08T08:37:24.788Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,78 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "d0fbaa4ced0c76721a4f9622ce83a132",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "U.S. men, women get equal split of $16M WC prize",
-      "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium.",
-      "url": "https://www.espn.com/soccer/story/_/id/49301582/us-men-women-get-equal-split-16m-world-cup-prize",
-      "time": "2026-07-08",
-      "titleHash": "b6323c7ccd746bf6064fd9c1b3532b86",
-      "translations": {
-        "es": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        },
-        "pt": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        },
-        "fr": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        },
-        "de": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        },
-        "ja": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        },
-        "zh": {
-          "title": "U.S. men, women get equal split of $16M WC prize",
-          "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
-        }
-      }
-    },
-    {
-      "id": "f4928604ab1eba12c7990948bf60a822",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-      "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49299241/martinez-told-messi-enjoy-last-world-cup",
-      "time": "2026-07-08",
-      "titleHash": "3f191caf408373b96f7f5e7618592f9e",
-      "translations": {
-        "es": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
-        },
-        "pt": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
-        },
-        "fr": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
-        },
-        "de": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
-        },
-        "ja": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
-        },
-        "zh": {
-          "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
-          "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
         }
       }
     },
@@ -260,7 +188,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-07",
+      "time": "2026-07-08",
       "titleHash": "cbba383f2fffc07126400b0ba02e3ac1",
       "translations": {
         "es": {
@@ -358,6 +286,42 @@
         "zh": {
           "title": "What is the World Cup prize money?",
           "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "aa055c2d3782230202082f16d27e422f",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+      "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
+      "time": "2026-07-08",
+      "titleHash": "981007ac6d96cac9d8afdff13d09d997",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+          "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>“Neymar’s consolation penalty against Norway </strong>at the <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> means his first international goal, scored on his first cap, was in the same stadium (MetLife) as his last international goal on his final cap,” writes Griffin Cant. “Are there any other players who have bookended their international career in a similar way?”</p><p>Find out the answer to this and more in this week’s Knowledge:</p><p>Well, you can bet your house on Argentina (Messi) winning the World Cup again. In the last few days we’ve seen it all collapse as a sporting spectacle. First the rescinded red card by Donald Trump and now the daylight robbery of Egypt. VAR was supposed to be used to ensure fairness but instead it’s just being used to tip the scales in favour of whoever is scheduled to go into the next round.</p><p>The Egypt goal was rightly chalked off, I was looking at the hip/leg contact and thinking it was never a foul but replays showed the clear shirt pull. The trip on Salah immediately before the Argentina goal is slightly different, it looked like foul play and if the ref had given it VAR would almost certainly not have overturned it, but he didn’t and VAR didn’t try to re-ref the incident, was hoping for a penalty to be given there, and quite possibly it should have been given but once it’s accepted that not every contact is 100% foul play then maybe not, and it wasn’t to be</p><p>Great comeback byArgentina though</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>"
         }
       }
     },
