@@ -5,7 +5,7 @@
     "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
     "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-    "time": "2026-07-07",
+    "time": "2026-07-08",
     "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
     "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
     "translations": {
@@ -32,6 +32,78 @@
       "zh": {
         "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
         "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      }
+    }
+  },
+  {
+    "id": "d0fbaa4ced0c76721a4f9622ce83a132",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "U.S. men, women get equal split of $16M WC prize",
+    "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium.",
+    "url": "https://www.espn.com/soccer/story/_/id/49301582/us-men-women-get-equal-split-16m-world-cup-prize",
+    "time": "2026-07-08",
+    "titleHash": "b6323c7ccd746bf6064fd9c1b3532b86",
+    "translations": {
+      "es": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      },
+      "pt": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      },
+      "fr": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      },
+      "de": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      },
+      "ja": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      },
+      "zh": {
+        "title": "U.S. men, women get equal split of $16M WC prize",
+        "summary": "The United States men earned U.S. Soccer $16 million in prize money from FIFA for making the round of 16 at the 2026 FIFA World Cup, where the Americans lost 4-1 to Belgium."
+      }
+    }
+  },
+  {
+    "id": "f4928604ab1eba12c7990948bf60a822",
+    "source": "ESPN",
+    "tag": "RSS",
+    "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+    "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup.",
+    "url": "https://www.espn.com/soccer/story/_/id/49299241/martinez-told-messi-enjoy-last-world-cup",
+    "time": "2026-07-08",
+    "titleHash": "3f191caf408373b96f7f5e7618592f9e",
+    "translations": {
+      "es": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
+      },
+      "pt": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
+      },
+      "fr": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
+      },
+      "de": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
+      },
+      "ja": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
+      },
+      "zh": {
+        "title": "Lautaro told 'emotional' Messi to enjoy 'last WC'",
+        "summary": "Lautaro Martinez told a visibly emotional Lionel Messi to enjoy the moment following Argentina's 3-2 triumph over Egypt on Tuesday to qualify for the quarterfinals of the FIFA World Cup."
       }
     }
   },
@@ -284,78 +356,6 @@
       "zh": {
         "title": "What is the World Cup prize money?",
         "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "4e11a0006f03e7e0a7381380db52c3f5",
-    "source": "The Guardian",
-    "tag": "RSS",
-    "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-    "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live",
-    "time": "2026-07-07",
-    "titleHash": "a769dc19182318cb781ddd54589b40cd",
-    "translations": {
-      "es": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      },
-      "pt": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      },
-      "fr": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      },
-      "de": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      },
-      "ja": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      },
-      "zh": {
-        "title": "Switzerland v Colombia: World Cup 2026 last-16 tie goes to extra time – live",
-        "summary": "<p>⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday.casual@theguardian.com\">Mail Billy</a></p><p><em><strong>“I like coffee. I like chocolate. I like knockout football. I’ve come to the right place, haven’t I?”</strong></em></p><p>Yes you have, Peter Oh. Apparently Vancouver is a coffee-keen city too, but I’m relying on a Google AI overview to tell me this. Not sure about chocolate, but who doesn’t like chocolate?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live\">Continue reading...</a>"
-      }
-    }
-  },
-  {
-    "id": "9c55bdaaac31a8c56e3f60439a05d795",
-    "source": "The Guardian",
-    "tag": "RSS",
-    "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-    "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment",
-    "time": "2026-07-07",
-    "titleHash": "3c5b6a383d4cbca47e046a8eccb00e0e",
-    "translations": {
-      "es": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
-      },
-      "pt": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
-      },
-      "fr": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
-      },
-      "de": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
-      },
-      "ja": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
-      },
-      "zh": {
-        "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-        "summary": "<p>For much of the star’s career, this tournament has been held as a high-water mark. Instead much of the USMNT’s success came without his involvement</p><p>There was a quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.</p><p>On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was overwhelming. For eight years, this World Cup co-hosted by the United States has been viewed as the potential high-water mark of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.</p> <a href=\"https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment\">Continue reading...</a>"
       }
     }
   },
