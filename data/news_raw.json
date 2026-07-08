@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T11:09:18.273Z",
+  "fetchedAt": "2026-07-08T14:27:43.907Z",
   "errors": [
     {
       "source": "FIFA",
@@ -89,14 +89,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "aa055c2d3782230202082f16d27e422f",
+      "id": "7eb83177fc3558c8ef495309b3ab952d",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Switzerland triumph in shootout – live",
+      "title": "World Cup 2026: Egypt fury after Argentina win thriller, Croatia head coach Dalic quits – live",
       "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Perhaps Lionel Messi could do with a look at this video</strong> – our own Nikhita Chulani sifts the data in search of the perfect penalty.</p><p><strong>Just in, from AP.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
       "time": "2026-07-08",
-      "titleHash": "981007ac6d96cac9d8afdff13d09d997"
+      "titleHash": "3456ee5a58f6ef571a78b27d6054716f"
     },
     {
       "id": "567058c10662a1bc409e0c826b2b3e93",
@@ -109,6 +109,16 @@
       "titleHash": "a26045c0efb232b2cf0d3768d709e706"
     },
     {
+      "id": "f6ee4b257b60a2ed576dae421914c249",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "From Hart to Seedorf to Kewell: standout pundits of the 2026 World Cup",
+      "summary": "<p>We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, US and Australia</p><p><strong>Joe Hart </strong>There’s long been a feeling that, when it comes to punditry, only goalkeepers should talk about goalkeepers given the unique nature of the role. That view will have been strengthened by Hart’s appearances during this World Cup. The former England No 1 has been an authoritative voice on all things shot-stopping, providing the sort of insight and analysis only a man who has been there, done that and worn the gloves can. Highlights include his flagging of keepers getting a hand to long-range efforts but not being able to keep them out and how this definitely wasn’t normal, and how a subtle left-sided weight emphasis was the reason Jordan Pickford was done at his near post for the Democratic Republic of the Congo’s goal against England in Atlanta. This sort of thing, allied to passionate yet crisp oratory, has made Hart a big asset for the BBC, whose decision to stay at home has meant it needs as much punch as it can get. <strong>Sachin Nakrani</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/08/standout-pundits-2026-world-cup-joe-hart-clarence-seedorf-harry-kewell\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/08/standout-pundits-2026-world-cup-joe-hart-clarence-seedorf-harry-kewell",
+      "time": "2026-07-08",
+      "titleHash": "3ba60b016925b2226cb129417b7ea3c2"
+    },
+    {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
       "source": "The Guardian",
       "tag": "RSS",
@@ -117,16 +127,6 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
       "time": "2026-07-02",
       "titleHash": "c22e31d790da527970ff06a0695b67b4"
-    },
-    {
-      "id": "e26020666042690afb03f174ba3656e3",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: England beat Mexico in thriller at the Azteca – in pictures",
-      "summary": "<p>The best pictures from a sensational knockout fixture which began after a one-hour storm delay</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/06/world-cup-2026-mexico-v-england-at-the-azteca-in-pictures",
-      "time": "2026-07-06",
-      "titleHash": "7c20dec5d3121f3db6b98c8f96a322c3"
     },
     {
       "id": "05a0a1195ee9085560da3de28d440024",
