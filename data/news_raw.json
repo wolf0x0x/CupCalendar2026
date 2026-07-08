@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T16:43:51.793Z",
+  "fetchedAt": "2026-07-08T19:42:10.425Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,56 @@
       "time": "2026-07-08",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "222137c299b5f8c7a49a9cf9619c1311",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Marcotti's Mini World Cup Musings: Messi is supern...",
+      "summary": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
+      "url": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
+      "time": "2026-07-08",
+      "titleHash": "66119ad0a6f23cbf6e57cf1e6ece98c3"
+    },
+    {
+      "id": "ae4dcd927a4dd4b6ca86767431477604",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "⚽ World Cup Golden Boot tracker: Messi leads",
+      "summary": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
+      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+      "time": "2026-07-08",
+      "titleHash": "83c37c11810fc3f53443a16e3b0a847a"
+    },
+    {
+      "id": "4390065053ec10dc62d2cf1b690de7b9",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily live: Tournament's 3,000th goal on...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
+      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
+      "time": "2026-07-08",
+      "titleHash": "47ab9686823db7b47cb08ffd0213b100"
+    },
+    {
+      "id": "3842f3a9588ac3fee158a86b62dcf98e",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "After rejecting France, Bouaddi can end their Worl...",
+      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
+      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
+      "time": "2026-07-08",
+      "titleHash": "1374580ccd5a1fcf67117bebef2f910d"
+    },
+    {
+      "id": "5daad95aece10e07d15c77e254adbb2f",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Best bets for the 2026 World Cup quarterfinal roun...",
+      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
+      "time": "2026-07-08",
+      "titleHash": "e8d8866c4911e87607273b2c8212d24b"
     },
     {
       "id": "3341d99a8c0b1aa717282026e53afcbb",
@@ -87,26 +137,6 @@
       "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
-    },
-    {
-      "id": "b835fad91d11b7133554024118aceae2",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
-      "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Perhaps Lionel Messi could do with a look at this video</strong> – our own Nikhita Chulani sifts the data in search of the perfect penalty.</p><p><strong>Just in, from AP.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live",
-      "time": "2026-07-08",
-      "titleHash": "6f284e65c9edaa250b536aa771e31f89"
-    },
-    {
-      "id": "567058c10662a1bc409e0c826b2b3e93",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026 team power rankings: England on the rise as last eight are set",
-      "summary": "<p>We assess the teams who played in the tournament’s last 16 before the next round of games begins</p><p>A very different side of France <a href=\"https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report\">came to the fore</a>, proving they are not mere showboaters, there is plenty of steel, grit and determination among the ranks. It was a brutal encounter as they became targets for Paraguay, who added menace to the low block. No one in blue retreated to the shadows, instead taking the overaggression head on, using it as fuel. “To anyone who wants to go to war with us, this is what you should expect,” Rayan Cherki said. It was the biggest test they have faced this far but intimidation tactics do not work, it transpires, leaving everyone else wondering how to stop them.</p> <a href=\"https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16",
-      "time": "2026-07-08",
-      "titleHash": "a26045c0efb232b2cf0d3768d709e706"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
