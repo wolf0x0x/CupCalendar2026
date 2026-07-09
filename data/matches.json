@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-09T18:28:02.527Z",
+  "syncedAt": "2026-07-09T20:23:46.741Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1479,10 +1479,10 @@
       "time": "16:00",
       "home": "France",
       "away": "Morocco",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "9",
       "dataSource": "worldcup26.ir",
