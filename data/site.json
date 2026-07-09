@@ -6098,74 +6098,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-      "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-09",
-      "translations": {
-        "es": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        },
-        "pt": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        },
-        "fr": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        },
-        "de": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        },
-        "ja": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        },
-        "zh": {
-          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Football Daily",
-      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals.",
-      "url": "https://www.bbc.co.uk/sounds/play/p0nxsyhx?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-09",
-      "translations": {
-        "es": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        },
-        "pt": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        },
-        "fr": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        },
-        "de": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        },
-        "ja": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        },
-        "zh": {
-          "title": "Football Daily",
-          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
       "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwy0eqq40y2o?at_medium=RSS&at_campaign=rss",
@@ -6228,6 +6160,74 @@
         "zh": {
           "title": "Super-sub Merino delivers 'killer goal' for Spain",
           "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+      "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-09",
+      "translations": {
+        "es": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        },
+        "pt": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        },
+        "fr": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        },
+        "de": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        },
+        "ja": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        },
+        "zh": {
+          "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+          "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Football Daily",
+      "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals.",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nxsyhx?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-09",
+      "translations": {
+        "es": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+        },
+        "pt": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+        },
+        "fr": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+        },
+        "de": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+        },
+        "ja": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+        },
+        "zh": {
+          "title": "Football Daily",
+          "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
         }
       }
     },
@@ -6313,7 +6313,7 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-09T15:22:27.929Z",
+    "fetchedAt": "2026-07-09T19:54:26.649Z",
     "newsItems": 13,
     "translationQueue": 12,
     "errors": [

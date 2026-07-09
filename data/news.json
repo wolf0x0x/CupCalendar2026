@@ -144,78 +144,6 @@
     }
   },
   {
-    "id": "8aa380834f45b99854c15a210089cb48",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-    "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-09",
-    "titleHash": "24a5a80e0d89a86bc77d6ab09608bb76",
-    "translations": {
-      "es": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      },
-      "pt": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      },
-      "fr": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      },
-      "de": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      },
-      "ja": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      },
-      "zh": {
-        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
-      }
-    }
-  },
-  {
-    "id": "80c93d19647531225db0a8339d788101",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Football Daily",
-    "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals.",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nxsyhx?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-09",
-    "titleHash": "442dfa738b59b4cbbcff9d1958b4d85d",
-    "translations": {
-      "es": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      },
-      "pt": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      },
-      "fr": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      },
-      "de": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      },
-      "ja": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      },
-      "zh": {
-        "title": "Football Daily",
-        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
-      }
-    }
-  },
-  {
     "id": "19014839a0501e9dab4dc865c0d22043",
     "source": "BBC",
     "tag": "RSS",
@@ -284,6 +212,78 @@
       "zh": {
         "title": "Super-sub Merino delivers 'killer goal' for Spain",
         "summary": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+      }
+    }
+  },
+  {
+    "id": "8aa380834f45b99854c15a210089cb48",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+    "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-09",
+    "titleHash": "24a5a80e0d89a86bc77d6ab09608bb76",
+    "translations": {
+      "es": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      },
+      "pt": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      },
+      "fr": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      },
+      "de": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      },
+      "ja": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      },
+      "zh": {
+        "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+        "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again."
+      }
+    }
+  },
+  {
+    "id": "80c93d19647531225db0a8339d788101",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "Football Daily",
+    "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals.",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nxsyhx?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-09",
+    "titleHash": "442dfa738b59b4cbbcff9d1958b4d85d",
+    "translations": {
+      "es": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+      },
+      "pt": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+      },
+      "fr": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+      },
+      "de": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+      },
+      "ja": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
+      },
+      "zh": {
+        "title": "Football Daily",
+        "summary": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals."
       }
     }
   },
@@ -396,38 +396,38 @@
     }
   },
   {
-    "id": "ad76476e201a4e62480797b7d49f801f",
+    "id": "0704d4ff79e6f9b7a7da69e59ac3a901",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-    "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live",
+    "title": "France v Morocco: World Cup 2026 quarter-final – live",
+    "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live",
     "time": "2026-07-09",
-    "titleHash": "f42f6b56f7b8487daf43b409fa65dfea",
+    "titleHash": "6165fa9e039085dae332edf7018956b2",
     "translations": {
       "es": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "pt": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "fr": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "de": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "ja": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "zh": {
-        "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
-        "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>"
+        "title": "France v Morocco: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 4pm EDT/9pm BST/6am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>France have long demonstrated the benefits of diversity at the World Cup.</strong> Now Morocco are reaping similar rewards, with six members of Morocco’s squad – Ayyoub Bouaddi, Issa Diop, Neil El Aynaoui, Samir El Mourabet, Gessime Yassine and Redouane Halhal – born in France. This piece from the Guardian Sport Network, on how today’s quarter-final sums up the multicultural nature of the tournament, deserves your time and your love.</p><p><strong>The pre-match press conferences. </strong>Didier Deschamps plays down the identity of tonight’s referee, with officialdom having been front and centre this week, while giving his opponents their flowers: “This Morocco is of very high quality.” His opposite number Mohamed Ouahbi meanwhile insists his team are here to win the whole thing.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/france-v-morocco-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       }
     }
   },
