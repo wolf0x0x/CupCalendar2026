@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T22:12:10.151Z",
+  "fetchedAt": "2026-07-09T03:50:51.947Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,59 +14,19 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-08",
+      "time": "2026-07-09",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "222137c299b5f8c7a49a9cf9619c1311",
-      "source": "ESPN",
+      "id": "08f0672773e35218ff6f09b655d37684",
+      "source": "BBC",
       "tag": "RSS",
-      "title": "Marcotti's Mini World Cup Musings: Messi is supern...",
-      "summary": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
-      "url": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
+      "title": "Chris Sutton's World Cup quarter-final predictions",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-08",
-      "titleHash": "66119ad0a6f23cbf6e57cf1e6ece98c3"
-    },
-    {
-      "id": "ae4dcd927a4dd4b6ca86767431477604",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "⚽ World Cup Golden Boot tracker: Messi leads",
-      "summary": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "time": "2026-07-08",
-      "titleHash": "83c37c11810fc3f53443a16e3b0a847a"
-    },
-    {
-      "id": "4390065053ec10dc62d2cf1b690de7b9",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily live: Tournament's 3,000th goal on...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as we have our final eight teams of the 2026 FIFA World Cup.",
-      "url": "https://www.espn.com/soccer/story/_/id/49301983/world-cup-daily-live-tournaments-3000th-goal-one-most-controversial-first-break-27-days",
-      "time": "2026-07-08",
-      "titleHash": "47ab9686823db7b47cb08ffd0213b100"
-    },
-    {
-      "id": "3842f3a9588ac3fee158a86b62dcf98e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "After rejecting France, Bouaddi can end their Worl...",
-      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
-      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
-      "time": "2026-07-08",
-      "titleHash": "1374580ccd5a1fcf67117bebef2f910d"
-    },
-    {
-      "id": "5daad95aece10e07d15c77e254adbb2f",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Best bets for the 2026 World Cup quarterfinal roun...",
-      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
-      "time": "2026-07-08",
-      "titleHash": "e8d8866c4911e87607273b2c8212d24b"
+      "titleHash": "8c0660667fb24793adc483e6b69480b9"
     },
     {
       "id": "3341d99a8c0b1aa717282026e53afcbb",
