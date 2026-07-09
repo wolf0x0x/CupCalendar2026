@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-07-08T23:08:42.201Z",
-  "syncedAt": "2026-07-08T23:08:42.201Z",
+  "checkedAt": "2026-07-09T00:20:07.287Z",
+  "syncedAt": "2026-07-09T00:20:07.287Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -58,7 +58,7 @@
       "priority": 1,
       "ok": true,
       "source": "https://worldcup26.ir/get/games",
-      "fetchedAt": "2026-07-08T22:06:06.133Z",
+      "fetchedAt": "2026-07-09T00:20:08.165Z",
       "fetched": 104,
       "finishedMatches": 96,
       "finishedGroups": [
@@ -78,8 +78,7 @@
         "R32"
       ],
       "latestFinishedDate": "2026-07-07",
-      "usedCachedSnapshot": true,
-      "warning": "Using cached worldcup26 snapshot from 2026-07-08T22:06:06.133Z: fetch failed"
+      "usedCachedSnapshot": false
     },
     {
       "name": "football-data.org",
