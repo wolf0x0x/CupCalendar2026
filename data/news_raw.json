@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-09T03:50:51.947Z",
+  "fetchedAt": "2026-07-09T09:55:04.728Z",
   "errors": [
     {
       "source": "FIFA",
@@ -27,6 +27,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-08",
       "titleHash": "8c0660667fb24793adc483e6b69480b9"
+    },
+    {
+      "id": "8aa380834f45b99854c15a210089cb48",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
+      "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-09",
+      "titleHash": "24a5a80e0d89a86bc77d6ab09608bb76"
     },
     {
       "id": "3341d99a8c0b1aa717282026e53afcbb",
@@ -99,14 +109,24 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "567058c10662a1bc409e0c826b2b3e93",
+      "id": "ad76476e201a4e62480797b7d49f801f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026 team power rankings: England on the rise as last eight are set",
-      "summary": "<p>We assess the teams who played in the tournament’s last 16 before the next round of games begins</p><p>A very different side of France <a href=\"https://www.theguardian.com/football/2026/jul/05/paraguay-france-last-16-world-cup-match-report\">came to the fore</a>, proving they are not mere showboaters, there is plenty of steel, grit and determination among the ranks. It was a brutal encounter as they became targets for Paraguay, who added menace to the low block. No one in blue retreated to the shadows, instead taking the overaggression head on, using it as fuel. “To anyone who wants to go to war with us, this is what you should expect,” Rayan Cherki said. It was the biggest test they have faced this far but intimidation tactics do not work, it transpires, leaving everyone else wondering how to stop them.</p> <a href=\"https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/08/world-cup-2026-team-rankings-last-16",
-      "time": "2026-07-08",
-      "titleHash": "a26045c0efb232b2cf0d3768d709e706"
+      "title": "World Cup 2026: France v Morocco quarter-final buildup, Collina defends refereeing – live",
+      "summary": "<p>⚽ All the latest as we look ahead to the quarter-finals<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Our very own Jonny Weeks has been doing clever things with photos from across the World Cup.</strong></p><p>Check them out!</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/09/world-cup-2026-france-v-morocco-quarter-final-news-live",
+      "time": "2026-07-09",
+      "titleHash": "f42f6b56f7b8487daf43b409fa65dfea"
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-07-02",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     }
   ]
 }
