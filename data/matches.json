@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-10T05:08:07.235Z",
+  "syncedAt": "2026-07-10T08:41:20.202Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1907,14 +1907,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-101",
+      "id": "france-tbd-101",
       "sourceId": "101",
       "type": "sf",
       "group": "SF",
       "matchday": "Matchday 7",
       "date": "2026-07-14",
       "time": "14:00",
-      "home": "TBD",
+      "home": "France",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
