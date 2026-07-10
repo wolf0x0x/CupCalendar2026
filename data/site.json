@@ -5946,74 +5946,6 @@
       }
     },
     {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action.",
-      "url": "https://www.espn.com/soccer/story/_/id/49320148/world-cup-daily-live-remix-teen-erling-haaland-rap-song-hits-no-1-spain-face-belgium",
-      "time": "2026-07-10",
-      "translations": {
-        "es": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        },
-        "pt": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        },
-        "fr": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        },
-        "de": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        },
-        "ja": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        },
-        "zh": {
-          "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
-          "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action."
-        }
-      }
-    },
-    {
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
-      "time": "2026-07-10",
-      "translations": {
-        "es": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        },
-        "pt": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        },
-        "fr": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        },
-        "de": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        },
-        "ja": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        },
-        "zh": {
-          "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
-          "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round."
-        }
-      }
-    },
-    {
       "source": "BBC",
       "tag": "RSS",
       "title": "'Absolute perfection!' Mbappe fires France ahead against Morocco",
@@ -6250,6 +6182,74 @@
           "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "What is the World Cup prize money?",
+      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "translations": {
+        "es": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        },
+        "de": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+      "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
+      "time": "2026-07-10",
+      "translations": {
+        "es": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
+          "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-10T17:01:09.425Z",
-    "newsItems": 13,
-    "translationQueue": 24,
+    "fetchedAt": "2026-07-10T19:40:49.582Z",
+    "newsItems": 11,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
