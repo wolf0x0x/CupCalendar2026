@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T14:40:20.385Z",
+  "fetchedAt": "2026-07-10T17:01:09.425Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,26 @@
       "time": "2026-07-10",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "fe062c2d9b597b4952889f39beefd0b8",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "World Cup Daily live: Remix of teen Haaland's rap ...",
+      "summary": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we start the second day of quarterfinals action.",
+      "url": "https://www.espn.com/soccer/story/_/id/49320148/world-cup-daily-live-remix-teen-erling-haaland-rap-song-hits-no-1-spain-face-belgium",
+      "time": "2026-07-10",
+      "titleHash": "e7d9baa7be0f473ceee67557cafef26c"
+    },
+    {
+      "id": "2f647fc1e90dccea6169f61e756e003e",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Copy of Best bets for the 2026 World Cup quarterfinal roun...",
+      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
+      "time": "2026-07-10",
+      "titleHash": "1ce926e3db64c7c50efd1e6b9b5366a2"
     },
     {
       "id": "3c50bb3c47d9d3c094462b30e0e70f01",
@@ -99,14 +119,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "ddb98f7d69b9076a6e6ba543b56d8645",
+      "id": "f46acc7e28b05005a725fffdc60bc490",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live",
+      "title": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco; Spain v Belgium buildup; Jesus takes Portugal job – live",
       "summary": "<p>⚽ All the latest news as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a>| <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p>A 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter final win over Morocco, emergency services said Friday.</p><p>Celebrations erupted across France after the 2-0 win in the United States with hundreds dancing in the streets of Paris, watched by thousands of police on security duties.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live",
       "time": "2026-07-10",
-      "titleHash": "d06bdd487fda1015ad16945a1b550c4e"
+      "titleHash": "dd465b77095683947262e40b3da2a005"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
