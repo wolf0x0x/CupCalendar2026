@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-10T19:51:45.387Z",
+  "syncedAt": "2026-07-10T21:06:24.402Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1859,11 +1859,11 @@
       "time": "12:00",
       "home": "Spain",
       "away": "Belgium",
-      "homeScore": 1,
+      "homeScore": 2,
       "awayScore": 1,
-      "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "score": "2 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "16",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1907,7 +1907,7 @@
       "validation": "primary"
     },
     {
-      "id": "france-tbd-101",
+      "id": "france-spain-101",
       "sourceId": "101",
       "type": "sf",
       "group": "SF",
@@ -1915,7 +1915,7 @@
       "date": "2026-07-14",
       "time": "14:00",
       "home": "France",
-      "away": "TBD",
+      "away": "Spain",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
