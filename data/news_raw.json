@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T19:40:49.582Z",
+  "fetchedAt": "2026-07-10T22:10:39.522Z",
   "errors": [
     {
       "source": "FIFA",
@@ -97,16 +97,6 @@
       "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
-    },
-    {
-      "id": "9968a678518df461965ad1e36b1b356e",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Spain v Belgium: World Cup 2026 quarter-final – live",
-      "summary": "<p>⚽ Kick-off time: 12pm local/3pm EDT/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:billy.munday@theguardian.com\">Email Billy</a></p><p><em><strong>“I did my year abroad in Belgium and Germany in 2015/16,</strong> and my university in Germany had a big screen outside the canteen showing the Euros games,”</em> writes Harry Desmond. <em>“I have a vivid memory of being vastly outnumbered by Italy supporters during Belgium’s opening match. Since then, Les Diables Rouges have always been my favourites for tournaments after the UK teams.</em></p><p><em>“Other memories from that tournament included having to walk 3 miles home after Germany’s semi-final because the trams were too full, and cheering on Portugal in the final along with my Portuguese friends. It will probably always be my favourite football tournament, the communal/international experience is really something else.”</em></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/10/spain-v-belgium-world-cup-2026-quarter-final-live",
-      "time": "2026-07-10",
-      "titleHash": "88a755f6f6c0173c65c39cc72b03a236"
     },
     {
       "id": "80d4ed1e3c226afdeace08eab3d971a9",
