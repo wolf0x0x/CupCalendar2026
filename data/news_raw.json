@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-09T22:27:03.663Z",
+  "fetchedAt": "2026-07-10T03:51:58.549Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,59 +14,9 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-09",
+      "time": "2026-07-10",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "ae4dcd927a4dd4b6ca86767431477604",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "⚽ World Cup Golden Boot tracker: Messi leads",
-      "summary": "We're into the quarterfinals at the 2026 FIFA World Cup, and the race for the Golden Boot -- given to the tournament's top goal scorer -- is red-hot.",
-      "url": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
-      "time": "2026-07-09",
-      "titleHash": "83c37c11810fc3f53443a16e3b0a847a"
-    },
-    {
-      "id": "29074d294e9abca004db243d3c734de5",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily live: Mexico star Mora's high scho...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as the first day of the 2026 FIFA World Cup quarterfinals begin.",
-      "url": "https://www.espn.com/soccer/story/_/id/49309123/world-cup-daily-live-mexico-star-mora-high-school-graduation-france-morocco-quarterfinals",
-      "time": "2026-07-09",
-      "titleHash": "b06dd237772e4e886c5de0441cf059c3"
-    },
-    {
-      "id": "3842f3a9588ac3fee158a86b62dcf98e",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "After rejecting France, Bouaddi can end their Worl...",
-      "summary": "Ayyoub Bouaddi chose Morocco over France to ensure he'd play at the 2026 World Cup. Now the two teams collide in a 2022 semifinal rematch.",
-      "url": "https://www.espn.com/soccer/story/_/id/49308168/after-rejecting-france-bouaddi-end-their-world-cup-morocco",
-      "time": "2026-07-09",
-      "titleHash": "1374580ccd5a1fcf67117bebef2f910d"
-    },
-    {
-      "id": "222137c299b5f8c7a49a9cf9619c1311",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Marcotti's Mini World Cup Musings: Messi is supern...",
-      "summary": "After 28 days of games, Wednesday is the first rest day of the 2026 World Cup: the perfect opportunity to reflect on four weeks of fabulous football.",
-      "url": "https://www.espn.com/soccer/story/_/id/49307058/gabriele-marcotti-mini-world-cup-musings-lionel-messi-supernatural-usmnt-get-reality-check",
-      "time": "2026-07-09",
-      "titleHash": "66119ad0a6f23cbf6e57cf1e6ece98c3"
-    },
-    {
-      "id": "5daad95aece10e07d15c77e254adbb2f",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Best bets for the 2026 World Cup quarterfinal roun...",
-      "summary": "Looking to place some World Cup bets? Take a look at what our expert is considering ahead of the quarterfinal round.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/49298153/fifa-world-cup-betting-quarterfinal-round-best-bets-picks-odds-props-futures-2026",
-      "time": "2026-07-08",
-      "titleHash": "e8d8866c4911e87607273b2c8212d24b"
     },
     {
       "id": "08f0672773e35218ff6f09b655d37684",
@@ -117,16 +67,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-06",
       "titleHash": "aa945643c7bbce6ec1f128dbc2b5c5c0"
-    },
-    {
-      "id": "8aa380834f45b99854c15a210089cb48",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'This oxygen is spreading' - inside Morocco's mission to become a powerhouse",
-      "summary": "Morocco face France in the 2026 World Cup quarter-finals on Thursday as the Atlas Lions look to reach the last four once again.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cewqqxz4ye9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-09",
-      "titleHash": "24a5a80e0d89a86bc77d6ab09608bb76"
     },
     {
       "id": "80c93d19647531225db0a8339d788101",
