@@ -1,170 +1,128 @@
 [
   {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
     "lang": "es",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "dff4e4632f90d2e829664a3319565672",
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
+    "lang": "pt",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-11T13:39:07.609Z"
+  },
+  {
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
+    "lang": "fr",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-11T13:39:07.609Z"
+  },
+  {
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
+    "lang": "de",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-11T13:39:07.609Z"
+  },
+  {
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
+    "lang": "ja",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-11T13:39:07.609Z"
+  },
+  {
+    "hash": "62c992fe15d18e3000f5dd182c7e6597",
+    "lang": "zh",
+    "source": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Germany close on Klopp – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-11T13:39:07.609Z"
+  },
+  {
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "es",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
-    "lang": "pt",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "dff4e4632f90d2e829664a3319565672",
-    "lang": "pt",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
-    "lang": "fr",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "dff4e4632f90d2e829664a3319565672",
-    "lang": "fr",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
-    "lang": "de",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "dff4e4632f90d2e829664a3319565672",
-    "lang": "de",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
-    "lang": "ja",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "dff4e4632f90d2e829664a3319565672",
-    "lang": "ja",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "52e68c9d82e83866b572a23cd315294d",
-    "lang": "zh",
-    "source": "World Cup daily: Free England-Norway ticket for Er...",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "dff4e4632f90d2e829664a3319565672",
-    "lang": "zh",
-    "source": "Enjoy all the features, news, video analysis and color from around the 2026 FIFA World Cup as we have our final two quarterfinals.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "es",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
-    "lang": "es",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
-  },
-  {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "pt",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "pt",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "fr",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "fr",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "de",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "de",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "ja",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "ja",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "8d92d8b41c9e98d3a67ab341c7f1bb42",
+    "hash": "79d94fafe76a9823908834f07c8e3423",
     "lang": "zh",
-    "source": "World Cup 2026: Spain set up France semi-final, Kane’s round of golf with Trump, Norway v England buildup – live",
+    "source": "Tunnel vision: candid photos of World Cup 2026 stars",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   },
   {
-    "hash": "271b691cac7c8502f84dca7a84b23160",
+    "hash": "185e91ae1544eb005691f0dd8f4efeb8",
     "lang": "zh",
-    "source": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>The brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages.</strong> Look closely!</p><p><strong>More from Thomas Tuchel.</strong> Seize the day is his message.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+    "source": "<p>Footballers are known for their eclectic matchday rituals: Lionel Messi likes to drink maté with teammate Rodrigo De Paul at exactly 9.30am, while Harry Kane always dons the left side of his kit first. These candid photos show the 2026 World Cup’s elite players finalising their mental and physical preparations</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/tunnel-vision-candid-photos-of-world-cup-2026-stars\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-11T10:19:18.568Z"
+    "queued_at": "2026-07-11T13:39:07.609Z"
   }
 ]
