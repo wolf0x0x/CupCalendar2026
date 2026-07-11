@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T22:10:39.522Z",
+  "fetchedAt": "2026-07-11T03:18:14.461Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-10",
+      "time": "2026-07-11",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -27,6 +27,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-09",
       "titleHash": "42178907de6efdce59477062ece9836d"
+    },
+    {
+      "id": "f003eeaa74143b14b61ee72cfe38fa02",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "FIFA World Cup 2026",
+      "summary": "The origin story of France's newest superstar begins closer to home than you might think.",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-04",
+      "titleHash": "eeb3b0b489440b46985694c3094f2dbd"
     },
     {
       "id": "3341d99a8c0b1aa717282026e53afcbb",
