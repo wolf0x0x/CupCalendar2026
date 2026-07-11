@@ -5948,6 +5948,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-11",
+      "translations": {
+        "es": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "pt": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "fr": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "de": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "ja": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "zh": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "'Absolute perfection!' Mbappe fires France ahead against Morocco",
       "summary": "All the angles of Kylian Mbappe's opener for France against Morocco in the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&at_campaign=rss",
@@ -6078,40 +6112,6 @@
         "zh": {
           "title": "Fernandez header seals dramatic Argentina comeback",
           "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-      "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwy0eqq40y2o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-07",
-      "translations": {
-        "es": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "pt": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "fr": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "de": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "ja": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "zh": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-11T03:18:14.461Z",
-    "newsItems": 11,
-    "translationQueue": 12,
+    "fetchedAt": "2026-07-11T08:04:13.537Z",
+    "newsItems": 13,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",

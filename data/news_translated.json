@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-11T03:18:14.461Z",
+  "fetchedAt": "2026-07-11T08:04:13.537Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "ff48d89cf9e27ae52b9c07f6a89d15fd",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-11",
+      "titleHash": "55e73be019f033609cfa0b70332d3b08",
+      "translations": {
+        "es": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "pt": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "fr": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "de": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "ja": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+        },
+        "zh": {
+          "title": "All the goals from England's 2026 World Cup campaign so far",
+          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
         }
       }
     },
@@ -182,42 +218,6 @@
       }
     },
     {
-      "id": "19014839a0501e9dab4dc865c0d22043",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-      "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwy0eqq40y2o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-07",
-      "titleHash": "92c7e90ae65d0ea286faa033df59b20a",
-      "translations": {
-        "es": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "pt": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "fr": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "de": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "ja": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        },
-        "zh": {
-          "title": "Messi denied from penalty spot by 'brilliant' Shobeir save",
-          "summary": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta."
-        }
-      }
-    },
-    {
       "id": "3f5f73f8faed2f4e7014feb44e8bd377",
       "source": "BBC",
       "tag": "RSS",
@@ -358,6 +358,78 @@
         "zh": {
           "title": "What is the World Cup prize money?",
           "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "8a5f3ca8a203ac32b2961891fb80cdad",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+      "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live",
+      "time": "2026-07-11",
+      "titleHash": "baa7274cf56d9c1776cbe4700e113e09",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026: Spain v Belgium reaction, Kane confirms playing golf with Trump, Norway v England buildup – live",
+          "summary": "<p>⚽ All the latest updates as the quarter-finals continue<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Email us</a></p><p><strong>Emma Hayes says England need to be wary of Norway’s collective strength and unity rather than just focus on you know who.</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "5e270e3e64b40b9f2c57f5ee0347d8b4",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+      "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england",
+      "time": "2026-07-11",
+      "titleHash": "c5c104b4590890576d166bff6c24a700",
+      "translations": {
+        "es": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
+          "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
         }
       }
     },
