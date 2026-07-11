@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-11T22:50:10.840Z",
+  "syncedAt": "2026-07-11T23:55:45.627Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1879,10 +1879,10 @@
       "home": "Norway",
       "away": "England",
       "homeScore": 1,
-      "awayScore": 1,
-      "score": "1 - 1",
-      "status": "live",
-      "finished": false,
+      "awayScore": 2,
+      "score": "1 - 2",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "8",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1926,14 +1926,14 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-102",
+      "id": "england-tbd-102",
       "sourceId": "102",
       "type": "sf",
       "group": "SF",
       "matchday": "Matchday 7",
       "date": "2026-07-15",
       "time": "15:00",
-      "home": "TBD",
+      "home": "England",
       "away": "TBD",
       "homeScore": null,
       "awayScore": null,
