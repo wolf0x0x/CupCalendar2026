@@ -5946,6 +5946,40 @@
       }
     },
     {
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+      "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
+      "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
+      "time": "2026-07-12",
+      "translations": {
+        "es": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        },
+        "pt": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        },
+        "fr": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        },
+        "de": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        },
+        "ja": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        },
+        "zh": {
+          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
+          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
+        }
+      }
+    },
+    {
       "source": "BBC",
       "tag": "RSS",
       "title": "Senegal sack manager Thiaw in wake of World Cup exit",
@@ -6118,74 +6152,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Argentina make incredible late comeback to beat Egypt",
-      "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cd95wjv1nedo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-07",
-      "translations": {
-        "es": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        },
-        "de": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Argentina make incredible late comeback to beat Egypt",
-          "summary": "Argentina survive an almighty scare before delivering a scarcely believable second-half comeback to break Egypt hearts and reach the quarter-finals of the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Fernandez header seals dramatic Argentina comeback",
-      "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdjk02y8133o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-07",
-      "translations": {
-        "es": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Fernandez header seals dramatic Argentina comeback",
-          "summary": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "BBC expert Sutton's World Cup quarter-final predictions",
       "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
@@ -6250,6 +6216,40 @@
           "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How are the TV picks decided for the World Cup's round of 32?",
+      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "translations": {
+        "es": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "pt": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "fr": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "de": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "ja": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "zh": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6265,8 +6265,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-12T08:25:32.197Z",
-    "newsItems": 14,
+    "fetchedAt": "2026-07-12T10:38:10.992Z",
+    "newsItems": 13,
     "translationQueue": 24,
     "errors": [
       {
