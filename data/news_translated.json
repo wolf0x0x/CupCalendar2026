@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T16:03:05.212Z",
+  "fetchedAt": "2026-07-12T19:12:57.772Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,78 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "693a0ed1c6034d8e235ea9a7ac1007a7",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Get ready for the World Cup semifinals! What you n...",
-      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
-      "time": "2026-07-12",
-      "titleHash": "c92c1dfbd1b6c604d4ff66093f69dc18",
-      "translations": {
-        "es": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        },
-        "pt": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        },
-        "fr": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        },
-        "de": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        },
-        "ja": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        },
-        "zh": {
-          "title": "Get ready for the World Cup semifinals! What you n...",
-          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
-        }
-      }
-    },
-    {
-      "id": "7ee3a72d979bd5cfb3c19a8f5ba35c59",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-      "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
-      "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
-      "time": "2026-07-12",
-      "titleHash": "aa42516fee23d3e98f314ebed8eb10b8",
-      "translations": {
-        "es": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
-        },
-        "pt": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
-        },
-        "fr": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
-        },
-        "de": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
-        },
-        "ja": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
-        },
-        "zh": {
-          "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-          "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season."
         }
       }
     },
@@ -398,38 +326,38 @@
       }
     },
     {
-      "id": "118822c9c74e75d795ae1dde6a0b0590",
+      "id": "4cac74974b46fc3e1f13f85d28748357",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-      "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
+      "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+      "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
       "time": "2026-07-12",
-      "titleHash": "ec22dd9dfe09c8eb3f9ffec9c3c27303",
+      "titleHash": "c2a157bb4a995425785731619fc63268",
       "translations": {
         "es": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         },
         "pt": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         },
         "fr": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         },
         "de": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         },
         "ja": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         },
         "zh": {
-          "title": "World Cup 2026: England set up Argentina semi, Haaland’s father says Norway ‘robbed’, Senegal sack Thiaw – live",
-          "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:matchday.live@guardian.co.uk\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>"
+          "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
+          "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France has the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>"
         }
       }
     }
