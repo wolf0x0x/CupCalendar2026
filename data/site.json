@@ -5948,6 +5948,40 @@
     {
       "source": "ESPN",
       "tag": "RSS",
+      "title": "Get ready for the World Cup semifinals! What you n...",
+      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
+      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
+      "time": "2026-07-12",
+      "translations": {
+        "es": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "pt": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "fr": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "de": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "ja": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "zh": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        }
+      }
+    },
+    {
+      "source": "ESPN",
+      "tag": "RSS",
       "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
       "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
       "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
@@ -6118,40 +6152,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "FIFA World Cup 2026",
-      "summary": "The origin story of France's newest superstar begins closer to home than you might think.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "translations": {
-        "es": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "pt": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "fr": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "de": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "ja": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "zh": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "BBC expert Sutton's World Cup quarter-final predictions",
       "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the quarter-final ties at the 2026 World Cup, including England against Norway.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c15y1j32jxko?at_medium=RSS&at_campaign=rss",
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-12T10:38:10.992Z",
+    "fetchedAt": "2026-07-12T13:39:20.842Z",
     "newsItems": 13,
-    "translationQueue": 24,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",

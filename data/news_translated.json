@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T10:38:10.992Z",
+  "fetchedAt": "2026-07-12T13:39:20.842Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "693a0ed1c6034d8e235ea9a7ac1007a7",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Get ready for the World Cup semifinals! What you n...",
+      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
+      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
+      "time": "2026-07-12",
+      "titleHash": "c92c1dfbd1b6c604d4ff66093f69dc18",
+      "translations": {
+        "es": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "pt": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "fr": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "de": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "ja": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
+        },
+        "zh": {
+          "title": "Get ready for the World Cup semifinals! What you n...",
+          "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions."
         }
       }
     },
@@ -214,42 +250,6 @@
         "zh": {
           "title": "'Absolute perfection!' Mbappe fires France ahead against Morocco",
           "summary": "All the angles of Kylian Mbappe's opener for France against Morocco in the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "f003eeaa74143b14b61ee72cfe38fa02",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "FIFA World Cup 2026",
-      "summary": "The origin story of France's newest superstar begins closer to home than you might think.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "eeb3b0b489440b46985694c3094f2dbd",
-      "translations": {
-        "es": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "pt": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "fr": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "de": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "ja": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
-        },
-        "zh": {
-          "title": "FIFA World Cup 2026",
-          "summary": "The origin story of France's newest superstar begins closer to home than you might think."
         }
       }
     },

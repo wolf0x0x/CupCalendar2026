@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T10:38:10.992Z",
+  "fetchedAt": "2026-07-12T13:39:20.842Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-07-12",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "693a0ed1c6034d8e235ea9a7ac1007a7",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Get ready for the World Cup semifinals! What you n...",
+      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
+      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
+      "time": "2026-07-12",
+      "titleHash": "c92c1dfbd1b6c604d4ff66093f69dc18"
     },
     {
       "id": "7ee3a72d979bd5cfb3c19a8f5ba35c59",
@@ -67,16 +77,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-09",
       "titleHash": "42178907de6efdce59477062ece9836d"
-    },
-    {
-      "id": "f003eeaa74143b14b61ee72cfe38fa02",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "FIFA World Cup 2026",
-      "summary": "The origin story of France's newest superstar begins closer to home than you might think.",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m002z090?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-04",
-      "titleHash": "eeb3b0b489440b46985694c3094f2dbd"
     },
     {
       "id": "3f5f73f8faed2f4e7014feb44e8bd377",
