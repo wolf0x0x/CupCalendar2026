@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T03:29:59.386Z",
+  "fetchedAt": "2026-07-12T08:25:32.197Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-07-12",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "7059d2120ff8442ecc38f785724325a4",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Senegal sack manager Thiaw in wake of World Cup exit",
+      "summary": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-12",
+      "titleHash": "a50fd4321dd94a7562ad584f2bf6b459"
     },
     {
       "id": "67544d5d29956932ad48d8a861cc76a3",
@@ -119,14 +129,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "b5c16a88e5ffa45b7f5837855e7fce6d",
+      "id": "c01c6ccdfbfb223569365ad9cd5749fa",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
-      "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live",
+      "title": "World Cup 2026: England set up Argentina semi-final, Norway and Switzerland fume – live",
+      "summary": "<p><strong>⚽ </strong>All the latest as the quarter-finals conclude<strong><br>⚽ </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\"><strong>Player guide</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\"><strong>Bracketology</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\"><strong>Golden Boot</strong></a><strong> | </strong><a href=\"mailto:will.magee@theguardian.com\"><strong>Email us</strong></a></p><p>Sidebar, <em>Whatever</em> bears such a striking resemblance to Neil Innes’ <em>I’m Free to be an Idiot</em> that the former Monty Python collaborator received a songwriting credit and a share of the royalties in an out of court settlement.</p><p><a href=\"https://www.theguardian.com/football/2026/jul/04/wonderwall-england-world-cup-anthem\">Wonderwall might be the England team’s Oasis song of choice</a>, but surely they change it up to this more apposite (and far better imo) number.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
       "time": "2026-07-12",
-      "titleHash": "4722c492f0f307c1be12d85265894489"
+      "titleHash": "61cc492c60e41a51cc1f2c072db376dc"
     },
     {
       "id": "c5a80d05f446cce3ad1b30d5bd114c9a",
