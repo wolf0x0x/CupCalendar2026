@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T13:39:20.842Z",
+  "fetchedAt": "2026-07-12T16:03:05.212Z",
   "errors": [
     {
       "source": "FIFA",
@@ -127,16 +127,6 @@
       "url": "https://www.theguardian.com/football/live/2026/jul/12/world-cup-2026-reaction-england-norway-argentina-switzerland-live",
       "time": "2026-07-12",
       "titleHash": "ec22dd9dfe09c8eb3f9ffec9c3c27303"
-    },
-    {
-      "id": "c5a80d05f446cce3ad1b30d5bd114c9a",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
-      "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures",
-      "time": "2026-07-11",
-      "titleHash": "e699f1247848cf64d9a7365d3d38139e"
     }
   ]
 }
