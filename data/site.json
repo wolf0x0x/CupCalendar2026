@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-11",
+      "time": "2026-07-12",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5990,6 +5990,40 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Man of all the moments' - Bellingham gives England the lead",
+      "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-11",
+      "translations": {
+        "es": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+        },
+        "pt": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+        },
+        "fr": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+        },
+        "de": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+        },
+        "ja": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+        },
+        "zh": {
+          "title": "'Man of all the moments' - Bellingham gives England the lead",
+          "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
         }
       }
     },
@@ -6264,40 +6298,6 @@
           "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What is the World Cup prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "de": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-11T21:55:50.716Z",
-    "newsItems": 12,
-    "translationQueue": 6,
+    "fetchedAt": "2026-07-12T03:29:59.386Z",
+    "newsItems": 13,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",

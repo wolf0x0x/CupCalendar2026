@@ -5,7 +5,7 @@
     "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
     "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
     "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-    "time": "2026-07-11",
+    "time": "2026-07-12",
     "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
     "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
     "translations": {
@@ -32,6 +32,42 @@
       "zh": {
         "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
         "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+      }
+    }
+  },
+  {
+    "id": "67544d5d29956932ad48d8a861cc76a3",
+    "source": "BBC",
+    "tag": "RSS",
+    "title": "'Man of all the moments' - Bellingham gives England the lead",
+    "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss",
+    "time": "2026-07-11",
+    "titleHash": "1466d5a27132d462a48414c924abbf8b",
+    "translations": {
+      "es": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+      },
+      "pt": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+      },
+      "fr": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+      },
+      "de": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+      },
+      "ja": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+      },
+      "zh": {
+        "title": "'Man of all the moments' - Bellingham gives England the lead",
+        "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
       }
     }
   },
@@ -360,74 +396,74 @@
     }
   },
   {
-    "id": "391a70e3ad9efde712e9dc415457181d",
+    "id": "b5c16a88e5ffa45b7f5837855e7fce6d",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Norway v England: World Cup 2026 quarter-final – live",
-    "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live",
-    "time": "2026-07-11",
-    "titleHash": "c992a90551169f64a8e117ba24b8a3bf",
+    "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+    "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live",
+    "time": "2026-07-12",
+    "titleHash": "4722c492f0f307c1be12d85265894489",
     "translations": {
       "es": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "de": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Norway v England: World Cup 2026 quarter-final – live",
-        "summary": "<p>⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:scott.murray.casual@theguardian.com\">Mail Scott</a></p><p><strong>You won’t need reminding that tonight’s game could go to extra time and penalty kicks.</strong> So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …</p><p><strong>England have four players walking the disciplinary tightrope this evening.</strong> Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.)</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live\">Continue reading...</a>"
+        "title": "Argentina v Switzerland: World Cup 2026 quarter-final – live",
+        "summary": "<p>⚽️ World Cup kick-off: 8pm local time/2am BST/11am AEST<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report\">Norway 1-2 England (aet)</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:ella.brockway@theguardian.com\">Mail Ella</a></p><p>The winner of this Argentina v Switzerland match will face England in the semi-finals:</p><p>Lionel Scaloni has no changes from the Argentina XI that staged a remarkable fightback against Egypt in the last 16. To no one’s surprise, Lionel Messi starts in what will be his 205th appearance for the national side.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/11/argentina-v-switzerland-world-cup-2026-quarter-final-live\">Continue reading...</a>"
       }
     }
   },
   {
-    "id": "5e270e3e64b40b9f2c57f5ee0347d8b4",
+    "id": "c5a80d05f446cce3ad1b30d5bd114c9a",
     "source": "The Guardian",
     "tag": "RSS",
-    "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-    "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england",
+    "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+    "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>",
+    "url": "https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures",
     "time": "2026-07-11",
-    "titleHash": "c5c104b4590890576d166bff6c24a700",
+    "titleHash": "e699f1247848cf64d9a7365d3d38139e",
     "translations": {
       "es": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       },
       "pt": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       },
       "fr": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       },
       "de": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       },
       "ja": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       },
       "zh": {
-        "title": "Cold War Steve on … Erling Haaland’s high-street invasion for Norway v England",
-        "summary": "<p>The fourth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/11/cold-war-steve-erling-haaland-high-street-invasion-norway-v-england\">Continue reading...</a>"
+        "title": "World Cup 2026: England edge Norway in quarter-final – in pictures",
+        "summary": "<p>All the best images from Miami Stadium as England come from behind to beat Norway and reach the World Cup semi-finals</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/11/world-cup-2026-norway-v-england-in-pictures\">Continue reading...</a>"
       }
     }
   }
