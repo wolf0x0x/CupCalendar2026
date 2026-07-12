@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-12T03:14:58.530Z",
+  "syncedAt": "2026-07-12T06:14:58.212Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1897,11 +1897,11 @@
       "time": "20:00",
       "home": "Argentina",
       "away": "Switzerland",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
-      "finished": false,
+      "homeScore": 3,
+      "awayScore": 1,
+      "score": "3 - 1",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "6",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
@@ -1926,7 +1926,7 @@
       "validation": "primary"
     },
     {
-      "id": "england-tbd-102",
+      "id": "england-argentina-102",
       "sourceId": "102",
       "type": "sf",
       "group": "SF",
@@ -1934,7 +1934,7 @@
       "date": "2026-07-15",
       "time": "15:00",
       "home": "England",
-      "away": "TBD",
+      "away": "Argentina",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
