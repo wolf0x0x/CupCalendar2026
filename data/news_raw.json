@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-12T21:56:59.677Z",
+  "fetchedAt": "2026-07-13T03:32:47.294Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,39 +14,9 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-12",
+      "time": "2026-07-13",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "693a0ed1c6034d8e235ea9a7ac1007a7",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Get ready for the World Cup semifinals! What you n...",
-      "summary": "With only a week to go until the final of the 2026 FIFA World Cup, there are now just four teams still harboring dreams of becoming world champions.",
-      "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
-      "time": "2026-07-12",
-      "titleHash": "c92c1dfbd1b6c604d4ff66093f69dc18"
-    },
-    {
-      "id": "7ee3a72d979bd5cfb3c19a8f5ba35c59",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Breakout stars of the 2026 World Cup: Diomande, Freeman, Manzambi, more",
-      "summary": "The 2026 World Cup will be remembered for how all the superstars showed up and dominated, but we've also had a few young talents breaking though. Here are four of the best we'll remember going into the 2026-27 season.",
-      "url": "https://www.espn.com/soccer/story/_/id/49308560/world-cup-breakout-stars-diomande-freeman-manzambi-puerta",
-      "time": "2026-07-12",
-      "titleHash": "aa42516fee23d3e98f314ebed8eb10b8"
-    },
-    {
-      "id": "f1402e391cb87e03481b490cac8c966b",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Odds to win the World Cup: France to semis, Spain ...",
-      "summary": "Updated odds for the remaining teams to advance to the final and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-07-12",
-      "titleHash": "5aac1d59622e0b8cfbbc229aea7584a0"
     },
     {
       "id": "ff48d89cf9e27ae52b9c07f6a89d15fd",
