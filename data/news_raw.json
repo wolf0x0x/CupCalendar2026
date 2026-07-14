@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-13T22:00:42.377Z",
+  "fetchedAt": "2026-07-14T02:54:31.629Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-13",
+      "time": "2026-07-14",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -107,16 +107,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/13/rodri-interview-spain-captain-world-cup-2026",
       "time": "2026-07-13",
       "titleHash": "01fde7d07f3db71dfe6b98ddaf7b2ce7"
-    },
-    {
-      "id": "4cac74974b46fc3e1f13f85d28748357",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?",
-      "summary": "<p>We assess the teams who played in the last eight as the business end of the tournament approaches</p><p>Didier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is clear everyone is afraid of Les Bleus, which is understandable, and they are using it to their advantage. It is admirable how teams keep France quiet for lengthy periods but the game is too long to completely silence Kylian Mbappé and Ousmane Dembélé. Against Morocco an hour of patience was required but these forwards are used to it and <a href=\"https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report\">Mbappé produced the magic</a> that has powered this run, following it up with an assist. In a tournament defined by individuals, France have the best of a talented bunch.</p> <a href=\"https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina",
-      "time": "2026-07-12",
-      "titleHash": "c2a157bb4a995425785731619fc63268"
     }
   ]
 }
