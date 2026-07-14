@@ -6307,7 +6307,7 @@
   "dataSource": {
     "provider": "worldcup26.ir",
     "apiBase": "https://worldcup26.ir",
-    "fetchedAt": "2026-07-14T21:01:54.744Z",
+    "fetchedAt": "2026-07-14T22:12:24.772Z",
     "mode": "scores-and-standings",
     "note": "CupCalendar applies live match status, scores, and computed standings into data/site.json so the static site rebuild reflects current tournament data."
   },
