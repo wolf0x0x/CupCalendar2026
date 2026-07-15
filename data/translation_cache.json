@@ -1,30 +1,4 @@
 {
-  "dbf4bb8c7c2c08d92b6874c40f8970fe": {
-    "hash": "dbf4bb8c7c2c08d92b6874c40f8970fe",
-    "source": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-    "translations": {
-      "es": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "pt": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "fr": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "de": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "ja": "The World Cup is bigger than ever - and BBC Sport has an app to match",
-      "zh": "The World Cup is bigger than ever - and BBC Sport has an app to match"
-    },
-    "last_used": "2026-06-15T11:54:53.316Z"
-  },
-  "c81406e9f245bb7e85b2e7f7e508edcf": {
-    "hash": "c81406e9f245bb7e85b2e7f7e508edcf",
-    "source": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-    "translations": {
-      "es": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "pt": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "fr": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "de": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "ja": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026",
-      "zh": "BBC Sport are launching a new, improved app experience for the Fifa World Cup 2026"
-    },
-    "last_used": "2026-06-15T11:54:53.316Z"
-  },
   "8401ad9e494fcc7a534ed934f38e4694": {
     "hash": "8401ad9e494fcc7a534ed934f38e4694",
     "source": "Any early shocks? Sutton's World Cup 2026 score predictions - opening group games",
@@ -140,7 +114,7 @@
       "ja": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "zh": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "883ca6cc749296192c28995e1b0d5cf1": {
     "hash": "883ca6cc749296192c28995e1b0d5cf1",
@@ -153,7 +127,7 @@
       "ja": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "zh": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "9a9f4950ae830ad0bbeb98f15335dcb7": {
     "hash": "9a9f4950ae830ad0bbeb98f15335dcb7",
@@ -270,7 +244,7 @@
       "ja": "World Cup 2026: guide to all 1,248 players",
       "zh": "World Cup 2026: guide to all 1,248 players"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "a3cf1805ae6a04a56d719f97dfab295a": {
     "hash": "a3cf1805ae6a04a56d719f97dfab295a",
@@ -283,7 +257,7 @@
       "ja": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
       "zh": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "702dd0d633be2b834d99f025a779f625": {
     "hash": "702dd0d633be2b834d99f025a779f625",
@@ -441,32 +415,6 @@
     },
     "last_used": "2026-06-15T19:06:34.289Z"
   },
-  "4ba85f2776eabf3c433f59566a7d90c0": {
-    "hash": "4ba85f2776eabf3c433f59566a7d90c0",
-    "source": "What you need to know about Spain's opponents Cape Verde",
-    "translations": {
-      "es": "What you need to know about Spain's opponents Cape Verde",
-      "pt": "What you need to know about Spain's opponents Cape Verde",
-      "fr": "What you need to know about Spain's opponents Cape Verde",
-      "de": "What you need to know about Spain's opponents Cape Verde",
-      "ja": "What you need to know about Spain's opponents Cape Verde",
-      "zh": "What you need to know about Spain's opponents Cape Verde"
-    },
-    "last_used": "2026-06-15T11:54:53.317Z"
-  },
-  "5f993d9b958140d34c84c559c2e65580": {
-    "hash": "5f993d9b958140d34c84c559c2e65580",
-    "source": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-    "translations": {
-      "es": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "pt": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "fr": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "de": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "ja": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde.",
-      "zh": "Get the lowdown on every team at the 2026 World Cup. Here we take a closer look at debutants Cape Verde."
-    },
-    "last_used": "2026-06-15T11:54:53.317Z"
-  },
   "7c582789d095e43697d6dc6dda67a6b2": {
     "hash": "7c582789d095e43697d6dc6dda67a6b2",
     "source": "How to watch highlights of World Cup matches?",
@@ -531,19 +479,6 @@
       "zh": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live"
     },
     "last_used": "2026-06-15T14:57:22.359Z"
-  },
-  "f4f45f4108026bf316b87570226bf1a3": {
-    "hash": "f4f45f4108026bf316b87570226bf1a3",
-    "source": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-    "translations": {
-      "es": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-      "pt": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-      "fr": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-      "de": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-      "ja": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>",
-      "zh": "<ul><li><p>⚽️ <a href=\"https://www.theguardian.com/football/2026/jun/15/iran-world-cup-mehdi-taremi-amir-ghalenoei-fifa-tension-peace-deal\">Iran’s Taremi says tension ‘undermines joy’</a></p></li><li><p>⚽️ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/bracketology-predict-a-path-to-world-cup-victory\">Bracketology</a> | <a href=\"https://www.theguardian.com/football/picture/2026/jun/05/world-cup-2026-wallchart-print-out-your-own-here\">Wallchart</a> | <a href=\"mailto:martin.belam@guardian.co.uk\">Mail Martin</a><br></p></li></ul><p><strong>Sometimes a team needs a player</strong> to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:</p><p>I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.</p><p>I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him.</p> <a href=\"https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live\">Continue reading...</a>"
-    },
-    "last_used": "2026-06-15T11:54:53.318Z"
   },
   "838079eb354d370534ad41fdd51c2ef0": {
     "hash": "838079eb354d370534ad41fdd51c2ef0",
@@ -4235,7 +4170,7 @@
       "ja": "Who has been eliminated from the World Cup?",
       "zh": "Who has been eliminated from the World Cup?"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "d9f674fc5f7cf93c38a2a428eeb7031e": {
     "hash": "d9f674fc5f7cf93c38a2a428eeb7031e",
@@ -4248,7 +4183,7 @@
       "ja": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "zh": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "aec3a5a985efc0773af01b9f902c4a36": {
     "hash": "aec3a5a985efc0773af01b9f902c4a36",
@@ -5184,7 +5119,7 @@
       "ja": "How are the TV picks decided for the World Cup's round of 32?",
       "zh": "How are the TV picks decided for the World Cup's round of 32?"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "01fb2084ec78bcd6963c140dcb9427cc": {
     "hash": "01fb2084ec78bcd6963c140dcb9427cc",
@@ -5197,7 +5132,7 @@
       "ja": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
       "zh": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "fead09dcbd6087594f9d4b3913ea273f": {
     "hash": "fead09dcbd6087594f9d4b3913ea273f",
@@ -6809,7 +6744,7 @@
       "ja": "What is the World Cup prize money?",
       "zh": "What is the World Cup prize money?"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "38a7bd1b04b134c627049b1afe7d72c6": {
     "hash": "38a7bd1b04b134c627049b1afe7d72c6",
@@ -6822,7 +6757,7 @@
       "ja": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
       "zh": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "8cb10905e4f8df79d530f5f865e9996a": {
     "hash": "8cb10905e4f8df79d530f5f865e9996a",
@@ -9175,7 +9110,7 @@
       "ja": "All the goals from England's 2026 World Cup campaign so far",
       "zh": "All the goals from England's 2026 World Cup campaign so far"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "e4449330dcdb10b8ce6177261675e76b": {
     "hash": "e4449330dcdb10b8ce6177261675e76b",
@@ -9188,7 +9123,7 @@
       "ja": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
       "zh": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "d315200c3d067002e99da7eb7fff9e7c": {
     "hash": "d315200c3d067002e99da7eb7fff9e7c",
@@ -9708,7 +9643,7 @@
       "ja": "Chris Sutton's World Cup semi-final predictions",
       "zh": "Chris Sutton's World Cup semi-final predictions"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "6ca3f602e35e4a5e43c160b4ecdacc5b": {
     "hash": "6ca3f602e35e4a5e43c160b4ecdacc5b",
@@ -9721,7 +9656,7 @@
       "ja": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup.",
       "zh": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "a991fc227bb80563fb81cc7e61e89744": {
     "hash": "a991fc227bb80563fb81cc7e61e89744",
@@ -9916,7 +9851,7 @@
       "ja": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain.",
       "zh": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "ddc79da5548371fcaca7e675119ad66e": {
     "hash": "ddc79da5548371fcaca7e675119ad66e",
@@ -9929,7 +9864,7 @@
       "ja": "Spain's road to semi-final - every goal so far",
       "zh": "Spain's road to semi-final - every goal so far"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "ddc7475ab7faecf15435ccbeeb401463": {
     "hash": "ddc7475ab7faecf15435ccbeeb401463",
@@ -9942,7 +9877,7 @@
       "ja": "Relive every goal Spain have scored on their way to the 2026 World Cup semi-finals, where a thrilling meeting with France at Dallas Stadium awaits.",
       "zh": "Relive every goal Spain have scored on their way to the 2026 World Cup semi-finals, where a thrilling meeting with France at Dallas Stadium awaits."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "c2e95c7d93483358b03d6b2afc0e738f": {
     "hash": "c2e95c7d93483358b03d6b2afc0e738f",
@@ -9955,7 +9890,7 @@
       "ja": "All the goals from France's run to semi-finals",
       "zh": "All the goals from France's run to semi-finals"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "38df6f831ced44b63be370b2191d28f8": {
     "hash": "38df6f831ced44b63be370b2191d28f8",
@@ -10163,7 +10098,7 @@
       "ja": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
       "zh": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "a046c1272af55f863217c0c2b984bf58": {
     "hash": "a046c1272af55f863217c0c2b984bf58",
@@ -10176,7 +10111,7 @@
       "ja": "Porro doubles Spain's lead over France",
       "zh": "Porro doubles Spain's lead over France"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "8014222791e511267041f1edc29e6e4d": {
     "hash": "8014222791e511267041f1edc29e6e4d",
@@ -10189,7 +10124,7 @@
       "ja": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup.",
       "zh": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "6e8e9854ff97ad9ab7501e887245efa1": {
     "hash": "6e8e9854ff97ad9ab7501e887245efa1",
@@ -10202,7 +10137,7 @@
       "ja": "A special team beats brilliant individuals - how silky Spain flattened France",
       "zh": "A special team beats brilliant individuals - how silky Spain flattened France"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "6a3a3a85f51fb6f1dee1d89c0bbd3dde": {
     "hash": "6a3a3a85f51fb6f1dee1d89c0bbd3dde",
@@ -10215,7 +10150,7 @@
       "ja": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
       "zh": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "7186e096b9a7a63f414cfb941f124dd3": {
     "hash": "7186e096b9a7a63f414cfb941f124dd3",
@@ -10228,7 +10163,7 @@
       "ja": "Spain into World Cup final with victory over France",
       "zh": "Spain into World Cup final with victory over France"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "e160791f031e23a693f00c8634f76511": {
     "hash": "e160791f031e23a693f00c8634f76511",
@@ -10241,7 +10176,7 @@
       "ja": "All of Argentina's goals from the World Cup so far",
       "zh": "All of Argentina's goals from the World Cup so far"
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "6a1a5b2e5b7ba83e5b6f3b9335494461": {
     "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
@@ -10254,7 +10189,7 @@
       "ja": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
       "zh": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
     },
-    "last_used": "2026-07-15T10:55:42.491Z"
+    "last_used": "2026-07-15T13:54:07.887Z"
   },
   "bf5cde21907758b9506504a7839dee19": {
     "hash": "bf5cde21907758b9506504a7839dee19",
@@ -10424,5 +10359,31 @@
       "zh": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>"
     },
     "last_used": "2026-07-15T10:55:42.491Z"
+  },
+  "cfd9aff05fd8e35cf19a90a2752e886d": {
+    "hash": "cfd9aff05fd8e35cf19a90a2752e886d",
+    "source": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+    "translations": {
+      "es": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+      "pt": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+      "fr": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+      "de": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+      "ja": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live",
+      "zh": "World Cup 2026: England v Argentina buildup, Spain stun listless France to reach final – live"
+    },
+    "last_used": "2026-07-15T13:54:07.887Z"
+  },
+  "fcf86b601bcdae6ccefd2f4fd308ff02": {
+    "hash": "fcf86b601bcdae6ccefd2f4fd308ff02",
+    "source": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+    "translations": {
+      "es": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+      "pt": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+      "fr": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+      "de": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+      "ja": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>",
+      "zh": "<p>⚽ All the latest news from a huge World Cup Wednesday<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/14/france-spain-world-cup-semi-final-match-report\">Spain reach final</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:taha.hashim@theguardian.com\">Mail us</a></p><p><strong>Over the next three hours – and when I’m subbed off thereafter – we’ll reflect on France 0-2 Spain</strong>, and look forward to England v Argentina. England v Argentina in the semi-finals of the World Cup, oh my complete and utter <s>daze</s> days.</p><p><strong>Greetings one and all. </strong>Anyone got any plans for later?</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/world-cup-2026-spain-stun-listless-france-to-reach-final-england-v-argentina-buildup-live\">Continue reading...</a>"
+    },
+    "last_used": "2026-07-15T13:54:07.887Z"
   }
 }
