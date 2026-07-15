@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T16:27:16.140Z",
+  "fetchedAt": "2026-07-15T19:20:09.859Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,76 +17,6 @@
       "time": "2026-07-15",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "0d68d71f1e44d6c5eef5dd49dcdf3a3c",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
-      "summary": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss",
-      "time": "2026-07-15",
-      "titleHash": "01ff3aedd5c9a69de10672a2d8044b86"
-    },
-    {
-      "id": "5179a21403954cb66dc03be743f2ded7",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Scaloni: Argentina 'not as bad' as some people say...",
-      "summary": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
-      "url": "https://www.espn.com/soccer/story/_/id/49363588/argentina-playing-bad-people-say",
-      "time": "2026-07-15",
-      "titleHash": "f6a16b415916d2005c9a0f8ae958c954"
-    },
-    {
-      "id": "bd191becb81d96242621803bd90e048c",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "📈 World Cup stock watch: Who has impressed?",
-      "summary": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
-      "url": "https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled",
-      "time": "2026-07-15",
-      "titleHash": "2b52210708a3391fa52058398e079095"
-    },
-    {
-      "id": "a5e5004df5019873042cd913e1d8e899",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup favorites France unravel as Spain book s...",
-      "summary": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
-      "url": "https://www.espn.com/soccer/story/_/id/49361910/world-cup-favorites-france-unravel-spain-book-spot-final-ease",
-      "time": "2026-07-15",
-      "titleHash": "21d0dfb9c858127abc6d484c2921f9d3"
-    },
-    {
-      "id": "d14f800bf081d23130f33c7b9104f303",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "World Cup Daily live: Argentina fans take over Atl...",
-      "summary": "Enjoy all the features, news, video analysis and color from around the competition as England and Argentina battle for a place in the 2026 FIFA World Cup final.",
-      "url": "https://www.espn.com/soccer/story/_/id/49363385/world-cup-daily-live-argentina-fans-take-atlanta-england-game-spain-celebrates-reaching-final",
-      "time": "2026-07-15",
-      "titleHash": "987e05ed3ce0f5280f44f88c67b0b08f"
-    },
-    {
-      "id": "c4271a55920bed5996adad165668e2ab",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Odds to win the World Cup: Spain new World Cup fav...",
-      "summary": "Updated odds for the remaining teams to advance to the final and to win the 2026 World Cup.",
-      "url": "https://www.espn.com/espn/betting/story/_/id/48386952/espn-soccer-futbol-world-cup-betting-odds-championship-groups",
-      "time": "2026-07-15",
-      "titleHash": "a9beec6c2764dd80733db5e3fb848f28"
-    },
-    {
-      "id": "456b6da9e1cfce86fa1956f029e09152",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "70153ed655e7d04442c379236f142c55"
     },
     {
       "id": "a483450b1dce20b4657d6dd9c3af5378",
@@ -109,14 +39,14 @@
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
-      "id": "0fcf316a7cd2ac388a1c904ce937cc7f",
+      "id": "456b6da9e1cfce86fa1956f029e09152",
       "source": "BBC",
       "tag": "RSS",
-      "title": "All of Argentina's goals from the World Cup so far",
-      "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno?at_medium=RSS&at_campaign=rss",
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
-      "titleHash": "287ace9f273d4838d3975fbe069f13e2"
+      "titleHash": "70153ed655e7d04442c379236f142c55"
     },
     {
       "id": "65645d90933a5acf0ed021f35da3b727",
@@ -127,6 +57,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-13",
       "titleHash": "118935c82976cbac56936a6e7c70d7d2"
+    },
+    {
+      "id": "0fcf316a7cd2ac388a1c904ce937cc7f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "All of Argentina's goals from the World Cup so far",
+      "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "287ace9f273d4838d3975fbe069f13e2"
     },
     {
       "id": "17b7844e462d01ef28d3117ad24a479f",
@@ -193,20 +133,10 @@
       "source": "The Guardian",
       "tag": "RSS",
       "title": "England v Argentina: World Cup 2026 semi-final – live",
-      "summary": "<p>⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">And get Football Daily</a></p><p><strong>Wednesday night, Atlanta Stadium, 101 games down, three left to play, and finally it makes sense.</strong> Bring on The Countdown, that moment just before kick-off in every one of those quietly fascinating <a href=\"https://www.theguardian.com/football/world-cup-football\">World Cup</a> matches where suddenly the world’s most excited man is bellowing over the PA system in a state of outraged, crowing transport, like the last voice you’ll ever hear before the American century explodes in a ball of inanity, fried chicken and porn.</p><p>“NAYYYN!! EEEIGHYYT!! SEEEVEERRN!! …” the world’s most excited man shouts, prelude to some cautious rolling possession, maybe an early back-pass, and an agreeable reminder that the game itself will not be stage managed. You want quiet bathos? This World Cup will deliver the greatest goddam quiet bathos the galaxy has ever seen.</p><p>England are in their first men’s World Cup final since 1966.</p><p>Argentina are one game away from becoming the first team to retain the men’s World Cup since Brazil in 1962.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live\">Continue reading...</a>",
+      "summary": "<p>⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">And get Football Daily</a></p><p><strong>England’s defenders will face an extreme challenge when they come up against <a href=\"https://www.theguardian.com/football/lionel-messi\">Lionel Messi</a> in their World Cup semi-final.</strong> It is not just that he is the greatest player of all time but the almost unique way in which he plays.</p><p>The 39-year-old is renowned for ambling around for much of a game, saving his energy for when truly required. It makes him incredibly difficult to defend against. Messi finds pockets of space that appear harmless when the ball is not in his orbit, but he springs to life when an opportunity to produce presents itself.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live",
       "time": "2026-07-15",
       "titleHash": "d06d7e23877f263d6ef28578030d3ea8"
-    },
-    {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-07-02",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     }
   ]
 }
