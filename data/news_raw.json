@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T19:20:09.859Z",
+  "fetchedAt": "2026-07-15T22:06:30.487Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,46 @@
       "time": "2026-07-15",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "b22550a42eb44bb98eaa0e88c22cf44c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Fernandez fires in equaliser for Argentina",
+      "summary": "Enzo Fernandez equalises for Argentina against England in the 2026 World Cup semi final at the Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "e627d4424d8b3cc7d1e5c82cc54e4c05"
+    },
+    {
+      "id": "78ea482c98a30d0df37c6f042d4acb68",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Gordon puts England ahead against Argentina",
+      "summary": "Anthony Gordon puts England 1-0 up against Argentina in the 2026 World Cup semi-final at the Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c07re9rxd29o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "41d24082e8fe21eb35b1719a41e592c8"
+    },
+    {
+      "id": "bccb3decb7fde1dcb86cadbe32ef647b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "England and Argentina national anthems drowned out",
+      "summary": "Both England and Argentina's national anthems are drowned out by crowd noise, before the teams kick off their 2026 World Cup semi-final at the Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c04yw0dz035o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "9db4b9b1939062578fe23b09692e34c8"
+    },
+    {
+      "id": "456b6da9e1cfce86fa1956f029e09152",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "70153ed655e7d04442c379236f142c55"
     },
     {
       "id": "a483450b1dce20b4657d6dd9c3af5378",
@@ -37,26 +77,6 @@
       "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
-    },
-    {
-      "id": "456b6da9e1cfce86fa1956f029e09152",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "70153ed655e7d04442c379236f142c55"
-    },
-    {
-      "id": "65645d90933a5acf0ed021f35da3b727",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Chris Sutton's World Cup semi-final predictions",
-      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-13",
-      "titleHash": "118935c82976cbac56936a6e7c70d7d2"
     },
     {
       "id": "0fcf316a7cd2ac388a1c904ce937cc7f",
@@ -89,16 +109,6 @@
       "titleHash": "0508dfda25f4ddf2e84de95242b9c006"
     },
     {
-      "id": "ff556e04948313915c573243e667c531",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Spain's road to semi-final - every goal so far",
-      "summary": "Relive every goal Spain have scored on their way to the 2026 World Cup semi-finals, where a thrilling meeting with France at Dallas Stadium awaits.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clye4yej26zo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
-      "titleHash": "936e424e3a6c7bd8925c2f088714b961"
-    },
-    {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
       "source": "BBC",
       "tag": "RSS",
@@ -129,14 +139,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "19af3b7be6422e4e6b4f4e7034520a6f",
+      "id": "7dbc5158cf83b612f77e869a437d6aa5",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "England v Argentina: World Cup 2026 semi-final – live",
-      "summary": "<p>⚽ Kick-off in Atlanta is 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">And get Football Daily</a></p><p><strong>England’s defenders will face an extreme challenge when they come up against <a href=\"https://www.theguardian.com/football/lionel-messi\">Lionel Messi</a> in their World Cup semi-final.</strong> It is not just that he is the greatest player of all time but the almost unique way in which he plays.</p><p>The 39-year-old is renowned for ambling around for much of a game, saving his energy for when truly required. It makes him incredibly difficult to defend against. Messi finds pockets of space that appear harmless when the ball is not in his orbit, but he springs to life when an opportunity to produce presents itself.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live\">Continue reading...</a>",
+      "title": "England 1-2 Argentina: World Cup 2026 semi-final – live reaction",
+      "summary": "<p>⚽ Dramatic late goals set up World Cup final with Spain<br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/15/world-cup-2026-england-argentina-semi-final-in-pictures\">The semi-final – in pictures</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a></p><p><strong>England’s defenders will face an extreme challenge when they come up against <a href=\"https://www.theguardian.com/football/lionel-messi\">Lionel Messi</a> in their World Cup semi-final.</strong> It is not just that he is the greatest player of all time but the almost unique way in which he plays.</p><p>The 39-year-old is renowned for ambling around for much of a game, saving his energy for when truly required. It makes him incredibly difficult to defend against. Messi finds pockets of space that appear harmless when the ball is not in his orbit, but he springs to life when an opportunity to produce presents itself.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live",
       "time": "2026-07-15",
-      "titleHash": "d06d7e23877f263d6ef28578030d3ea8"
+      "titleHash": "81ea56f16db5ba44b5af690fdbf346b6"
     }
   ]
 }
