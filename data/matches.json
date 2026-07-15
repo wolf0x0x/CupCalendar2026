@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-15T18:37:44.249Z",
+  "syncedAt": "2026-07-15T19:51:26.348Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1935,10 +1935,10 @@
       "time": "15:00",
       "home": "England",
       "away": "Argentina",
-      "homeScore": null,
-      "awayScore": null,
-      "score": "- : -",
-      "status": "notstarted",
+      "homeScore": 0,
+      "awayScore": 0,
+      "score": "0 - 0",
+      "status": "live",
       "finished": false,
       "stadiumId": "7",
       "dataSource": "worldcup26.ir",
