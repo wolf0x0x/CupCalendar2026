@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T02:52:46.338Z",
+  "fetchedAt": "2026-07-15T05:37:32.881Z",
   "errors": [
     {
       "source": "FIFA",
@@ -29,14 +29,34 @@
       "titleHash": "70153ed655e7d04442c379236f142c55"
     },
     {
-      "id": "fd8f23d6c0d84f0bfe03a8c0b4443adf",
+      "id": "a483450b1dce20b4657d6dd9c3af5378",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Spain into World Cup final after victory over France",
+      "title": "Spain into World Cup final with victory over France",
       "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-14",
-      "titleHash": "76f4436f7c8bb463b2520ab8966f3844"
+      "titleHash": "10b17e760f067d8282c99f8e9c41f810"
+    },
+    {
+      "id": "ff48d89cf9e27ae52b9c07f6a89d15fd",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "All the goals from England's 2026 World Cup campaign so far",
+      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "55e73be019f033609cfa0b70332d3b08"
+    },
+    {
+      "id": "0fcf316a7cd2ac388a1c904ce937cc7f",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "All of Argentina's goals from the World Cup so far",
+      "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "287ace9f273d4838d3975fbe069f13e2"
     },
     {
       "id": "17b7844e462d01ef28d3117ad24a479f",
@@ -67,16 +87,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/clye4yej26zo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-14",
       "titleHash": "936e424e3a6c7bd8925c2f088714b961"
-    },
-    {
-      "id": "ff48d89cf9e27ae52b9c07f6a89d15fd",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "All the goals from England's 2026 World Cup campaign so far",
-      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
-      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-11",
-      "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
       "id": "65645d90933a5acf0ed021f35da3b727",
