@@ -1,6 +1,6 @@
 {
   "source": "https://worldcup26.ir",
-  "fetchedAt": "2026-07-15T19:45:17.696Z",
+  "fetchedAt": "2026-07-15T21:00:55.455Z",
   "games": [
     {
       "_id": "679c9c8a5749c4077500e001",
@@ -2446,10 +2446,10 @@
       "id": "102",
       "home_team_id": "45",
       "away_team_id": "37",
-      "home_score": "0",
-      "away_score": "0",
-      "home_scorers": "null",
-      "away_scorers": "null",
+      "home_score": "1",
+      "away_score": "2",
+      "home_scorers": "{\"Antvni Gvrdvn 55'\"}",
+      "away_scorers": "{\"Enzo Fernández 85'\",\"Lautaro Martínez 90+2'\"}",
       "group": "SF",
       "matchday": "7",
       "local_date": "07/15/2026 15:00",
