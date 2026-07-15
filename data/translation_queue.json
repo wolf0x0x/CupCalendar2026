@@ -1,128 +1,464 @@
 [
   {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
+    "hash": "bf5cde21907758b9506504a7839dee19",
     "lang": "es",
-    "source": "Spain into World Cup final with victory over France",
+    "source": "World Cup favorites France unravel as Spain book s...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
-    "lang": "pt",
-    "source": "Spain into World Cup final with victory over France",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
-  },
-  {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
-    "lang": "fr",
-    "source": "Spain into World Cup final with victory over France",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
-  },
-  {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
-    "lang": "de",
-    "source": "Spain into World Cup final with victory over France",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
-  },
-  {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
-    "lang": "ja",
-    "source": "Spain into World Cup final with victory over France",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
-  },
-  {
-    "hash": "7186e096b9a7a63f414cfb941f124dd3",
-    "lang": "zh",
-    "source": "Spain into World Cup final with victory over France",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
-  },
-  {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "9a96ab76114cf823922927def29153ae",
     "lang": "es",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "bf5cde21907758b9506504a7839dee19",
+    "lang": "pt",
+    "source": "World Cup favorites France unravel as Spain book s...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9a96ab76114cf823922927def29153ae",
+    "lang": "pt",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "bf5cde21907758b9506504a7839dee19",
+    "lang": "fr",
+    "source": "World Cup favorites France unravel as Spain book s...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9a96ab76114cf823922927def29153ae",
+    "lang": "fr",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "bf5cde21907758b9506504a7839dee19",
+    "lang": "de",
+    "source": "World Cup favorites France unravel as Spain book s...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9a96ab76114cf823922927def29153ae",
+    "lang": "de",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "bf5cde21907758b9506504a7839dee19",
+    "lang": "ja",
+    "source": "World Cup favorites France unravel as Spain book s...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9a96ab76114cf823922927def29153ae",
+    "lang": "ja",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "bf5cde21907758b9506504a7839dee19",
+    "lang": "zh",
+    "source": "World Cup favorites France unravel as Spain book s...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9a96ab76114cf823922927def29153ae",
+    "lang": "zh",
+    "source": "Spain have sealed their place in the 2026 World Cup final, but why did France collapse so easily?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "es",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
+    "lang": "es",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "pt",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
     "lang": "pt",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "fr",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
     "lang": "fr",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "de",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
     "lang": "de",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "ja",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
     "lang": "ja",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "e160791f031e23a693f00c8634f76511",
+    "hash": "efbaf827f0d1496ff33f357aadb37b15",
     "lang": "zh",
-    "source": "All of Argentina's goals from the World Cup so far",
+    "source": "Mbappé critical of tactics in loss by 'sloppy' Fra...",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
   },
   {
-    "hash": "6a1a5b2e5b7ba83e5b6f3b9335494461",
+    "hash": "0f5e86849fffe0ac9fbadf331fab2f78",
     "lang": "zh",
-    "source": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
+    "source": "Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-15T05:37:32.881Z"
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "es",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "es",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "pt",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "pt",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "fr",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "fr",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "de",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "de",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "ja",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "ja",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3e064e37dbd4a6a4566d0b10a3245347",
+    "lang": "zh",
+    "source": "Scaloni: Argentina 'not as bad' as some people say...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "733510505ae4714f7d8daff5132fa4d3",
+    "lang": "zh",
+    "source": "Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "es",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "es",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "pt",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "pt",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "fr",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "fr",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "de",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "de",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "ja",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "ja",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "e93c92b343fb1dca2100622a2d89722b",
+    "lang": "zh",
+    "source": "Matt Freese: USMNT criticism 'hurts my heart'",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "9ae60fb9fe3b78e7df3bb6f5963e73b3",
+    "lang": "zh",
+    "source": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "es",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "es",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "pt",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "pt",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "fr",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "fr",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "de",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "de",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "ja",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "ja",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "5083469bed428f847f815f92c3ef2f45",
+    "lang": "zh",
+    "source": "2026 World Cup Stock Watch: Who has impressed? Who...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "64d65d847fb43ba9fff0a48eb3b59d9f",
+    "lang": "zh",
+    "source": "The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "es",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "pt",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "fr",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "de",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "ja",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
+  },
+  {
+    "hash": "3729609eb0311606da8c957fb07ef83e",
+    "lang": "zh",
+    "source": "Odds to win the World Cup: Spain new World Cup fav...",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-15T08:23:44.143Z"
   }
 ]
