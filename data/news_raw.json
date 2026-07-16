@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T22:06:30.487Z",
+  "fetchedAt": "2026-07-16T03:14:16.656Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,9 +14,19 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-15",
+      "time": "2026-07-16",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "3132426a1058d2e05a3ee9e44aa9ba29",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Gutted' - Kane disappointed over World Cup exit",
+      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "81e60eebf5c3286cedf9c83d1bac3179"
     },
     {
       "id": "b22550a42eb44bb98eaa0e88c22cf44c",
@@ -49,16 +59,6 @@
       "titleHash": "9db4b9b1939062578fe23b09692e34c8"
     },
     {
-      "id": "456b6da9e1cfce86fa1956f029e09152",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "70153ed655e7d04442c379236f142c55"
-    },
-    {
       "id": "a483450b1dce20b4657d6dd9c3af5378",
       "source": "BBC",
       "tag": "RSS",
@@ -89,24 +89,14 @@
       "titleHash": "287ace9f273d4838d3975fbe069f13e2"
     },
     {
-      "id": "17b7844e462d01ef28d3117ad24a479f",
+      "id": "456b6da9e1cfce86fa1956f029e09152",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Porro doubles Spain's lead over France",
-      "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
-      "titleHash": "773aa81cc8c773559399ce7bc3547be9"
-    },
-    {
-      "id": "03b1344bce84063a659411e056c5e656",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "All the goals from France's run to semi-finals",
-      "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c23yj388pryo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
-      "titleHash": "0508dfda25f4ddf2e84de95242b9c006"
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "70153ed655e7d04442c379236f142c55"
     },
     {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
@@ -139,14 +129,24 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "7dbc5158cf83b612f77e869a437d6aa5",
+      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "England 1-2 Argentina: World Cup 2026 semi-final – live reaction",
-      "summary": "<p>⚽ Dramatic late goals set up World Cup final with Spain<br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/15/world-cup-2026-england-argentina-semi-final-in-pictures\">The semi-final – in pictures</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a></p><p><strong>England’s defenders will face an extreme challenge when they come up against <a href=\"https://www.theguardian.com/football/lionel-messi\">Lionel Messi</a> in their World Cup semi-final.</strong> It is not just that he is the greatest player of all time but the almost unique way in which he plays.</p><p>The 39-year-old is renowned for ambling around for much of a game, saving his energy for when truly required. It makes him incredibly difficult to defend against. Messi finds pockets of space that appear harmless when the ball is not in his orbit, but he springs to life when an opportunity to produce presents itself.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/15/england-v-argentina-world-cup-2026-semi-final-live",
-      "time": "2026-07-15",
-      "titleHash": "81ea56f16db5ba44b5af690fdbf346b6"
+      "title": "Golden Boot: World Cup 2026 top goalscorers",
+      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
+      "time": "2026-07-08",
+      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
+    },
+    {
+      "id": "80d4ed1e3c226afdeace08eab3d971a9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026: guide to all 1,248 players",
+      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+      "time": "2026-07-02",
+      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     }
   ]
 }

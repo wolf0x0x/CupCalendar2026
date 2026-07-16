@@ -5917,7 +5917,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-15",
+      "time": "2026-07-16",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -5942,6 +5942,40 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Gutted' - Kane disappointed over World Cup exit",
+      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "translations": {
+        "es": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "pt": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "fr": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "de": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "ja": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "zh": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
         }
       }
     },
@@ -6050,40 +6084,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "translations": {
-        "es": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        },
-        "pt": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        },
-        "fr": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        },
-        "de": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        },
-        "ja": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        },
-        "zh": {
-          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
-          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Spain into World Cup final with victory over France",
       "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
@@ -6186,68 +6186,68 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Porro doubles Spain's lead over France",
-      "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cgjxjnny9j6o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
       "translations": {
         "es": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         },
         "pt": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         },
         "fr": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         },
         "de": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         },
         "ja": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         },
         "zh": {
-          "title": "Porro doubles Spain's lead over France",
-          "summary": "Pedro Porro plays a one-two with Dani Olmo and doubles Spain's lead against France in the semi-finals of the 2026 World Cup."
+          "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+          "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
         }
       }
     },
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "All the goals from France's run to semi-finals",
-      "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c23yj388pryo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
       "translations": {
         "es": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         },
         "pt": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         },
         "fr": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         },
         "de": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         },
         "ja": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         },
         "zh": {
-          "title": "All the goals from France's run to semi-finals",
-          "summary": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain."
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         }
       }
     }
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-15T22:06:30.487Z",
+    "fetchedAt": "2026-07-16T03:14:16.656Z",
     "newsItems": 14,
-    "translationQueue": 48,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
