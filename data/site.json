@@ -6223,7 +6223,7 @@
       "title": "Who has been eliminated from the World Cup?",
       "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
       "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
+      "time": "2026-07-16",
       "translations": {
         "es": {
           "title": "Who has been eliminated from the World Cup?",
@@ -6265,8 +6265,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-16T03:14:16.656Z",
-    "newsItems": 14,
+    "fetchedAt": "2026-07-16T08:22:49.979Z",
+    "newsItems": 15,
     "translationQueue": 12,
     "errors": [
       {
