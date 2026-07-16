@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T11:04:31.781Z",
+  "fetchedAt": "2026-07-16T14:06:06.014Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-07-16",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "d5f56f94dd6216f874d3109ff3a1b9a0",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "All 11 last-minute winners at the World Cup",
+      "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-16",
+      "titleHash": "d10201c1a708e3faebad0c37a3eaaa94"
     },
     {
       "id": "3132426a1058d2e05a3ee9e44aa9ba29",
@@ -79,16 +89,6 @@
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
-      "id": "0fcf316a7cd2ac388a1c904ce937cc7f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "All of Argentina's goals from the World Cup so far",
-      "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "287ace9f273d4838d3975fbe069f13e2"
-    },
-    {
       "id": "456b6da9e1cfce86fa1956f029e09152",
       "source": "BBC",
       "tag": "RSS",
@@ -129,14 +129,14 @@
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
-      "id": "deeba3beae67876235115a27432b04ea",
+      "id": "1fad92fcfcfe087507ad337cf22dcc44",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Tuchel takes blame amid speculation over England future; Argentina players criticised for banner – live",
+      "title": "World Cup 2026: UK government backs calls for Fifa to investigate Argentina over Falklands banner; Tuchel takes blame amid criticism of tactics – live",
       "summary": "<p>⚽ Latest news in aftermath from dramatic day in Atlanta<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/16/thomas-tuchel-accepts-responsibility-substitutions-england-argentina\">Tuchel takes blame</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>Thomas Tuchel had already shown this week he’s not someone who is prone to mere pleasantries after a game</strong>. The head coach shouldered the blame for England becoming too passive after taking the lead against Argentina, but at the same time said he had “no regrets”.</p><p>I don’t believe so much in an English thing and a curse or whatever. It’s repeating itself in different moments. It’s different coaches, different players, different situations.</p><p>What cost us today was that we were not active enough in any structure. I can understand these discussions are out there and of course a million coaches after the game know it better. You can discuss this with a million coaches. I have to make a decision on the pitch. It’s how I analyse the match and I take the responsibility.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/16/world-cup-2026-argentina-break-england-hearts-and-head-for-final-with-spain-live",
       "time": "2026-07-16",
-      "titleHash": "50807a72dfe7ab23b5a340a47bc522fc"
+      "titleHash": "7206a5e1ca6040d21ba7b5b7b4fdf67b"
     },
     {
       "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",

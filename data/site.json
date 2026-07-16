@@ -5996,6 +5996,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "All 11 last-minute winners at the World Cup",
+      "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-16",
+      "translations": {
+        "es": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        },
+        "pt": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        },
+        "fr": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        },
+        "de": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        },
+        "ja": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        },
+        "zh": {
+          "title": "All 11 last-minute winners at the World Cup",
+          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "'Gutted' - Kane disappointed over World Cup exit",
       "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
@@ -6200,40 +6234,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "All of Argentina's goals from the World Cup so far",
-      "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cevlr32zzrno?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "translations": {
-        "es": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        },
-        "pt": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        },
-        "fr": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        },
-        "de": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        },
-        "ja": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        },
-        "zh": {
-          "title": "All of Argentina's goals from the World Cup so far",
-          "summary": "Watch all 17 of Argentina's goals from World Cup 2026 on their way to the semi-final, where they face England."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "A special team beats brilliant individuals - how silky Spain flattened France",
       "summary": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-16T11:04:31.781Z",
+    "fetchedAt": "2026-07-16T14:06:06.014Z",
     "newsItems": 15,
-    "translationQueue": 6,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
