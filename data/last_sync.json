@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-07-17T20:14:23.758Z",
-  "syncedAt": "2026-07-17T20:14:23.758Z",
+  "checkedAt": "2026-07-17T21:10:37.645Z",
+  "syncedAt": "2026-07-17T21:10:37.645Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -60,7 +60,7 @@
       "priority": 1,
       "ok": true,
       "source": "https://worldcup26.ir/get/games",
-      "fetchedAt": "2026-07-17T20:14:25.045Z",
+      "fetchedAt": "2026-07-17T21:10:42.978Z",
       "fetched": 104,
       "finishedMatches": 102,
       "finishedGroups": [
