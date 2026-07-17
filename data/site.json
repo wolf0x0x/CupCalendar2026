@@ -6098,40 +6098,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Underdogs, history and late goals - Africa's World Cup",
-      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "translations": {
-        "es": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "pt": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "fr": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "de": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "ja": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "zh": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Fernandez fires in equaliser for Argentina",
       "summary": "Enzo Fernandez equalises for Argentina against England in the 2026 World Cup semi final at the Atlanta Stadium.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o?at_medium=RSS&at_campaign=rss",
@@ -6298,6 +6264,40 @@
           "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "translations": {
+        "es": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "pt": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "fr": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "de": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "ja": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "zh": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,14 +6313,14 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-17T16:19:28.266Z",
-    "newsItems": 16,
+    "fetchedAt": "2026-07-17T19:18:34.521Z",
+    "newsItems": 15,
     "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
         "url": "https://inside.fifa.com/rss-feeds/news",
-        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+        "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 502\n"
       }
     ]
   }

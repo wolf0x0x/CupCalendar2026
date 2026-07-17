@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-17T16:19:28.266Z",
+  "fetchedAt": "2026-07-17T19:18:34.521Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 502\n"
     }
   ],
   "items": [
@@ -47,16 +47,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-17",
       "titleHash": "2096f215b3eb94e980a849c0f89a0d34"
-    },
-    {
-      "id": "3a882c1acf6a78a4bfa821b390f39081",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Underdogs, history and late goals - Africa's World Cup",
-      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "titleHash": "48a287c185a9a45a36c80b10d9e8a4a7"
     },
     {
       "id": "b22550a42eb44bb98eaa0e88c22cf44c",
@@ -109,6 +99,16 @@
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
+      "id": "3a882c1acf6a78a4bfa821b390f39081",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "48a287c185a9a45a36c80b10d9e8a4a7"
+    },
+    {
       "id": "664bb43866205ae5317ea342a356958b",
       "source": "BBC",
       "tag": "RSS",
@@ -137,16 +137,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
-    },
-    {
-      "id": "423b9b3307d82a41e4895134dea5b90a",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: Spain v Argentina countdown, Trump to attend final, England news – live",
-      "summary": "<p>⚽ Latest news before Sunday’s World Cup 2026 final<br>⚽ <a href=\"https://www.theguardian.com/football/2026/jul/16/football-daily-email-gwc-england-argentina\">Football Daily</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>Spanish Prime Minister Pedro Sanchez will attend the World Cup final to see his country take on reigning champions Argentina, his government said Friday.</strong></p><p>Sanchez, a vocal critic of US President Donald Trump – who also plans to attend Sunday’s final in New Jersey – will then travel to Algeria for an official visit. <strong>AFP</strong></p> <a href=\"https://www.theguardian.com/football/live/2026/jul/17/world-cup-2026-spain-v-argentina-countdown-trump-to-attend-final-england-news-live\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/17/world-cup-2026-spain-v-argentina-countdown-trump-to-attend-final-england-news-live",
-      "time": "2026-07-17",
-      "titleHash": "8dc5b37ca9ac6b66248c33936c942cab"
     },
     {
       "id": "1eb2e4aff3dce01fc477b046d1afb7f9",
