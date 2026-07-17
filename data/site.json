@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-16",
+      "time": "2026-07-17",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -6313,7 +6313,7 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-16T22:07:28.861Z",
+    "fetchedAt": "2026-07-17T03:17:09.723Z",
     "newsItems": 13,
     "translationQueue": 12,
     "errors": [
