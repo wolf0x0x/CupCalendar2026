@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T10:52:12.623Z",
+  "fetchedAt": "2026-07-17T13:50:12.295Z",
   "errors": [
     {
       "source": "FIFA",
@@ -37,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
       "titleHash": "81e60eebf5c3286cedf9c83d1bac3179"
+    },
+    {
+      "id": "8c3f323780e89ec1e616c6fef4715fec",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Uefa will not use VAR for diving like at World Cup",
+      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "2096f215b3eb94e980a849c0f89a0d34"
     },
     {
       "id": "3a882c1acf6a78a4bfa821b390f39081",
@@ -137,6 +147,16 @@
       "url": "https://www.theguardian.com/football/live/2026/jul/17/world-cup-2026-spain-v-argentina-countdown-trump-to-attend-final-england-news-live",
       "time": "2026-07-17",
       "titleHash": "8dc5b37ca9ac6b66248c33936c942cab"
+    },
+    {
+      "id": "1eb2e4aff3dce01fc477b046d1afb7f9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
+      "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle",
+      "time": "2026-07-17",
+      "titleHash": "312de38c368cd1341ed0baf65c497e4f"
     },
     {
       "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",

@@ -6064,6 +6064,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Uefa will not use VAR for diving like at World Cup",
+      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "translations": {
+        "es": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Underdogs, history and late goals - Africa's World Cup",
       "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
@@ -6264,40 +6298,6 @@
           "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What is the World Cup prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "de": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "What is the World Cup prize money?",
-          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-17T10:52:12.623Z",
-    "newsItems": 14,
-    "translationQueue": 12,
+    "fetchedAt": "2026-07-17T13:50:12.295Z",
+    "newsItems": 16,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
