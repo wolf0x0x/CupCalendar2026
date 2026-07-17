@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-17T19:18:34.521Z",
+  "fetchedAt": "2026-07-17T21:58:08.318Z",
   "errors": [
     {
       "source": "FIFA",
       "url": "https://inside.fifa.com/rss-feeds/news",
-      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 502\n"
+      "error": "Command failed: curl --fail --silent --show-error --location --max-time 20 --header accept: application/rss+xml, application/xml, text/xml, */* --user-agent CupCalendarBot/1.0 https://inside.fifa.com/rss-feeds/news\ncurl: (22) The requested URL returned error: 404\n"
     }
   ],
   "items": [
@@ -37,16 +37,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
       "titleHash": "81e60eebf5c3286cedf9c83d1bac3179"
-    },
-    {
-      "id": "8c3f323780e89ec1e616c6fef4715fec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Uefa will not use VAR for diving like at World Cup",
-      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "titleHash": "2096f215b3eb94e980a849c0f89a0d34"
     },
     {
       "id": "b22550a42eb44bb98eaa0e88c22cf44c",
@@ -99,6 +89,16 @@
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
+      "id": "8c3f323780e89ec1e616c6fef4715fec",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Uefa will not use VAR for diving like at World Cup",
+      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "2096f215b3eb94e980a849c0f89a0d34"
+    },
+    {
       "id": "3a882c1acf6a78a4bfa821b390f39081",
       "source": "BBC",
       "tag": "RSS",
@@ -147,16 +147,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle",
       "time": "2026-07-17",
       "titleHash": "312de38c368cd1341ed0baf65c497e4f"
-    },
-    {
-      "id": "f2a05a7d0e6e0b6a7d6c8bae27a6007e",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Golden Boot: World Cup 2026 top goalscorers",
-      "summary": "<p>Who is winning the battle to be top scorer at the World Cup? Live and updated throughout the tournament</p><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/17/who-is-highest-goalscorer-world-cup-history-messi-mbappe\">All-time World Cup goalscorers</a></p><p>The Golden Boot is awarded to the World Cup’s top goalscorer, with assists used as a tie-breaker if two or more players finish level. The 2026 tournament has three former Golden Boot winners taking part: Kylian Mbappé of France (eight goals in 2022), England’s Harry Kane (six goals in 2018) and James Rodríguez of Colombia (six goals in 2014).</p><p>Mbappé and Kane are among the pre-tournament favourites to finish top scorer in North America, alongside Norway’s Erling Haaland – making his World Cup debut – and Argentina’s Lionel Messi.</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
-      "time": "2026-07-08",
-      "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
     }
   ]
 }
