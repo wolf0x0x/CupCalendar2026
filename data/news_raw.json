@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T08:19:18.608Z",
+  "fetchedAt": "2026-07-17T10:52:12.623Z",
   "errors": [
     {
       "source": "FIFA",
@@ -37,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
       "titleHash": "81e60eebf5c3286cedf9c83d1bac3179"
+    },
+    {
+      "id": "3a882c1acf6a78a4bfa821b390f39081",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "48a287c185a9a45a36c80b10d9e8a4a7"
     },
     {
       "id": "b22550a42eb44bb98eaa0e88c22cf44c",
@@ -89,6 +99,16 @@
       "titleHash": "55e73be019f033609cfa0b70332d3b08"
     },
     {
+      "id": "664bb43866205ae5317ea342a356958b",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "What is the World Cup prize money?",
+      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
+    },
+    {
       "id": "9a01c1ff9fa759669bcdead03a76793e",
       "source": "BBC",
       "tag": "RSS",
@@ -109,16 +129,6 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "664bb43866205ae5317ea342a356958b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What is the World Cup prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
-    },
-    {
       "id": "423b9b3307d82a41e4895134dea5b90a",
       "source": "The Guardian",
       "tag": "RSS",
@@ -137,16 +147,6 @@
       "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner",
       "time": "2026-07-08",
       "titleHash": "13c3749a21a64bb9d9cc7f57e5094ba2"
-    },
-    {
-      "id": "80d4ed1e3c226afdeace08eab3d971a9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026: guide to all 1,248 players",
-      "summary": "<p>Everything you need to know (and more) about every squad member. Click on the player pictures for more information</p> <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
-      "time": "2026-07-02",
-      "titleHash": "c22e31d790da527970ff06a0695b67b4"
     }
   ]
 }
