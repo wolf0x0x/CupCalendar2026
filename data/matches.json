@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-17T10:20:44.444Z",
+  "syncedAt": "2026-07-17T11:52:26.400Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1489,15 +1489,15 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-104",
+      "id": "spain-argentina-104",
       "sourceId": "104",
       "type": "final",
       "group": "FINAL",
       "matchday": "Matchday 9",
       "date": "2026-07-19",
       "time": "15:00",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Spain",
+      "away": "Argentina",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
@@ -1736,15 +1736,15 @@
       "validation": "primary"
     },
     {
-      "id": "tbd-tbd-103",
+      "id": "france-england-103",
       "sourceId": "103",
       "type": "third",
       "group": "3RD",
       "matchday": "Matchday 8",
       "date": "2026-07-18",
       "time": "17:00",
-      "home": "TBD",
-      "away": "TBD",
+      "home": "France",
+      "away": "England",
       "homeScore": null,
       "awayScore": null,
       "score": "- : -",
