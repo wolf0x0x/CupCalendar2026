@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T10:22:31.703Z",
+  "fetchedAt": "2026-07-18T13:27:04.891Z",
   "items": [
     {
       "source": "FIFA",
@@ -38,37 +38,73 @@
       }
     },
     {
-      "id": "c1a29464d5c8a32020d9501653c25829",
+      "id": "176ef5e616a34a899e3d0325c59db90d",
       "source": "BBC",
       "tag": "RSS",
-      "title": "More games and more controversy - has World Cup been a success?",
+      "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+      "summary": "Why does the Fifa World Cup Bronze Final still exist?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "titleHash": "7fb45c4f961405fcf9336e60d334ccaa",
+      "translations": {
+        "es": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "pt": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "fr": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "de": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "ja": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "zh": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        }
+      }
+    },
+    {
+      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
       "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-18",
-      "titleHash": "6a0992e2e1f4b108bdb6b2425c46ae26",
+      "titleHash": "d471ff91280ba471e0592145012a9813",
       "translations": {
         "es": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "pt": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "fr": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "de": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "ja": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "zh": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         }
       }
@@ -326,78 +362,6 @@
       }
     },
     {
-      "id": "8c3f323780e89ec1e616c6fef4715fec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Uefa will not use VAR for diving like at World Cup",
-      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "titleHash": "2096f215b3eb94e980a849c0f89a0d34",
-      "translations": {
-        "es": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "id": "3a882c1acf6a78a4bfa821b390f39081",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Underdogs, history and late goals - Africa's World Cup",
-      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "titleHash": "48a287c185a9a45a36c80b10d9e8a4a7",
-      "translations": {
-        "es": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "pt": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "fr": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "de": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "ja": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "zh": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        }
-      }
-    },
-    {
       "id": "664bb43866205ae5317ea342a356958b",
       "source": "BBC",
       "tag": "RSS",
@@ -646,42 +610,6 @@
         "zh": {
           "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
           "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "1eb2e4aff3dce01fc477b046d1afb7f9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-      "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle",
-      "time": "2026-07-17",
-      "titleHash": "312de38c368cd1341ed0baf65c497e4f",
-      "translations": {
-        "es": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "BBC v ITV: who won the UK’s battle of the World Cup 2026 broadcasters?",
-          "summary": "<p>Danny Murphy’s decision to start talking about his deceased cat will haunt the rest of his career while Christina Unkel’s referee analysis was no-nonsense and to the point</p><p>The final may be Argentina v Spain, but ardent media watchers in the UK know that in broadcasting terms, a World Cup is always a domestic battle between the BBC and ITV. So who won on these important criteria?</p> <a href=\"https://www.theguardian.com/football/2026/jul/17/world-cup-bbc-itv-broadcast-battle\">Continue reading...</a>"
         }
       }
     }

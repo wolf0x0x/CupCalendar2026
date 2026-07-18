@@ -5996,33 +5996,67 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "More games and more controversy - has World Cup been a success?",
+      "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+      "summary": "Why does the Fifa World Cup Bronze Final still exist?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "translations": {
+        "es": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "pt": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "fr": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "de": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "ja": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        },
+        "zh": {
+          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
+          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
       "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-18",
       "translations": {
         "es": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "pt": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "fr": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "de": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "ja": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "zh": {
-          "title": "More games and more controversy - has World Cup been a success?",
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         }
       }
@@ -6264,40 +6298,6 @@
           "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Uefa will not use VAR for diving like at World Cup",
-      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "translations": {
-        "es": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-18T10:22:31.703Z",
-    "newsItems": 19,
-    "translationQueue": 48,
+    "fetchedAt": "2026-07-18T13:27:04.891Z",
+    "newsItems": 17,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
