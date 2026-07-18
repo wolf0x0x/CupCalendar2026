@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-18T21:52:12.260Z",
+  "syncedAt": "2026-07-18T22:51:22.293Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1745,9 +1745,9 @@
       "time": "17:00",
       "home": "France",
       "away": "England",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 4,
-      "score": "0 - 4",
+      "score": "3 - 4",
       "status": "live",
       "finished": false,
       "stadiumId": "8",
