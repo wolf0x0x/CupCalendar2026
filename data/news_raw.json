@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T19:11:47.424Z",
+  "fetchedAt": "2026-07-18T21:55:49.487Z",
   "errors": [
     {
       "source": "FIFA",
@@ -27,6 +27,26 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-18",
       "titleHash": "7fb45c4f961405fcf9336e60d334ccaa"
+    },
+    {
+      "id": "c67b4ffecb201d5cd4ccfe627ded97e7",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+      "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "titleHash": "702848aa5d53e52e455ca0c6a28b82c5"
+    },
+    {
+      "id": "4ee0a1e70ce012bf87259b2b2e05d7d2",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Make your predictions for the last two games of World Cup 2026",
+      "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football.",
+      "url": "https://www.bbc.co.uk/sport/football/predictor/mwc2026?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "titleHash": "fe92e598b896dc8762bd3019d7ad3c3d"
     },
     {
       "id": "d5f56f94dd6216f874d3109ff3a1b9a0",
