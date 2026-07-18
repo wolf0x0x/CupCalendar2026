@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T13:27:04.891Z",
+  "fetchedAt": "2026-07-18T16:01:30.373Z",
   "items": [
     {
       "source": "FIFA",
@@ -74,42 +74,6 @@
       }
     },
     {
-      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "More games, more controversy - good and bad of biggest World Cup yet",
-      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "titleHash": "d471ff91280ba471e0592145012a9813",
-      "translations": {
-        "es": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "de": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        }
-      }
-    },
-    {
       "id": "d5f56f94dd6216f874d3109ff3a1b9a0",
       "source": "BBC",
       "tag": "RSS",
@@ -178,6 +142,42 @@
         "zh": {
           "title": "'Gutted' - Kane disappointed over World Cup exit",
           "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        }
+      }
+    },
+    {
+      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
+      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "titleHash": "d471ff91280ba471e0592145012a9813",
+      "translations": {
+        "es": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "de": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         }
       }
     },
@@ -574,42 +574,6 @@
         "zh": {
           "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
           "summary": "<p>How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so</p><p>Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end. The load-bearer of the co-hosting North American trio, the United States held 78 of the tournament’s matches across its 11 host cities. Only two contests remain: the third-place game in Miami, and the big one in East Rutherford, New Jersey.</p><p>Before the dust truly settles and focus shifts to the six-nation, three-continent centennial in 2030, how did the United States fare in its second swing at hosting a men’s World Cup?</p> <a href=\"https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "d37dac017b89c1415ad71682acee97b8",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-      "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
-      "time": "2026-07-18",
-      "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94",
-      "translations": {
-        "es": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-          "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
         }
       }
     }
