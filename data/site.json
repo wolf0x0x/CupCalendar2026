@@ -6268,34 +6268,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Uefa will not use VAR for diving like at World Cup",
-      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-17",
       "translations": {
         "es": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         },
         "pt": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         },
         "fr": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         },
         "de": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         },
         "ja": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         },
         "zh": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         }
       }
     }
@@ -6313,8 +6313,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T08:27:01.952Z",
-    "newsItems": 16,
+    "fetchedAt": "2026-07-19T10:38:31.789Z",
+    "newsItems": 15,
     "translationQueue": 12,
     "errors": [
       {

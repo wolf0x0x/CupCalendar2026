@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T08:27:01.952Z",
+  "fetchedAt": "2026-07-19T10:38:31.789Z",
   "items": [
     {
       "source": "FIFA",
@@ -322,42 +322,6 @@
         "zh": {
           "title": "Spain into World Cup final with victory over France",
           "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
-        }
-      }
-    },
-    {
-      "id": "8c3f323780e89ec1e616c6fef4715fec",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Uefa will not use VAR for diving like at World Cup",
-      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "titleHash": "2096f215b3eb94e980a849c0f89a0d34",
-      "translations": {
-        "es": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Uefa will not use VAR for diving like at World Cup",
-          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         }
       }
     },
