@@ -5996,74 +5996,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Best England team for a long time? That's a fact, says Rice",
-      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "translations": {
-        "es": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        },
-        "de": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Best England team for a long time? That's a fact, says Rice",
-          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Hydration breaks not popular and Fifa will review - Wenger",
-      "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "translations": {
-        "es": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        },
-        "pt": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        },
-        "fr": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        },
-        "de": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        },
-        "ja": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        },
-        "zh": {
-          "title": "Hydration breaks not popular and Fifa will review - Wenger",
-          "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Brilliant first half, turbulent second - Tuchel",
       "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
@@ -6298,6 +6230,74 @@
           "summary": "Both England and Argentina's national anthems are drowned out by crowd noise, before the teams kick off their 2026 World Cup semi-final at the Atlanta Stadium."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Spain into World Cup final with victory over France",
+      "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-14",
+      "translations": {
+        "es": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        },
+        "pt": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        },
+        "fr": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        },
+        "de": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        },
+        "ja": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        },
+        "zh": {
+          "title": "Spain into World Cup final with victory over France",
+          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Uefa will not use VAR for diving like at World Cup",
+      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "translations": {
+        "es": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "de": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T03:26:13.332Z",
-    "newsItems": 17,
-    "translationQueue": 30,
+    "fetchedAt": "2026-07-19T08:27:01.952Z",
+    "newsItems": 16,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
