@@ -5996,6 +5996,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Trump presence means tight security for World Cup final",
+      "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "translations": {
+        "es": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        },
+        "pt": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        },
+        "fr": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        },
+        "de": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        },
+        "ja": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        },
+        "zh": {
+          "title": "Trump presence means tight security for World Cup final",
+          "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "How the World Cup has affected your Premier League team",
       "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss",
@@ -6264,40 +6298,6 @@
           "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "More games, more controversy - good and bad of biggest World Cup yet",
-      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "translations": {
-        "es": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "de": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T16:01:27.601Z",
-    "newsItems": 17,
-    "translationQueue": 30,
+    "fetchedAt": "2026-07-19T19:13:24.533Z",
+    "newsItems": 20,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
