@@ -6064,40 +6064,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "More games, more controversy - good and bad of biggest World Cup yet",
-      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "translations": {
-        "es": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "pt": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "fr": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "de": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "ja": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        },
-        "zh": {
-          "title": "More games, more controversy - good and bad of biggest World Cup yet",
-          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "'Gutted' - Kane disappointed over World Cup exit",
       "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
@@ -6268,6 +6234,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
+      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "translations": {
+        "es": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "pt": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "fr": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "de": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "ja": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        },
+        "zh": {
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Underdogs, history and late goals - Africa's World Cup",
       "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
       "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
@@ -6313,8 +6313,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T10:38:31.789Z",
-    "newsItems": 15,
+    "fetchedAt": "2026-07-19T13:36:32.631Z",
+    "newsItems": 16,
     "translationQueue": 12,
     "errors": [
       {

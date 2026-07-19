@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T10:38:31.789Z",
+  "fetchedAt": "2026-07-19T13:36:32.631Z",
   "errors": [
     {
       "source": "FIFA",
@@ -37,16 +37,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-16",
       "titleHash": "d10201c1a708e3faebad0c37a3eaaa94"
-    },
-    {
-      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "More games, more controversy - good and bad of biggest World Cup yet",
-      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "titleHash": "d471ff91280ba471e0592145012a9813"
     },
     {
       "id": "3132426a1058d2e05a3ee9e44aa9ba29",
@@ -99,6 +89,16 @@
       "titleHash": "10b17e760f067d8282c99f8e9c41f810"
     },
     {
+      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
+      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
+      "titleHash": "d471ff91280ba471e0592145012a9813"
+    },
+    {
       "id": "3a882c1acf6a78a4bfa821b390f39081",
       "source": "BBC",
       "tag": "RSS",
@@ -147,6 +147,16 @@
       "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live",
       "time": "2026-07-19",
       "titleHash": "977c2ecd5b8da8cc0e3d92ef5ed7c67e"
+    },
+    {
+      "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "England 2026 World Cup squad: player-by-player ratings",
+      "summary": "<p>After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament</p><p><strong>Jordan Pickford</strong> Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+      "time": "2026-07-19",
+      "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
     },
     {
       "id": "a5eb25a743f1b38b9c0be73da1010f6f",
