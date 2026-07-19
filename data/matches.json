@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-19T21:34:53.764Z",
+  "syncedAt": "2026-07-19T22:34:52.870Z",
   "sourcePriority": [
     "worldcup26.ir/get/games",
     "football-data.org",
@@ -1498,11 +1498,11 @@
       "time": "15:00",
       "home": "Spain",
       "away": "Argentina",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
-      "score": "0 - 0",
-      "status": "live",
-      "finished": false,
+      "score": "1 - 0",
+      "status": "Final",
+      "finished": true,
       "stadiumId": "11",
       "dataSource": "worldcup26.ir",
       "validation": "primary"
