@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-18T21:55:49.487Z",
+  "fetchedAt": "2026-07-19T03:26:13.332Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-18",
+      "time": "2026-07-19",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -38,110 +38,110 @@
       }
     },
     {
-      "id": "176ef5e616a34a899e3d0325c59db90d",
+      "id": "f2df645c3c871b0491320ac2a8fa653e",
       "source": "BBC",
       "tag": "RSS",
-      "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-      "summary": "Why does the Fifa World Cup Bronze Final still exist?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gk5jq2lj1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "titleHash": "7fb45c4f961405fcf9336e60d334ccaa",
+      "title": "Best England team for a long time? That's a fact, says Rice",
+      "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "titleHash": "bc492df37ce61b437568eed535cb7daf",
       "translations": {
         "es": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         },
         "pt": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         },
         "fr": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         },
         "de": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         },
         "ja": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         },
         "zh": {
-          "title": "The Bronze Final - the unwanted tie or a match with a 'golden layer'?",
-          "summary": "Why does the Fifa World Cup Bronze Final still exist?"
+          "title": "Best England team for a long time? That's a fact, says Rice",
+          "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup."
         }
       }
     },
     {
-      "id": "c67b4ffecb201d5cd4ccfe627ded97e7",
+      "id": "0a238361a4a6402709f4a7bf8c6440b7",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+      "title": "Hydration breaks not popular and Fifa will review - Wenger",
       "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament.",
       "url": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-18",
-      "titleHash": "702848aa5d53e52e455ca0c6a28b82c5",
+      "titleHash": "e600c850adc5e3ab8525d6dd7bed93d6",
       "translations": {
         "es": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         },
         "pt": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         },
         "fr": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         },
         "de": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         },
         "ja": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         },
         "zh": {
-          "title": "Fifa to review 'unpopular' hydration breaks - Wenger",
+          "title": "Hydration breaks not popular and Fifa will review - Wenger",
           "summary": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
         }
       }
     },
     {
-      "id": "4ee0a1e70ce012bf87259b2b2e05d7d2",
+      "id": "f468384dda8087df20f7529dc5688b1f",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Make your predictions for the last two games of World Cup 2026",
-      "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football.",
-      "url": "https://www.bbc.co.uk/sport/football/predictor/mwc2026?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "titleHash": "fe92e598b896dc8762bd3019d7ad3c3d",
+      "title": "Brilliant first half, turbulent second - Tuchel",
+      "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "titleHash": "4493106625daa7a08f93989a927abcec",
       "translations": {
         "es": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         },
         "pt": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         },
         "fr": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         },
         "de": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         },
         "ja": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         },
         "zh": {
-          "title": "Make your predictions for the last two games of World Cup 2026",
-          "summary": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
+          "title": "Brilliant first half, turbulent second - Tuchel",
+          "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
         }
       }
     },
@@ -182,42 +182,6 @@
       }
     },
     {
-      "id": "3132426a1058d2e05a3ee9e44aa9ba29",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'Gutted' - Kane disappointed over World Cup exit",
-      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "81e60eebf5c3286cedf9c83d1bac3179",
-      "translations": {
-        "es": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "pt": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "fr": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "de": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "ja": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "zh": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        }
-      }
-    },
-    {
       "id": "a554e89aaeb395f5e0f0f611a2b0253c",
       "source": "BBC",
       "tag": "RSS",
@@ -250,6 +214,42 @@
         "zh": {
           "title": "More games, more controversy - good and bad of biggest World Cup yet",
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "3132426a1058d2e05a3ee9e44aa9ba29",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'Gutted' - Kane disappointed over World Cup exit",
+      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-15",
+      "titleHash": "81e60eebf5c3286cedf9c83d1bac3179",
+      "translations": {
+        "es": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "pt": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "fr": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "de": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "ja": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
+        },
+        "zh": {
+          "title": "'Gutted' - Kane disappointed over World Cup exit",
+          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
         }
       }
     },
@@ -398,38 +398,74 @@
       }
     },
     {
-      "id": "ff48d89cf9e27ae52b9c07f6a89d15fd",
+      "id": "8c3f323780e89ec1e616c6fef4715fec",
       "source": "BBC",
       "tag": "RSS",
-      "title": "All the goals from England's 2026 World Cup campaign so far",
-      "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
-      "url": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "55e73be019f033609cfa0b70332d3b08",
+      "title": "Uefa will not use VAR for diving like at World Cup",
+      "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c89nlvwx410o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "2096f215b3eb94e980a849c0f89a0d34",
       "translations": {
         "es": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         },
         "pt": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         },
         "fr": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         },
         "de": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         },
         "ja": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
         },
         "zh": {
-          "title": "All the goals from England's 2026 World Cup campaign so far",
-          "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there."
+          "title": "Uefa will not use VAR for diving like at World Cup",
+          "summary": "Uefa has told its video assistant referees (VARs) they must not consider potential simulation as mistaken identity, as seen at the 2026 World Cup."
+        }
+      }
+    },
+    {
+      "id": "3a882c1acf6a78a4bfa821b390f39081",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Underdogs, history and late goals - Africa's World Cup",
+      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-17",
+      "titleHash": "48a287c185a9a45a36c80b10d9e8a4a7",
+      "translations": {
+        "es": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "pt": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "fr": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "de": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "ja": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+        },
+        "zh": {
+          "title": "Underdogs, history and late goals - Africa's World Cup",
+          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
         }
       }
     },
