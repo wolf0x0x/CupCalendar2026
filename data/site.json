@@ -5948,6 +5948,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "How the World Cup has affected your Premier League team",
+      "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "translations": {
+        "es": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        },
+        "pt": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        },
+        "fr": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        },
+        "de": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        },
+        "ja": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        },
+        "zh": {
+          "title": "How the World Cup has affected your Premier League team",
+          "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Brilliant first half, turbulent second - Tuchel",
       "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
@@ -6216,40 +6250,6 @@
           "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Underdogs, history and late goals - Africa's World Cup",
-      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
-      "translations": {
-        "es": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "pt": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "fr": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "de": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "ja": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        },
-        "zh": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T13:36:32.631Z",
-    "newsItems": 16,
-    "translationQueue": 12,
+    "fetchedAt": "2026-07-19T16:01:27.601Z",
+    "newsItems": 17,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
