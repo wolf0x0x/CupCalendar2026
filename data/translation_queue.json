@@ -1,170 +1,128 @@
 [
   {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
     "lang": "es",
-    "source": "Trump presence means tight security for World Cup final",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
+    "lang": "pt",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-19T21:58:17.784Z"
+  },
+  {
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
+    "lang": "fr",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-19T21:58:17.784Z"
+  },
+  {
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
+    "lang": "de",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-19T21:58:17.784Z"
+  },
+  {
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
+    "lang": "ja",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-19T21:58:17.784Z"
+  },
+  {
+    "hash": "c8f2fc86b4d9ead5e033d170128e0248",
+    "lang": "zh",
+    "source": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
+    "error": "translation_api_unavailable",
+    "queued_at": "2026-07-19T21:58:17.784Z"
+  },
+  {
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "es",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
-    "lang": "pt",
-    "source": "Trump presence means tight security for World Cup final",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
-    "lang": "pt",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
-    "lang": "fr",
-    "source": "Trump presence means tight security for World Cup final",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
-    "lang": "fr",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
-    "lang": "de",
-    "source": "Trump presence means tight security for World Cup final",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
-    "lang": "de",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
-    "lang": "ja",
-    "source": "Trump presence means tight security for World Cup final",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
-    "lang": "ja",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "43898d2968d76ec8619d87e054cd4aec",
-    "lang": "zh",
-    "source": "Trump presence means tight security for World Cup final",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "90a3dd8612428d0c81ead250960c57b0",
-    "lang": "zh",
-    "source": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "es",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
-    "lang": "es",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
-    "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
-  },
-  {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "pt",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "pt",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "fr",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "fr",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "de",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "de",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "ja",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "ja",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "ce9bd30bcde0bf76dec02fae97cf6f73",
+    "hash": "6769a57aa87294bb58fefc767cf32b37",
     "lang": "zh",
-    "source": "Spain v Argentina: World Cup 2026 final – live",
+    "source": "The 2026 World Cup final: Spain v Argentina – in pictures",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   },
   {
-    "hash": "e43c3e890728fe83b004b293b0a9826f",
+    "hash": "102c2fbffbfcde3ff46a5f5265dcf981",
     "lang": "zh",
-    "source": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
+    "source": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
     "error": "translation_api_unavailable",
-    "queued_at": "2026-07-19T19:13:24.533Z"
+    "queued_at": "2026-07-19T21:58:17.784Z"
   }
 ]

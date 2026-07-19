@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T19:13:24.533Z",
+  "fetchedAt": "2026-07-19T21:58:17.784Z",
   "errors": [
     {
       "source": "FIFA",
@@ -99,16 +99,6 @@
       "titleHash": "9db4b9b1939062578fe23b09692e34c8"
     },
     {
-      "id": "a483450b1dce20b4657d6dd9c3af5378",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Spain into World Cup final with victory over France",
-      "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
-      "titleHash": "10b17e760f067d8282c99f8e9c41f810"
-    },
-    {
       "id": "a554e89aaeb395f5e0f0f611a2b0253c",
       "source": "BBC",
       "tag": "RSS",
@@ -159,14 +149,14 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "bb628aa3325295048cf398c861c6f58f",
+      "id": "c5c19871ba4ada43831b0227f74e4ecb",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Spain v Argentina: World Cup 2026 final – live",
+      "title": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
       "summary": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
       "time": "2026-07-19",
-      "titleHash": "0a5ca3521fb240ca77d43de6dee03d71"
+      "titleHash": "141e5fc507211ecf07b7315e0625e41a"
     },
     {
       "id": "0fceed06b8cc79175c0d3367dea4274b",
@@ -197,6 +187,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
       "time": "2026-07-18",
       "titleHash": "e21a92c41966e2795cdd28b6c3c515ed"
+    },
+    {
+      "id": "7429d8be6ec843703a3e3798d84573f8",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "The 2026 World Cup final: Spain v Argentina – in pictures",
+      "summary": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
+      "time": "2026-07-19",
+      "titleHash": "9be8624dd037d5a30e493dfa27481d24"
     },
     {
       "id": "a5eb25a743f1b38b9c0be73da1010f6f",

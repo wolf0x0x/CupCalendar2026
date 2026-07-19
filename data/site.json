@@ -6220,34 +6220,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Spain into World Cup final with victory over France",
-      "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq6160n8y71o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-14",
+      "title": "More games, more controversy - good and bad of biggest World Cup yet",
+      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-18",
       "translations": {
         "es": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "pt": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "fr": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "de": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "ja": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         },
         "zh": {
-          "title": "Spain into World Cup final with victory over France",
-          "summary": "Spain are into the 2026 World Cup final after goals from Mikel Oyarzabal and Pedro Porro see them convincingly beat France 2-0 in their semi-final in Dallas."
+          "title": "More games, more controversy - good and bad of biggest World Cup yet",
+          "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
         }
       }
     }
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-19T19:13:24.533Z",
+    "fetchedAt": "2026-07-19T21:58:17.784Z",
     "newsItems": 20,
-    "translationQueue": 24,
+    "translationQueue": 18,
     "errors": [
       {
         "source": "FIFA",
