@@ -5996,34 +5996,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+      "title": "Watch the BBC's closing World Cup montage",
+      "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-20",
       "translations": {
         "es": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         },
         "pt": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         },
         "fr": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         },
         "de": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         },
         "ja": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         },
         "zh": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+          "title": "Watch the BBC's closing World Cup montage",
+          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         }
       }
     },
@@ -6132,6 +6132,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-20",
+      "translations": {
+        "es": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "pt": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "fr": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "de": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "ja": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "zh": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Brilliant first half, turbulent second - Tuchel",
       "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
@@ -6200,40 +6234,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "'Gutted' - Kane disappointed over World Cup exit",
-      "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "translations": {
-        "es": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "pt": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "fr": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "de": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "ja": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        },
-        "zh": {
-          "title": "'Gutted' - Kane disappointed over World Cup exit",
-          "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "More games, more controversy - good and bad of biggest World Cup yet",
       "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
@@ -6268,34 +6268,34 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Underdogs, history and late goals - Africa's World Cup",
-      "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2d2w8gxpvo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-17",
+      "title": "What is the World Cup prize money?",
+      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
       "translations": {
         "es": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         },
         "pt": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         },
         "fr": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         },
         "de": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         },
         "ja": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         },
         "zh": {
-          "title": "Underdogs, history and late goals - Africa's World Cup",
-          "summary": "The 2026 World Cup saw Africa send its largest ever contingent to the finals, but five sides were eliminated by late goals as underdogs Cape Verde impressed."
+          "title": "What is the World Cup prize money?",
+          "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         }
       }
     }
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-20T09:25:32.090Z",
+    "fetchedAt": "2026-07-20T14:19:49.330Z",
     "newsItems": 20,
-    "translationQueue": 24,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
