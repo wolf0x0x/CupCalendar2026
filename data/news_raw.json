@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T21:58:17.784Z",
+  "fetchedAt": "2026-07-20T03:39:58.656Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,29 +14,39 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-19",
+      "time": "2026-07-20",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "2d6e40b3321e086da8d2c8b5daaffcae",
+      "id": "72dcffd3c4afe7c681a2a3e3567998c5",
       "source": "BBC",
       "tag": "RSS",
-      "title": "Trump presence means tight security for World Cup final",
-      "summary": "Supporters faced long queues to get into New York New Jersey Stadium amid heightened security for the 2026 World Cup final.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c304p73m3zgo?at_medium=RSS&at_campaign=rss",
+      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-19",
-      "titleHash": "82acfa04f03e622501db1a75bf1b2c60"
+      "titleHash": "a52e4f3f66af9548b437c1471b2755f1"
     },
     {
-      "id": "1880945ef02364195e9f1da96ac8e80a",
+      "id": "229e6bccba710b7c7da519a967a013b6",
       "source": "BBC",
       "tag": "RSS",
-      "title": "How the World Cup has affected your Premier League team",
-      "summary": "Once the trophy is lifted by either Spain or Argentina in New Jersey on Sunday night, attention will shift from the 2026 World Cup to the upcoming domestic season.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "titleHash": "0672c6727f6a595f4d9d8d373b8be2d3"
+      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-20",
+      "titleHash": "342a499ef380f288fd0dd68890b729e7"
+    },
+    {
+      "id": "6a245d368727f5f6462bd6e5c76cb917",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "'The reaction is terrible' - World Cup final turns ugly at full-time",
+      "summary": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-20",
+      "titleHash": "4424bccfc7a8ab3ef55aea469c988b01"
     },
     {
       "id": "f468384dda8087df20f7529dc5688b1f",
@@ -67,36 +77,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-15",
       "titleHash": "81e60eebf5c3286cedf9c83d1bac3179"
-    },
-    {
-      "id": "b22550a42eb44bb98eaa0e88c22cf44c",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Fernandez fires in equaliser for Argentina",
-      "summary": "Enzo Fernandez equalises for Argentina against England in the 2026 World Cup semi final at the Atlanta Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj4kx9n4pv5o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "e627d4424d8b3cc7d1e5c82cc54e4c05"
-    },
-    {
-      "id": "78ea482c98a30d0df37c6f042d4acb68",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Gordon puts England ahead against Argentina",
-      "summary": "Anthony Gordon puts England 1-0 up against Argentina in the 2026 World Cup semi-final at the Atlanta Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c07re9rxd29o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "41d24082e8fe21eb35b1719a41e592c8"
-    },
-    {
-      "id": "bccb3decb7fde1dcb86cadbe32ef647b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "England and Argentina national anthems drowned out",
-      "summary": "Both England and Argentina's national anthems are drowned out by crowd noise, before the teams kick off their 2026 World Cup semi-final at the Atlanta Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c04yw0dz035o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-15",
-      "titleHash": "9db4b9b1939062578fe23b09692e34c8"
     },
     {
       "id": "a554e89aaeb395f5e0f0f611a2b0253c",
@@ -149,24 +129,14 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "c5c19871ba4ada43831b0227f74e4ecb",
+      "id": "bfe6665803e819266e92db827d7e8d8f",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Spain v Argentina: World Cup 2026 final goes to extra time – live",
-      "summary": "<p>⚽ World Cup final kick-off: 3pm EST/8pm BST/5am AEST<br>⚽ <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football\">Trump, half-time show and everything but football – live</a><br>⚽ <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Match gallery</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.com\">Mail us</a></p><p><strong>You can also follow the build up on our news blog, which contains <a href=\"https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live?page=with%3Ablock-6a5cfcd88f0826309aef6854#block-6a5cfcd88f0826309aef6854\">photographtic proof that things are livening up in NYC</a></strong></p><p><strong>“One of the big questions for those of us in the UK</strong> is how to watch the final,” writes David Wall. “For all that has been made about ITV’s coverage with their New York studio and one of two excellent pundits, I think their coverage has been less than the sum of its parts, as usual. They’ve not had people other than the commentators in the stadiums so all that studio showed was that it was quite windy in New York sometimes.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
+      "title": "Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for",
+      "summary": "<p>It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacle</p><p>Like hydration breaks and Donald Trump’s ability to get refereeing decisions overturned by simply phoning up the president of Fifa and complaining, the final half-time show is an innovation of the 2026 World Cup that comes with a degree of controversy attached. For one thing, its existence automatically means the World Cup final breaks the International Football Association’s 15-minute half-time mandate.</p><p>For another, its obvious antecedent lies in the NFL’s Super Bowl, where the half-time entertainment has mushroomed over the decades from a few marching bands to one of the big pop events of the year. To its detractors, it smacks of America not so much embracing the World Cup as imposing itself upon it.</p> <a href=\"https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
       "time": "2026-07-19",
-      "titleHash": "141e5fc507211ecf07b7315e0625e41a"
-    },
-    {
-      "id": "0fceed06b8cc79175c0d3367dea4274b",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Football Daily | Give it up for Vozinha, Spence and the 2026 World Cup’s cult heroes",
-      "summary": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Every World Cup produces cult heroes, icons who make it possible for us to sit back and start misty-eyed recollections by saying: “Do you remember Roger Milla/Saeed Al-Owairan/Keisuke Honda/Paul the Octopus?” Well, the Geopolitics World Cup has not let us down! Here are 10 cult heroes who’ve emerged from this tournament.</p> <a href=\"https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
-      "time": "2026-07-19",
-      "titleHash": "7a700a0bfbfe7c8b97e1fa617a827e22"
+      "titleHash": "f2022c0b5e06efacbe07601dfa7d9976"
     },
     {
       "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
@@ -179,6 +149,56 @@
       "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
     },
     {
+      "id": "0fceed06b8cc79175c0d3367dea4274b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Football Daily | Give it up for Vozinha, Spence and the 2026 World Cup’s cult heroes",
+      "summary": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Every World Cup produces cult heroes, icons who make it possible for us to sit back and start misty-eyed recollections by saying: “Do you remember Roger Milla/Saeed Al-Owairan/Keisuke Honda/Paul the Octopus?” Well, the Geopolitics World Cup has not let us down! Here are 10 cult heroes who’ve emerged from this tournament.</p> <a href=\"https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
+      "time": "2026-07-19",
+      "titleHash": "7a700a0bfbfe7c8b97e1fa617a827e22"
+    },
+    {
+      "id": "e89ed83ffa7b092b30d8c2b47939319a",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Spain 1-0 Argentina (aet): 2026 World Cup final player ratings",
+      "summary": "<p>Rodri looks back to his imperious best in Spain’s midfield while Enzo Fernández has a day to forget for Argentina</p><p><strong>Unai Simón</strong> Was alert to clear danger after Cubarsí’s early mistake. Otherwise could have brought his slippers. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-argentina-world-cup-final-player-ratings\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/spain-argentina-world-cup-final-player-ratings",
+      "time": "2026-07-19",
+      "titleHash": "c39cab20d9ac8d412ed7766c771868ec"
+    },
+    {
+      "id": "086e3cab18abe9a3650f409185e11bd7",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "The 2026 World Cup final: Spain 1-0 Argentina – in pictures",
+      "summary": "<p>After six weeks of football, Spain defeated Argentina to win their second title in the 104th and final game of the 2026 World Cup</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
+      "time": "2026-07-19",
+      "titleHash": "121d6515eac15d5c1ff259cbcbd7702d"
+    },
+    {
+      "id": "5d4ea5d6a57e1f6577e8c4ef7b602dd9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Spain are world champions - World Cup Daily",
+      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily",
+      "time": "2026-07-20",
+      "titleHash": "e369dd3940b79166377c7e03eb70ed8d"
+    },
+    {
+      "id": "d37dac017b89c1415ad71682acee97b8",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
+      "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
+      "time": "2026-07-18",
+      "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94"
+    },
+    {
       "id": "bb2894fb0df10a885a75beee4ad3a719",
       "source": "The Guardian",
       "tag": "RSS",
@@ -187,26 +207,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
       "time": "2026-07-18",
       "titleHash": "e21a92c41966e2795cdd28b6c3c515ed"
-    },
-    {
-      "id": "7429d8be6ec843703a3e3798d84573f8",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "The 2026 World Cup final: Spain v Argentina – in pictures",
-      "summary": "<p>After six weeks of football, the 104th and final game of the 2026 World Cup <a href=\"https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates\">pits Spain against defending champions Argentina</a>. We look at the best images of the action at the New York New Jersey Stadium</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
-      "time": "2026-07-19",
-      "titleHash": "9be8624dd037d5a30e493dfa27481d24"
-    },
-    {
-      "id": "a5eb25a743f1b38b9c0be73da1010f6f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Cold War Steve on … Don Quixote and Sancho Panza coming to save the World Cup",
-      "summary": "<p>The fifth in a special series of World Cup 2026-themed collages made for the Guardian <a href=\"https://www.theguardian.com/artanddesign/2019/jun/15/cold-war-steve-satire-is-my-antidote-to-a-scary-world-interview\">by the celebrated satirist</a></p> <a href=\"https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup",
-      "time": "2026-07-18",
-      "titleHash": "21a09b9eeb8fc005e38d7cb6730a27b8"
     }
   ]
 }
