@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T14:19:49.330Z",
+  "fetchedAt": "2026-07-20T16:27:44.456Z",
   "errors": [
     {
       "source": "FIFA",
@@ -59,16 +59,6 @@
       "titleHash": "82b0b0a6db93ec3c8aa504aae5593909"
     },
     {
-      "id": "229e6bccba710b7c7da519a967a013b6",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "titleHash": "342a499ef380f288fd0dd68890b729e7"
-    },
-    {
       "id": "f468384dda8087df20f7529dc5688b1f",
       "source": "BBC",
       "tag": "RSS",
@@ -87,6 +77,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-16",
       "titleHash": "d10201c1a708e3faebad0c37a3eaaa94"
+    },
+    {
+      "id": "229e6bccba710b7c7da519a967a013b6",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-20",
+      "titleHash": "342a499ef380f288fd0dd68890b729e7"
     },
     {
       "id": "a554e89aaeb395f5e0f0f611a2b0253c",
@@ -129,14 +129,14 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "65531a041e9c8f9545f3279a65e51a39",
+      "id": "2c0f46fe00a606a30d0181cb84f4feb4",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "World Cup 2026: Spain’s champions land in Madrid for heroes’ welcome after beating Argentina – live",
+      "title": "World Cup 2026: tributes for Kevin Keegan; Spain land in Madrid for heroes’ welcome – updates",
       "summary": "<p>⚽ Latest World Cup news as tournament comes to close<br>⚽ <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide\">Player guide</a> | <a href=\"https://www.theguardian.com/football/ng-interactive/2026/jun/04/golden-boot-world-cup-2026-top-goalscorers-winner\">Golden Boot</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow on TikTok</a> | <a href=\"mailto:matchday.live@theguardian.co.uk\">Mail us</a></p><p>Back to the action on the field, or rather slightly adjacent to it. A lacklustre “closing ceremony” in which Tom Cruise was drowned out by the crowd got proceedings under way in New Jersey. A <a href=\"https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for\">half-time show no one asked for</a> filled the gap in the middle that didn’t need to be plugged. And finally, having kept his physical distance all tournament, US president <a href=\"https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final\">Donald Trump tried to steal the show</a> just as the curtain was falling.</p><p><em>“I think I heard a match commentator say that the last team that beat Spain was Scotland. Does that mean Scotland have won the World Cup?!”</em> asks <strong>Peter Oh</strong>.</p> <a href=\"https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/live/2026/jul/20/world-cup-2026-final-reaction-news-spain-argentina",
       "time": "2026-07-20",
-      "titleHash": "536fd0c98f6766b25c1784efbdfd6045"
+      "titleHash": "65be97b70983af49b6b351e907880dd9"
     },
     {
       "id": "bfe6665803e819266e92db827d7e8d8f",
@@ -147,16 +147,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
       "time": "2026-07-19",
       "titleHash": "f2022c0b5e06efacbe07601dfa7d9976"
-    },
-    {
-      "id": "e89ed83ffa7b092b30d8c2b47939319a",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Spain 1-0 Argentina (aet): 2026 World Cup final player ratings",
-      "summary": "<p>Rodri looks back to his imperious best in Spain’s midfield while Enzo Fernández has a day to forget for Argentina</p><p><strong>Unai Simón</strong> Was alert to clear danger after Cubarsí’s early mistake. Otherwise could have brought his slippers. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-argentina-world-cup-final-player-ratings\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/spain-argentina-world-cup-final-player-ratings",
-      "time": "2026-07-19",
-      "titleHash": "c39cab20d9ac8d412ed7766c771868ec"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
@@ -207,6 +197,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
       "time": "2026-07-18",
       "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94"
+    },
+    {
+      "id": "5d4ea5d6a57e1f6577e8c4ef7b602dd9",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Spain are world champions - World Cup Daily",
+      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily",
+      "time": "2026-07-20",
+      "titleHash": "e369dd3940b79166377c7e03eb70ed8d"
     }
   ]
 }

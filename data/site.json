@@ -6132,40 +6132,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "translations": {
-        "es": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "pt": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "fr": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "de": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "ja": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "zh": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Brilliant first half, turbulent second - Tuchel",
       "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
@@ -6228,6 +6194,40 @@
         "zh": {
           "title": "All 11 last-minute winners at the World Cup",
           "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-20",
+      "translations": {
+        "es": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "pt": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "fr": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "de": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "ja": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
+        },
+        "zh": {
+          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
+          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
         }
       }
     },
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-20T14:19:49.330Z",
+    "fetchedAt": "2026-07-20T16:27:44.456Z",
     "newsItems": 20,
-    "translationQueue": 30,
+    "translationQueue": 6,
     "errors": [
       {
         "source": "FIFA",
