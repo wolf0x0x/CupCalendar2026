@@ -6166,74 +6166,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "All 11 last-minute winners at the World Cup",
-      "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cp8xn9y46xdo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-16",
-      "translations": {
-        "es": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        },
-        "pt": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        },
-        "fr": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        },
-        "de": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        },
-        "ja": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        },
-        "zh": {
-          "title": "All 11 last-minute winners at the World Cup",
-          "summary": "Watch all 11 winning goals scored in stoppage time at the 2026 Fifa World Cup."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-      "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "translations": {
-        "es": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "pt": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "fr": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "de": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "ja": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        },
-        "zh": {
-          "title": "Trump, Bieber and Shakira - a World Cup final like never before",
-          "summary": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in football and songs by a host of stars."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "More games, more controversy - good and bad of biggest World Cup yet",
       "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
@@ -6298,6 +6230,74 @@
           "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Who has been eliminated from the World Cup?",
+      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-16",
+      "translations": {
+        "es": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "pt": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "fr": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "de": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "ja": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        },
+        "zh": {
+          "title": "Who has been eliminated from the World Cup?",
+          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How are the TV picks decided for the World Cup's round of 32?",
+      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "translations": {
+        "es": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "pt": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "fr": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "de": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "ja": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "zh": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-20T16:27:44.456Z",
-    "newsItems": 20,
-    "translationQueue": 6,
+    "fetchedAt": "2026-07-20T19:49:16.492Z",
+    "newsItems": 19,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
