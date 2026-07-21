@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T03:20:02.166Z",
+  "fetchedAt": "2026-07-21T08:37:07.551Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "736b7658f734e445059b6969326017c1",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why World Cup can be game-changer for ambitious MLS",
+      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "titleHash": "8b5b8026a7f254588550a52187ff66eb",
+      "translations": {
+        "es": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "pt": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "fr": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "de": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "ja": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "zh": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
         }
       }
     },
@@ -362,6 +398,78 @@
       }
     },
     {
+      "id": "dcc6ef448927b9caf4d430c75b535128",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+      "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation",
+      "time": "2026-07-21",
+      "titleHash": "b0f129eaa045ac16d8fd132fee9d8b0f",
+      "translations": {
+        "es": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
+          "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>"
+        }
+      }
+    },
+    {
+      "id": "c1621c8e20a70d40a606321b8aaadf7f",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "The big World Cup 2026 quiz",
+      "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz",
+      "time": "2026-07-21",
+      "titleHash": "29525431bdd21a18b85aaa75b1501d60",
+      "translations": {
+        "es": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        },
+        "pt": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        },
+        "fr": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        },
+        "de": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        },
+        "ja": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        },
+        "zh": {
+          "title": "The big World Cup 2026 quiz",
+          "summary": "<p>Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days?</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz\">Continue reading...</a>"
+        }
+      }
+    },
+    {
       "id": "46c0ea9620bf395f630324b815bbe2d7",
       "source": "The Guardian",
       "tag": "RSS",
@@ -574,42 +682,6 @@
         "zh": {
           "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
           "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>"
-        }
-      }
-    },
-    {
-      "id": "5d4ea5d6a57e1f6577e8c4ef7b602dd9",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Spain are world champions - World Cup Daily",
-      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily",
-      "time": "2026-07-20",
-      "titleHash": "e369dd3940b79166377c7e03eb70ed8d",
-      "translations": {
-        "es": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
-        },
-        "pt": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
-        },
-        "fr": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
-        },
-        "de": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
-        },
-        "ja": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
-        },
-        "zh": {
-          "title": "Spain are world champions - World Cup Daily",
-          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>On the podcast today; Spain win the world cup for the 2nd time in their history. Has a team ever deserved it more?</p> <a href=\"https://www.theguardian.com/football/audio/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>"
         }
       }
     },

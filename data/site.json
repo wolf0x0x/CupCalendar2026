@@ -5948,6 +5948,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Why World Cup can be game-changer for ambitious MLS",
+      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "translations": {
+        "es": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "pt": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "fr": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "de": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "ja": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "zh": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Watch the BBC's closing World Cup montage",
       "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
@@ -6216,40 +6250,6 @@
           "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How are the TV picks decided for the World Cup's round of 32?",
-      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "pt": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "fr": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "de": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "ja": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "zh": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-21T03:20:02.166Z",
-    "newsItems": 18,
-    "translationQueue": 12,
+    "fetchedAt": "2026-07-21T08:37:07.551Z",
+    "newsItems": 20,
+    "translationQueue": 36,
     "errors": [
       {
         "source": "FIFA",
