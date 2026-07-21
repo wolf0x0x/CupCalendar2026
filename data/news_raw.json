@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T08:37:07.551Z",
+  "fetchedAt": "2026-07-21T11:12:12.278Z",
   "errors": [
     {
       "source": "FIFA",
@@ -119,11 +119,21 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
+      "id": "73a8ad7eb8c90b01b8006509b573c119",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
+      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
+      "time": "2026-07-21",
+      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
+    },
+    {
       "id": "dcc6ef448927b9caf4d430c75b535128",
       "source": "The Guardian",
       "tag": "RSS",
       "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
-      "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>",
+      "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery\">Top 30: from half a million World Cup photos, why I love these the most</a></p></li></ul> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation",
       "time": "2026-07-21",
       "titleHash": "b0f129eaa045ac16d8fd132fee9d8b0f"
@@ -197,16 +207,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
       "time": "2026-07-18",
       "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94"
-    },
-    {
-      "id": "0fceed06b8cc79175c0d3367dea4274b",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Football Daily | Give it up for Vozinha, Spence and the 2026 World Cup’s cult heroes",
-      "summary": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Every World Cup produces cult heroes, icons who make it possible for us to sit back and start misty-eyed recollections by saying: “Do you remember Roger Milla/Saeed Al-Owairan/Keisuke Honda/Paul the Octopus?” Well, the Geopolitics World Cup has not let us down! Here are 10 cult heroes who’ve emerged from this tournament.</p> <a href=\"https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
-      "time": "2026-07-19",
-      "titleHash": "7a700a0bfbfe7c8b97e1fa617a827e22"
     }
   ]
 }
