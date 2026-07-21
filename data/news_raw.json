@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T22:04:57.394Z",
+  "fetchedAt": "2026-07-21T03:20:02.166Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-20",
+      "time": "2026-07-21",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -117,16 +117,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/20/a-world-cup-of-spectacle-scandal-and-compromise",
       "time": "2026-07-20",
       "titleHash": "87b0239fd0a0cf0897e90d6a3de63f89"
-    },
-    {
-      "id": "bfe6665803e819266e92db827d7e8d8f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for",
-      "summary": "<p>It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacle</p><p>Like hydration breaks and Donald Trump’s ability to get refereeing decisions overturned by simply phoning up the president of Fifa and complaining, the final half-time show is an innovation of the 2026 World Cup that comes with a degree of controversy attached. For one thing, its existence automatically means the World Cup final breaks the International Football Association’s 15-minute half-time mandate.</p><p>For another, its obvious antecedent lies in the NFL’s Super Bowl, where the half-time entertainment has mushroomed over the decades from a few marching bands to one of the big pop events of the year. To its detractors, it smacks of America not so much embracing the World Cup as imposing itself upon it.</p> <a href=\"https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for",
-      "time": "2026-07-19",
-      "titleHash": "f2022c0b5e06efacbe07601dfa7d9976"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
