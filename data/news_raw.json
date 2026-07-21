@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T16:26:13.465Z",
+  "fetchedAt": "2026-07-21T19:39:30.566Z",
   "errors": [
     {
       "source": "FIFA",
@@ -37,16 +37,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-20",
       "titleHash": "1d4d130c1e832db2556f09287bb5371b"
-    },
-    {
-      "id": "736b7658f734e445059b6969326017c1",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why World Cup can be game-changer for ambitious MLS",
-      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-21",
-      "titleHash": "8b5b8026a7f254588550a52187ff66eb"
     },
     {
       "id": "72dcffd3c4afe7c681a2a3e3567998c5",
@@ -89,14 +79,14 @@
       "titleHash": "4493106625daa7a08f93989a927abcec"
     },
     {
-      "id": "a554e89aaeb395f5e0f0f611a2b0253c",
+      "id": "736b7658f734e445059b6969326017c1",
       "source": "BBC",
       "tag": "RSS",
-      "title": "More games, more controversy - good and bad of biggest World Cup yet",
-      "summary": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-18",
-      "titleHash": "d471ff91280ba471e0592145012a9813"
+      "title": "Why World Cup can be game-changer for ambitious MLS",
+      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "titleHash": "8b5b8026a7f254588550a52187ff66eb"
     },
     {
       "id": "664bb43866205ae5317ea342a356958b",
@@ -127,26 +117,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
-    },
-    {
-      "id": "f451ef5c189d40dc2627cbbb171c95fe",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "La Liga chief claims Fifa is ‘destroying football industry’ and calls for Infantino to quit",
-      "summary": "<ul><li><p>Javier Tebas: ‘Fifa are making irresponsible decisions’</p></li><li><p>‘Hydration breaks are a lie … it was a break for advertising’</p></li></ul><p>La Liga’s president, Javier Tebas, has accused Fifa of “destroying the football industry” and called for its president, Gianni Infantino, to quit. Tebas spoke out as the dust settled on the 2026 World Cup with suggestions that the 2030 tournament <a href=\"https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa\">could be increased from 48 to 64 teams</a>.</p><p>“Increasing the number of national teams makes no sense,” Tebas said <a href=\"https://www.gazzetta.it/en/football/world-cup/21-07-2026/tebas-interview-spain-fifa-infantino.shtml\">in an interview </a>with the Italian newspaper La Gazzetta dello Sport. “The football industry is not just the World Cup, which is the most important event. Not everything can revolve around the World Cup. It is national competitions that support this sport.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit",
-      "time": "2026-07-21",
-      "titleHash": "eedb3b2c14f27853182fc50e98fe9be6"
-    },
-    {
-      "id": "12dde3bcb6fd18cfee5028f11ca99a84",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "In the US, the 2026 World Cup’s legacy will be an invitation to do it all again | Leander Schaerlaeckens",
-      "summary": "<p>Fifa’s gargantuan revenue influx from the tournament, with little left over for locals, will beget more exploitation</p><p>You do not, under any circumstance, have to hand it to Fifa.</p><p>You do, however, have to acknowledge that the 2026 World Cup was successful in all of the ways it was intended to be successful. The soccer was interesting and competitive and dramatic, albeit mostly not great – not that this really a necessary ingredient for a compelling sporting product. People came and watched in overwhelming numbers. There was fun and folklore; underdog surprises; heroic storylines that might have been hackneyed had they been works of fiction. The whole thing made vast sums of money for its organizer. More money, by an order of billions, than even Fifa itself had projected, <a href=\"https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue\">per the Guardian’s reporting.</a></p> <a href=\"https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa",
-      "time": "2026-07-21",
-      "titleHash": "4c8f625cfb4824cb7b492860e236919e"
     },
     {
       "id": "f51b09c638bfa441e21eb818bd5a6a5b",
@@ -207,6 +177,36 @@
       "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
       "time": "2026-07-19",
       "titleHash": "121d6515eac15d5c1ff259cbcbd7702d"
+    },
+    {
+      "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "England 2026 World Cup squad: player-by-player ratings",
+      "summary": "<p>After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament</p><p><strong>Jordan Pickford</strong> Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+      "time": "2026-07-19",
+      "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
+    },
+    {
+      "id": "bb2894fb0df10a885a75beee4ad3a719",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
+      "summary": "<p>How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so</p><p>Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end. The load-bearer of the co-hosting North American trio, the United States held 78 of the tournament’s matches across its 11 host cities. Only two contests remain: the third-place game in Miami, and the big one in East Rutherford, New Jersey.</p><p>Before the dust truly settles and focus shifts to the six-nation, three-continent centennial in 2030, how did the United States fare in its second swing at hosting a men’s World Cup?</p> <a href=\"https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
+      "time": "2026-07-18",
+      "titleHash": "e21a92c41966e2795cdd28b6c3c515ed"
+    },
+    {
+      "id": "d37dac017b89c1415ad71682acee97b8",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
+      "summary": "<p>The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibility</p><p>Ever since the United States won the rights to co-host the 2026 World Cup, Fifa president Gianni Infantino has worked to ingratiate himself with Donald Trump at all costs, supposedly to secure preferential treatment for Fifa from the American government. Predictably, he suffered the same fate as everyone who has made a Faustian bargain with the US president: he learned that cozying up to Trump always backfires, tarnishing the entire sport along the way.</p><p>I love soccer because, at its best, it is inclusive, democratic and accessible to everyone. So do billions of other people; the sport’s universal cultural impact truly lends it the potential to be a force for good that “unites the world”, <a href=\"https://inside.fifa.com/campaigns/football-unites-the-world\">as Fifa loves to say</a>. We saw this force in action at the start of the World Cup when, despite Trump’s hardline anti-immigrant and anti-foreigner policies, the prevailing sentiment showed that visiting teams and fans found most Americans really are <a href=\"https://www.theguardian.com/football/2026/jun/16/algeria-lawrence-kansas-world-cup-fans-adopted-team\">warm</a> and <a href=\"https://www.theguardian.com/football/2026/jun/23/scotland-fans-usa-world-cup-joy-fifa\">welcoming</a> people.</p><p><em>Nathán Goldberg Crenier serves as the elected vice-president of the US Soccer Federation. This editorial represents his personal opinions and does not necessarily reflect the positions or views of US Soccer.</em></p> <a href=\"https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
+      "time": "2026-07-18",
+      "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94"
     }
   ]
 }
