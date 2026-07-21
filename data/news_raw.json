@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-21T14:06:13.756Z",
+  "fetchedAt": "2026-07-21T16:26:13.465Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,6 +19,16 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
+      "id": "de3ab4cff166e0aeaaf79492a0498046",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "The defining moments of the 2026 World Cup",
+      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "titleHash": "fdfbfc6a492b2f83aa6949c84c248be6"
+    },
+    {
       "id": "9fb7985e2e97482b6185fad6f5daa16b",
       "source": "BBC",
       "tag": "RSS",
@@ -29,16 +39,6 @@
       "titleHash": "1d4d130c1e832db2556f09287bb5371b"
     },
     {
-      "id": "72dcffd3c4afe7c681a2a3e3567998c5",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "titleHash": "a52e4f3f66af9548b437c1471b2755f1"
-    },
-    {
       "id": "736b7658f734e445059b6969326017c1",
       "source": "BBC",
       "tag": "RSS",
@@ -47,6 +47,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-21",
       "titleHash": "8b5b8026a7f254588550a52187ff66eb"
+    },
+    {
+      "id": "72dcffd3c4afe7c681a2a3e3567998c5",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "titleHash": "a52e4f3f66af9548b437c1471b2755f1"
     },
     {
       "id": "6a245d368727f5f6462bd6e5c76cb917",
@@ -119,16 +129,6 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "f51b09c638bfa441e21eb818bd5a6a5b",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
-      "summary": "<p>Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-07-21-12-50-42-spain-winning-the-world-cup-final-in-the-shadow-of-trump\">Buy this cartoon</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\">Some of David’s favourite works</a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\">And his latest book, Chaos in the Box: get it now</a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump",
-      "time": "2026-07-21",
-      "titleHash": "1eb311d20ba4c3311243c11136e722ca"
-    },
-    {
       "id": "f451ef5c189d40dc2627cbbb171c95fe",
       "source": "The Guardian",
       "tag": "RSS",
@@ -137,6 +137,26 @@
       "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit",
       "time": "2026-07-21",
       "titleHash": "eedb3b2c14f27853182fc50e98fe9be6"
+    },
+    {
+      "id": "12dde3bcb6fd18cfee5028f11ca99a84",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "In the US, the 2026 World Cup’s legacy will be an invitation to do it all again | Leander Schaerlaeckens",
+      "summary": "<p>Fifa’s gargantuan revenue influx from the tournament, with little left over for locals, will beget more exploitation</p><p>You do not, under any circumstance, have to hand it to Fifa.</p><p>You do, however, have to acknowledge that the 2026 World Cup was successful in all of the ways it was intended to be successful. The soccer was interesting and competitive and dramatic, albeit mostly not great – not that this really a necessary ingredient for a compelling sporting product. People came and watched in overwhelming numbers. There was fun and folklore; underdog surprises; heroic storylines that might have been hackneyed had they been works of fiction. The whole thing made vast sums of money for its organizer. More money, by an order of billions, than even Fifa itself had projected, <a href=\"https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue\">per the Guardian’s reporting.</a></p> <a href=\"https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa",
+      "time": "2026-07-21",
+      "titleHash": "4c8f625cfb4824cb7b492860e236919e"
+    },
+    {
+      "id": "f51b09c638bfa441e21eb818bd5a6a5b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
+      "summary": "<p>Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-07-21-12-50-42-spain-winning-the-world-cup-final-in-the-shadow-of-trump\">Buy this cartoon</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\">Some of David’s favourite works</a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\">And his latest book, Chaos in the Box: get it now</a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump",
+      "time": "2026-07-21",
+      "titleHash": "1eb311d20ba4c3311243c11136e722ca"
     },
     {
       "id": "dcc6ef448927b9caf4d430c75b535128",
@@ -149,16 +169,6 @@
       "titleHash": "b0f129eaa045ac16d8fd132fee9d8b0f"
     },
     {
-      "id": "73a8ad7eb8c90b01b8006509b573c119",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
-      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
-      "time": "2026-07-21",
-      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
-    },
-    {
       "id": "c1621c8e20a70d40a606321b8aaadf7f",
       "source": "The Guardian",
       "tag": "RSS",
@@ -167,6 +177,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz",
       "time": "2026-07-21",
       "titleHash": "29525431bdd21a18b85aaa75b1501d60"
+    },
+    {
+      "id": "73a8ad7eb8c90b01b8006509b573c119",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
+      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
+      "time": "2026-07-21",
+      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
@@ -187,26 +207,6 @@
       "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
       "time": "2026-07-19",
       "titleHash": "121d6515eac15d5c1ff259cbcbd7702d"
-    },
-    {
-      "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "England 2026 World Cup squad: player-by-player ratings",
-      "summary": "<p>After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament</p><p><strong>Jordan Pickford</strong> Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
-      "time": "2026-07-19",
-      "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
-    },
-    {
-      "id": "bb2894fb0df10a885a75beee4ad3a719",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
-      "summary": "<p>How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so</p><p>Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end. The load-bearer of the co-hosting North American trio, the United States held 78 of the tournament’s matches across its 11 host cities. Only two contests remain: the third-place game in Miami, and the big one in East Rutherford, New Jersey.</p><p>Before the dust truly settles and focus shifts to the six-nation, three-continent centennial in 2030, how did the United States fare in its second swing at hosting a men’s World Cup?</p> <a href=\"https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
-      "time": "2026-07-18",
-      "titleHash": "e21a92c41966e2795cdd28b6c3c515ed"
     }
   ]
 }

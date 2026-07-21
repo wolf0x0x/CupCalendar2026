@@ -5948,6 +5948,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "The defining moments of the 2026 World Cup",
+      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "translations": {
+        "es": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        },
+        "pt": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        },
+        "fr": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        },
+        "de": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        },
+        "ja": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        },
+        "zh": {
+          "title": "The defining moments of the 2026 World Cup",
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "Watch the BBC's closing World Cup montage",
       "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
@@ -5982,40 +6016,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "translations": {
-        "es": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        },
-        "pt": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        },
-        "fr": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        },
-        "de": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        },
-        "ja": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        },
-        "zh": {
-          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Why World Cup can be game-changer for ambitious MLS",
       "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
@@ -6044,6 +6044,40 @@
         "zh": {
           "title": "Why World Cup can be game-changer for ambitious MLS",
           "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-19",
+      "translations": {
+        "es": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        },
+        "pt": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        },
+        "fr": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        },
+        "de": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        },
+        "ja": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        },
+        "zh": {
+          "title": "Dominant Spain beat Argentina to win World Cup after extra time",
+          "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
         }
       }
     },
@@ -6216,40 +6250,6 @@
           "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
         }
       }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-16",
-      "translations": {
-        "es": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "pt": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "fr": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "de": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "ja": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        },
-        "zh": {
-          "title": "Who has been eliminated from the World Cup?",
-          "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-        }
-      }
     }
   ],
   "monetization": {
@@ -6265,7 +6265,7 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-21T14:06:13.756Z",
+    "fetchedAt": "2026-07-21T16:26:13.465Z",
     "newsItems": 20,
     "translationQueue": 24,
     "errors": [
