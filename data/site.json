@@ -5996,40 +5996,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "Why World Cup can be game-changer for ambitious MLS",
-      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-21",
-      "translations": {
-        "es": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        },
-        "pt": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        },
-        "fr": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        },
-        "de": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        },
-        "ja": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        },
-        "zh": {
-          "title": "Why World Cup can be game-changer for ambitious MLS",
-          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "Watch the BBC's closing World Cup montage",
       "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
@@ -6092,6 +6058,40 @@
         "zh": {
           "title": "Dominant Spain beat Argentina to win World Cup after extra time",
           "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Why World Cup can be game-changer for ambitious MLS",
+      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-21",
+      "translations": {
+        "es": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "pt": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "fr": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "de": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "ja": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
+        },
+        "zh": {
+          "title": "Why World Cup can be game-changer for ambitious MLS",
+          "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?"
         }
       }
     },
@@ -6313,9 +6313,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-21T11:12:12.278Z",
+    "fetchedAt": "2026-07-21T14:06:13.756Z",
     "newsItems": 20,
-    "translationQueue": 18,
+    "translationQueue": 24,
     "errors": [
       {
         "source": "FIFA",
