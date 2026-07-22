@@ -5949,33 +5949,33 @@
       "source": "BBC",
       "tag": "RSS",
       "title": "The defining moments of the 2026 World Cup",
-      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
+      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup.",
       "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-21",
       "translations": {
         "es": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         },
         "pt": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         },
         "fr": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         },
         "de": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         },
         "ja": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         },
         "zh": {
           "title": "The defining moments of the 2026 World Cup",
-          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup."
+          "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
         }
       }
     },
@@ -6265,9 +6265,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-22T08:36:34.856Z",
+    "fetchedAt": "2026-07-22T11:12:55.960Z",
     "newsItems": 20,
-    "translationQueue": 12,
+    "translationQueue": 30,
     "errors": [
       {
         "source": "FIFA",
