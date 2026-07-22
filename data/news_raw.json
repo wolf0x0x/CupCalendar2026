@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T03:18:27.531Z",
+  "fetchedAt": "2026-07-22T08:36:34.856Z",
   "errors": [
     {
       "source": "FIFA",
@@ -119,6 +119,26 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
+      "id": "9c289f39248b97cefec4a1faca113f2d",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "The quirky side of World Cup 2026 – in pictures",
+      "summary": "<p>As we say goodbye and adios to World Cup 2026, we round up some of the stranger photographs taken during the tournament, featuring animals, cake … and a dancing robot</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/22/the-quirky-side-of-world-cup-2026-in-pictures\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/gallery/2026/jul/22/the-quirky-side-of-world-cup-2026-in-pictures",
+      "time": "2026-07-22",
+      "titleHash": "2c437e718234366912fd01691f0c20c3"
+    },
+    {
+      "id": "f51b09c638bfa441e21eb818bd5a6a5b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
+      "summary": "<p>Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-07-21-12-50-42-spain-winning-the-world-cup-final-in-the-shadow-of-trump\">Buy this cartoon</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\">Some of David’s favourite works</a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\">And his latest book, Chaos in the Box: get it now</a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump",
+      "time": "2026-07-21",
+      "titleHash": "1eb311d20ba4c3311243c11136e722ca"
+    },
+    {
       "id": "dcc6ef448927b9caf4d430c75b535128",
       "source": "The Guardian",
       "tag": "RSS",
@@ -127,16 +147,6 @@
       "url": "https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation",
       "time": "2026-07-21",
       "titleHash": "b0f129eaa045ac16d8fd132fee9d8b0f"
-    },
-    {
-      "id": "73a8ad7eb8c90b01b8006509b573c119",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
-      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
-      "time": "2026-07-21",
-      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
