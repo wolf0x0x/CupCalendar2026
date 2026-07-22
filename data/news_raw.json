@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T14:08:40.832Z",
+  "fetchedAt": "2026-07-22T19:34:47.194Z",
   "errors": [
     {
       "source": "FIFA",
@@ -117,16 +117,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
       "time": "2026-07-22",
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
-    },
-    {
-      "id": "9c289f39248b97cefec4a1faca113f2d",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "The quirky side of World Cup 2026 – in pictures",
-      "summary": "<p>As we say goodbye and adios to World Cup 2026, we round up some of the stranger photographs taken during the tournament, featuring animals, cake … and a dancing robot</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/22/the-quirky-side-of-world-cup-2026-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/22/the-quirky-side-of-world-cup-2026-in-pictures",
-      "time": "2026-07-22",
-      "titleHash": "2c437e718234366912fd01691f0c20c3"
     },
     {
       "id": "ca0157c785f1871802f3eb452b720614",
