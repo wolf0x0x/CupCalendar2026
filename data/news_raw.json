@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-22T11:12:55.960Z",
+  "fetchedAt": "2026-07-22T14:08:40.832Z",
   "errors": [
     {
       "source": "FIFA",
@@ -79,16 +79,6 @@
       "titleHash": "4493106625daa7a08f93989a927abcec"
     },
     {
-      "id": "736b7658f734e445059b6969326017c1",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Why World Cup can be game-changer for ambitious MLS",
-      "summary": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-21",
-      "titleHash": "8b5b8026a7f254588550a52187ff66eb"
-    },
-    {
       "id": "664bb43866205ae5317ea342a356958b",
       "source": "BBC",
       "tag": "RSS",
@@ -149,16 +139,6 @@
       "titleHash": "111dd17c8add4c6c59c0c0ec14e4ec89"
     },
     {
-      "id": "dcc6ef448927b9caf4d430c75b535128",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2026 in 90 seconds: a photo animation with audio",
-      "summary": "<p>Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. </p><p><em><strong>This video contains flashing images and an audio track.</strong></em></p><ul><li><p><a href=\"https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery\">Top 30: from half a million World Cup photos, why I love these the most</a></p></li></ul> <a href=\"https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation",
-      "time": "2026-07-21",
-      "titleHash": "b0f129eaa045ac16d8fd132fee9d8b0f"
-    },
-    {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
       "source": "The Guardian",
       "tag": "RSS",
@@ -207,6 +187,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment",
       "time": "2026-07-18",
       "titleHash": "ae8d66159ef3a8e79c0896b75d69ba94"
+    },
+    {
+      "id": "f51b09c638bfa441e21eb818bd5a6a5b",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "David Squires on … Spain winning the World Cup final in the shadow of Trump",
+      "summary": "<p>Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph again</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-07-21-12-50-42-spain-winning-the-world-cup-final-in-the-shadow-of-trump\">Buy this cartoon</a> | <a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\">Some of David’s favourite works</a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\">And his latest book, Chaos in the Box: get it now</a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump",
+      "time": "2026-07-21",
+      "titleHash": "1eb311d20ba4c3311243c11136e722ca"
     }
   ]
 }
