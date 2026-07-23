@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T14:20:14.040Z",
+  "fetchedAt": "2026-07-23T16:39:30.073Z",
   "errors": [
     {
       "source": "FIFA",
@@ -117,26 +117,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
       "time": "2026-07-22",
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
-    },
-    {
-      "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "England 2026 World Cup squad: player-by-player ratings",
-      "summary": "<p>After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament</p><p><strong>Jordan Pickford</strong> Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
-      "time": "2026-07-19",
-      "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
-    },
-    {
-      "id": "bb2894fb0df10a885a75beee4ad3a719",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "America’s World Cup report card: some As for atmosphere, but F for affordability",
-      "summary": "<p>How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less so</p><p>Come rain or smokescreen, Sunday will bring the 2026 World Cup to its bombastic end. The load-bearer of the co-hosting North American trio, the United States held 78 of the tournament’s matches across its 11 host cities. Only two contests remain: the third-place game in Miami, and the big one in East Rutherford, New Jersey.</p><p>Before the dust truly settles and focus shifts to the six-nation, three-continent centennial in 2030, how did the United States fare in its second swing at hosting a men’s World Cup?</p> <a href=\"https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states",
-      "time": "2026-07-18",
-      "titleHash": "e21a92c41966e2795cdd28b6c3c515ed"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
