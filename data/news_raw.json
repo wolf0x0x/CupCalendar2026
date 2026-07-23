@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T03:25:16.374Z",
+  "fetchedAt": "2026-07-23T08:38:32.037Z",
   "errors": [
     {
       "source": "FIFA",
@@ -119,16 +119,6 @@
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
     },
     {
-      "id": "ca0157c785f1871802f3eb452b720614",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "World Cup 2030 (very early) power rankings: who will challenge Spain at top?",
-      "summary": "<p>The next men’s World Cup is still four years away, but we take a look at the teams with the firmest foundations who should be primed to contend</p><p>The 2026 World Cup provided many an esteemed veteran with what could be their international swansongs, with golden greats Lionel Messi, Cristiano Ronaldo, Luka Modric, Neymar, James Rodríguez and Guillermo Ochoa all making teary exits as their tournament ended. As we turn ahead to the 2030 World Cup, any player 32 or older will be sweating their selection status and changing their daily routines to stay sharp against inevitable aging.</p><p>For these power rankings, we’re overvaluing sure things. Teams with plenty of leading players comfortably in their 20s can build for this impending four-year cycle with greater confidence than a team replacing an ageless talisman. Consider these the 10 teams with the firmest foundations and viable reasons to hope to reach a quarter-final in four years’ time.</p> <a href=\"https://www.theguardian.com/football/2026/jul/22/world-cup-2030-very-early-power-rankings\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-2030-very-early-power-rankings",
-      "time": "2026-07-22",
-      "titleHash": "111dd17c8add4c6c59c0c0ec14e4ec89"
-    },
-    {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
       "source": "The Guardian",
       "tag": "RSS",
@@ -137,16 +127,6 @@
       "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily",
       "time": "2026-07-20",
       "titleHash": "cf0976fbc1c416ad98e04b94b43ff877"
-    },
-    {
-      "id": "086e3cab18abe9a3650f409185e11bd7",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "The 2026 World Cup final: Spain 1-0 Argentina – in pictures",
-      "summary": "<p>After six weeks of football, Spain defeated Argentina to win their second title in the 104th and final game of the 2026 World Cup</p> <a href=\"https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/gallery/2026/jul/19/world-cup-2026-final-spain-v-argentina-in-pictures",
-      "time": "2026-07-19",
-      "titleHash": "121d6515eac15d5c1ff259cbcbd7702d"
     },
     {
       "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
