@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T19:37:29.777Z",
+  "fetchedAt": "2026-07-24T22:09:58.392Z",
   "errors": [
     {
       "source": "FIFA",
@@ -129,16 +129,6 @@
       "titleHash": "c2ad801c23cd5eb70d04d8ff7120e857"
     },
     {
-      "id": "bd85979182ed5f77f090939a97c2421d",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
-      "summary": "<ul><li><p>Australia forward allegedly driving almost 50km/h over speed limit</p></li><li><p>22-year-old was stopped twice for speeding on Anzac Bridge in Sydney</p></li></ul><p>Socceroos forward Cristian Volpato has allegedly tested positive for cocaine after being stopped while driving at almost 50km/h over the speed limit in Sydney.</p><p>Volpato was <a href=\"https://www.theguardian.com/football/2026/jun/29/cristian-volpato-socceroos-australia-italy-egypt-2026-world-cup\">one of Australia’s breakout stars</a> of the 2026 World Cup but is now back in the spotlight after allegedly driving a BMW Coupe at 109km/h in a 60km/h zone across Anzac Bridge about 1.10am on Friday.</p> <a href=\"https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding",
-      "time": "2026-07-24",
-      "titleHash": "b8a3c9d3a917d00311b6ed6c9ff19366"
-    },
-    {
       "id": "b9c1cb0760fcbaa9908de7d406ee5e34",
       "source": "The Guardian",
       "tag": "RSS",
@@ -147,6 +137,16 @@
       "url": "https://www.theguardian.com/football/2026/jul/24/feeling-lost-without-the-world-cup-six-ways-to-survive-the-weekend",
       "time": "2026-07-24",
       "titleHash": "504d7497a29c4f0fa04ef37974c3c984"
+    },
+    {
+      "id": "bd85979182ed5f77f090939a97c2421d",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Socceroos star Cristian Volpato allegedly tests positive for cocaine during roadside test",
+      "summary": "<ul><li><p>Australia forward allegedly driving almost 50km/h over speed limit</p></li><li><p>22-year-old was stopped twice for speeding on Anzac Bridge in Sydney</p></li></ul><p>Socceroos forward Cristian Volpato has allegedly tested positive for cocaine after being stopped while driving at almost 50km/h over the speed limit in Sydney.</p><p>Volpato was <a href=\"https://www.theguardian.com/football/2026/jun/29/cristian-volpato-socceroos-australia-italy-egypt-2026-world-cup\">one of Australia’s breakout stars</a> of the 2026 World Cup but is now back in the spotlight after allegedly driving a BMW Coupe at 109km/h in a 60km/h zone across Anzac Bridge about 1.10am on Friday.</p> <a href=\"https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/24/cristian-volpato-socceroos-allegedly-tests-positive-cocaine-speeding",
+      "time": "2026-07-24",
+      "titleHash": "b8a3c9d3a917d00311b6ed6c9ff19366"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
