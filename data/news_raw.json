@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T13:55:59.748Z",
+  "fetchedAt": "2026-07-24T16:46:47.633Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-07-24",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "72b531368763c11e8c6667e9abc4fd6e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "England amputee team's World Cup dream on hold",
-      "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-24",
-      "titleHash": "2421d1fe0cd8d402e2de82586fd1d223"
     },
     {
       "id": "de3ab4cff166e0aeaaf79492a0498046",
@@ -47,6 +37,16 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-20",
       "titleHash": "1d4d130c1e832db2556f09287bb5371b"
+    },
+    {
+      "id": "72b531368763c11e8c6667e9abc4fd6e",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "England amputee team's World Cup dream on hold",
+      "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
+      "time": "2026-07-24",
+      "titleHash": "2421d1fe0cd8d402e2de82586fd1d223"
     },
     {
       "id": "72dcffd3c4afe7c681a2a3e3567998c5",
