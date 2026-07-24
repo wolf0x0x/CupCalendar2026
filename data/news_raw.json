@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T11:05:53.378Z",
+  "fetchedAt": "2026-07-24T13:55:59.748Z",
   "errors": [
     {
       "source": "FIFA",
@@ -147,16 +147,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
       "time": "2026-07-22",
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
-    },
-    {
-      "id": "73a8ad7eb8c90b01b8006509b573c119",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
-      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
-      "time": "2026-07-21",
-      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
     },
     {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
