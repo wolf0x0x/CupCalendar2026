@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T22:08:43.152Z",
+  "fetchedAt": "2026-07-24T03:19:28.997Z",
   "errors": [
     {
       "source": "FIFA",
@@ -14,7 +14,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-07-23",
+      "time": "2026-07-24",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
@@ -119,6 +119,16 @@
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
     },
     {
+      "id": "73a8ad7eb8c90b01b8006509b573c119",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
+      "summary": "<p>If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ time</p><p>If the <a href=\"https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report\">2026 World Cup</a> was the tournament’s largest edition yet – featuring 48 teams for the first time in its 96-year history, being played in three different countries – the 2030 World Cup is going to have an even bigger footprint.</p> <a href=\"https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect",
+      "time": "2026-07-21",
+      "titleHash": "7dad2ea989a296532d687e2b1230b22b"
+    },
+    {
       "id": "cd21d07983c9829afa0eb95758d34e4a",
       "source": "The Guardian",
       "tag": "RSS",
@@ -137,6 +147,26 @@
       "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump",
       "time": "2026-07-21",
       "titleHash": "1eb311d20ba4c3311243c11136e722ca"
+    },
+    {
+      "id": "d75fb9ae303fb4d56a1e8deeee0a1fad",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "England 2026 World Cup squad: player-by-player ratings",
+      "summary": "<p>After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament</p><p><strong>Jordan Pickford</strong> Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. <strong>7</strong></p> <a href=\"https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
+      "time": "2026-07-19",
+      "titleHash": "aa1e57d81a96408288baa8e41a4035c7"
+    },
+    {
+      "id": "ca0157c785f1871802f3eb452b720614",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "World Cup 2030 (very early) power rankings: who will challenge Spain at top?",
+      "summary": "<p>The next men’s World Cup is still four years away, but we take a look at the teams with the firmest foundations who should be primed to contend</p><p>The 2026 World Cup provided many an esteemed veteran with what could be their international swansongs, with golden greats Lionel Messi, Cristiano Ronaldo, Luka Modric, Neymar, James Rodríguez and Guillermo Ochoa all making teary exits as their tournament ended. As we turn ahead to the 2030 World Cup, any player 32 or older will be sweating their selection status and changing their daily routines to stay sharp against inevitable aging.</p><p>For these power rankings, we’re overvaluing sure things. Teams with plenty of leading players comfortably in their 20s can build for this impending four-year cycle with greater confidence than a team replacing an ageless talisman. Consider these the 10 teams with the firmest foundations and viable reasons to hope to reach a quarter-final in four years’ time.</p> <a href=\"https://www.theguardian.com/football/2026/jul/22/world-cup-2030-very-early-power-rankings\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-2030-very-early-power-rankings",
+      "time": "2026-07-22",
+      "titleHash": "111dd17c8add4c6c59c0c0ec14e4ec89"
     }
   ]
 }
