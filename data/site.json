@@ -6200,40 +6200,6 @@
     {
       "source": "BBC",
       "tag": "RSS",
-      "title": "England amputee team's World Cup dream on hold",
-      "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c62x54zedp1o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-24",
-      "translations": {
-        "es": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        },
-        "pt": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        },
-        "fr": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        },
-        "de": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        },
-        "ja": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        },
-        "zh": {
-          "title": "England amputee team's World Cup dream on hold",
-          "summary": "Former head coach Scott Rogers has said it is \"criminal\" that England men's amputee football team could miss the 2026 World Cup due to a lack of funding."
-        }
-      }
-    },
-    {
-      "source": "BBC",
-      "tag": "RSS",
       "title": "What is the World Cup prize money?",
       "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
@@ -6298,6 +6264,40 @@
           "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
         }
       }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "How are the TV picks decided for the World Cup's round of 32?",
+      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-06-26",
+      "translations": {
+        "es": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "pt": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "fr": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "de": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "ja": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        },
+        "zh": {
+          "title": "How are the TV picks decided for the World Cup's round of 32?",
+          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
+        }
+      }
     }
   ],
   "monetization": {
@@ -6313,8 +6313,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-07-26T03:31:27.035Z",
-    "newsItems": 19,
+    "fetchedAt": "2026-07-26T08:33:38.863Z",
+    "newsItems": 18,
     "translationQueue": 12,
     "errors": [
       {
