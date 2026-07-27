@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T03:39:45.346Z",
+  "fetchedAt": "2026-07-27T10:01:08.136Z",
   "errors": [
     {
       "source": "FIFA",
@@ -109,16 +109,6 @@
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
     },
     {
-      "id": "d516e6cb184e1672f53fbe77384daa57",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
-      "summary": "<p>Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle</p><p>“I played with him on my PlayStation, and now I’ve scored against him,” Livano Comenencia said after converting Curaçao’s first World Cup goal past Manuel Neuer in their opening match against Germany. The smallest nation ever to qualify for the World Cup <a href=\"https://www.theguardian.com/football/2026/jun/14/germany-curacao-world-cup-match-report\">went on to lose 7-1</a> but that goal – their only one of the tournament – will go down in history.</p> <a href=\"https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
-      "time": "2026-07-25",
-      "titleHash": "10c8a3c2825b2420a66f261d438724e7"
-    },
-    {
       "id": "dae486c2d640da64a925667ed947ea42",
       "source": "The Guardian",
       "tag": "RSS",
@@ -139,14 +129,24 @@
       "titleHash": "504d7497a29c4f0fa04ef37974c3c984"
     },
     {
-      "id": "cd21d07983c9829afa0eb95758d34e4a",
+      "id": "d516e6cb184e1672f53fbe77384daa57",
       "source": "The Guardian",
       "tag": "RSS",
-      "title": "Spain are world champions | World Cup Daily",
-      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/did:plc:i55lfvhkg573wfmby5sdnvq6\">Barry Glendenning</a>, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup.</p> <a href=\"https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily",
-      "time": "2026-07-20",
-      "titleHash": "cf0976fbc1c416ad98e04b94b43ff877"
+      "title": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup",
+      "summary": "<p>Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle</p><p>“I played with him on my PlayStation, and now I’ve scored against him,” Livano Comenencia said after converting Curaçao’s first World Cup goal past Manuel Neuer in their opening match against Germany. The smallest nation ever to qualify for the World Cup <a href=\"https://www.theguardian.com/football/2026/jun/14/germany-curacao-world-cup-match-report\">went on to lose 7-1</a> but that goal – their only one of the tournament – will go down in history.</p> <a href=\"https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football",
+      "time": "2026-07-25",
+      "titleHash": "10c8a3c2825b2420a66f261d438724e7"
+    },
+    {
+      "id": "7b815b1a054710d639cd28da6d8fc63f",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
+      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, <a href=\"https://bsky.app/profile/brewin.bsky.social\">John Brewin</a> and <a href=\"https://bsky.app/profile/jonawils.bsky.social\">Jonathan Wilson</a> to answer your questions from the mailbag</p> <a href=\"https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video",
+      "time": "2026-07-27",
+      "titleHash": "e82d405d745374685e7cb8f5145a23d9"
     },
     {
       "id": "f51b09c638bfa441e21eb818bd5a6a5b",
