@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T19:42:36.585Z",
+  "fetchedAt": "2026-07-27T22:11:49.295Z",
   "errors": [
     {
       "source": "FIFA",
@@ -37,46 +37,6 @@
       "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
       "time": "2026-07-20",
       "titleHash": "1d4d130c1e832db2556f09287bb5371b"
-    },
-    {
-      "id": "72dcffd3c4afe7c681a2a3e3567998c5",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Dominant Spain beat Argentina to win World Cup after extra time",
-      "summary": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "titleHash": "a52e4f3f66af9548b437c1471b2755f1"
-    },
-    {
-      "id": "6a245d368727f5f6462bd6e5c76cb917",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "'The reaction is terrible' - World Cup final turns ugly at full-time",
-      "summary": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "titleHash": "4424bccfc7a8ab3ef55aea469c988b01"
-    },
-    {
-      "id": "76b6165cb8e94b202eac0185119db1e3",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Mbappe wins race for the 2026 World Cup golden boot",
-      "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "titleHash": "82b0b0a6db93ec3c8aa504aae5593909"
-    },
-    {
-      "id": "f468384dda8087df20f7529dc5688b1f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Brilliant first half, turbulent second - Tuchel",
-      "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-19",
-      "titleHash": "4493106625daa7a08f93989a927abcec"
     },
     {
       "id": "664bb43866205ae5317ea342a356958b",
