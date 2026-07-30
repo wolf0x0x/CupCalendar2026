@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T08:36:35.110Z",
+  "fetchedAt": "2026-07-30T11:12:25.570Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,42 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "3621d4493c0de96ffb71a54293860f1f",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-      "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-30",
-      "titleHash": "dbbb959b4990f610ba7c793c26da0bbf",
-      "translations": {
-        "es": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
-        },
-        "pt": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
-        },
-        "fr": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
-        },
-        "de": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
-        },
-        "ja": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
-        },
-        "zh": {
-          "title": "Uefa to hold emergency meeting over Fifa World Cup plans",
-          "summary": "European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to Fifa's controversial World Cup plans."
         }
       }
     },
