@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T16:04:22.119Z",
+  "fetchedAt": "2026-08-01T19:17:04.889Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-08-01",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "de3ab4cff166e0aeaaf79492a0498046",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "The defining moments of the 2026 World Cup",
-      "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-21",
-      "titleHash": "fdfbfc6a492b2f83aa6949c84c248be6"
     },
     {
       "id": "664bb43866205ae5317ea342a356958b",
