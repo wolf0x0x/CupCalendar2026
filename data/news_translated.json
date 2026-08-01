@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T03:29:42.943Z",
+  "fetchedAt": "2026-08-01T08:28:10.008Z",
   "items": [
     {
       "source": "FIFA",
@@ -70,42 +70,6 @@
         "zh": {
           "title": "The defining moments of the 2026 World Cup",
           "summary": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
-        }
-      }
-    },
-    {
-      "id": "9fb7985e2e97482b6185fad6f5daa16b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Watch the BBC's closing World Cup montage",
-      "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-20",
-      "titleHash": "1d4d130c1e832db2556f09287bb5371b",
-      "translations": {
-        "es": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-        },
-        "pt": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-        },
-        "fr": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-        },
-        "de": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-        },
-        "ja": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-        },
-        "zh": {
-          "title": "Watch the BBC's closing World Cup montage",
-          "summary": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
         }
       }
     },
