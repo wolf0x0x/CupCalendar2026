@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T09:56:18.120Z",
+  "fetchedAt": "2026-08-03T14:51:51.206Z",
   "errors": [
     {
       "source": "FIFA",
@@ -47,6 +47,16 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "ba67ebac0def879c14c0e183859ea7d2"
+    },
+    {
+      "id": "838dfc1b0122254882b49438f713b015",
+      "source": "The Guardian",
+      "tag": "RSS",
+      "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
+      "summary": "<ul><li><p>Pochettino joined US national team in 2024</p></li></ul><ul><li><p>Coach led US to last 16 at 2026 World Cup</p></li></ul><p>US men’s national team head coach Mauricio Pochettino and the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday.</p><p>The two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardian <a href=\"https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status\">reporting</a> last week that the sides had been in the “final stages” of agreeing to a deal. Financial details of the contract extension were not released, but Pochettino is expected to get a raise on top of the $6m per year he earned under his previous deal with the federation – already the largest outlay for a US head coach.</p> <a href=\"https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup\">Continue reading...</a>",
+      "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup",
+      "time": "2026-08-03",
+      "titleHash": "96ba8f2873c6ddb3310ff39aeddbafff"
     },
     {
       "id": "63018b43ae930559c0c06a929bf98ef0",
