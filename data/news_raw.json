@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T03:31:33.776Z",
+  "fetchedAt": "2026-08-03T09:56:18.120Z",
   "errors": [
     {
       "source": "FIFA",
@@ -57,16 +57,6 @@
       "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts",
       "time": "2026-07-22",
       "titleHash": "26d2a1886d047178d6af456ab612ecfa"
-    },
-    {
-      "id": "7b815b1a054710d639cd28da6d8fc63f",
-      "source": "The Guardian",
-      "tag": "RSS",
-      "title": "Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video",
-      "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, <a href=\"https://bsky.app/profile/brewin.bsky.social\">John Brewin</a> and <a href=\"https://bsky.app/profile/jonawils.bsky.social\">Jonathan Wilson</a> to answer your questions from the mailbag</p> <a href=\"https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video\">Continue reading...</a>",
-      "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video",
-      "time": "2026-07-27",
-      "titleHash": "e82d405d745374685e7cb8f5145a23d9"
     },
     {
       "id": "68156da22b957460ee865ee50e92896c",
