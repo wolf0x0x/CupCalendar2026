@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T08:45:53.969Z",
+  "fetchedAt": "2026-08-06T11:27:52.317Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "99580c52daf88fb3c582417340e9a045",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+      "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-08-06",
+      "titleHash": "a19743d29936f6e582ea762d170daf7f",
+      "translations": {
+        "es": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
+        },
+        "pt": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
+        },
+        "fr": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
+        },
+        "de": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
+        },
+        "ja": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
+        },
+        "zh": {
+          "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
+          "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
         }
       }
     },
