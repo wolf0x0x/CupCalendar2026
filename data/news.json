@@ -36,42 +36,6 @@
     }
   },
   {
-    "id": "99580c52daf88fb3c582417340e9a045",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-    "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England.",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo?at_medium=RSS&at_campaign=rss",
-    "time": "2026-08-06",
-    "titleHash": "a19743d29936f6e582ea762d170daf7f",
-    "translations": {
-      "es": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      },
-      "pt": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      },
-      "fr": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      },
-      "de": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      },
-      "ja": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      },
-      "zh": {
-        "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-        "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-      }
-    }
-  },
-  {
     "id": "664bb43866205ae5317ea342a356958b",
     "source": "BBC",
     "tag": "RSS",
@@ -104,42 +68,6 @@
       "zh": {
         "title": "What is the World Cup prize money?",
         "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup."
-      }
-    }
-  },
-  {
-    "id": "9a01c1ff9fa759669bcdead03a76793e",
-    "source": "BBC",
-    "tag": "RSS",
-    "title": "Who has been eliminated from the World Cup?",
-    "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-    "time": "2026-07-16",
-    "titleHash": "cbba383f2fffc07126400b0ba02e3ac1",
-    "translations": {
-      "es": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-      },
-      "pt": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-      },
-      "fr": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-      },
-      "de": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-      },
-      "ja": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
-      },
-      "zh": {
-        "title": "Who has been eliminated from the World Cup?",
-        "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
       }
     }
   },

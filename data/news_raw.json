@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T15:59:56.312Z",
+  "fetchedAt": "2026-08-07T19:04:08.691Z",
   "errors": [
     {
       "source": "FIFA",
@@ -19,16 +19,6 @@
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
     },
     {
-      "id": "99580c52daf88fb3c582417340e9a045",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Argentina mark World Cup win over England with 'National Football Teams Day'",
-      "summary": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-08-06",
-      "titleHash": "a19743d29936f6e582ea762d170daf7f"
-    },
-    {
       "id": "664bb43866205ae5317ea342a356958b",
       "source": "BBC",
       "tag": "RSS",
@@ -37,16 +27,6 @@
       "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
       "time": "2026-06-26",
       "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
-    },
-    {
-      "id": "9a01c1ff9fa759669bcdead03a76793e",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Who has been eliminated from the World Cup?",
-      "summary": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss",
-      "time": "2026-07-16",
-      "titleHash": "cbba383f2fffc07126400b0ba02e3ac1"
     },
     {
       "id": "63018b43ae930559c0c06a929bf98ef0",
