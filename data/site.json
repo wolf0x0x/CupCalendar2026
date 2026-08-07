@@ -5965,7 +5965,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-08-06",
+      "time": "2026-08-07",
       "translations": {
         "es": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
@@ -6096,70 +6096,36 @@
       }
     },
     {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "How are the TV picks decided for the World Cup's round of 32?",
-      "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yzlw6gz8jo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "translations": {
-        "es": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "pt": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "fr": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "de": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "ja": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        },
-        "zh": {
-          "title": "How are the TV picks decided for the World Cup's round of 32?",
-          "summary": "BBC Sport's Ask Me Anything team explains the complexities behind television selections for the 2026 World Cup's round of 32 fixtures"
-        }
-      }
-    },
-    {
       "source": "The Guardian",
       "tag": "RSS",
       "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-      "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>",
+      "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>",
       "url": "https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england",
       "time": "2026-08-06",
       "translations": {
         "es": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         },
         "pt": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         },
         "fr": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         },
         "de": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         },
         "ja": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         },
         "zh": {
           "title": "Argentina commemorate win against England at World Cup 2026 with special day",
-          "summary": "<ul><li><p>AFA to establish ‘National Football Teams Day’ for 15 July</p></li><li><p>Post-match celebrations saw Falklands banner displayed</p></li></ul><p>Argentina’s World Cup semi-final win over England last month is being commemorated by the country’s football association, the AFA, which has established 15 July – the date of the <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">2-1 win in Atlanta</a> – as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated following a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
+          "summary": "<ul><li><p>National Football Teams Day established for 15 July</p></li><li><p>Post-match celebrations included Falklands banner</p></li></ul><p>Argentina’s <a href=\"https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report\">World Cup semi-final win over England</a> last month is being commemorated by the country’s football association, the AFA, which has established 15 July as National Football Teams Day.</p><p>“The date was chosen to commemorate Argentina’s historic victory over England in the World Cup semi-final,” an article on the AFA’s official website stated after a meeting of its executive board on Wednesday. “Lionel Scaloni’s team was trailing the English side by a single goal, but with goals from Enzo Fernández and Lautaro Martínez, they turned the game around, sending the entire nation into a frenzy of celebration.</p> <a href=\"https://www.theguardian.com/football/2026/aug/06/argentinas-fa-commemorate-world-cup-semi-final-win-england\">Continue reading...</a>"
         }
       }
     },
@@ -6211,9 +6177,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-08-06T14:25:04.602Z",
-    "newsItems": 7,
-    "translationQueue": 12,
+    "fetchedAt": "2026-08-07T00:06:49.746Z",
+    "newsItems": 6,
+    "translationQueue": 6,
     "errors": [
       {
         "source": "FIFA",
