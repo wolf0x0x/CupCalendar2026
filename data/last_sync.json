@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-08-08T22:29:34.797Z",
-  "syncedAt": "2026-08-08T22:29:34.797Z",
+  "checkedAt": "2026-08-08T22:59:54.411Z",
+  "syncedAt": "2026-08-08T22:59:54.411Z",
   "timezone": "UTC",
   "schedule": {
     "requested": "Every 15 minutes",
@@ -87,7 +87,7 @@
       ],
       "latestFinishedDate": "2026-07-19",
       "usedCachedSnapshot": true,
-      "warning": "Using cached worldcup26 snapshot from 2026-08-01T19:43:11.736Z: fetch failed"
+      "warning": "Using cached worldcup26 snapshot from 2026-08-01T19:43:11.736Z: HTTP 404"
     },
     {
       "name": "football-data.org",
