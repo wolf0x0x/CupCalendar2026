@@ -5996,6 +5996,40 @@
     {
       "source": "BBC",
       "tag": "RSS",
+      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-08-18",
+      "translations": {
+        "es": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        },
+        "pt": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        },
+        "fr": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        },
+        "de": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        },
+        "ja": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        },
+        "zh": {
+          "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
+          "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club."
+        }
+      }
+    },
+    {
+      "source": "BBC",
+      "tag": "RSS",
       "title": "What is the World Cup prize money?",
       "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
       "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
@@ -6075,9 +6109,9 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-08-18T15:36:38.985Z",
-    "newsItems": 3,
-    "translationQueue": 6,
+    "fetchedAt": "2026-08-18T18:45:38.436Z",
+    "newsItems": 4,
+    "translationQueue": 12,
     "errors": [
       {
         "source": "FIFA",
