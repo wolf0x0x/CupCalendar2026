@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T09:39:48.415Z",
+  "fetchedAt": "2026-08-20T12:58:32.531Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-08-20",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "df01d97a4525e46baf97ba4954e01aee",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-08-18",
-      "titleHash": "6896e93dbe706dc322416a8b17aef7ba"
     },
     {
       "id": "664bb43866205ae5317ea342a356958b",
