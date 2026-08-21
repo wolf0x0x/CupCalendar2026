@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T09:42:09.111Z",
+  "fetchedAt": "2026-08-21T12:57:36.375Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-08-21",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "664bb43866205ae5317ea342a356958b",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "What is the World Cup prize money?",
-      "summary": "Our Ask Me Anything team break down the prize money on offer at the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/articles/c9821x9lpdjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-06-26",
-      "titleHash": "7e6861db6c9cb4d66f57f3ec24cae411"
     },
     {
       "id": "63018b43ae930559c0c06a929bf98ef0",
