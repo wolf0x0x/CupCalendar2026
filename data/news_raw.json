@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T10:56:16.526Z",
+  "fetchedAt": "2026-09-18T16:10:48.357Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,6 +17,16 @@
       "time": "2026-09-18",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
+    },
+    {
+      "id": "e89422aa3dbdc90027f3d8fa7dfaa258",
+      "source": "BBC",
+      "tag": "RSS",
+      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
+      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
+      "time": "2026-09-18",
+      "titleHash": "504692ba7330ae40f6a9ac28778a9e6c"
     },
     {
       "id": "597f4589e238e80c098720c80156d753",
