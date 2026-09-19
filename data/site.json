@@ -5994,40 +5994,6 @@
       }
     },
     {
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-18",
-      "translations": {
-        "es": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "de": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        }
-      }
-    },
-    {
       "source": "The Guardian",
       "tag": "RSS",
       "title": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
@@ -6075,8 +6041,8 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-09-19T15:42:29.161Z",
-    "newsItems": 3,
+    "fetchedAt": "2026-09-19T20:22:06.308Z",
+    "newsItems": 2,
     "translationQueue": 12,
     "errors": [
       {

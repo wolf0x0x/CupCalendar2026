@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T15:42:29.161Z",
+  "fetchedAt": "2026-09-19T20:22:06.308Z",
   "items": [
     {
       "source": "FIFA",
@@ -34,42 +34,6 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
-        }
-      }
-    },
-    {
-      "id": "e89422aa3dbdc90027f3d8fa7dfaa258",
-      "source": "BBC",
-      "tag": "RSS",
-      "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss",
-      "time": "2026-09-18",
-      "titleHash": "504692ba7330ae40f6a9ac28778a9e6c",
-      "translations": {
-        "es": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "pt": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "fr": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "de": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "ja": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
-        },
-        "zh": {
-          "title": "Tuchel recalls Palmer and Alexander-Arnold for England",
-          "summary": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup."
         }
       }
     },
