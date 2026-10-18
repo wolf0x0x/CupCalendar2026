@@ -6041,7 +6041,7 @@
   },
   "contentSync": {
     "provider": "rss+translation-cache",
-    "fetchedAt": "2026-10-18T15:40:23.868Z",
+    "fetchedAt": "2026-10-18T20:23:41.452Z",
     "newsItems": 2,
     "translationQueue": 12,
     "errors": [
