@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T06:43:46.066Z",
+  "fetchedAt": "2026-11-12T17:28:35.619Z",
   "errors": [
     {
       "source": "FIFA",
@@ -17,16 +17,6 @@
       "time": "2026-11-12",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab"
-    },
-    {
-      "id": "aa1b0de857c11fedd060303a9a0e07cb",
-      "source": "ESPN",
-      "tag": "RSS",
-      "title": "Son Heung-Min and key South Korea players deny rumors of feud",
-      "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October",
-      "url": "https://www.espn.com/soccer/story/_/id/50457696/son-heung-min-key-south-korea-players-deny-rumors-feud",
-      "time": "2026-11-12",
-      "titleHash": "fbd768605a2b4399f80cb7303b860ac0"
     },
     {
       "id": "26423d4da3500aa508ef76fb3acf101d",
