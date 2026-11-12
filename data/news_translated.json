@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T21:48:41.517Z",
+  "fetchedAt": "2026-11-12T06:43:46.066Z",
   "items": [
     {
       "source": "FIFA",
@@ -7,7 +7,7 @@
       "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
       "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates.",
       "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
-      "time": "2026-11-11",
+      "time": "2026-11-12",
       "id": "7fe8fccd9cc257e7fb32b9d2801e2ebf",
       "titleHash": "037f1c92d70bad39a68fc17d115ae8ab",
       "translations": {
@@ -34,6 +34,42 @@
         "zh": {
           "title": "FIFA official 2026 World Cup hub tracks fixtures, venues, and tournament updates",
           "summary": "Use the official FIFA tournament hub as the editorial reference for schedule, venue, and competition updates."
+        }
+      }
+    },
+    {
+      "id": "aa1b0de857c11fedd060303a9a0e07cb",
+      "source": "ESPN",
+      "tag": "RSS",
+      "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+      "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October",
+      "url": "https://www.espn.com/soccer/story/_/id/50457696/son-heung-min-key-south-korea-players-deny-rumors-feud",
+      "time": "2026-11-12",
+      "titleHash": "fbd768605a2b4399f80cb7303b860ac0",
+      "translations": {
+        "es": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
+        },
+        "pt": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
+        },
+        "fr": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
+        },
+        "de": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
+        },
+        "ja": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
+        },
+        "zh": {
+          "title": "Son Heung-Min and key South Korea players deny rumors of feud",
+          "summary": "Rumors of a feud commenced when South Korea failed to qualify from their group at the 2026 FIFA World Cup, and they intensified around a friendly vs. Uzbekistan in October"
         }
       }
     },
